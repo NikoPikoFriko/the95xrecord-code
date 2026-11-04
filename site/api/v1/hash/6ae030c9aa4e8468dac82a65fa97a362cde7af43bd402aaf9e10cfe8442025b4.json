@@ -1,0 +1,11 @@
+{
+  "schema": "ssot/api-hash@1",
+  "sha256": "6ae030c9aa4e8468dac82a65fa97a362cde7af43bd402aaf9e10cfe8442025b4",
+  "kind": "document_page",
+  "case": "1RC191003776",
+  "docket": 1,
+  "file": "2026-09-04__CAAP-26-0000625__DKT0001__notice-of-appeal-na.pdf",
+  "published_url": "https://the95xrecord.vercel.app/docs/10034ba1b7",
+  "lookup": "https://the95xrecord.vercel.app/api/v1/hash/6ae030c9aa4e8468dac82a65fa97a362cde7af43bd402aaf9e10cfe8442025b4.json",
+  "ssot": "https://the95xrecord.vercel.app/ssot.json"
+}

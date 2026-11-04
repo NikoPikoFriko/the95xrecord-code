@@ -1,0 +1,11 @@
+{
+  "schema": "ssot/api-hash@1",
+  "sha256": "bbcbf5d0c5a390db12f94c96ee0193cf9e06adb251d90c3769e58e64e644b501",
+  "kind": "document_page",
+  "case": "1RC191003776",
+  "docket": 346,
+  "file": "2021-07-15__1RC191003776__DKT0346__jw-elevator-letter-2018-12-10.pdf",
+  "published_url": "https://the95xrecord.vercel.app/docs/f544f3c492",
+  "lookup": "https://the95xrecord.vercel.app/api/v1/hash/bbcbf5d0c5a390db12f94c96ee0193cf9e06adb251d90c3769e58e64e644b501.json",
+  "ssot": "https://the95xrecord.vercel.app/ssot.json"
+}

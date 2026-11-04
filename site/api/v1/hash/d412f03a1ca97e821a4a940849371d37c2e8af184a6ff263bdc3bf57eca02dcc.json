@@ -1,0 +1,11 @@
+{
+  "schema": "ssot/api-hash@1",
+  "sha256": "d412f03a1ca97e821a4a940849371d37c2e8af184a6ff263bdc3bf57eca02dcc",
+  "kind": "document_page",
+  "case": "1RC191003776",
+  "docket": 301,
+  "file": "2022-03-31__Dkt301__1RC191003776__withdrawal-of-counsel.pdf",
+  "published_url": "https://the95xrecord.vercel.app/docs/6576a13298",
+  "lookup": "https://the95xrecord.vercel.app/api/v1/hash/d412f03a1ca97e821a4a940849371d37c2e8af184a6ff263bdc3bf57eca02dcc.json",
+  "ssot": "https://the95xrecord.vercel.app/ssot.json"
+}

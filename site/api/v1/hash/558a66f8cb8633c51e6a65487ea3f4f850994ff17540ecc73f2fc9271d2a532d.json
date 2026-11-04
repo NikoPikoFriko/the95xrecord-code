@@ -1,0 +1,11 @@
+{
+  "schema": "ssot/api-hash@1",
+  "sha256": "558a66f8cb8633c51e6a65487ea3f4f850994ff17540ecc73f2fc9271d2a532d",
+  "kind": "document_page",
+  "case": "1RC191003776",
+  "docket": 156,
+  "file": "2021-01-26__1RC191003776__DKT0156__granted-xpm-exam-judgment-debtor.pdf",
+  "published_url": "https://the95xrecord.vercel.app/docs/8779644494",
+  "lookup": "https://the95xrecord.vercel.app/api/v1/hash/558a66f8cb8633c51e6a65487ea3f4f850994ff17540ecc73f2fc9271d2a532d.json",
+  "ssot": "https://the95xrecord.vercel.app/ssot.json"
+}

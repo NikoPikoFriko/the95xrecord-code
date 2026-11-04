@@ -1,0 +1,31 @@
+{
+  "schema": "ssot/api-docket@1",
+  "case": "CAAP-26-0000625",
+  "docket": 14,
+  "code": "NEF",
+  "title": "Notice of Electronic Filing",
+  "filed": "09-OCT-2026",
+  "filed_iso": "2026-10-09",
+  "time": "16:27:57",
+  "grade": "GAP",
+  "for_counsel": false,
+  "evidence": {
+    "held_by_station": false,
+    "file": null,
+    "sha256": null,
+    "pages": null,
+    "form": null,
+    "gap": true
+  },
+  "flags": [
+    "fields_null_title_code_date_not_captured",
+    "docket_number_known_from_jims_row_index"
+  ],
+  "links": {
+    "appeal": "https://the95xrecord.vercel.app/appeal#dkt-14",
+    "appeal_json": "https://the95xrecord.vercel.app/api/v1/case/CAAP-26-0000625/dkt/14.json",
+    "ssot": "https://the95xrecord.vercel.app/ssot.json"
+  },
+  "fields_captured_at": "2026-11-03T13:47:00-10:00",
+  "note": "fields captured from JIMS; document not downloaded - grade stays GAP, no file, no hash"
+}

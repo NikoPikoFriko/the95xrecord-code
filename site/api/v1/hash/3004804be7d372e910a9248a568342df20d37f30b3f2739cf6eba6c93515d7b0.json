@@ -1,0 +1,11 @@
+{
+  "schema": "ssot/api-hash@1",
+  "sha256": "3004804be7d372e910a9248a568342df20d37f30b3f2739cf6eba6c93515d7b0",
+  "kind": "trial_text",
+  "case": "1RC191003776",
+  "docket": 204,
+  "file": "2021-04-12__Dkt204__1RC191003776__release-of-garnishee.ocr.txt",
+  "published_url": "https://the95xrecord.vercel.app/COURT_DOCKET/LISTINGS/1RC191003776/04_TEXT/ocr/2021-04-12__Dkt204__1RC191003776__release-of-garnishee.ocr.txt",
+  "lookup": "https://the95xrecord.vercel.app/api/v1/hash/3004804be7d372e910a9248a568342df20d37f30b3f2739cf6eba6c93515d7b0.json",
+  "ssot": "https://the95xrecord.vercel.app/ssot.json"
+}

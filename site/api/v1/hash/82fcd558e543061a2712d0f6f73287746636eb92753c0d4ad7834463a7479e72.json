@@ -1,0 +1,11 @@
+{
+  "schema": "ssot/api-hash@1",
+  "sha256": "82fcd558e543061a2712d0f6f73287746636eb92753c0d4ad7834463a7479e72",
+  "kind": "document_page",
+  "case": "1RC191003776",
+  "docket": 344,
+  "file": "2022-10-13__1RC191003776__DKT0344__plaintiff-s-exhibits-j1-with-j1-a-to.pdf",
+  "published_url": "https://the95xrecord.vercel.app/docs/e20470ab6a",
+  "lookup": "https://the95xrecord.vercel.app/api/v1/hash/82fcd558e543061a2712d0f6f73287746636eb92753c0d4ad7834463a7479e72.json",
+  "ssot": "https://the95xrecord.vercel.app/ssot.json"
+}

@@ -1,0 +1,11 @@
+{
+  "schema": "ssot/api-hash@1",
+  "sha256": "a0a3026c19607c458c5c7e206a594c90f18335cc623d8478132ca17461125184",
+  "kind": "document_page",
+  "case": "1RC191003776",
+  "docket": 202,
+  "file": "2021-04-12__1RC191003776__DKT0202__satisfaction-of-judgment-ha0a302.pdf",
+  "published_url": "https://the95xrecord.vercel.app/docs/e91d4746a1",
+  "lookup": "https://the95xrecord.vercel.app/api/v1/hash/a0a3026c19607c458c5c7e206a594c90f18335cc623d8478132ca17461125184.json",
+  "ssot": "https://the95xrecord.vercel.app/ssot.json"
+}

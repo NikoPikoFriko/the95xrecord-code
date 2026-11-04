@@ -1,0 +1,11 @@
+{
+  "schema": "ssot/api-hash@1",
+  "sha256": "7ffec0128163c5007f6ab1d2934c1e41552d69a7750501d23aeb88c763521e3e",
+  "kind": "trial_text",
+  "case": "1RC191003776",
+  "docket": 326,
+  "file": "2022-07-13__Dkt326__1RC191003776__plaintiff-and-couterclaim-defendant-association-of-apartment.ocr.txt",
+  "published_url": "https://the95xrecord.vercel.app/COURT_DOCKET/LISTINGS/1RC191003776/04_TEXT/ocr/2022-07-13__Dkt326__1RC191003776__plaintiff-and-couterclaim-defendant-association-of-apartment.ocr.txt",
+  "lookup": "https://the95xrecord.vercel.app/api/v1/hash/7ffec0128163c5007f6ab1d2934c1e41552d69a7750501d23aeb88c763521e3e.json",
+  "ssot": "https://the95xrecord.vercel.app/ssot.json"
+}

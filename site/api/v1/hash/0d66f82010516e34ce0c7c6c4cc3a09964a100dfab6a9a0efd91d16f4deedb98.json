@@ -1,0 +1,11 @@
+{
+  "schema": "ssot/api-hash@1",
+  "sha256": "0d66f82010516e34ce0c7c6c4cc3a09964a100dfab6a9a0efd91d16f4deedb98",
+  "kind": "document_page",
+  "case": "1RC191003776",
+  "docket": 10,
+  "file": "2019-08-23__Dkt10__1RC191003776__certificate-of-service-re-counterclaim-defendantas.pdf",
+  "published_url": "https://the95xrecord.vercel.app/docs/4a11593492",
+  "lookup": "https://the95xrecord.vercel.app/api/v1/hash/0d66f82010516e34ce0c7c6c4cc3a09964a100dfab6a9a0efd91d16f4deedb98.json",
+  "ssot": "https://the95xrecord.vercel.app/ssot.json"
+}

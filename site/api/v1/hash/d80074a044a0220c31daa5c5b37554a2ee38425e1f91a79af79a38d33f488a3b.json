@@ -1,0 +1,11 @@
+{
+  "schema": "ssot/api-hash@1",
+  "sha256": "d80074a044a0220c31daa5c5b37554a2ee38425e1f91a79af79a38d33f488a3b",
+  "kind": "document_page",
+  "case": "1RC191003776",
+  "docket": 283,
+  "file": "2022-02-17__Dkt283__1RC191003776__defendant-third-party-plaintiff-nikodem-pikor-s-me.pdf",
+  "published_url": "https://the95xrecord.vercel.app/docs/ca13131bf8",
+  "lookup": "https://the95xrecord.vercel.app/api/v1/hash/d80074a044a0220c31daa5c5b37554a2ee38425e1f91a79af79a38d33f488a3b.json",
+  "ssot": "https://the95xrecord.vercel.app/ssot.json"
+}

@@ -1,0 +1,30 @@
+{
+  "schema": "ssot/api-docket@1",
+  "case": "CAAP-26-0000625",
+  "docket": 20,
+  "code": "NEF",
+  "title": "Notice of Electronic Filing copy of AMRA fly, Index, Clk's cert mailed 10/29/26 to: Thyssenkrupp Elevator Corporation, a Foreign Profit Corporation, 1265 E Fort Union Blvd Ste 350, Cottonwood Heights, Utah 84047",
+  "filed": "29-OCT-2026",
+  "filed_iso": "2026-10-29",
+  "time": "13:30:19",
+  "grade": "GAP",
+  "for_counsel": false,
+  "evidence": {
+    "held_by_station": false,
+    "file": null,
+    "sha256": null,
+    "pages": null,
+    "form": null,
+    "gap": true
+  },
+  "flags": [
+    "code_title_from_browser_observation_only"
+  ],
+  "links": {
+    "appeal": "https://the95xrecord.vercel.app/appeal#dkt-20",
+    "appeal_json": "https://the95xrecord.vercel.app/api/v1/case/CAAP-26-0000625/dkt/20.json",
+    "ssot": "https://the95xrecord.vercel.app/ssot.json"
+  },
+  "fields_captured_at": "2026-11-03T13:47:00-10:00",
+  "note": "fields captured from JIMS; document not downloaded - grade stays GAP, no file, no hash"
+}

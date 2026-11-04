@@ -1,0 +1,38 @@
+{
+  "schema": "ssot/api-docket@1",
+  "case": "1RC191003776",
+  "docket": 488,
+  "code": "PROP",
+  "filed": "19-OCT-2026",
+  "filed_iso": "2026-10-19",
+  "time": "14:47:04",
+  "ra_pdf_page": 193,
+  "grade": "OBS",
+  "for_counsel": false,
+  "evidence": {
+    "renditions": [
+      {
+        "file": "COURT_DOCKET/REGULAR/2026-10-19__1RC191003776__DKT__DKT0488-PROP__proposed-order-reconsideration-fees-dkt431__SRC__h5ed5e1968bcf.pdf",
+        "sha256": "5ed5e1968bcfcf28aca91881e5957d9a0e20626858ebaee116f24ee33c88bef6",
+        "location": "canonical_library",
+        "published_url": null
+      }
+    ],
+    "text": {
+      "file": "05_AI_REVIEW/MAGIC_04_REPORTS/DOCKET_JSON_2026-10-20/TEXT/1RC191003776_DKT0488.txt",
+      "sha256": "4703ed6563fa522dbc0885b34de9ec4e19848f97e392f4630286d29101b84c84",
+      "location": "ai_review_report_text",
+      "published_url": "https://the95xrecord.vercel.app/05_AI_REVIEW/MAGIC_04_REPORTS/DOCKET_JSON_2026-10-20/TEXT/1RC191003776_DKT0488.txt"
+    },
+    "held_by_station": true,
+    "gap": false
+  },
+  "pdf_conflict": null,
+  "flags": [],
+  "links": {
+    "register": "https://the95xrecord.vercel.app/register#dkt-488",
+    "register_json": "https://the95xrecord.vercel.app/api/v1/case/1RC191003776/dkt/488.json",
+    "ssot": "https://the95xrecord.vercel.app/ssot.json",
+    "crossref": "https://the95xrecord.vercel.app/data/crossref.json"
+  }
+}

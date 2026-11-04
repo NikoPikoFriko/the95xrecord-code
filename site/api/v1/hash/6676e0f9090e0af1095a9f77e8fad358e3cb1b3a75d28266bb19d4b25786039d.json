@@ -1,0 +1,11 @@
+{
+  "schema": "ssot/api-hash@1",
+  "sha256": "6676e0f9090e0af1095a9f77e8fad358e3cb1b3a75d28266bb19d4b25786039d",
+  "kind": "document_page",
+  "case": "1RC191003776",
+  "docket": 441,
+  "file": "2026-08-24__1RC191003776__DKT0441__rule23-exhibit-c-optional.pdf",
+  "published_url": "https://the95xrecord.vercel.app/docs/f14bdbf0af",
+  "lookup": "https://the95xrecord.vercel.app/api/v1/hash/6676e0f9090e0af1095a9f77e8fad358e3cb1b3a75d28266bb19d4b25786039d.json",
+  "ssot": "https://the95xrecord.vercel.app/ssot.json"
+}

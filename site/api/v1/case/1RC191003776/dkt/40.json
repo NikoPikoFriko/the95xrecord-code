@@ -1,0 +1,33 @@
+{
+  "schema": "ssot/api-docket@1",
+  "case": "1RC191003776",
+  "docket": 40,
+  "code": "OT",
+  "filed": "14-JAN-2020",
+  "filed_iso": "2020-01-14",
+  "time": "21:32:31",
+  "ra_pdf_page": 15,
+  "grade": "PARTIAL",
+  "for_counsel": false,
+  "evidence": {
+    "renditions": [],
+    "text": {
+      "file": "COURT_DOCKET/LISTINGS/1RC191003776/04_TEXT/ocr/2020-01-14__Dkt040__1RC191003776__exhibit-3-part-2-declaration.ocr.txt",
+      "sha256": "6afd8740668dc819792bb5a973308cd86cf646053caab5591c2204764ae8f4ba",
+      "location": "court_docket_listings_ocr",
+      "published_url": "https://the95xrecord.vercel.app/COURT_DOCKET/LISTINGS/1RC191003776/04_TEXT/ocr/2020-01-14__Dkt040__1RC191003776__exhibit-3-part-2-declaration.ocr.txt"
+    },
+    "held_by_station": true,
+    "gap": false
+  },
+  "pdf_conflict": null,
+  "flags": [
+    "text_only_no_pdf_of_document"
+  ],
+  "links": {
+    "register": "https://the95xrecord.vercel.app/register#dkt-40",
+    "register_json": "https://the95xrecord.vercel.app/api/v1/case/1RC191003776/dkt/40.json",
+    "ssot": "https://the95xrecord.vercel.app/ssot.json",
+    "crossref": "https://the95xrecord.vercel.app/data/crossref.json"
+  }
+}

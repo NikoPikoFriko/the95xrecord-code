@@ -1,0 +1,46 @@
+{
+ "schema": "ssot/api@1",
+ "version": 1,
+ "generated": "2026-11-03T20:27:45-10:00",
+ "generator": "gen_argon.py (T19 build+deploy, DSH) — version 1",
+ "base": "https://the95xrecord.vercel.app/api/v1",
+ "static": true,
+ "note": "Pre-rendered static JSON: every lookup is a plain file fetch, no query engine, no server code. Objects carry case, docket, evidence, grade and links.",
+ "endpoints": {
+  "docket": {
+   "path": "/api/v1/case/<case>/dkt/<n>.json",
+   "cases": [
+    "1RC191003776",
+    "CAAP-26-0000625"
+   ],
+   "count": 515,
+   "example": "https://the95xrecord.vercel.app/api/v1/case/1RC191003776/dkt/427.json"
+  },
+  "hash": {
+   "path": "/api/v1/hash/<sha256>.json",
+   "count": 1655,
+   "example": "https://the95xrecord.vercel.app/api/v1/hash/4bfb603e4d042d241fda3aa21bd5d4406f9657bf1b2ef3b1458e96e4c7b4f873.json"
+  },
+  "hashes": {
+   "path": "/api/v1/hashes.json",
+   "count": 1643,
+   "note": "single-file map when 1000+ individual lookups are impractical"
+  },
+  "case_index": {
+   "trial": "https://the95xrecord.vercel.app/api/v1/case/1RC191003776/dkt/1.json",
+   "appeal": "https://the95xrecord.vercel.app/api/v1/case/CAAP-26-0000625/dkt/1.json"
+  }
+ },
+ "machine_formats": {
+  "ssot.sqlite": "https://the95xrecord.vercel.app/data/ssot.sqlite",
+  "dockets.jsonl": "https://the95xrecord.vercel.app/data/dockets.jsonl",
+  "appeal_dockets.jsonl": "https://the95xrecord.vercel.app/data/appeal_dockets.jsonl",
+  "texts_266.jsonl": "https://the95xrecord.vercel.app/data/texts_266.jsonl",
+  "docs_1121.jsonl": "https://the95xrecord.vercel.app/data/docs_1121.jsonl",
+  "trial_docket.csv": "https://the95xrecord.vercel.app/data/trial_docket.csv",
+  "appeal_docket.csv": "https://the95xrecord.vercel.app/data/appeal_docket.csv",
+  "docs_1121_manifest.csv": "https://the95xrecord.vercel.app/data/docs_1121_manifest.csv",
+  "texts_491": "/data/texts_491.jsonl"
+ },
+ "ssot": "https://the95xrecord.vercel.app/ssot.json"
+}

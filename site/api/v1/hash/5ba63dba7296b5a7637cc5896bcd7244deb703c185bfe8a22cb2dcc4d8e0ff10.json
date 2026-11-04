@@ -1,0 +1,11 @@
+{
+  "schema": "ssot/api-hash@1",
+  "sha256": "5ba63dba7296b5a7637cc5896bcd7244deb703c185bfe8a22cb2dcc4d8e0ff10",
+  "kind": "document_page",
+  "case": "1RC191003776",
+  "docket": 370,
+  "file": "2023-01-12__Dkt370__1RC191003776__plaintiff-association-of-apartment-owners-of-marin.pdf",
+  "published_url": "https://the95xrecord.vercel.app/docs/584aae0e9f",
+  "lookup": "https://the95xrecord.vercel.app/api/v1/hash/5ba63dba7296b5a7637cc5896bcd7244deb703c185bfe8a22cb2dcc4d8e0ff10.json",
+  "ssot": "https://the95xrecord.vercel.app/ssot.json"
+}

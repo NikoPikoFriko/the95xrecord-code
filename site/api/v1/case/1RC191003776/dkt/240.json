@@ -1,0 +1,33 @@
+{
+  "schema": "ssot/api-docket@1",
+  "case": "1RC191003776",
+  "docket": 240,
+  "code": "EXPM",
+  "filed": "29-DEC-2021",
+  "filed_iso": "2021-12-29",
+  "time": "08:09:39",
+  "ra_pdf_page": 83,
+  "grade": "PARTIAL",
+  "for_counsel": false,
+  "evidence": {
+    "renditions": [],
+    "text": {
+      "file": "COURT_DOCKET/LISTINGS/1RC191003776/04_TEXT/ocr/2021-12-29__Dkt240__1RC191003776__revised-ex-parte-motion-to-shorten-time-to-hear-counterclaim.ocr.txt",
+      "sha256": "6eabff3269cedabf61e143af2b58cb8fe4dedf64eab7f5986a8bef6414cd4f25",
+      "location": "court_docket_listings_ocr",
+      "published_url": "https://the95xrecord.vercel.app/COURT_DOCKET/LISTINGS/1RC191003776/04_TEXT/ocr/2021-12-29__Dkt240__1RC191003776__revised-ex-parte-motion-to-shorten-time-to-hear-counterclaim.ocr.txt"
+    },
+    "held_by_station": true,
+    "gap": false
+  },
+  "pdf_conflict": null,
+  "flags": [
+    "text_only_no_pdf_of_document"
+  ],
+  "links": {
+    "register": "https://the95xrecord.vercel.app/register#dkt-240",
+    "register_json": "https://the95xrecord.vercel.app/api/v1/case/1RC191003776/dkt/240.json",
+    "ssot": "https://the95xrecord.vercel.app/ssot.json",
+    "crossref": "https://the95xrecord.vercel.app/data/crossref.json"
+  }
+}

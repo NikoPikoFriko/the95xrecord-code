@@ -1,0 +1,11 @@
+{
+  "schema": "ssot/api-hash@1",
+  "sha256": "496bfdebc04a9e699d152ec7f7a46736e341a291d7734385dc829f7120b3659d",
+  "kind": "appeal_pdf",
+  "case": "CAAP-26-0000625",
+  "docket": 17,
+  "file": "2026-10-28__CAAP-26-0000625__DKT__DKT0017-NC__notice-of-entering-case-on-calendar__SRC__h496bfdebc04a.pdf",
+  "published_url": null,
+  "lookup": "https://the95xrecord.vercel.app/api/v1/hash/496bfdebc04a9e699d152ec7f7a46736e341a291d7734385dc829f7120b3659d.json",
+  "ssot": "https://the95xrecord.vercel.app/ssot.json"
+}

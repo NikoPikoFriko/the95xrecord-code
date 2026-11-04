@@ -1,0 +1,11 @@
+{
+  "schema": "ssot/api-hash@1",
+  "sha256": "7ceab6a6d6ebc20135c055936a29eb8937fdc034171b4e614fae73a43a15b13c",
+  "kind": "document_page",
+  "case": "1RC191003776",
+  "docket": 111,
+  "file": "2020-07-20__1RC191003776__DKT0111__nef-opp-aoao-marine-surf-mtn-recon-ord-grant-mtn-lv-amend.pdf",
+  "published_url": "https://the95xrecord.vercel.app/docs/2e85beb9fa",
+  "lookup": "https://the95xrecord.vercel.app/api/v1/hash/7ceab6a6d6ebc20135c055936a29eb8937fdc034171b4e614fae73a43a15b13c.json",
+  "ssot": "https://the95xrecord.vercel.app/ssot.json"
+}

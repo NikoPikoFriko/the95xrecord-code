@@ -1,0 +1,11 @@
+{
+  "schema": "ssot/api-hash@1",
+  "sha256": "f896dff0aedd36c0de1d75a4b8d33112323549d6fae2906b5c4f400037f03265",
+  "kind": "document_page",
+  "case": "1RC191003776",
+  "docket": 54,
+  "file": "2020-01-28__Dkt54__1RC191003776__denied-defendant-and-3rd-party-plaintiff-s-ex-part.pdf",
+  "published_url": "https://the95xrecord.vercel.app/docs/963108b6eb",
+  "lookup": "https://the95xrecord.vercel.app/api/v1/hash/f896dff0aedd36c0de1d75a4b8d33112323549d6fae2906b5c4f400037f03265.json",
+  "ssot": "https://the95xrecord.vercel.app/ssot.json"
+}

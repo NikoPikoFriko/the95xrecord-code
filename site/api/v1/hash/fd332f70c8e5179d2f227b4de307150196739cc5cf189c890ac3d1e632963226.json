@@ -1,0 +1,11 @@
+{
+  "schema": "ssot/api-hash@1",
+  "sha256": "fd332f70c8e5179d2f227b4de307150196739cc5cf189c890ac3d1e632963226",
+  "kind": "document_page",
+  "case": "1RC191003776",
+  "docket": 152,
+  "file": "2021-01-22__Dkt152__1RC191003776__third-party-defendant-thyssenkrupp-elevator-corpor.pdf",
+  "published_url": "https://the95xrecord.vercel.app/docs/5574c40e5f",
+  "lookup": "https://the95xrecord.vercel.app/api/v1/hash/fd332f70c8e5179d2f227b4de307150196739cc5cf189c890ac3d1e632963226.json",
+  "ssot": "https://the95xrecord.vercel.app/ssot.json"
+}

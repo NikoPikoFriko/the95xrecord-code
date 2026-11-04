@@ -1,0 +1,11 @@
+{
+  "schema": "ssot/api-hash@1",
+  "sha256": "1db7b9b09a552f4e75cb287c15a929d9a78fea46c9d8ea50961b65640efbbc8c",
+  "kind": "trial_text",
+  "case": "1RC191003776",
+  "docket": 7,
+  "file": "2019-07-16__Dkt007__1RC191003776__return-of-service-re-third-party-complaint-answer-countercla.ocr.txt",
+  "published_url": "https://the95xrecord.vercel.app/COURT_DOCKET/LISTINGS/1RC191003776/04_TEXT/ocr/2019-07-16__Dkt007__1RC191003776__return-of-service-re-third-party-complaint-answer-countercla.ocr.txt",
+  "lookup": "https://the95xrecord.vercel.app/api/v1/hash/1db7b9b09a552f4e75cb287c15a929d9a78fea46c9d8ea50961b65640efbbc8c.json",
+  "ssot": "https://the95xrecord.vercel.app/ssot.json"
+}

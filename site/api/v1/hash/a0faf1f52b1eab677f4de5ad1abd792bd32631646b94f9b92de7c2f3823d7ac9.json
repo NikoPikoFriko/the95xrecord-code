@@ -1,0 +1,11 @@
+{
+  "schema": "ssot/api-hash@1",
+  "sha256": "a0faf1f52b1eab677f4de5ad1abd792bd32631646b94f9b92de7c2f3823d7ac9",
+  "kind": "document_page",
+  "case": "1RC191003776",
+  "docket": 64,
+  "file": "2020-02-18__1RC191003776__DKT0064__granted-thyssenkrupps-non-hearing-mtn-attys-fees-and-costs.pdf",
+  "published_url": "https://the95xrecord.vercel.app/docs/3e5a69dde6",
+  "lookup": "https://the95xrecord.vercel.app/api/v1/hash/a0faf1f52b1eab677f4de5ad1abd792bd32631646b94f9b92de7c2f3823d7ac9.json",
+  "ssot": "https://the95xrecord.vercel.app/ssot.json"
+}

@@ -1,0 +1,11 @@
+{
+  "schema": "ssot/api-hash@1",
+  "sha256": "fc1aa6011b70461f4164f94ce532664657f44de21089a26a661c26ed89df64cc",
+  "kind": "document_page",
+  "case": "1RC191003776",
+  "docket": 392,
+  "file": "2026-09-14__1RC191003776__DKT0392__formal-entailment-audit-in-lean-4-english.pdf",
+  "published_url": "https://the95xrecord.vercel.app/docs/52f592ca38",
+  "lookup": "https://the95xrecord.vercel.app/api/v1/hash/fc1aa6011b70461f4164f94ce532664657f44de21089a26a661c26ed89df64cc.json",
+  "ssot": "https://the95xrecord.vercel.app/ssot.json"
+}

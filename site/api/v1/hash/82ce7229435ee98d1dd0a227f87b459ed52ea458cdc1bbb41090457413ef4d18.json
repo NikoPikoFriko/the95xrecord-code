@@ -1,0 +1,11 @@
+{
+  "schema": "ssot/api-hash@1",
+  "sha256": "82ce7229435ee98d1dd0a227f87b459ed52ea458cdc1bbb41090457413ef4d18",
+  "kind": "trial_text",
+  "case": "1RC191003776",
+  "docket": 342,
+  "file": "2022-10-13__Dkt342__1RC191003776__plaintiff-s-joint-exhibit-list.ocr.txt",
+  "published_url": "https://the95xrecord.vercel.app/COURT_DOCKET/LISTINGS/1RC191003776/04_TEXT/ocr/2022-10-13__Dkt342__1RC191003776__plaintiff-s-joint-exhibit-list.ocr.txt",
+  "lookup": "https://the95xrecord.vercel.app/api/v1/hash/82ce7229435ee98d1dd0a227f87b459ed52ea458cdc1bbb41090457413ef4d18.json",
+  "ssot": "https://the95xrecord.vercel.app/ssot.json"
+}

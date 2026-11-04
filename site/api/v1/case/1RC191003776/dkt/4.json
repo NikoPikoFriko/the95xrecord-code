@@ -1,0 +1,41 @@
+{
+  "schema": "ssot/api-docket@1",
+  "case": "1RC191003776",
+  "docket": 4,
+  "code": "DOC",
+  "filed": "08-JUL-2019",
+  "filed_iso": "2019-07-08",
+  "time": "09:54:00",
+  "ra_pdf_page": 6,
+  "grade": "PARTIAL",
+  "for_counsel": false,
+  "evidence": {
+    "renditions": [],
+    "text": {
+      "file": "COURT_DOCKET/LISTINGS/1RC191003776/04_TEXT/ocr/2019-07-08__Dkt004__1RC191003776__third-party-complaint-declaration-summons-filed-by-atty-for.ocr.txt",
+      "sha256": "d0083bbcbd6b45c28bb0a34b28ce010e9585a7e7bf00b8a21b844b20d0f4c344",
+      "location": "court_docket_listings_ocr",
+      "published_url": "https://the95xrecord.vercel.app/COURT_DOCKET/LISTINGS/1RC191003776/04_TEXT/ocr/2019-07-08__Dkt004__1RC191003776__third-party-complaint-declaration-summons-filed-by-atty-for.ocr.txt"
+    },
+    "held_by_station": true,
+    "gap": false
+  },
+  "pdf_conflict": {
+    "kind": "same_number_file_appeal_series",
+    "file": "APPEALS/CAAP-26-0000625/09_INTAKE/jefs_2026-10-04/2026-09-04__CAAP-26-0000625__DKT__DKT0004-EXH__exhibit-dkt427-judgment__CERT__h7b84f24403a0.pdf",
+    "sha256": "7b84f24403a0e999f321acf8db4d617374fffa31ff65e9c7c3bf7e7deba19f2f",
+    "belongs_to_case": "CAAP-26-0000625",
+    "appeal_dkt": 4,
+    "reason": "file is an appeal-docket document (CAAP-26-0000625) whose number equals this trial docket number; the register row describes a different document"
+  },
+  "flags": [
+    "same_number_file_appeal_series",
+    "text_only_no_pdf_of_document"
+  ],
+  "links": {
+    "register": "https://the95xrecord.vercel.app/register#dkt-4",
+    "register_json": "https://the95xrecord.vercel.app/api/v1/case/1RC191003776/dkt/4.json",
+    "ssot": "https://the95xrecord.vercel.app/ssot.json",
+    "crossref": "https://the95xrecord.vercel.app/data/crossref.json"
+  }
+}

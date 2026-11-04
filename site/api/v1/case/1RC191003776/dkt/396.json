@@ -1,0 +1,46 @@
+{
+  "schema": "ssot/api-docket@1",
+  "case": "1RC191003776",
+  "docket": 396,
+  "code": "FOF",
+  "filed": "31-JAN-2024",
+  "filed_iso": "2024-01-31",
+  "time": "11:55:18",
+  "ra_pdf_page": 140,
+  "grade": "PARTIAL",
+  "for_counsel": false,
+  "evidence": {
+    "renditions": [
+      {
+        "file": "07_AGENT_WORK_REVIEW/FROM_AI_WORKSPACES_2026-10-23/CURSOR/.cursor/worktrees/AOAO_Marine_Surf_1RC191003776/ddym/99_INBOX/infranodus_judicial_audit_2026-10-03/judicial-audit-2026-10-03/evidence/docket/Dkt396.pdf",
+        "sha256": "8c316ed47a30bb5701fb6441a61675b0ebc1757e2cd8f1640190855a47887635",
+        "location": "agent_worktree",
+        "published_url": null
+      },
+      {
+        "file": "APPEALS/CAAP-26-0000625/DOCKET/2026-09-04__CAAP-26-0000625__DKT__DKT0002-EXH__exhibit-directed-verdict-fof-dkt396__SRC__h9244cf8daa32.pdf",
+        "sha256": "9244cf8daa323bd18ae84de9824463938e3425180807d51806ba7aad280f4de0",
+        "location": "appeal_exhibit",
+        "published_url": null
+      }
+    ],
+    "text": {
+      "file": "COURT_DOCKET/LISTINGS/1RC191003776/04_TEXT/ocr/2024-01-31__Dkt396__1RC191003776__findings-of-fact-conclusions-of-law-and-order-granting-plain.ocr.txt",
+      "sha256": "74c708052f655010a6ae8fe8460c7c83a46c33240c0260d1751cf0cef02e8cb4",
+      "location": "court_docket_listings_ocr",
+      "published_url": "https://the95xrecord.vercel.app/COURT_DOCKET/LISTINGS/1RC191003776/04_TEXT/ocr/2024-01-31__Dkt396__1RC191003776__findings-of-fact-conclusions-of-law-and-order-granting-plain.ocr.txt"
+    },
+    "held_by_station": true,
+    "gap": false
+  },
+  "pdf_conflict": null,
+  "flags": [
+    "pdf_outside_canonical_library"
+  ],
+  "links": {
+    "register": "https://the95xrecord.vercel.app/register#dkt-396",
+    "register_json": "https://the95xrecord.vercel.app/api/v1/case/1RC191003776/dkt/396.json",
+    "ssot": "https://the95xrecord.vercel.app/ssot.json",
+    "crossref": "https://the95xrecord.vercel.app/data/crossref.json"
+  }
+}

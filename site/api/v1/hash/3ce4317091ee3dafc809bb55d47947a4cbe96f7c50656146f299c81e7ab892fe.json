@@ -1,0 +1,11 @@
+{
+  "schema": "ssot/api-hash@1",
+  "sha256": "3ce4317091ee3dafc809bb55d47947a4cbe96f7c50656146f299c81e7ab892fe",
+  "kind": "document_page",
+  "case": "1RC191003776",
+  "docket": 168,
+  "file": "2021-02-23__1RC191003776__DKT0168__invitation-remote-hearing-9-00am.pdf",
+  "published_url": "https://the95xrecord.vercel.app/docs/461d0e6f70",
+  "lookup": "https://the95xrecord.vercel.app/api/v1/hash/3ce4317091ee3dafc809bb55d47947a4cbe96f7c50656146f299c81e7ab892fe.json",
+  "ssot": "https://the95xrecord.vercel.app/ssot.json"
+}

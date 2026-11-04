@@ -1,0 +1,33 @@
+{
+  "schema": "ssot/api-docket@1",
+  "case": "1RC191003776",
+  "docket": 66,
+  "code": "NAPP",
+  "filed": "06-MAR-2020",
+  "filed_iso": "2020-03-06",
+  "time": "12:15:16",
+  "ra_pdf_page": 22,
+  "grade": "PARTIAL",
+  "for_counsel": false,
+  "evidence": {
+    "renditions": [],
+    "text": {
+      "file": "COURT_DOCKET/LISTINGS/1RC191003776/04_TEXT/ocr/2020-03-06__Dkt066__1RC191003776__notice-of-appearance-as-co-counsel-for-plaintiff-association.ocr.txt",
+      "sha256": "5f70badf3fd15af3a9d18878884c1316e0be06d23b5e3070d5d552b5e129e879",
+      "location": "court_docket_listings_ocr",
+      "published_url": "https://the95xrecord.vercel.app/COURT_DOCKET/LISTINGS/1RC191003776/04_TEXT/ocr/2020-03-06__Dkt066__1RC191003776__notice-of-appearance-as-co-counsel-for-plaintiff-association.ocr.txt"
+    },
+    "held_by_station": true,
+    "gap": false
+  },
+  "pdf_conflict": null,
+  "flags": [
+    "text_only_no_pdf_of_document"
+  ],
+  "links": {
+    "register": "https://the95xrecord.vercel.app/register#dkt-66",
+    "register_json": "https://the95xrecord.vercel.app/api/v1/case/1RC191003776/dkt/66.json",
+    "ssot": "https://the95xrecord.vercel.app/ssot.json",
+    "crossref": "https://the95xrecord.vercel.app/data/crossref.json"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "schema": "ssot/api-hash@1",
+  "sha256": "9747a67a2540aba9abb560e277b585c378a417393290fc87e8c58d2bc4a39955",
+  "kind": "document_page",
+  "case": "1RC191003776",
+  "docket": 58,
+  "file": "2020-02-06__Dkt58__1RC191003776__non-hearing-motion.pdf",
+  "published_url": "https://the95xrecord.vercel.app/docs/07cadb2198",
+  "lookup": "https://the95xrecord.vercel.app/api/v1/hash/9747a67a2540aba9abb560e277b585c378a417393290fc87e8c58d2bc4a39955.json",
+  "ssot": "https://the95xrecord.vercel.app/ssot.json"
+}

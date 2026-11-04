@@ -1,0 +1,11 @@
+{
+  "schema": "ssot/api-hash@1",
+  "sha256": "409575b62f2dd56e12578e262f7e559fa6aef814f285a763568efc785bbda2e4",
+  "kind": "document_page",
+  "case": "1RC191003776",
+  "docket": 268,
+  "file": "2022-01-13__1RC191003776__DKT0268__ras-h-hitchcock.pdf",
+  "published_url": "https://the95xrecord.vercel.app/docs/28e2011254",
+  "lookup": "https://the95xrecord.vercel.app/api/v1/hash/409575b62f2dd56e12578e262f7e559fa6aef814f285a763568efc785bbda2e4.json",
+  "ssot": "https://the95xrecord.vercel.app/ssot.json"
+}

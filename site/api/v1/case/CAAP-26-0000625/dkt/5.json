@@ -1,0 +1,26 @@
+{
+  "schema": "ssot/api-docket@1",
+  "case": "CAAP-26-0000625",
+  "docket": 5,
+  "code": "COS",
+  "title": "Certificate of Service",
+  "filed": "04-SEP-2026",
+  "filed_iso": "2026-09-04",
+  "time": "16:22:21",
+  "grade": "OBS",
+  "for_counsel": false,
+  "evidence": {
+    "held_by_station": true,
+    "file": "APPEALS/CAAP-26-0000625/DOCKET/2026-09-04__CAAP-26-0000625__DKT__DKT0005-COS__certificate-of-service__SRC__h67b143179d9c.pdf",
+    "sha256": "67b143179d9ca556c53175072a506e7739ac7c273b8d27e8b76bb4ea81f3ab19",
+    "pages": 2,
+    "form": "src",
+    "gap": false
+  },
+  "flags": [],
+  "links": {
+    "appeal": "https://the95xrecord.vercel.app/appeal#dkt-5",
+    "appeal_json": "https://the95xrecord.vercel.app/api/v1/case/CAAP-26-0000625/dkt/5.json",
+    "ssot": "https://the95xrecord.vercel.app/ssot.json"
+  }
+}

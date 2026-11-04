@@ -1,0 +1,11 @@
+{
+  "schema": "ssot/api-hash@1",
+  "sha256": "2e26efed99e9a311e6885e1f39f7059aed127b75794809173f750c245cb87f68",
+  "kind": "document_page",
+  "case": "1RC191003776",
+  "docket": 244,
+  "file": "2021-12-29__1RC191003776__DKT0244__ord-grant-ex-parte-mtn-short-time-hear-aoao-msj-8-30am.pdf",
+  "published_url": "https://the95xrecord.vercel.app/docs/16499c7610",
+  "lookup": "https://the95xrecord.vercel.app/api/v1/hash/2e26efed99e9a311e6885e1f39f7059aed127b75794809173f750c245cb87f68.json",
+  "ssot": "https://the95xrecord.vercel.app/ssot.json"
+}

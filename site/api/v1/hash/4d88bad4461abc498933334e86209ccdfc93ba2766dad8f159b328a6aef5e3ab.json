@@ -1,0 +1,11 @@
+{
+  "schema": "ssot/api-hash@1",
+  "sha256": "4d88bad4461abc498933334e86209ccdfc93ba2766dad8f159b328a6aef5e3ab",
+  "kind": "document_page",
+  "case": "1RC191003776",
+  "docket": 264,
+  "file": "2022-01-13__1RC191003776__DKT0264__sdt-30-b-rep-for-thyssenkrupp-elevator-corp.pdf",
+  "published_url": "https://the95xrecord.vercel.app/docs/f58461fbc6",
+  "lookup": "https://the95xrecord.vercel.app/api/v1/hash/4d88bad4461abc498933334e86209ccdfc93ba2766dad8f159b328a6aef5e3ab.json",
+  "ssot": "https://the95xrecord.vercel.app/ssot.json"
+}

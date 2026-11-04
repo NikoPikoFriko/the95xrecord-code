@@ -1,0 +1,11 @@
+{
+  "schema": "ssot/api-hash@1",
+  "sha256": "1d537917d7d83474c27052cedaa9f3a362d54c715c86ac8612497a742a47f931",
+  "kind": "document_page",
+  "case": "1RC191003776",
+  "docket": null,
+  "file": "2018-12-10__1RC191003776__NONE__pwhitmore-ltr-to-rayn-re-evaluation-of-video-show-passeng.pdf",
+  "published_url": "https://the95xrecord.vercel.app/docs/c8f7907359",
+  "lookup": "https://the95xrecord.vercel.app/api/v1/hash/1d537917d7d83474c27052cedaa9f3a362d54c715c86ac8612497a742a47f931.json",
+  "ssot": "https://the95xrecord.vercel.app/ssot.json"
+}

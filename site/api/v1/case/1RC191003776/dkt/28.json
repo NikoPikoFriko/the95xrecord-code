@@ -1,0 +1,33 @@
+{
+  "schema": "ssot/api-docket@1",
+  "case": "1RC191003776",
+  "docket": 28,
+  "code": "NTCE",
+  "filed": "13-JAN-2020",
+  "filed_iso": "2020-01-13",
+  "time": "16:03:54",
+  "ra_pdf_page": 11,
+  "grade": "PARTIAL",
+  "for_counsel": false,
+  "evidence": {
+    "renditions": [],
+    "text": {
+      "file": "COURT_DOCKET/LISTINGS/1RC191003776/04_TEXT/ocr/2020-01-13__Dkt028__1RC191003776__notice-of-change-of-firm-name-of-counsel-for-plaintiff-count.ocr.txt",
+      "sha256": "e198cc5b99254cb94157c76cab30cdee26136603fe94075d6d216a165a7e6af0",
+      "location": "court_docket_listings_ocr",
+      "published_url": "https://the95xrecord.vercel.app/COURT_DOCKET/LISTINGS/1RC191003776/04_TEXT/ocr/2020-01-13__Dkt028__1RC191003776__notice-of-change-of-firm-name-of-counsel-for-plaintiff-count.ocr.txt"
+    },
+    "held_by_station": true,
+    "gap": false
+  },
+  "pdf_conflict": null,
+  "flags": [
+    "text_only_no_pdf_of_document"
+  ],
+  "links": {
+    "register": "https://the95xrecord.vercel.app/register#dkt-28",
+    "register_json": "https://the95xrecord.vercel.app/api/v1/case/1RC191003776/dkt/28.json",
+    "ssot": "https://the95xrecord.vercel.app/ssot.json",
+    "crossref": "https://the95xrecord.vercel.app/data/crossref.json"
+  }
+}

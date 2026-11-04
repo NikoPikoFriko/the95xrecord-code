@@ -1,0 +1,11 @@
+{
+  "schema": "ssot/api-hash@1",
+  "sha256": "9722dafe5847a8fdaee32f5fbf51febda943b01666b584aed0c9eb7b9d3fe9d2",
+  "kind": "document_page",
+  "case": "1RC191003776",
+  "docket": 303,
+  "file": "2022-04-05__1RC191003776__DKT0303__ex6-sj-order-full.pdf",
+  "published_url": "https://the95xrecord.vercel.app/docs/68eb202f05",
+  "lookup": "https://the95xrecord.vercel.app/api/v1/hash/9722dafe5847a8fdaee32f5fbf51febda943b01666b584aed0c9eb7b9d3fe9d2.json",
+  "ssot": "https://the95xrecord.vercel.app/ssot.json"
+}

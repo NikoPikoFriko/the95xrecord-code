@@ -2,7 +2,7 @@
   "schema": "site-ssot/index@1",
   "site": "https://the95xrecord.vercel.app",
   "generator": "gen_ssot_pages.py (T3 build+deploy, DSH) — version 1",
-  "build_timestamp": "2026-11-03T16:19:44-10:00",
+  "build_timestamp": "2026-11-03T20:05:13-10:00",
   "four_field_rule": {
     "fields": [
       "case",
@@ -95,32 +95,28 @@
       "rows": 20,
       "counts": {
         "rows": 20,
-        "downloaded": 15,
-        "not_downloaded": 5,
-        "grade_OBS": 15,
+        "downloaded": 20,
+        "not_downloaded": 0,
+        "grade_OBS": 20,
         "grade_PARTIAL": 0,
-        "grade_GAP": 5,
-        "rows_with_sha256": 15,
-        "unresolved_dkts": [
-          12,
-          14,
-          16,
-          18,
-          20
-        ]
+        "grade_GAP": 0,
+        "rows_with_sha256": 20,
+        "unresolved_dkts": [],
+        "certified": 6
       },
       "grades": {
-        "OBS": 15,
+        "OBS": 20,
         "PARTIAL": 0,
-        "GAP": 5
+        "GAP": 0
       },
       "coverage": {
         "docket_rows": 20,
-        "rows_with_local_file": 15,
-        "rows_without_local_file": 5,
-        "grade_OBS": 15,
+        "rows_with_local_file": 20,
+        "rows_without_local_file": 0,
+        "grade_OBS": 20,
         "grade_PARTIAL": 0,
-        "grade_GAP": 5
+        "grade_GAP": 0,
+        "certified": 6
       },
       "status_capture": {
         "status": "ACTIVE",
@@ -297,19 +293,34 @@
       }
     ],
     "export": {
-      "documents": 37,
-      "bytes": 19147433,
+      "documents": 80,
+      "bytes": 50453826,
       "cases": {
-        "1RC191003776": 21,
-        "CAAP-26-0000625": 16
+        "1RC191003776": {
+          "SRC": 42,
+          "CERTIFIED": 10,
+          "TEXT": 2
+        },
+        "CAAP-26-0000625": {
+          "SRC": 17,
+          "CERTIFIED": 6,
+          "PACK": 3
+        }
       },
       "grades": {
+        "SRC": 59,
+        "CERTIFIED": 16,
         "TEXT": 2,
-        "SRC": 29,
-        "CERTIFIED": 3,
         "PACK": 3
       },
       "certified_dockets": [
+        423,
+        434,
+        435,
+        436,
+        437,
+        438,
+        479,
         492,
         493,
         496
@@ -324,20 +335,20 @@
     "manifests": [
       {
         "file": "MANIFEST.csv",
-        "bytes": 7079,
-        "sha256": "a0c7c8e9c1783e38af11d1a3ddcfef138ba88a979c2440e882a51be08464c27d",
+        "bytes": 15625,
+        "sha256": "ca24bc54c536216415340152a6507da28496db94064811e494bf8bd48ba552b0",
         "url": "https://the95xrecord.vercel.app/MANIFEST.csv"
       },
       {
         "file": "MANIFEST.sha256",
-        "bytes": 6272,
-        "sha256": "caac18430cc45bad4fe5a22b003df7b6bd899ae158a2757b05151f9cc6e4e5b6",
+        "bytes": 14013,
+        "sha256": "78152ca666e5b9f55c7778670284daec071a50594aaab5611cd14eb06fab57d8",
         "url": "https://the95xrecord.vercel.app/MANIFEST.sha256"
       },
       {
         "file": "ACCESS_README.md",
-        "bytes": 3100,
-        "sha256": "8ddcc7f9e2f74fa56ffd7d134489e818eda4493dd25a62d01d8ed363145395f5",
+        "bytes": 3643,
+        "sha256": "0d0bf3ca82c484e76b3a357309ea1dc81e722a1878e58b32edad5e98dc092d05",
         "url": "https://the95xrecord.vercel.app/ACCESS_README.md"
       }
     ],
@@ -347,7 +358,40 @@
       "no appeal dockets 12, 14, 16, 18, 20 (never captured; published as GAP on /appeal)"
     ],
     "build_timestamp": "2026-11-03T17:17:53-10:00",
-    "generator": "gen_access.py (T16 build+deploy, DSH) — version 1"
+    "generator": "gen_access.py (T16 build+deploy, DSH) — version 1",
+    "export_authority": {
+      "authoritative": {
+        "documents": 80,
+        "bytes": 50453826,
+        "MANIFEST.csv": {
+          "sha256": "ca24bc54c536216415340152a6507da28496db94064811e494bf8bd48ba552b0",
+          "bytes": 15625
+        },
+        "MANIFEST.sha256": {
+          "sha256": "78152ca666e5b9f55c7778670284daec071a50594aaab5611cd14eb06fab57d8",
+          "bytes": 14013
+        },
+        "ACCESS_README.md": {
+          "sha256": "0d0bf3ca82c484e76b3a357309ea1dc81e722a1878e58b32edad5e98dc092d05",
+          "bytes": 3643
+        }
+      },
+      "superseded": [
+        {
+          "documents": 70,
+          "bytes": 49495079,
+          "label": "the 70-document export, superseded 2026-11-03",
+          "note": "its ACCESS_README.md (0d0bf3ca…) describes that edition"
+        },
+        {
+          "documents": 37,
+          "bytes": 19147433,
+          "label": "the 37-document set, archived"
+        }
+      ],
+      "derivation": "every hash/size above is computed from bytes served in the same build; assert_claims.py fails the build on any mismatch",
+      "as_of": "2026-11-03T19:05:07-10:00"
+    }
   },
   "immutable_facts": [
     "cases: trial 1RC191003776 (initiated 31-MAY-2019) · appeal CAAP-26-0000625 (notice of appeal filed 04-SEP-2026)",
@@ -357,79 +401,749 @@
     "appeal docket: 20 entries as captured 2026-11-03 (ICA Dkts 1–20)",
     "deadlines published on ICA Dkt 17 p.1: jurisdictional statement 9-NOV-2026 · opening brief 7-DEC-2026 (verbatim quotations on /appeal)",
     "certified library copies: 3 (Dkt 492 DOC, Dkt 493 NEF, Dkt 496 NA), Clerk-certified 03-NOV-2026",
-    "evidence export: 37 documents / 19,147,433 bytes with a sha256 per file; three public stores (two Google Drive folders + one Box open link)",
+    "evidence export: 80 documents / 50,453,826 bytes with a sha256 per file; three public stores (two Google Drive folders + one Box open link)",
     "the site publishes no PDF bytes — this page is where they are"
   ],
   "texts": {
-    "route": "/texts",
-    "dataset": "texts.json",
-    "dataset_url": "https://the95xrecord.vercel.app/data/texts.json",
-    "dataset_sha256": "2f99a60637957704628fce44f2e25a78696b07009e80993a916255e7e1c02a91",
-    "count": 266,
-    "bytes_of_text": 5722148,
+    "dataset": "/data/texts.json",
+    "dataset_sha256": "6e95bf28ea421470b69094cc7eb14c179242da530fa574127db5df122374a8d3",
+    "dataset_bytes": 288448,
+    "count": 491,
+    "bytes": 7047029,
     "methods": {
-      "ocr": 244,
-      "native": 22
+      "ocr": 456,
+      "native": 35
     },
-    "grades": {
-      "PARTIAL": 244,
-      "OBS": 22
-    },
-    "docket_range": [
-      12,
-      487
-    ],
-    "case": "1RC191003776",
+    "with_pdf": 53,
     "manifest": {
       "file": "TEXTS_MANIFEST.sha256",
-      "url": "https://the95xrecord.vercel.app/TEXTS_MANIFEST.sha256",
-      "sha256": "ee19810aa57fc35b758cab68674bc81871944b181f2959cb62a5ff3401db94b4",
-      "total_bytes": 26353
+      "sha256": "86c4ea60027efecae38536736bc7f0a9d8f908e15b10849628d396ab89258fcb",
+      "bytes": 48419,
+      "lines": 491
     },
-    "files_published_at": "https://the95xrecord.vercel.app/texts/<name>.txt",
-    "sitemap_policy": "the corpus is one dataset; the individual .txt files are not listed in the sitemap",
-    "provenance_fields": [
-      "case",
-      "docket",
-      "code",
-      "filed",
-      "ra_pdf_page",
-      "grade",
-      "method",
-      "source_file",
-      "source_sha256",
-      "text_file",
-      "text_sha256",
-      "bytes",
-      "lines"
-    ],
-    "note": "published files are byte copies of the held sources; text_sha256 is the sha256 of the published file and equals source_sha256 for every entry; nothing was retyped",
-    "build_timestamp": "2026-11-03T17:28:24-10:00",
-    "generator": "gen_texts.py (T17 build+deploy, DSH) — version 1"
+    "supersedes": {
+      "count": 266,
+      "manifest_sha256": "ee19810aa57fc35b758cab68674bc81871944b181f2959cb62a5ff3401db94b4",
+      "label": "the 266-entry non-NEF corpus, superseded 2026-11-03",
+      "note": "its files were replaced by the 491-entry corpus; the machine export texts_266.jsonl is kept for continuity and marked superseded in /data/index.json"
+    },
+    "note": "every trial docket row holding a text rendition (OCR or native), published byte-exact with provenance",
+    "as_of": "2026-11-03T19:41:05-10:00",
+    "build_timestamp": "2026-11-04T09:07:54-10:00",
+    "generator": "refresh_ssot_metadata.py (T69 build step)",
+    "count_derivation": "len(entries) of /data/texts.json at build time"
   },
   "crossref": {
     "dataset": "crossref.json",
+    "schema": "ssot/crossref@2",
     "url": "https://the95xrecord.vercel.app/data/crossref.json",
-    "sha256": "009536b3a2a303ec13d0801e4ea43b66efbc878a90c8daee9c930b76b31706b3",
-    "bytes": 225667,
+    "sha256": "39c12b644653df55e05b2b329951534c27c2bb0841202c0aed7420fb6353a3a8",
+    "bytes": 218144,
     "count": 495,
-    "rows_with_text": 266,
-    "rows_with_pdf_filename_attributed": 57,
-    "rows_with_pdf_of_own_document": 41,
-    "same_number_file_other_document": 17,
-    "definition": "rows_with_pdf_filename_attributed counts every row whose recorded file name carries the docket number; rows_with_pdf_of_own_document excludes the 17 same-numbered files that belong to another document (appeal-series collisions), consistent with /register and coverage.json",
-    "row_shape": [
-      "case",
-      "docket",
-      "code",
-      "filed",
-      "ra_pdf_page",
-      "register_url",
-      "pdf",
-      "text"
+    "rows_with_text": 491,
+    "rows_with_canonical_pdf": 41,
+    "rows_without_pdf": 454,
+    "rows_canonical_with_pages": 33,
+    "rows_canonical_without_pages": [
+      488,
+      489,
+      490,
+      491,
+      492,
+      493,
+      494,
+      495
     ],
-    "register_url_pattern": "https://the95xrecord.vercel.app/register#dkt-N",
-    "build_timestamp": "2026-11-03T17:28:24-10:00",
-    "generator": "gen_texts.py (T17 build+deploy, DSH) — version 1"
+    "pages_note": "page counts are recorded for 33 of the 41 canonical rows; dockets [488, 489, 490, 491, 492, 493, 494, 495] carry a file name and sha256 but no page count, because no source on the station records one (MANIFEST.csv is blank for them). Null, not guessed.",
+    "tail_496_503": {
+      "rows": 9,
+      "dockets": [
+        496,
+        497,
+        498,
+        499,
+        500,
+        501,
+        502,
+        503
+      ]
+    },
+    "build_timestamp": "2026-11-04T09:07:54-10:00",
+    "generator": "refresh_ssot_metadata.py (T69 build step)",
+    "rows_with_text_derivation": "register rows whose (case, docket) has a published text rendition in /data/texts.json — the corpus, not the inline excerpt field",
+    "rows_with_inline_text": 266,
+    "rows_with_inline_text_label": "the 266-row pre-491 subset carried inline in crossref.json; superseded for all later rows by /data/texts.json — kept and labelled, never deleted",
+    "inline_text_superseded": {
+      "count": 266,
+      "label": "2026-11-03 pre-491 corpus (inline text objects only)",
+      "superseded_by": {
+        "dataset": "/data/texts.json",
+        "count": 491,
+        "sha256": "6e95bf28ea421470b69094cc7eb14c179242da530fa574127db5df122374a8d3"
+      },
+      "note": "crossref.json is published as built; its inline text objects cover only the 266 rows of the first corpus. The current corpus is texts.json, and rows_with_text above counts that corpus."
+    }
+  },
+  "library": {
+    "as_of": "2026-11-03T20:30:31-10:00",
+    "case": "1RC191003776",
+    "docket_rows": 495,
+    "rows_with_pdf_of_own_document": 41,
+    "rows_with_canonical_library_pdf": 41,
+    "outside_library": 0,
+    "text_only": 454,
+    "rows_with_text": 491,
+    "grades": {
+      "OBS": 8,
+      "PARTIAL": 487,
+      "GAP": 0
+    },
+    "promoted": {
+      "count": 33,
+      "by_form": {
+        "CERT": 7,
+        "SRC": 26
+      },
+      "when": "2026-11-03"
+    },
+    "historical_split": {
+      "canonical_library": 8,
+      "outside_library": 33,
+      "note": "before the 2026-11-03 promotion; kept as a dated record"
+    },
+    "caveats": [
+      "Dkt 423's canonical file is the court's combined DOC423-424 print (12-page certified 423 order + 2-page certified NEF 424 appended); no standalone Dkt 423 PDF exists on the station",
+      "Dkt 424 itself remains graded text-only",
+      "24 of the 33 promoted sources are image-only scans filed SRC (certification cannot be read from their text layer)"
+    ],
+    "filename_attribution_57": "57 is the filename-attribution count only (files whose names carry the docket number); it was never a holdings count and is not used as one",
+    "source": "tail-promotion coverage_patch.json",
+    "tail": {
+      "label": "post-RA-register tail — held, outside the Record on Appeal register",
+      "dockets": [
+        496,
+        497,
+        498,
+        499,
+        500,
+        501,
+        502,
+        503
+      ],
+      "renditions": 9,
+      "register_source": "ICA Dkt 15, register pages 5–195 (last printed page: 191 of 191)",
+      "rows": [
+        {
+          "docket": 496,
+          "code": "NA",
+          "form": "CERT",
+          "filed": "2026-09-04",
+          "pages": 5,
+          "grade": "OBS",
+          "bytes": 149314,
+          "sha256": "8719ada165f96c1eff2040c0312bd6c7adf19871f3702fdf865b5ace5d04b94e",
+          "file": "2026-09-04__1RC191003776__DKT__DKT0496-NA__notice-of-appeal-caap-26-625__CERT__h8719ada165f9.pdf",
+          "register_status": "post-RA-register tail - held, outside the Record on Appeal register"
+        },
+        {
+          "docket": 496,
+          "code": "NA",
+          "form": "SRC",
+          "filed": "2026-09-04",
+          "pages": 5,
+          "grade": "OBS",
+          "bytes": 133136,
+          "sha256": "afda0dbbbd371f6e1a27da6f7d57e8b690520a791cc92c4d09dc835c44f1fb83",
+          "file": "2026-09-04__1RC191003776__DKT__DKT0496-NA__notice-of-appeal-caap-26-625__SRC__hafda0dbbbd37.pdf",
+          "register_status": "post-RA-register tail - held, outside the Record on Appeal register"
+        },
+        {
+          "docket": 497,
+          "code": "NEF",
+          "form": "NEF",
+          "filed": "2026-09-04",
+          "pages": 2,
+          "grade": "OBS",
+          "bytes": 6639,
+          "sha256": "ffaecdd198f2f4735814eb1a1d214be03995e5708b1579f66a4c4a6e89f4a8f5",
+          "file": "2026-09-04__1RC191003776__DKT__DKT0497-NEF__nef-for-notice-of-appeal-dkt496__NEF__hffaecdd198f2.pdf",
+          "register_status": "post-RA-register tail - held, outside the Record on Appeal register"
+        },
+        {
+          "docket": 498,
+          "code": "RA",
+          "form": "SRC",
+          "filed": "2026-10-28",
+          "pages": 198,
+          "grade": "OBS",
+          "bytes": 548768,
+          "sha256": "65100c89cd2be4e58decd8ecba9cd581d24b7a8db31a25b7f269d4072cd1576e",
+          "file": "2026-10-28__1RC191003776__DKT__DKT0498-RA__record-on-appeal-caap-26-625__SRC__h65100c89cd2b.pdf",
+          "register_status": "post-RA-register tail - held, outside the Record on Appeal register"
+        },
+        {
+          "docket": 499,
+          "code": "NEF",
+          "form": "NEF",
+          "filed": "2026-10-28",
+          "pages": 2,
+          "grade": "OBS",
+          "bytes": 6645,
+          "sha256": "751646b64c6aeb2414a90c4510be3a6795f3f1133a84bfa472f39ef8b74158d5",
+          "file": "2026-10-28__1RC191003776__DKT__DKT0499-NEF__nef-for-record-on-appeal-dkt498__NEF__h751646b64c6a.pdf",
+          "register_status": "post-RA-register tail - held, outside the Record on Appeal register"
+        },
+        {
+          "docket": 500,
+          "code": "ORD",
+          "form": "SRC",
+          "filed": "2026-10-28",
+          "pages": 6,
+          "grade": "OBS",
+          "bytes": 1339227,
+          "sha256": "72bb68d9ebd2c570164a67d009f46268104c1b64bc450c3a1e7b7cd8485c4f0b",
+          "file": "2026-10-28__1RC191003776__DKT__DKT0500-ORD__order-denying-motion-reconsideration-fees__SRC__h72bb68d9ebd2.pdf",
+          "register_status": "post-RA-register tail - held, outside the Record on Appeal register"
+        },
+        {
+          "docket": 501,
+          "code": "NEF",
+          "form": "NEF",
+          "filed": "2026-10-28",
+          "pages": 2,
+          "grade": "OBS",
+          "bytes": 6808,
+          "sha256": "937ceb5dfc2465cb97f2c576c1139fb04ca987f32f797fbc679cc14ad49b80ed",
+          "file": "2026-10-28__1RC191003776__DKT__DKT0501-NEF__nef-for-order-dkt500__NEF__h937ceb5dfc24.pdf",
+          "register_status": "post-RA-register tail - held, outside the Record on Appeal register"
+        },
+        {
+          "docket": 502,
+          "code": "RA",
+          "form": "SRC",
+          "filed": "2026-10-29",
+          "pages": 6,
+          "grade": "OBS",
+          "bytes": 195500,
+          "sha256": "7c7978910396cbbd03f5e481b326ba7499ecf8d1b5a946006c05b80aa1b46472",
+          "file": "2026-10-29__1RC191003776__DKT__DKT0502-RA__amended-record-on-appeal-caap-26-625__SRC__h7c7978910396.pdf",
+          "register_status": "post-RA-register tail - held, outside the Record on Appeal register"
+        },
+        {
+          "docket": 503,
+          "code": "NEF",
+          "form": "NEF",
+          "filed": "2026-10-29",
+          "pages": 2,
+          "grade": "OBS",
+          "bytes": 6637,
+          "sha256": "c38308661b3eb31e0130e4a16c1c032b1c52a19e239698440afd8d6461e1fb07",
+          "file": "2026-10-29__1RC191003776__DKT__DKT0503-NEF__nef-for-amended-record-on-appeal-dkt502__NEF__hc38308661b3e.pdf",
+          "register_status": "post-RA-register tail - held, outside the Record on Appeal register"
+        }
+      ]
+    },
+    "machine_layer": {
+      "sqlite": {
+        "file": "ssot.sqlite",
+        "url": "https://the95xrecord.vercel.app/data/ssot.sqlite",
+        "bytes": 483328,
+        "sha256": "715b3f7a277ab735640eead1ce8ca2efe2cce04a637d3306280ffab446328bbd"
+      },
+      "evidence_files": 70,
+      "library_meta": {
+        "with_pdf_of_own_document": 41,
+        "with_canonical_library_pdf": 41,
+        "outside_library": 0,
+        "text_only": 454,
+        "rows_with_text": 491,
+        "grade_OBS": 41,
+        "grade_PARTIAL": 454
+      },
+      "register_tail": {
+        "rows": 9,
+        "dockets": [
+          496,
+          496,
+          497,
+          498,
+          499,
+          500,
+          501,
+          502,
+          503
+        ]
+      },
+      "note": "the published sqlite is the Lead's rebuild plus two repairs made from the authoritative sources: library_meta rows (from coverage_patch.json) and register_tail.docket (from register_tail_496_503.csv)",
+      "as_of": "2026-11-03T18:17:58-10:00"
+    },
+    "grades_derivation": "counted from the rendered grade column of /register (the row's own grade cell); the previous value {OBS: 41, PARTIAL: 454} was stale and is not reproducible from any page",
+    "grades_history": {
+      "previous": {
+        "OBS": 41,
+        "PARTIAL": 454,
+        "GAP": 0
+      },
+      "corrected_on": "2026-11-03T20:05:13-10:00",
+      "note": "the earlier value counted every held PDF as OBS; the register's grade column says OBS 8 / PARTIAL 487 / GAP 0"
+    },
+    "as_of_label": "newest timestamp among the files the library is computed from (see as_of_sources) — NOT the build time and NOT a freshness claim",
+    "last_verified": "2026-11-03T20:00:04-10:00",
+    "last_verified_note": "9 best-available captures compared byte-for-byte with the held files on 2026-11-03; 0 new renditions, so the library content has not changed since the promotion",
+    "as_of_kind": "newest_source_timestamp",
+    "as_of_source": "data/index.json",
+    "as_of_sources": [
+      {
+        "file": "MANIFEST.csv",
+        "time": "2026-11-03T19:18:16-10:00",
+        "time_from": "mtime"
+      },
+      {
+        "file": "MANIFEST.sha256",
+        "time": "2026-11-03T19:18:16-10:00",
+        "time_from": "mtime"
+      },
+      {
+        "file": "TEXTS_MANIFEST.sha256",
+        "time": "2026-11-03T19:41:06-10:00",
+        "time_from": "mtime"
+      },
+      {
+        "file": "data/index.json",
+        "time": "2026-11-03T20:30:31-10:00",
+        "time_from": "mtime"
+      },
+      {
+        "file": "data/texts.json",
+        "time": "2026-11-03T20:27:45-10:00",
+        "time_from": "mtime"
+      },
+      {
+        "file": "data/tier_map.json",
+        "time": "2026-11-03T19:44:32-10:00",
+        "time_from": "mtime"
+      },
+      {
+        "file": "data/snapshots/index.json",
+        "time": "2026-11-03T19:43:24-10:00",
+        "time_from": "mtime"
+      }
+    ],
+    "as_of_derived_at": "2026-11-04T09:07:54-10:00"
+  },
+  "deployment": {
+    "id": "dpl_2qH188i4t2qMoXhRFW6bFb4dwhaK",
+    "url": "https://the95xrecord.vercel.app",
+    "deployment_url": "https://deploy-vercel-d6a5mx9sw-niko-1348s-projects.vercel.app",
+    "as_of": "2026-11-04T09:07:54-10:00",
+    "created_at": "2026-11-04T08:59:03-10:00",
+    "live_at_build": true,
+    "derivable": false,
+    "previous": true,
+    "describes": "the production deployment that was live when this build was generated (resolved from the Vercel CLI at build time). This is NOT the deployment that serves these bytes: a static file cannot carry the id of the deployment that uploads it, and the serving deployment is exactly one newer. Read `derivable:false` + `previous:true` as that statement, and check the id against Vercel's deployment list. /data/versions.json.live carries the same id and the same labels.",
+    "note": "derived, not typed: resolved with `vercel inspect <domain> --json` at build time. A stale id pretending to be the serving deployment is a provenance defect; an explicitly-labelled previous id is not.",
+    "serving_deployment": {
+      "id": null,
+      "derivable": false,
+      "reason": "a static file cannot contain the id of the deployment that uploads it; the id named in this block is the deployment that was live when the build ran, and this build supersedes it. Ask Vercel's deployment list (or `vercel inspect the95xrecord.vercel.app`) which deployment is serving now — that answer is authoritative, this file is not."
+    },
+    "previously_stamped": "dpl_3QXq8G9qnJKXoQtyAuQz1362GHaS",
+    "resolved_via": "vercel inspect <domain> --json",
+    "checked_at": "2026-11-04T09:07:58-10:00"
+  },
+  "appeal_counsel": {
+    "reference": {
+      "docket": 13,
+      "code": "MOT",
+      "filed": "09-OCT-2026",
+      "title": "REVERE & ASSOCIATES, LLLC'S MOTION FOR LEAVE TO WITHDRAW AS COUNSEL FOR APPELLANT NIKODEM PIKOR",
+      "held_file_present": true
+    },
+    "quotes": [
+      {
+        "where": "motion title (Dkt 13, p.3)",
+        "quote": "REVERE & ASSOCIATES, LLLC'S MOTION FOR LEAVE TO WITHDRAW AS COUNSEL FOR APPELLANT NIKODEM PIKOR DECLARATION OF COUNSEL EXHIBIT \"1\" CERT"
+      },
+      {
+        "where": "prayer (Dkt 13, p.3)",
+        "quote": "Withdrawing Attorneys, TERRANCE M. REVERE and AMANDA L. DUTCHER, hereby move for an Order allowing them to Withdraw as Counsel for Appellant NIKODEM PIKOR. This motion is made pursuant to Rules 2"
+      },
+      {
+        "where": "declaration, 8 (Dkt 13)",
+        "quote": "On October 7, 2026, the lower court entered its Order Granting Revere & Associates, LLL's Motion for Leave to Withdraw as Counsel for Defendant and Counterclaim/Third-Party Plaintiff Nikodem Pikor [Dkt. 484]. Attached hereto as Exhibit \"1\" is a tru"
+      },
+      {
+        "where": "attached trial-court order, ordering paragraph (Exhibit 1)",
+        "quote": "IT IS HEREBY ORDERED THAT Revere & Associates, LLLC's Motion to Withdraw as Counsel for Defendant and Counterclaim/Third-Party PlaintiffNikodem Pikor [DKT.46l], filed September 11,2026, is hereby GRANTED. DATED: Honolulu, Hawai' i, oci 0 7 2026"
+      }
+    ],
+    "published_statement": "no order resolving ICA Dkt 13 appears in the captured appeal docket as of 2026-11-03 13:47 HST",
+    "statement_basis": "capture-based (JIMS capture 2026-11-03 13:47 HST), not an inference",
+    "counsels_service_notices_only": "dockets 12, 14, 16, 18, 20 are service notices (NEF); none is an order",
+    "for_counsel": true,
+    "as_of": "2026-11-03T18:35:43-10:00"
+  },
+  "appeal_patch": {
+    "captured_at": "2026-11-03T13:47:00-10:00",
+    "rows_enriched": [
+      12,
+      14,
+      16,
+      18,
+      20
+    ],
+    "grade_kept": "GAP",
+    "note": "code/title/filed captured from JIMS; documents not downloaded, so no file/hash is published"
+  },
+  "appeal_capture": {
+    "certified_dockets": [
+      15,
+      16,
+      17,
+      18,
+      19,
+      20
+    ],
+    "certified": 6,
+    "held": 20,
+    "gap": 0,
+    "rows": 20,
+    "telemetry_records": 14,
+    "telemetry_certified_servlet": 7,
+    "note": "certified-first: the JIMS certified button was enabled for six dockets, so those were taken as certified; the other four captured that day (7, 9, 12, 14) had it disabled and are regular copies recorded as such",
+    "as_of": "2026-11-03T19:05:07-10:00"
+  },
+  "appeal_page_counts": {
+    "rows_with_pages": 20,
+    "rows": 20,
+    "source": "derived from the PDFs in the case room when the manifest column was empty; re-emitted into MANIFEST.csv",
+    "as_of": "2026-11-03T19:18:16-10:00"
+  },
+  "trial_snapshot": {
+    "file": "JIMS_1RC191003776_2026-11-03T1934.json",
+    "url": "https://the95xrecord.vercel.app/data/snapshots/JIMS_1RC191003776_2026-11-03T1934.json",
+    "sha256": "b0366d17d8fc12bb1bfff12a74593e91b7c6007ed0c8f7ff05c8ea4399ce5574",
+    "bytes": 21637,
+    "captured_at": "2026-11-03T19:34:33-10:00",
+    "source_url": "https://jimspss1.courts.state.hi.us/JIMSExternal/manage-cases.iface",
+    "dockets_rows_rendered": 503,
+    "documents_rows_rendered": 468,
+    "parties": 14,
+    "milestones": 0,
+    "milestones_note": "No Milestones table element is present in this case's rendered page (table ids on the page: partiesTable, eventsTable, docketsTable, documentsTable) — the appeal case has one, this trial case did not render it. Nothing invented.",
+    "reconciliation": "503 rendered docket rows = 495 register rows + 8 tail dockets (496-503)",
+    "as_of": "2026-11-03T19:43:24-10:00",
+    "sidecar": "https://the95xrecord.vercel.app/data/snapshots/JIMS_1RC191003776_2026-11-03T1934.sha256",
+    "superseded_previous": {
+      "bytes": 22994,
+      "sha256": "177af54c10fa0ca7d24d0b95321f6ab18406625bfcb5206f23175058c17cedff"
+    }
+  },
+  "snapshots": [
+    {
+      "case": "CAAP-26-0000625",
+      "id": "JIMS_CAAP-26-0000625_2026-11-03T1849",
+      "sha256": "9eca705a6d597b26197b73848a3aed31fb2a18869ef4ff5592c7d5d01f45b5da",
+      "bytes": 13104,
+      "status": "current",
+      "file": "JIMS_CAAP-26-0000625_2026-11-03T1849.json",
+      "captured_at": "2026-11-03T18:49:00-10:00"
+    },
+    {
+      "case": "1RC191003776",
+      "id": "JIMS_1RC191003776_2026-11-03T1934",
+      "sha256": "b0366d17d8fc12bb1bfff12a74593e91b7c6007ed0c8f7ff05c8ea4399ce5574",
+      "bytes": 21637,
+      "status": "current",
+      "file": "JIMS_1RC191003776_2026-11-03T1934.json",
+      "captured_at": "2026-11-03T19:34:33-10:00"
+    },
+    {
+      "case": "1RC191003776",
+      "id": null,
+      "file": null,
+      "sha256": "177af54c10fa0ca7d24d0b95321f6ab18406625bfcb5206f23175058c17cedff",
+      "bytes": 22994,
+      "status": "superseded",
+      "superseded_by": "b0366d17d8fc12bb1bfff12a74593e91b7c6007ed0c8f7ff05c8ea4399ce5574",
+      "reason": "retired during the 2026-11-03 trial-snapshot republication; kept, not deleted",
+      "note": "the retired rendition's file name was not recorded; only its hash and size are known"
+    }
+  ],
+  "trial_certified_channel": {
+    "case": "1RC191003776",
+    "certified_button": "disabled",
+    "sampled_dockets": [
+      488,
+      490,
+      492,
+      496,
+      497,
+      498,
+      499,
+      500,
+      502
+    ],
+    "substantive": 7,
+    "downloads_made": 0,
+    "intaken": 0,
+    "finding": "certified button disabled on all nine sampled trial dockets — the one-time free certified channel is consumed for 1RC191003776; nothing to download, nothing intaken",
+    "already_held_certified": [
+      423,
+      434,
+      435,
+      436,
+      437,
+      438,
+      479,
+      492,
+      493,
+      496
+    ],
+    "already_held_verification": "all ten carry the Clerk sentence on page 1, auditor-verified: /s/ Lori Ann Okita, Clerk of the First Circuit",
+    "new_badges": 0,
+    "as_of": "2026-11-03T19:36:04-10:00",
+    "certified_descriptor_scope": "the 'certified copy' descriptor is applied to exactly these ten dockets and to no other row; every other trial row is a regular copy or a text rendition"
+  },
+  "trial_certified_files": [
+    {
+      "docket": 423,
+      "file": "2026-06-15__1RC191003776__DKT__DKT0423-ORD__order-granting-in-part-and-denying-in-part-plaintiff-and-cou__CERT__h918d3d734577.pdf",
+      "sha256": "918d3d734577f4300fb49f1dbba360be2e2e4a05ac7c3ba85ba51197682165dc",
+      "pages": ""
+    },
+    {
+      "docket": 434,
+      "file": "2026-08-19__1RC191003776__DKT__DKT0434-NEF__nef-for-dkt431__CERT__h6a42daab86ac.pdf",
+      "sha256": "6a42daab86aca7a3e71c60af5649c5683cab1bdbe4d1d5298d9e909832428ecd",
+      "pages": ""
+    },
+    {
+      "docket": 435,
+      "file": "2026-08-20__1RC191003776__DKT__DKT0435-DOC__defendant-counterclaim-plaintiff-nikodem-pikor-s-motion-to-s__CERT__h6e6e1f0c8217.pdf",
+      "sha256": "6e6e1f0c8217bad9eb1188cf487fec90e7b276fbe8fbf53e8089f92fecacdaea",
+      "pages": ""
+    },
+    {
+      "docket": 436,
+      "file": "2026-08-20__1RC191003776__DKT__DKT0436-NEF__nef-for-dkt435__CERT__h9609fa6a85a4.pdf",
+      "sha256": "9609fa6a85a46284d5ef21a2ceb3fc2dbb3e6a9429b3bc414b36540a1c126bee",
+      "pages": ""
+    },
+    {
+      "docket": 437,
+      "file": "2026-08-20__1RC191003776__DKT__DKT0437-DOC__defendant-counterclaim-plaintiff-nikodem-pikor-s-motion-to-e__CERT__h602a3e102b18.pdf",
+      "sha256": "602a3e102b18447df8617721baea40252168a707a44177e40dd37540b1285fea",
+      "pages": ""
+    },
+    {
+      "docket": 438,
+      "file": "2026-08-20__1RC191003776__DKT__DKT0438-NEF__nef-for-dkt437__CERT__h1e1b414d842a.pdf",
+      "sha256": "1e1b414d842a42bcecb9a468dcb9cda51e68220db0b7f0a6a1d65a253e12038f",
+      "pages": ""
+    },
+    {
+      "docket": 479,
+      "file": "2026-09-24__1RC191003776__DKT__DKT0479-NEF__nef-for-dkt478__CERT__hb7e0258c5648.pdf",
+      "sha256": "b7e0258c564853f2269afc590bf35d14a9d14e785a746828e586668ee91b4784",
+      "pages": ""
+    },
+    {
+      "docket": 492,
+      "file": "2026-10-21__1RC191003776__DKT__DKT0492-DOC__order-denying-extend-time-dkt442-stricken__CERT__he709cc96578b.pdf",
+      "sha256": "e709cc96578bed4cdb522c0972dc196936723f3f5697be92dcbdba26b307028a",
+      "pages": ""
+    },
+    {
+      "docket": 493,
+      "file": "2026-10-21__1RC191003776__DKT__DKT0493-NEF__nef-for-order-dkt492-stricken__CERT__h7ccd357f8143.pdf",
+      "sha256": "7ccd357f8143a6364299cba1df8b244bd9b94736db4c1b94101f0cab125558e7",
+      "pages": ""
+    },
+    {
+      "docket": 496,
+      "file": "2026-09-04__1RC191003776__DKT__DKT0496-NA__notice-of-appeal-caap-26-625__CERT__h8719ada165f9.pdf",
+      "sha256": "8719ada165f96c1eff2040c0312bd6c7adf19871f3702fdf865b5ace5d04b94e",
+      "pages": ""
+    }
+  ],
+  "capture_policy": {
+    "schema": "ssot/capture-policy@1",
+    "source": "tools/ssot/certified_first.md — section '2026-11-03 — amendment: best available when certified is gone'",
+    "operator_rule": "IF NO CERTIFIED AVAILABLE — GRAB CURRENT UNCERTIFIED COPY AND USE AS 'BEST AVAILABLE'.",
+    "tiers": [
+      {
+        "tier": 1,
+        "key": "certified_held",
+        "label": "certified copy",
+        "when": "the certified button was ENABLED (never downloaded before)",
+        "grade_rule": "OBS once the Clerk sentence on page 1 and the hash are verified",
+        "may_claim": "that the file is a court-certified copy of the record",
+        "may_not_claim": "any certification the library does not hold"
+      },
+      {
+        "tier": 2,
+        "key": "best_available_held",
+        "label": "best available copy",
+        "when": "the certified button was DISABLED or absent and a regular copy was downloadable now",
+        "grade_rule": "OBS for the bytes; the absence of certification is stated, never implied",
+        "may_claim": "that it is the current copy the court served, at the recorded capture time, hash-verified",
+        "may_not_claim": "that it is certified, or that it is the best possible quality (it is the best obtainable one)"
+      },
+      {
+        "tier": 3,
+        "key": "text_or_gap",
+        "label": "text rendition / GAP",
+        "when": "no document is downloadable at all",
+        "grade_rule": "PARTIAL for text; GAP where nothing is held",
+        "may_claim": "that a text rendition exists where one does, and that a gap is a gap",
+        "may_not_claim": "that a document was read, quoted or certified from text alone"
+      }
+    ],
+    "counts": {
+      "certified_held": 10,
+      "best_available_held": 40,
+      "text_only": 454,
+      "gap": 0,
+      "labelled_rows": 504
+    },
+    "counts_derivation": "counted from the rendered register's row labels; cross-checked against data/tier_map.json (10 certified entries; best-available PDF entries; the 496 SRC tail row is a second rendition of 496)",
+    "best_available_capture": {
+      "captured_at_date": "2026-11-03",
+      "captured": 9,
+      "best_available_verified_current": "9 as of 2026-11-03",
+      "new_renditions": 0,
+      "superseded_renditions": 0,
+      "library_change": "none — every captured file is byte-identical to the file already held",
+      "dockets": [
+        488,
+        496,
+        497,
+        498,
+        499,
+        500,
+        501,
+        502,
+        503
+      ],
+      "no_pdf": {
+        "count": 4,
+        "dockets": [
+          480,
+          481,
+          486,
+          487
+        ],
+        "reason": "*MINH minute entries with no document row in the JIMS Documents table"
+      },
+      "not_checked": {
+        "count": 15,
+        "dockets": [
+          476,
+          477,
+          478,
+          479,
+          482,
+          483,
+          484,
+          485,
+          489,
+          490,
+          491,
+          492,
+          493,
+          494,
+          495
+        ],
+        "reason": "browser session degraded mid-run; held files unchanged; resume at Dkt 489"
+      },
+      "certified_offered": 0,
+      "certified_offered_note": "13 sampled document modals; an enabled certified button was never observed",
+      "telemetry_records": {
+        "total": 23,
+        "trial_after_correction": 10,
+        "appeal_after_correction": 13,
+        "trial_as_logged_before_correction": 12,
+        "method": "union of TELEMETRY_CORRECTED.jsonl (authoritative where a correction exists) with the later captures it postdates, joined by file name; two files that the raw log tagged with the trial case are appeal captures and the correction moves them to CAAP-26-0000625, which is why the raw log's 12 trial records are 10 after correction"
+      },
+      "source_files": {
+        "intake_csv": "temp/clerk-ica/TRIAL_BESTAVAILABLE_INTAKE_2026-11-03.csv",
+        "capture_csv": "temp/clerk-ica/TRIAL_BESTAVAILABLE_CAPTURE.csv",
+        "notes": "temp/clerk-ica/TRIAL_BESTAVAILABLE_NOTES.md"
+      }
+    },
+    "as_of": "2026-11-03T20:05:13-10:00"
+  },
+  "snapshots_note": "current entries are exactly data/snapshots/index.json (same set, same hashes); retired renditions are kept with status=superseded and are never presented as current",
+  "tiers": {
+    "schema": "ssot/tiers@1",
+    "labels": {
+      "tier_1": "certified copy",
+      "tier_2": "best available copy",
+      "tier_3": "text rendition or GAP"
+    },
+    "counts": {
+      "certified": 10,
+      "best_available": 40,
+      "text": 454,
+      "gap": 0,
+      "labelled_rows": 504
+    },
+    "grades": {
+      "OBS": 8,
+      "PARTIAL": 487,
+      "GAP": 0
+    },
+    "best_available_verified_current": "9 as of 2026-11-03",
+    "new_renditions": 0,
+    "as_of": "2026-11-03T20:05:13-10:00",
+    "derivation": "counted from the rendered register's row labels and grade column; cross-checked against data/tier_map.json"
+  },
+  "transparency": {
+    "log": {
+      "file": "data/transparency_log.jsonl",
+      "entries": 9,
+      "sha256": "9cf86d19512a792277f1043f2e1ee93ef11f492dd7fb57a2d34a5862011aa447",
+      "latest_entry_hash": "b7c9c9c7239a256e1cfd2d5dc8673d9ad37f8d490a1ee5d46a330069767eb19a",
+      "schema": "ssot/transparency@1"
+    },
+    "signing_key": {
+      "fingerprint": "26E607360BC8A529C289866DC4F8D52EC76EE1C5",
+      "file": "ssot-signing-key.asc",
+      "uid": "SSOT Record Signing <record@the95xrecord>"
+    },
+    "signatures": [
+      {
+        "file": "data\\transparency_log.jsonl",
+        "sig": "data\\transparency_log.jsonl.asc",
+        "sha256": "d032d0159412aecf47ca18cf5733b542bf3ec467d95aab28c29bef2766ee655c"
+      },
+      {
+        "file": "MANIFEST.csv",
+        "sig": "MANIFEST.csv.asc",
+        "sha256": "4e93c51562176645141c9075decba5ff6300ef4b1dae77971923b8f44f084486"
+      }
+    ],
+    "ots": {
+      "status": "partial",
+      "tool": "C:\\Users\\NIKO\\.local\\bin\\ots.EXE",
+      "stamps": [
+        {
+          "file": "MANIFEST.csv",
+          "proof": "MANIFEST.csv.ots",
+          "bytes": 840,
+          "reused": true
+        }
+      ],
+      "errors": [
+        "data\\transparency_log.jsonl: Submitting to remote calendar https://a.pool.opentimestamps.org\nSubmitting to remote calendar https://b.pool.opentimestamps.org\nSubmitting to remote calendar https://a.pool.eternitywall.com\nSubmitting to remote calendar https://ots.btc.catallaxy.com\nFailed to create timestamp 'C:\\\\Users\\\\NIKO\\\\TEMPL"
+      ]
+    },
+    "verify": {
+      "page": "verify.html",
+      "script": "verify.sh",
+      "domain": "https://the95xrecord.vercel.app"
+    },
+    "note": "chain is append-only and recomputable from the jsonl; the signature is detached and verifiable with the published key; OTS proves only that the file existed at a time a calendar attested — not who wrote it"
   }
 }

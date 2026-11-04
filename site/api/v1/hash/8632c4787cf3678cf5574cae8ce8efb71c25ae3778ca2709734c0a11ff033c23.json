@@ -1,0 +1,11 @@
+{
+  "schema": "ssot/api-hash@1",
+  "sha256": "8632c4787cf3678cf5574cae8ce8efb71c25ae3778ca2709734c0a11ff033c23",
+  "kind": "document_page",
+  "case": "1RC191003776",
+  "docket": 110,
+  "file": "2020-07-20__Dkt110__1RC191003776__defendant-and-counterclaim-third-party-plaintiff-n.pdf",
+  "published_url": "https://the95xrecord.vercel.app/docs/1e049be251",
+  "lookup": "https://the95xrecord.vercel.app/api/v1/hash/8632c4787cf3678cf5574cae8ce8efb71c25ae3778ca2709734c0a11ff033c23.json",
+  "ssot": "https://the95xrecord.vercel.app/ssot.json"
+}

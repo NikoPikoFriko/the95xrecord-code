@@ -1,0 +1,327 @@
+{
+ "schema": "ssot/reasoning-traces@1",
+ "case_numbers": [
+  "1RC191003776",
+  "CAAP-26-0000625"
+ ],
+ "generated": "2026-11-03T20:28:25-10:00",
+ "generator": "gen_query_traces.py (T48)",
+ "method": "four deterministic traces; every step is inputs -> identity -> computation -> verdict; each citation names case, docket, page, file and sha256, verified against the held file at build time",
+ "traces": [
+  {
+   "slug": "fees-2260-vs-196744",
+   "title": "$2,260.15 invoice vs $196,744.08 attorneys' fee award",
+   "for_counsel": true,
+   "steps": [
+    {
+     "n": 1,
+     "name": "Primary inputs & SHA-256",
+     "inputs": [
+      {
+       "what": "W.E. Denison demand letter, Dkt 284, quoting Thyssenkrupp invoice #5000875502",
+       "value": "$2,260.15",
+       "cite": {
+        "case": "1RC191003776",
+        "docket": 284,
+        "page": "text rendition",
+        "file": "COURT_DOCKET/LISTINGS/1RC191003776/04_TEXT/ocr/2022-02-17__Dkt284__1RC191003776__exhibits.ocr.txt",
+        "sha256": "25c4363dc7f5381093bba88f4dc0179903c1ad43b4391c5fb59084d2f98ec183",
+        "label": "1RC Dkt 284 text rendition (RA p.97)"
+       },
+       "quote_id": "q-2260"
+      },
+      {
+       "what": "Order granting fees and costs, Dkt 423",
+       "value": "attorneys' fees $196,744.08 + costs $12,743.54",
+       "cite": {
+        "case": "1RC191003776",
+        "docket": 423,
+        "page": "p.12",
+        "file": "COURT_DOCKET/CERTIFIED/2026-06-15__1RC191003776__DKT__DKT0423-ORD__order-granting-in-part-and-denying-in-part-plaintiff-and-cou__CERT__h918d3d734577.pdf",
+        "sha256": "918d3d734577f4300fb49f1dbba360be2e2e4a05ac7c3ba85ba51197682165dc",
+        "label": "1RC Dkt 423 CERTY p.12"
+       },
+       "quote_id": "q-fee"
+      }
+     ],
+     "note": "Both numbers are read from the bytes above; neither is transcribed from prose."
+    },
+    {
+     "n": 2,
+     "name": "Rule / arithmetic identity applied",
+     "rule": "A ratio between two amounts stated in two documents is a division; it is not a finding about what either amount was FOR.",
+     "identity": "ratio = fees_award / invoice_amount ; difference = fees_award — invoice_amount",
+     "inputs": {
+      "fees_award": 196744.08,
+      "invoice_amount": 2260.15
+     }
+    },
+    {
+     "n": 3,
+     "name": "Formula / arithmetic shown",
+     "work": [
+      "196744.08 / 2260.15 = 87.0491... (x)",
+      "196744.08 — 2260.15 = 194483.93 (USD)",
+      "196744.08 / 2260.15 rounded to 2 dp = 87.05"
+     ],
+     "code": "round(196744.08/2260.15, 4) == 87.0491 ; round(196744.08-2260.15, 2) == 194483.93"
+    },
+    {
+     "n": 4,
+     "name": "Algorithmic verdict",
+     "follows": [
+      "the fee award stated on Dkt 423 p.12 is 87.0491x the invoice amount stated on Dkt 284",
+      "the two amounts differ by exactly $194,483.93",
+      "both documents are held and hash-verified, so both numbers are reproducible from bytes"
+     ],
+     "does_not_follow": [
+      "that the fees were incurred because of, or were measured by, the $2,260.15 repair",
+      "that the award is proportionate, disproportionate, reasonable or unreasonable",
+      "that any party's conduct caused the difference"
+     ],
+     "for_counsel": true
+    }
+   ]
+  },
+  {
+   "slug": "deadlines-9nov-vs-16nov",
+   "title": "9-NOV-2026 / 7-DEC-2026 (ICA Dkt 17 p.1) vs 16-NOV-2026 / 14-DEC-2026 (JIMS milestones)",
+   "for_counsel": true,
+   "steps": [
+    {
+     "n": 1,
+     "name": "Primary inputs & SHA-256",
+     "inputs": [
+      {
+       "what": "ICA Notice of Entering Case on Calendar, filed 28-OCT-2026",
+       "value": "JS 9-NOV-2026; OB 7-DEC-2026",
+       "cite": {
+        "case": "CAAP-26-0000625",
+        "docket": 17,
+        "page": "p.1",
+        "file": "APPEALS/CAAP-26-0000625/DOCKET/2026-10-28__CAAP-26-0000625__DKT__DKT0017-NC__notice-of-entering-case-on-calendar__SRC__h496bfdebc04a.pdf",
+        "sha256": "496bfdebc04a9e699d152ec7f7a46736e341a291d7734385dc829f7120b3659d",
+        "label": "ICA Dkt 17 p.1"
+       },
+       "quote_ids": [
+        "q-js",
+        "q-ob"
+       ]
+      },
+      {
+       "what": "JIMS appeal-case milestone panel, captured 2026-11-03T18:49",
+       "value": "Statement of Jurisdiction original 16-NOV-2026 / current 09-NOV-2026; Opening Brief original 14-DEC-2026 / current 07-DEC-2026",
+       "cite": {
+        "case": "CAAP-26-0000625",
+        "docket": null,
+        "case_level": true,
+        "page": "milestones[] (Statement of Jurisdiction, Opening Brief)",
+        "file": "data/snapshots/JIMS_CAAP-26-0000625_2026-11-03T1849.json",
+        "sha256": "9eca705a6d597b26197b73848a3aed31fb2a18869ef4ff5592c7d5d01f45b5da",
+        "label": "JIMS snapshot (14 milestones)"
+       }
+      }
+     ]
+    },
+    {
+     "n": 2,
+     "name": "Rule / calendar identity applied",
+     "rule": "Two statements of the same deadline differ by a whole number of days; the panel's own advisory says HRAP dates prevail over panel dates.",
+     "identity": "delta = date(panel.original) — date(notice)"
+    },
+    {
+     "n": 3,
+     "name": "Formula / calendar math shown",
+     "work": [
+      "16-NOV-2026 — 9-NOV-2026 = 7 days",
+      "14-DEC-2026 — 7-DEC-2026 = 7 days",
+      "panel.current (9-NOV-2026, 7-DEC-2026) == notice values exactly (0 days delta)",
+      "9-NOV-2026 is a Monday; 7-DEC-2026 is a Monday"
+     ],
+     "code": "(date(2026,11,16)-date(2026,11,9)).days == 7 ; (date(2026,12,14)-date(2026,12,7)).days == 7"
+    },
+    {
+     "n": 4,
+     "name": "Algorithmic verdict",
+     "follows": [
+      "the JIMS panel's ORIGINAL column is exactly 7 days later than the notice for both dates",
+      "the panel's CURRENT column equals the notice exactly",
+      "the panel carries the court's own advisory that HRAP dates prevail, so the panel does not assert its original values as operative"
+     ],
+     "does_not_follow": [
+      "which date governs, whether either date binds, or what satisfies either date",
+      "that the deadlines were extended or moved (no order in the library says so)",
+      "any computation of days remaining"
+     ],
+     "for_counsel": true
+    }
+   ]
+  },
+  {
+   "slug": "counsel-withdrawal-dkt13-vs-flyleaf",
+   "title": "ICA Dkt 13 motion to withdraw vs ICA Dkt 19 p.3 flyleaf",
+   "for_counsel": true,
+   "steps": [
+    {
+     "n": 1,
+     "name": "Primary inputs & SHA-256",
+     "inputs": [
+      {
+       "what": "Revere & Associates, LLLC's motion for leave to withdraw as counsel for appellant, filed 09-OCT-2026",
+       "value": "motion filed; no ruling on it in the ICA docket",
+       "cite": {
+        "case": "CAAP-26-0000625",
+        "docket": 13,
+        "page": "p.2",
+        "file": "APPEALS/CAAP-26-0000625/DOCKET/2026-10-09__CAAP-26-0000625__DKT__DKT0013-MOT__motion-leave-to-withdraw-counsel__SRC__h7897051d8f6a.pdf",
+        "sha256": "7897051d8f6a7897675c363b1b35e30c59456abde7db7f47052c4a3e180f4fa0",
+        "label": "ICA Dkt 13 p.2"
+       },
+       "quote_ids": [
+        "q-withdraw"
+       ]
+      },
+      {
+       "what": "the trial court's order granting withdrawal, attached as Exhibit 1 to Dkt 13",
+       "value": "trial Dkt 484, entered 07-OCT-2026",
+       "cite": {
+        "case": "CAAP-26-0000625",
+        "docket": 13,
+        "page": "p.10",
+        "file": "APPEALS/CAAP-26-0000625/DOCKET/2026-10-09__CAAP-26-0000625__DKT__DKT0013-MOT__motion-leave-to-withdraw-counsel__SRC__h7897051d8f6a.pdf",
+        "sha256": "7897051d8f6a7897675c363b1b35e30c59456abde7db7f47052c4a3e180f4fa0",
+        "label": "ICA Dkt 13 p.10"
+       },
+       "quote_ids": [
+        "q-order484"
+       ]
+      },
+      {
+       "what": "Amended Record on Appeal, index note",
+       "value": "flyleaf updated; Pro Se removed",
+       "cite": {
+        "case": "CAAP-26-0000625",
+        "docket": 19,
+        "page": "p.3",
+        "file": "APPEALS/CAAP-26-0000625/DOCKET/2026-10-29__CAAP-26-0000625__DKT__DKT0019-AMRA__amended-record-on-appeal__SRC__h46429ea256f9.pdf",
+        "sha256": "46429ea256f90049b9083010fa08e7af116a9e9b4b6a8dd4bdf27ac1b0121e21",
+        "label": "ICA Dkt 19 p.3"
+       },
+       "quote_ids": [
+        "q-flyleaf"
+       ]
+      }
+     ]
+    },
+    {
+     "n": 2,
+     "name": "Rule / set identity applied",
+     "rule": "A motion is an act of a party; a ruling is an act of a court. Count the appeal-docket rows that are rulings on the motion.",
+     "identity": "rulings_on_dkt13 = |{row in CAAP-26-0000625 : row answers Dkt 13}|"
+    },
+    {
+     "n": 3,
+     "name": "Formula / counting shown",
+     "work": [
+      "appeal docket rows in the library: 20",
+      "rows that reference the withdrawal motion: 1 (the motion itself, Dkt 13)",
+      "rows that are an appeal-court order on it: 0",
+      "trial-court order granting withdrawal: 1 (trial Dkt 484, inside Dkt 13 p.10)"
+     ],
+     "code": "len([r for r in appeal_rows if 'order' in r.code.lower() and r.docket > 13]) == 0"
+    },
+    {
+     "n": 4,
+     "name": "Algorithmic verdict",
+     "follows": [
+      "the trial court granted withdrawal on 07-OCT-2026 (trial Dkt 484, reproduced at Dkt 13 p.10)",
+      "the appeal court received a motion for leave to withdraw on 09-OCT-2026 (Dkt 13)",
+      "no appeal-court ruling on that motion is held in the library (0 rows)",
+      "the amended record's flyleaf says it now names attorneys and removed Pro Se"
+     ],
+     "does_not_follow": [
+      "that appellate counsel has withdrawn, or that the appellant is unrepresented before the ICA",
+      "that the flyleaf note is a ruling, or that it supersedes Dkt 13",
+      "any consequence for the appeal schedule (Dkt 13 states none)"
+     ],
+     "for_counsel": true
+    }
+   ]
+  },
+  {
+   "slug": "dkt496-vs-ra-cutoff",
+   "title": "1RC Dkt 496 NA filed 04-SEP-2026 vs the 495-row Record on Appeal cutoff",
+   "for_counsel": true,
+   "steps": [
+    {
+     "n": 1,
+     "name": "Primary inputs & SHA-256",
+     "inputs": [
+      {
+       "what": "certified trial-court notice of appeal, Dkt 496",
+       "value": "filed 04-SEP-2026 04:22 PM",
+       "cite": {
+        "case": "1RC191003776",
+        "docket": 496,
+        "page": "p.1",
+        "file": "COURT_DOCKET/CERTIFIED/2026-09-04__1RC191003776__DKT__DKT0496-NA__notice-of-appeal-caap-26-625__CERT__h8719ada165f9.pdf",
+        "sha256": "8719ada165f96c1eff2040c0312bd6c7adf19871f3702fdf865b5ace5d04b94e",
+        "label": "1RC Dkt 496 NA (certified) p.1"
+       },
+       "quote_ids": [
+        "q-stamp496"
+       ]
+      },
+      {
+       "what": "Record on Appeal register (ICA Dkt 15), pp.5-195",
+       "value": "495 record(s) total",
+       "cite": {
+        "case": "CAAP-26-0000625",
+        "docket": 15,
+        "page": "p.5",
+        "file": "APPEALS/CAAP-26-0000625/DOCKET/2026-10-28__CAAP-26-0000625__DKT__DKT0015-RA__record-on-appeal__SRC__hefa1ddef4d93.pdf",
+        "sha256": "efa1ddef4d93fae99c43fd324504cc7c433ff4cbc89d60d39ec687380f1114b1",
+        "label": "ICA Dkt 15 p.5"
+       },
+       "quote_ids": [
+        "q-495"
+       ]
+      }
+     ]
+    },
+    {
+     "n": 2,
+     "name": "Rule / membership test applied",
+     "rule": "Is docket 496 an element of the integers the register prints (1..495)?",
+     "identity": "496 in {1..495} ; last_register_date vs filing date"
+    },
+    {
+     "n": 3,
+     "name": "Formula / set membership and date order shown",
+     "work": [
+      "register docket numbers = 1..495 (495 entries, header '495 record(s) total')",
+      "496 ∉ {1..495}",
+      "496 — 495 = 1 (docket numbers advance by 1)",
+      "Dkt 496 filing date 04-SEP-2026 is 49 days BEFORE the register's last entry 23-OCT-2026"
+     ],
+     "code": "496 in range(1,496) == False ; (date(2026,10,23)-date(2026,9,4)).days == 49"
+    },
+    {
+     "n": 4,
+     "name": "Algorithmic verdict",
+     "follows": [
+      "the notice of appeal carries trial docket number 496",
+      "the register printed in the Record on Appeal ends at 495",
+      "the missing number is dated 49 days earlier than the register's last entry"
+     ],
+     "does_not_follow": [
+      "that the Record on Appeal is incomplete, or that anything was omitted improperly",
+      "that the appeal is timely or untimely",
+      "anything about the merits"
+     ],
+     "for_counsel": true
+    }
+   ]
+  }
+ ]
+}

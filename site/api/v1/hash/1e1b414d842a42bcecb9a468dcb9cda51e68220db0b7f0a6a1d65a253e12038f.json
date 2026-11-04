@@ -1,0 +1,11 @@
+{
+  "schema": "ssot/api-hash@1",
+  "sha256": "1e1b414d842a42bcecb9a468dcb9cda51e68220db0b7f0a6a1d65a253e12038f",
+  "kind": "trial_pdf",
+  "case": "1RC191003776",
+  "docket": 438,
+  "file": "Dkt438_NEF_4190668419.pdf",
+  "published_url": null,
+  "lookup": "https://the95xrecord.vercel.app/api/v1/hash/1e1b414d842a42bcecb9a468dcb9cda51e68220db0b7f0a6a1d65a253e12038f.json",
+  "ssot": "https://the95xrecord.vercel.app/ssot.json"
+}

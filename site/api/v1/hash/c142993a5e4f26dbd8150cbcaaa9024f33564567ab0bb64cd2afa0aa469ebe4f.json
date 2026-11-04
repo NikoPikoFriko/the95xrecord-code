@@ -1,0 +1,11 @@
+{
+  "schema": "ssot/api-hash@1",
+  "sha256": "c142993a5e4f26dbd8150cbcaaa9024f33564567ab0bb64cd2afa0aa469ebe4f",
+  "kind": "document_page",
+  "case": "1RC191003776",
+  "docket": 98,
+  "file": "2020-07-09__1RC191003776__DKT0098__demand-for-jury-trial.pdf",
+  "published_url": "https://the95xrecord.vercel.app/docs/fedd5625b1",
+  "lookup": "https://the95xrecord.vercel.app/api/v1/hash/c142993a5e4f26dbd8150cbcaaa9024f33564567ab0bb64cd2afa0aa469ebe4f.json",
+  "ssot": "https://the95xrecord.vercel.app/ssot.json"
+}

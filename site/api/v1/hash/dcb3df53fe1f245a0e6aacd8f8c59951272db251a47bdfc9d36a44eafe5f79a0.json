@@ -1,0 +1,11 @@
+{
+  "schema": "ssot/api-hash@1",
+  "sha256": "dcb3df53fe1f245a0e6aacd8f8c59951272db251a47bdfc9d36a44eafe5f79a0",
+  "kind": "trial_text",
+  "case": "1RC191003776",
+  "docket": 238,
+  "file": "2021-12-28__Dkt238__1RC191003776__ex-parte-motion-to-shorten-time-to-hear-counterclaim-defenda.ocr.txt",
+  "published_url": "https://the95xrecord.vercel.app/COURT_DOCKET/LISTINGS/1RC191003776/04_TEXT/ocr/2021-12-28__Dkt238__1RC191003776__ex-parte-motion-to-shorten-time-to-hear-counterclaim-defenda.ocr.txt",
+  "lookup": "https://the95xrecord.vercel.app/api/v1/hash/dcb3df53fe1f245a0e6aacd8f8c59951272db251a47bdfc9d36a44eafe5f79a0.json",
+  "ssot": "https://the95xrecord.vercel.app/ssot.json"
+}

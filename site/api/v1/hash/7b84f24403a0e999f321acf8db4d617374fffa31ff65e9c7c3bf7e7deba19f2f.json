@@ -1,0 +1,11 @@
+{
+  "schema": "ssot/api-hash@1",
+  "sha256": "7b84f24403a0e999f321acf8db4d617374fffa31ff65e9c7c3bf7e7deba19f2f",
+  "kind": "document_page",
+  "case": "1RC191003776",
+  "docket": 4,
+  "file": "2026-09-04__CAAP-26-0000625__DKT0004__exhibit-dkt427-judgment.pdf",
+  "published_url": "https://the95xrecord.vercel.app/docs/3d3c9f354d",
+  "lookup": "https://the95xrecord.vercel.app/api/v1/hash/7b84f24403a0e999f321acf8db4d617374fffa31ff65e9c7c3bf7e7deba19f2f.json",
+  "ssot": "https://the95xrecord.vercel.app/ssot.json"
+}

@@ -1,0 +1,11 @@
+{
+  "schema": "ssot/api-hash@1",
+  "sha256": "9f7137344b7562fb0b99739b662d99883a7edf75360fdcc10bf7013ade5dd956",
+  "kind": "document_page",
+  "case": "1RC191003776",
+  "docket": 79,
+  "file": "2020-06-02__Dkt79__1RC191003776__non-hearing-motion-add-counterclaims.pdf",
+  "published_url": "https://the95xrecord.vercel.app/docs/2842eb06c3",
+  "lookup": "https://the95xrecord.vercel.app/api/v1/hash/9f7137344b7562fb0b99739b662d99883a7edf75360fdcc10bf7013ade5dd956.json",
+  "ssot": "https://the95xrecord.vercel.app/ssot.json"
+}

@@ -1,0 +1,11 @@
+{
+  "schema": "ssot/api-hash@1",
+  "sha256": "28e21123af498414383ef7cd8f9b3ac24d360e6f3c18d1b2ace5b8f8aefa7eea",
+  "kind": "document_page",
+  "case": "1RC191003776",
+  "docket": 431,
+  "file": "2026-08-19__1RC191003776__DKT0431__dkt0431-0434-mfr-re-ord-re-mtn-atty-fees-and.pdf",
+  "published_url": "https://the95xrecord.vercel.app/docs/ce0e0a8187",
+  "lookup": "https://the95xrecord.vercel.app/api/v1/hash/28e21123af498414383ef7cd8f9b3ac24d360e6f3c18d1b2ace5b8f8aefa7eea.json",
+  "ssot": "https://the95xrecord.vercel.app/ssot.json"
+}

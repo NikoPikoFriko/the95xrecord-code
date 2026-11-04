@@ -1,0 +1,11 @@
+{
+  "schema": "ssot/api-hash@1",
+  "sha256": "e45fc15ce35fd0dfd329f6d945835fc8a3e95aa3249269b8f256f8a02bb0e292",
+  "kind": "document_page",
+  "case": "1RC191003776",
+  "docket": 420,
+  "file": "2025-01-07__1RC191003776__DKT0420__ntce-certified.pdf",
+  "published_url": "https://the95xrecord.vercel.app/docs/88298340d0",
+  "lookup": "https://the95xrecord.vercel.app/api/v1/hash/e45fc15ce35fd0dfd329f6d945835fc8a3e95aa3249269b8f256f8a02bb0e292.json",
+  "ssot": "https://the95xrecord.vercel.app/ssot.json"
+}

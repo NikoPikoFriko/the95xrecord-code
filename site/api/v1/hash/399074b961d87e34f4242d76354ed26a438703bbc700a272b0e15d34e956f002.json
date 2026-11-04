@@ -1,0 +1,11 @@
+{
+  "schema": "ssot/api-hash@1",
+  "sha256": "399074b961d87e34f4242d76354ed26a438703bbc700a272b0e15d34e956f002",
+  "kind": "document_page",
+  "case": "1RC191003776",
+  "docket": 87,
+  "file": "2020-06-12__1RC191003776__DKT0087__nef-pltf-cntrclaim-def-marine-surf-waikiki-joinder-opp-mtn-lv.pdf",
+  "published_url": "https://the95xrecord.vercel.app/docs/e381767f9a",
+  "lookup": "https://the95xrecord.vercel.app/api/v1/hash/399074b961d87e34f4242d76354ed26a438703bbc700a272b0e15d34e956f002.json",
+  "ssot": "https://the95xrecord.vercel.app/ssot.json"
+}

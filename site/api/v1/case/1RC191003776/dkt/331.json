@@ -1,0 +1,33 @@
+{
+  "schema": "ssot/api-docket@1",
+  "case": "1RC191003776",
+  "docket": 331,
+  "code": "RAV",
+  "filed": "29-JUL-2022",
+  "filed_iso": "2022-07-29",
+  "time": "15:24:19",
+  "ra_pdf_page": 113,
+  "grade": "PARTIAL",
+  "for_counsel": false,
+  "evidence": {
+    "renditions": [],
+    "text": {
+      "file": "COURT_DOCKET/LISTINGS/1RC191003776/04_TEXT/ocr/2022-07-29__Dkt331__1RC191003776__request-for-transcript-may-12-2022-trial.ocr.txt",
+      "sha256": "ee3b85f9c6e444cd48d6a398a79da8181615cbd6ff708b6a67b48da0b2ae960c",
+      "location": "court_docket_listings_ocr",
+      "published_url": "https://the95xrecord.vercel.app/COURT_DOCKET/LISTINGS/1RC191003776/04_TEXT/ocr/2022-07-29__Dkt331__1RC191003776__request-for-transcript-may-12-2022-trial.ocr.txt"
+    },
+    "held_by_station": true,
+    "gap": false
+  },
+  "pdf_conflict": null,
+  "flags": [
+    "text_only_no_pdf_of_document"
+  ],
+  "links": {
+    "register": "https://the95xrecord.vercel.app/register#dkt-331",
+    "register_json": "https://the95xrecord.vercel.app/api/v1/case/1RC191003776/dkt/331.json",
+    "ssot": "https://the95xrecord.vercel.app/ssot.json",
+    "crossref": "https://the95xrecord.vercel.app/data/crossref.json"
+  }
+}

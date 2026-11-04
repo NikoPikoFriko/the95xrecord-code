@@ -1,0 +1,33 @@
+{
+  "schema": "ssot/api-docket@1",
+  "case": "1RC191003776",
+  "docket": 355,
+  "code": "NOCD",
+  "filed": "27-OCT-2022",
+  "filed_iso": "2022-10-27",
+  "time": "16:32:21",
+  "ra_pdf_page": 124,
+  "grade": "PARTIAL",
+  "for_counsel": false,
+  "evidence": {
+    "renditions": [],
+    "text": {
+      "file": "COURT_DOCKET/LISTINGS/1RC191003776/04_TEXT/ocr/2022-10-27__Dkt355__1RC191003776__other.ocr.txt",
+      "sha256": "d4c58123fef9f3c998a6a6fe3c1ea0334af405b82d1e1aa5a8a2cce4a52b2dac",
+      "location": "court_docket_listings_ocr",
+      "published_url": "https://the95xrecord.vercel.app/COURT_DOCKET/LISTINGS/1RC191003776/04_TEXT/ocr/2022-10-27__Dkt355__1RC191003776__other.ocr.txt"
+    },
+    "held_by_station": true,
+    "gap": false
+  },
+  "pdf_conflict": null,
+  "flags": [
+    "text_only_no_pdf_of_document"
+  ],
+  "links": {
+    "register": "https://the95xrecord.vercel.app/register#dkt-355",
+    "register_json": "https://the95xrecord.vercel.app/api/v1/case/1RC191003776/dkt/355.json",
+    "ssot": "https://the95xrecord.vercel.app/ssot.json",
+    "crossref": "https://the95xrecord.vercel.app/data/crossref.json"
+  }
+}

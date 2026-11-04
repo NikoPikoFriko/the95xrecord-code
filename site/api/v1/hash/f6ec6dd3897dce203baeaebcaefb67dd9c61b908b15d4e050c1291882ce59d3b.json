@@ -1,0 +1,11 @@
+{
+  "schema": "ssot/api-hash@1",
+  "sha256": "f6ec6dd3897dce203baeaebcaefb67dd9c61b908b15d4e050c1291882ce59d3b",
+  "kind": "document_page",
+  "case": "1RC191003776",
+  "docket": 301,
+  "file": "2022-03-31__1RC191003776__DKT0301__wdwl-of-counsel.pdf",
+  "published_url": "https://the95xrecord.vercel.app/docs/b8769e72ec",
+  "lookup": "https://the95xrecord.vercel.app/api/v1/hash/f6ec6dd3897dce203baeaebcaefb67dd9c61b908b15d4e050c1291882ce59d3b.json",
+  "ssot": "https://the95xrecord.vercel.app/ssot.json"
+}

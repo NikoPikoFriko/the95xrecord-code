@@ -1,0 +1,11 @@
+{
+  "schema": "ssot/api-hash@1",
+  "sha256": "c8432d846513ae8a8cf7f27caebc8bb1d75b19c0ecdedb9cbb06be477158ccae",
+  "kind": "document_page",
+  "case": "1RC191003776",
+  "docket": 47,
+  "file": "2020-01-16__1RC191003776__DKT0047__amend-nocd.pdf",
+  "published_url": "https://the95xrecord.vercel.app/docs/b8fe9e81b7",
+  "lookup": "https://the95xrecord.vercel.app/api/v1/hash/c8432d846513ae8a8cf7f27caebc8bb1d75b19c0ecdedb9cbb06be477158ccae.json",
+  "ssot": "https://the95xrecord.vercel.app/ssot.json"
+}

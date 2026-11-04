@@ -1,0 +1,26 @@
+{
+  "schema": "ssot/api-docket@1",
+  "case": "CAAP-26-0000625",
+  "docket": 6,
+  "code": "CA",
+  "title": "Civil Appeal Docketing Statement",
+  "filed": "04-SEP-2026",
+  "filed_iso": "2026-09-04",
+  "time": "16:22:21",
+  "grade": "OBS",
+  "for_counsel": false,
+  "evidence": {
+    "held_by_station": true,
+    "file": "APPEALS/CAAP-26-0000625/DOCKET/2026-09-04__CAAP-26-0000625__DKT__DKT0006-CA__civil-appeal-docketing-statement__SRC__h3b977ba20f6e.pdf",
+    "sha256": "3b977ba20f6e5289fa9a59b138c3ba90696bbfd0e16ba8ea84f5f0820b5d8dac",
+    "pages": 47,
+    "form": "src",
+    "gap": false
+  },
+  "flags": [],
+  "links": {
+    "appeal": "https://the95xrecord.vercel.app/appeal#dkt-6",
+    "appeal_json": "https://the95xrecord.vercel.app/api/v1/case/CAAP-26-0000625/dkt/6.json",
+    "ssot": "https://the95xrecord.vercel.app/ssot.json"
+  }
+}

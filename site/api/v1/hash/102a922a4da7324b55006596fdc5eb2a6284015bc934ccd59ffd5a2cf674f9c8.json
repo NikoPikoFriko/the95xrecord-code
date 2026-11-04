@@ -1,0 +1,11 @@
+{
+  "schema": "ssot/api-hash@1",
+  "sha256": "102a922a4da7324b55006596fdc5eb2a6284015bc934ccd59ffd5a2cf674f9c8",
+  "kind": "document_page",
+  "case": "1RC191003776",
+  "docket": 346,
+  "file": "2021-07-15__1RC191003776__DKT0346__okamura-email-2018-08-22.pdf",
+  "published_url": "https://the95xrecord.vercel.app/docs/f40ec726ef",
+  "lookup": "https://the95xrecord.vercel.app/api/v1/hash/102a922a4da7324b55006596fdc5eb2a6284015bc934ccd59ffd5a2cf674f9c8.json",
+  "ssot": "https://the95xrecord.vercel.app/ssot.json"
+}

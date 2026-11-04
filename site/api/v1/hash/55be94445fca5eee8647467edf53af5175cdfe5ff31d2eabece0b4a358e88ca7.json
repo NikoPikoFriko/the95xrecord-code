@@ -1,0 +1,11 @@
+{
+  "schema": "ssot/api-hash@1",
+  "sha256": "55be94445fca5eee8647467edf53af5175cdfe5ff31d2eabece0b4a358e88ca7",
+  "kind": "document_page",
+  "case": "1RC191003776",
+  "docket": 310,
+  "file": "2022-05-10__Dkt310__1RC191003776__counterclaim-defendant-association-of-apartment-ow.pdf",
+  "published_url": "https://the95xrecord.vercel.app/docs/0f25ca50f4",
+  "lookup": "https://the95xrecord.vercel.app/api/v1/hash/55be94445fca5eee8647467edf53af5175cdfe5ff31d2eabece0b4a358e88ca7.json",
+  "ssot": "https://the95xrecord.vercel.app/ssot.json"
+}

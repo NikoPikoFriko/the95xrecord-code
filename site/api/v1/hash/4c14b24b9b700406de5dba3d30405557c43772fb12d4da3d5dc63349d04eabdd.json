@@ -1,0 +1,11 @@
+{
+  "schema": "ssot/api-hash@1",
+  "sha256": "4c14b24b9b700406de5dba3d30405557c43772fb12d4da3d5dc63349d04eabdd",
+  "kind": "document_page",
+  "case": "1RC191003776",
+  "docket": 29,
+  "file": "2020-01-13__1RC191003776__DKT0029__nef-re-ntc-of-change-of-firm-name-of-counsel-for-pltf.pdf",
+  "published_url": "https://the95xrecord.vercel.app/docs/63bd509ff0",
+  "lookup": "https://the95xrecord.vercel.app/api/v1/hash/4c14b24b9b700406de5dba3d30405557c43772fb12d4da3d5dc63349d04eabdd.json",
+  "ssot": "https://the95xrecord.vercel.app/ssot.json"
+}

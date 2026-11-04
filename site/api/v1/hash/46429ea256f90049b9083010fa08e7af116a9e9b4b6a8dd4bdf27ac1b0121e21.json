@@ -1,0 +1,11 @@
+{
+  "schema": "ssot/api-hash@1",
+  "sha256": "46429ea256f90049b9083010fa08e7af116a9e9b4b6a8dd4bdf27ac1b0121e21",
+  "kind": "appeal_pdf",
+  "case": "CAAP-26-0000625",
+  "docket": 19,
+  "file": "2026-10-29__CAAP-26-0000625__DKT__DKT0019-AMRA__amended-record-on-appeal__SRC__h46429ea256f9.pdf",
+  "published_url": null,
+  "lookup": "https://the95xrecord.vercel.app/api/v1/hash/46429ea256f90049b9083010fa08e7af116a9e9b4b6a8dd4bdf27ac1b0121e21.json",
+  "ssot": "https://the95xrecord.vercel.app/ssot.json"
+}

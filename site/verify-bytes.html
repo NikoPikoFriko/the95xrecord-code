@@ -1,0 +1,68 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1"><title>Verify the bytes in your browser</title>
+<style>
+:root{--ink:#111;--muted:#666;--line:#e5e5e5;--bg:#faf9f7;--accent:#7a1f1f;--ok:#1f5f3a}
+body{margin:0;background:var(--bg);color:var(--ink);font:16px/1.55 Georgia,serif}
+header{padding:52px 24px 26px;border-bottom:1px solid var(--line)}main,footer{max-width:920px;margin:0 auto;padding:24px}
+h1{font-size:2.05rem;margin:0 0 8px}h2{margin:1.8em 0 .4em;font-size:1.18rem}.muted{color:var(--muted)}a{color:var(--accent)}
+code{font:12px/1.4 ui-monospace,Menlo,monospace;background:#f0eee9;padding:1px 4px;border-radius:3px}
+input{width:100%;font:13px ui-monospace,Menlo,monospace;padding:9px;border:1px solid var(--line);background:#fff}
+button{font:13px ui-monospace,Menlo,monospace;padding:7px 12px;margin-top:8px;border:1px solid var(--line);background:#fff;cursor:pointer}
+button:hover{border-color:var(--accent)}.ok{border-left:3px solid var(--ok);padding-left:14px;margin:18px 0}
+.gap{border-left:3px solid var(--accent);padding-left:14px;margin:18px 0}
+</style></head><body><header><h1>Verify the bytes in your browser</h1>
+<p class="muted">AOAO Marine Surf Waikiki v. Nikodem Pikor · 1RC191003776 · appeal CAAP-26-0000625</p>
+<p class="muted"><a href="index.html">record</a> · <a href="register.html">register</a> · <a href="appeal.html">appeal</a> ·
+<a href="query.html">query</a> · <a href="reasoning/index.html">reasoning</a> · <a href="ssot.json">/ssot.json</a> ·
+<a href="data/official_sources.json">/data/official_sources.json</a></p></header><main>
+<p><strong>No server, no cloud, no trust.</strong> Paste a document sha256; this page fetches the bytes from the public
+evidence repo (<code>raw.githubusercontent.com</code>), hashes them in your browser with
+<code>crypto.subtle.digest("SHA-256")</code>, and tells you whether the bytes are the file the hash names. It also shows
+the court source for that document from <a href="data/official_sources.json">/data/official_sources.json</a>
+(561 documents; 31 with a recorded JIMS URL, the rest by citation route).</p>
+<p class="muted">Why the GitHub copy: the official JIMS servlet requires a court login and will not serve anonymous
+requests, so the court link is the authority and this hash-checked copy is the convenience. Compare the two, do not
+confuse them.</p>
+<h2>Hash check</h2>
+<p><input id="sha" placeholder="64-hex sha256, e.g. 918d3d734577f4300fb49f1dbba360be2e2e4a05ac7c3ba85ba51197682165dc"></p>
+<p><input id="ext" value=".pdf" style="width:120px" title="file extension"></p>
+<button onclick="check()">Fetch bytes and compare SHA-256</button>
+<div id="out"></div>
+<h2>How to do it without this page</h2>
+<pre><code>curl -sL https://raw.githubusercontent.com/NikoPikoFriko/the95xrecord-evidence/main/sha256/&lt;sha256&gt;.pdf -o f.pdf
+sha256sum f.pdf   # should print &lt;sha256&gt;  f.pdf</code></pre>
+<p class="muted">The repository sets <code>.gitattributes * -text</code>, so a clone does not rewrite these bytes on
+Windows (this station has <code>core.autocrlf=true</code> system-wide, which would otherwise corrupt text files). Do not
+compare GitHub's raw <code>ETag</code> with the hash: it is a git blob digest, not a SHA-256 of the content.</p>
+<script>
+const RAW = "https://raw.githubusercontent.com/NikoPikoFriko/the95xrecord-evidence/main/sha256/";
+function out(html) { document.getElementById("out").innerHTML = html; }
+async function check() {
+  const sha = document.getElementById("sha").value.trim().toLowerCase();
+  const ext = document.getElementById("ext").value.trim() || ".pdf";
+  if (!/^[0-9a-f]{64}$/.test(sha)) { out("<div class='gap'>that is not a 64-hex sha256</div>"); return; }
+  out("<p class='muted'>fetching " + RAW + sha + ext + " …</p>");
+  try {
+    const r = await fetch(RAW + sha + ext);
+    if (!r.ok) { out("<div class='gap'>the evidence repo has no file <code>" + sha + ext + "</code> (HTTP " + r.status + "). The record may hold only a text rendition for this document.</div>"); return; }
+    const buf = await r.arrayBuffer();
+    const d = await crypto.subtle.digest("SHA-256", buf);
+    const hex = Array.from(new Uint8Array(d)).map(b => b.toString(16).padStart(2, "0")).join("");
+    const match = hex === sha;
+    let official = "";
+    try {
+      const os = await (await fetch("data/official_sources.json")).json();
+      const e = (os.documents || []).find(x => x.sha256 === sha);
+      if (e) {
+        official = e.official
+          ? " · official source: <a href='" + e.official.retrieval_url + "' rel='noopener'>JIMS Dkt " + e.docket + " (" + e.code + ")</a> (login required)"
+          : " · official source: " + e.route;
+      }
+    } catch (err) {}
+    out((match ? "<div class='ok'><strong>VERIFIED</strong> — the bytes hash to exactly the filename." : "<div class='gap'><strong>MISMATCH</strong> — bytes hash to " + hex) +
+        "<br><code>" + hex + "</code><br>" + buf.byteLength.toLocaleString() + " bytes" + official + "</div>");
+  } catch (e) { out("<div class='gap'>fetch failed: " + e.message + " (cross-origin or offline)</div>"); }
+}
+</script>
+</main><footer class="muted"><p>States the record's contents; concludes nothing about the merits. Gaps are published on purpose.</p>
+<p>Client-side verification only: one fetch to the published bytes, no database, no API, no cloud.</p></footer></body></html>

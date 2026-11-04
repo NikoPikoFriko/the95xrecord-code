@@ -1,0 +1,11 @@
+{
+  "schema": "ssot/api-hash@1",
+  "sha256": "67e56fdaddfccee18aa35fa34f0a76bbbf182c6e4924147c6c37c2904fa73392",
+  "kind": "document_page",
+  "case": "1RC191003776",
+  "docket": 24,
+  "file": "2020-01-09__Dkt24__1RC191003776__subpoena.pdf",
+  "published_url": "https://the95xrecord.vercel.app/docs/10c27a9220",
+  "lookup": "https://the95xrecord.vercel.app/api/v1/hash/67e56fdaddfccee18aa35fa34f0a76bbbf182c6e4924147c6c37c2904fa73392.json",
+  "ssot": "https://the95xrecord.vercel.app/ssot.json"
+}

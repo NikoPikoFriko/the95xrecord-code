@@ -1,0 +1,11 @@
+{
+  "schema": "ssot/api-hash@1",
+  "sha256": "4543bc548d32847c15749f9f20bcc6496d4a219652fff1f32283dbc2dc3d7492",
+  "kind": "document_page",
+  "case": "1RC191003776",
+  "docket": 277,
+  "file": "2022-01-20__1RC191003776__DKT0277__ras-thyssenkrupp-elevator-corp.pdf",
+  "published_url": "https://the95xrecord.vercel.app/docs/c45ae19d14",
+  "lookup": "https://the95xrecord.vercel.app/api/v1/hash/4543bc548d32847c15749f9f20bcc6496d4a219652fff1f32283dbc2dc3d7492.json",
+  "ssot": "https://the95xrecord.vercel.app/ssot.json"
+}

@@ -1,0 +1,11 @@
+{
+  "schema": "ssot/api-hash@1",
+  "sha256": "ac9a20643c56437f1b7b68d4ba6e80ced04c732cd90ca6ade119f4205586604b",
+  "kind": "document_page",
+  "case": "1RC191003776",
+  "docket": 1,
+  "file": "2019-05-31__1RC191003776__DKT0001__complaint-assumpsit-money-owed-declaration-exhibit-s-summons.pdf",
+  "published_url": "https://the95xrecord.vercel.app/docs/34a4a6c8a6",
+  "lookup": "https://the95xrecord.vercel.app/api/v1/hash/ac9a20643c56437f1b7b68d4ba6e80ced04c732cd90ca6ade119f4205586604b.json",
+  "ssot": "https://the95xrecord.vercel.app/ssot.json"
+}

@@ -1,0 +1,39 @@
+{
+  "schema": "ssot/api-docket@1",
+  "case": "1RC191003776",
+  "docket": 442,
+  "code": "MOT",
+  "filed": "24-AUG-2026",
+  "filed_iso": "2026-08-24",
+  "time": "09:35:57",
+  "ra_pdf_page": 166,
+  "grade": "PARTIAL",
+  "for_counsel": false,
+  "evidence": {
+    "renditions": [],
+    "text": {
+      "file": "COURT_DOCKET/LISTINGS/1RC191003776/04_TEXT/ocr/2026-08-24__Dkt442__1RC191003776__defendant-counterclaim-plaintiff-nikodem-pikor-s-motion-to-e.ocr.txt",
+      "sha256": "4f466c46749edc716f130fcb99ea19990d22d955a37d67dca77807b7a71ddaaf",
+      "location": "court_docket_listings_ocr",
+      "published_url": "https://the95xrecord.vercel.app/COURT_DOCKET/LISTINGS/1RC191003776/04_TEXT/ocr/2026-08-24__Dkt442__1RC191003776__defendant-counterclaim-plaintiff-nikodem-pikor-s-motion-to-e.ocr.txt"
+    },
+    "held_by_station": true,
+    "gap": false
+  },
+  "pdf_conflict": {
+    "kind": "proposed_order_about_docket",
+    "file": "APPEALS/CAAP-26-0000625/_VARIANTS_FROM_RETIRED_2026-10-22/C_Users_NIKO_SAFE_COPY/MAGIC-2026-10-18-1910/MAGIC/LAWSUITS/FILING_2026-10-19/02_EXHIBIT_A_ORDER_DKT442.pdf",
+    "sha256": "d353ba61472bc72b03173f382731ceba45c7a8867f325c66aa75b394d3a8a73d",
+    "reason": "[PROPOSED] order denying the Dkt 442 motion to extend time, unsigned and undated; it is a separate document about Dkt 442, not the motion itself"
+  },
+  "flags": [
+    "proposed_order_about_docket",
+    "text_only_no_pdf_of_document"
+  ],
+  "links": {
+    "register": "https://the95xrecord.vercel.app/register#dkt-442",
+    "register_json": "https://the95xrecord.vercel.app/api/v1/case/1RC191003776/dkt/442.json",
+    "ssot": "https://the95xrecord.vercel.app/ssot.json",
+    "crossref": "https://the95xrecord.vercel.app/data/crossref.json"
+  }
+}

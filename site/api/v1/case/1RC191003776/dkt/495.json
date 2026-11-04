@@ -1,0 +1,33 @@
+{
+  "schema": "ssot/api-docket@1",
+  "case": "1RC191003776",
+  "docket": 495,
+  "code": "NEF",
+  "filed": "23-OCT-2026",
+  "filed_iso": "2026-10-23",
+  "time": "11:34:15",
+  "ra_pdf_page": 195,
+  "grade": "OBS",
+  "for_counsel": false,
+  "evidence": {
+    "renditions": [
+      {
+        "file": "COURT_DOCKET/REGULAR/2026-10-23__1RC191003776__DKT__DKT0495-NEF__nef-for-proposed-order-dkt494__NEF__h86ae8dd1c6b7.pdf",
+        "sha256": "86ae8dd1c6b7093f3e23ca076e6a82668c7585bb043661f5733b00ce52d5d022",
+        "location": "canonical_library",
+        "published_url": null
+      }
+    ],
+    "text": null,
+    "held_by_station": true,
+    "gap": false
+  },
+  "pdf_conflict": null,
+  "flags": [],
+  "links": {
+    "register": "https://the95xrecord.vercel.app/register#dkt-495",
+    "register_json": "https://the95xrecord.vercel.app/api/v1/case/1RC191003776/dkt/495.json",
+    "ssot": "https://the95xrecord.vercel.app/ssot.json",
+    "crossref": "https://the95xrecord.vercel.app/data/crossref.json"
+  }
+}

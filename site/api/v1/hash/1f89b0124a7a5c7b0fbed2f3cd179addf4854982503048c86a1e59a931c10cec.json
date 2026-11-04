@@ -1,0 +1,11 @@
+{
+  "schema": "ssot/api-hash@1",
+  "sha256": "1f89b0124a7a5c7b0fbed2f3cd179addf4854982503048c86a1e59a931c10cec",
+  "kind": "document_page",
+  "case": "1RC191003776",
+  "docket": 255,
+  "file": "2022-01-07__Dkt255__1RC191003776__re-chuck-decoito.pdf",
+  "published_url": "https://the95xrecord.vercel.app/docs/ff4dbf8a59",
+  "lookup": "https://the95xrecord.vercel.app/api/v1/hash/1f89b0124a7a5c7b0fbed2f3cd179addf4854982503048c86a1e59a931c10cec.json",
+  "ssot": "https://the95xrecord.vercel.app/ssot.json"
+}

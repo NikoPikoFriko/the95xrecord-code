@@ -1,0 +1,11 @@
+{
+  "schema": "ssot/api-hash@1",
+  "sha256": "79bdfae6c62794d934651e4384ecb7e40c419e6f04693ebeb79db8def4ba1cae",
+  "kind": "document_page",
+  "case": "1RC191003776",
+  "docket": 228,
+  "file": "2021-10-05__1RC191003776__DKT0228__minutes-settlement-conference.pdf",
+  "published_url": "https://the95xrecord.vercel.app/docs/04281910ef",
+  "lookup": "https://the95xrecord.vercel.app/api/v1/hash/79bdfae6c62794d934651e4384ecb7e40c419e6f04693ebeb79db8def4ba1cae.json",
+  "ssot": "https://the95xrecord.vercel.app/ssot.json"
+}

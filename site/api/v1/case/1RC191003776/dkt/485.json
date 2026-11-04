@@ -1,0 +1,33 @@
+{
+  "schema": "ssot/api-docket@1",
+  "case": "1RC191003776",
+  "docket": 485,
+  "code": "NEF",
+  "filed": "07-OCT-2026",
+  "filed_iso": "2026-10-07",
+  "time": "08:09:05",
+  "ra_pdf_page": 191,
+  "grade": "PARTIAL",
+  "for_counsel": false,
+  "evidence": {
+    "renditions": [],
+    "text": {
+      "file": "05_AI_REVIEW/MAGIC_04_REPORTS/DOCKET_JSON_2026-10-20/TEXT/1RC191003776_DKT0485.txt",
+      "sha256": "c9d31f89396f075579a5552769fdde029159defb4a11521821ff3601e35d0d00",
+      "location": "ai_review_report_text",
+      "published_url": "https://the95xrecord.vercel.app/05_AI_REVIEW/MAGIC_04_REPORTS/DOCKET_JSON_2026-10-20/TEXT/1RC191003776_DKT0485.txt"
+    },
+    "held_by_station": true,
+    "gap": false
+  },
+  "pdf_conflict": null,
+  "flags": [
+    "text_only_no_pdf_of_document"
+  ],
+  "links": {
+    "register": "https://the95xrecord.vercel.app/register#dkt-485",
+    "register_json": "https://the95xrecord.vercel.app/api/v1/case/1RC191003776/dkt/485.json",
+    "ssot": "https://the95xrecord.vercel.app/ssot.json",
+    "crossref": "https://the95xrecord.vercel.app/data/crossref.json"
+  }
+}

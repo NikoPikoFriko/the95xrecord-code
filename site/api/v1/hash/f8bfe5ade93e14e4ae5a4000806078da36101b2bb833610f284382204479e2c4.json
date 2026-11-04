@@ -1,0 +1,11 @@
+{
+  "schema": "ssot/api-hash@1",
+  "sha256": "f8bfe5ade93e14e4ae5a4000806078da36101b2bb833610f284382204479e2c4",
+  "kind": "trial_text",
+  "case": "1RC191003776",
+  "docket": 190,
+  "file": "2021-03-17__Dkt190__1RC191003776__return-of-service-acknowledgment-of-service-first-hawaiian-b.ocr.txt",
+  "published_url": "https://the95xrecord.vercel.app/COURT_DOCKET/LISTINGS/1RC191003776/04_TEXT/ocr/2021-03-17__Dkt190__1RC191003776__return-of-service-acknowledgment-of-service-first-hawaiian-b.ocr.txt",
+  "lookup": "https://the95xrecord.vercel.app/api/v1/hash/f8bfe5ade93e14e4ae5a4000806078da36101b2bb833610f284382204479e2c4.json",
+  "ssot": "https://the95xrecord.vercel.app/ssot.json"
+}

@@ -1,0 +1,11 @@
+{
+  "schema": "ssot/api-hash@1",
+  "sha256": "a6ce2b679049346c499b87d89876696fe289466024318fb01f6cb0b20c56fdc7",
+  "kind": "document_page",
+  "case": "1RC191003776",
+  "docket": null,
+  "file": "2020-04-02__UNASSIGNED__NONE__re-meeting-with-kendall-neff-your-quickbooks-accountant.pdf",
+  "published_url": "https://the95xrecord.vercel.app/docs/87c03fad91",
+  "lookup": "https://the95xrecord.vercel.app/api/v1/hash/a6ce2b679049346c499b87d89876696fe289466024318fb01f6cb0b20c56fdc7.json",
+  "ssot": "https://the95xrecord.vercel.app/ssot.json"
+}

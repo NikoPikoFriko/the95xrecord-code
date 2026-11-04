@@ -1,0 +1,11 @@
+{
+  "schema": "ssot/api-hash@1",
+  "sha256": "acc3c21cfa8f45c8a99d86e8662587066452e733900731bd9e1411beb5b300aa",
+  "kind": "document_page",
+  "case": "1RC191003776",
+  "docket": 113,
+  "file": "2020-07-23__1RC191003776__DKT0113__nef-aoao-reply-mis-mtn-recon-ord-grant-n-mtn.pdf",
+  "published_url": "https://the95xrecord.vercel.app/docs/d0eed37904",
+  "lookup": "https://the95xrecord.vercel.app/api/v1/hash/acc3c21cfa8f45c8a99d86e8662587066452e733900731bd9e1411beb5b300aa.json",
+  "ssot": "https://the95xrecord.vercel.app/ssot.json"
+}

@@ -1,0 +1,40 @@
+{
+  "schema": "ssot/api-docket@1",
+  "case": "1RC191003776",
+  "docket": 436,
+  "code": "NEF",
+  "filed": "20-AUG-2026",
+  "filed_iso": "2026-08-20",
+  "time": "11:44:59",
+  "ra_pdf_page": 162,
+  "grade": "PARTIAL",
+  "for_counsel": false,
+  "evidence": {
+    "renditions": [
+      {
+        "file": "EMAILS/_blindness/PACK_DOCKET_2026-08-21/comm/cases/2026-08-17-amanda-letter-improve/jefs/filed_20260820/Dkt436_NEF_6671946108.pdf",
+        "sha256": "9609fa6a85a46284d5ef21a2ceb3fc2dbb3e6a9429b3bc414b36540a1c126bee",
+        "location": "email_pack",
+        "published_url": null
+      }
+    ],
+    "text": {
+      "file": "COURT_DOCKET/LISTINGS/1RC191003776/04_TEXT/ocr/2026-08-20__Dkt436__1RC191003776__other.ocr.txt",
+      "sha256": "a63cfadcd7d5444eb4dff342d39f48bb22690a1160e55f05ffa0fba9e553b38b",
+      "location": "court_docket_listings_ocr",
+      "published_url": "https://the95xrecord.vercel.app/COURT_DOCKET/LISTINGS/1RC191003776/04_TEXT/ocr/2026-08-20__Dkt436__1RC191003776__other.ocr.txt"
+    },
+    "held_by_station": true,
+    "gap": false
+  },
+  "pdf_conflict": null,
+  "flags": [
+    "pdf_outside_canonical_library"
+  ],
+  "links": {
+    "register": "https://the95xrecord.vercel.app/register#dkt-436",
+    "register_json": "https://the95xrecord.vercel.app/api/v1/case/1RC191003776/dkt/436.json",
+    "ssot": "https://the95xrecord.vercel.app/ssot.json",
+    "crossref": "https://the95xrecord.vercel.app/data/crossref.json"
+  }
+}

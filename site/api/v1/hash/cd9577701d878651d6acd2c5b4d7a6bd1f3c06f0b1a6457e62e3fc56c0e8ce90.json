@@ -1,0 +1,11 @@
+{
+  "schema": "ssot/api-hash@1",
+  "sha256": "cd9577701d878651d6acd2c5b4d7a6bd1f3c06f0b1a6457e62e3fc56c0e8ce90",
+  "kind": "document_page",
+  "case": "1RC191003776",
+  "docket": null,
+  "file": "2022-01-03__UNASSIGNED__NONE__re-incorrect-listings-is-this-a-bug-case-no-ref-00da0i0rf.pdf",
+  "published_url": "https://the95xrecord.vercel.app/docs/bc68ba0339",
+  "lookup": "https://the95xrecord.vercel.app/api/v1/hash/cd9577701d878651d6acd2c5b4d7a6bd1f3c06f0b1a6457e62e3fc56c0e8ce90.json",
+  "ssot": "https://the95xrecord.vercel.app/ssot.json"
+}

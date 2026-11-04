@@ -1,0 +1,11 @@
+{
+  "schema": "ssot/api-hash@1",
+  "sha256": "c0c20fbb9d6a5cd57e403a8dd0ea597ea7710fdee1952706d9777f46da9baee4",
+  "kind": "document_page",
+  "case": "1RC191003776",
+  "docket": 310,
+  "file": "2022-05-10__1RC191003776__DKT0310__dkt0310-0314-cntrclaim-def-sub-orig-transcript-n.pdf",
+  "published_url": "https://the95xrecord.vercel.app/docs/de8cf5f7ad",
+  "lookup": "https://the95xrecord.vercel.app/api/v1/hash/c0c20fbb9d6a5cd57e403a8dd0ea597ea7710fdee1952706d9777f46da9baee4.json",
+  "ssot": "https://the95xrecord.vercel.app/ssot.json"
+}

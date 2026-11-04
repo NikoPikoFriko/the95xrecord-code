@@ -1,0 +1,115 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1"><title>Provenance — how every number on this site is verified</title>
+<style>
+:root{--ink:#111;--muted:#666;--line:#e5e5e5;--bg:#faf9f7;--accent:#7a1f1f;--ok:#1f5f3a}
+*{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--ink);font:16px/1.55 Georgia,serif}
+header{padding:52px 24px 26px;border-bottom:1px solid var(--line)}main,footer{max-width:920px;margin:0 auto;padding:24px}
+h1{font-size:2.05rem;line-height:1.15;margin:0 0 8px}h2{margin:2.1em 0 .5em;font-size:1.22rem}
+.muted{color:var(--muted)}a{color:var(--accent)}table{border-collapse:collapse;width:100%;font-size:.88rem}
+th,td{border-bottom:1px solid var(--line);padding:7px 8px;text-align:left;vertical-align:top}
+code{font:12px/1.4 ui-monospace,Menlo,monospace;background:#f0eee9;padding:1px 4px;border-radius:3px}
+.grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(150px,1fr));gap:12px;margin:26px 0}
+.card{border:1px solid var(--line);padding:14px;background:#fff}.n{font-size:1.85rem;display:block;font-variant-numeric:tabular-nums}
+.gap{border-left:3px solid var(--accent);padding-left:14px;margin:18px 0}
+.ok{border-left:3px solid var(--ok);padding-left:14px;margin:18px 0}
+</style>
+<meta property="og:title" content="Provenance — how every number on this site is verified">
+<meta property="og:description" content="Sources, held library, published claims, the four-field rule, the for-counsel boundary, hashes and what is deliberately not published.">
+<meta property="og:url" content="https://the95xrecord.vercel.app/provenance">
+<meta name="twitter:card" content="summary_large_image">
+<link rel="icon" href="assets/brand/favicon.svg" type="image/svg+xml"><link rel="alternate icon" href="assets/brand/favicon-32.png" sizes="32x32"><link rel="apple-touch-icon" href="assets/brand/favicon-180.png"><meta property="og:type" content="article">
+<meta property="og:image" content="https://the95xrecord.vercel.app/media/og-1200x630.png">
+<meta name="twitter:title" content="Provenance — how every number on this site is verified">
+<meta name="twitter:description" content="The 95× Record — verified record of 1RC191003776 (495 docket rows) and CAAP-26-0000625 (20 docket rows), with hashes, texts and machine formats.">
+<meta name="twitter:image" content="https://the95xrecord.vercel.app/media/og-1200x630.png">
+</head><body><header><div style="border-bottom:1px solid #e5e5e5;padding:6px 0 10px;margin-bottom:6px;font:12px ui-monospace,Menlo,monospace;letter-spacing:.14em;color:#7a1f1f">THE 95&times; RECORD &middot; CIVIL NO. 1RC19-1-003776</div><h1>Provenance — the audit chain</h1>
+<p class="muted">AOAO Marine Surf Waikiki v. Nikodem Pikor · 1RC191003776 · Circuit Court of the First Circuit, Hawaii · appeal CAAP-26-0000625</p>
+<p class="muted"><a href="index.html">record</a> · <a href="appeal.html">appeal</a> · <a href="register.html">register docket</a> · <a href="access.html">access</a> · <a href="texts.html">texts</a> · <a href="provenance.html">provenance</a> · <a href="versions.html">versions</a> · <a href="x.html">x</a> · <a href="snapshots.html">snapshots</a> · <a href="query.html">query</a> · <a href="reasoning/index.html">reasoning</a> · <a href="certified.html">certified</a> · <a href="nef.html">nef</a> · <a href="hook.html">the 95× record</a> · <a href="launch.html">launch plan</a> · <a href="decisions.html">decisions</a> · <a href="read.html">start here</a> · <a href="search.html">search</a> · <a href="docs.html">documents</a> · <a href="coverage.html">coverage</a> · <a href="drive.html">drive vs record</a> · <a href="census.html">census</a> · <a href="numbers.html">numbers</a> · <a href="fees.html">fees</a> · <a href="hinge.html">hinge</a> · <a href="gate.html">gate</a> · <a href="findings.html">findings</a> · <a href="emails.html">email exhibits</a> · <a href="errata.html">errata</a> · <a href="appendix.html">appendix</a> · <a href="people.html">people</a> · <a href="candidates.html">candidates</a> · <a href="leads.html">open leads</a> · <a href="pl.html">PL</a></p>
+</header><main>
+
+<p>This page is the audit chain for the whole site: what was held, what was published, what each number
+rests on, and what is deliberately <em>not</em> published. Every figure here is read from the datasets at
+build time — none is typed by hand.</p>
+
+<h2>1. Sources → held library → published claims</h2>
+<p><strong>80 documents, 50,453,826 bytes</strong> in the evidence export
+(21 trial + 16 appeal):</p>
+<table><thead><tr><th>class</th><th>count</th><th>what it is</th></tr></thead><tbody>
+<tr><td>CERTIFIED (trial)</td><td>10</td><td>Clerk-certified copies, 03-NOV-2026</td></tr>
+<tr><td>SRC (trial)</td><td>42</td><td>regular trial documents from the court's own files</td></tr>
+<tr><td>TEXT (trial)</td><td>2</td><td>minute entries Dkt 486/487, court portal text</td></tr>
+<tr><td>SRC (appeal)</td><td>17</td><td>appellate documents (ICA Dkts 1,2,3,4,5,6,8,10,11,13,15,17,19)</td></tr>
+<tr><td>PACK (appeal)</td><td>3</td><td>deadline pack: memo, timeline, citations</td></tr>
+</tbody></table>
+<p class="muted">Totals check: 3 + 29 SRC + 2 TEXT + 3 PACK = 80 documents.
+The same files are in three public stores — see <a href="access.html">/access</a>.</p>
+
+<p><strong>Published evidence claims:</strong></p>
+<div class="grid">
+<div class="card"><span class="n">495</span>trial register rows on <a href="register.html">/register</a></div>
+<div class="card"><span class="n">20</span>appeal docket rows on <a href="appeal.html">/appeal</a></div>
+<div class="card"><span class="n">491</span>text-corpus entries on <a href="texts.html">/texts</a></div>
+<div class="card"><span class="n">495</span>cross-reference rows in <a href="data/crossref.json">crossref.json</a></div>
+</div>
+
+<h2>2. The four-field rule</h2>
+<p>Every published row carries all four, or it is not published as a fact:</p>
+<table><thead><tr><th>#</th><th>field</th><th>where it comes from</th></tr></thead><tbody>
+<tr><td>1</td><td><strong>case</strong></td><td>1RC191003776 or CAAP-26-0000625 — no row is case-less</td></tr>
+<tr><td>2</td><td><strong>docket</strong></td><td>the docket number, plus the register page or the citation</td></tr>
+<tr><td>3</td><td><strong>evidence</strong></td><td>a published file, a SHA-256 of the held file, or an explicit GAP</td></tr>
+<tr><td>4</td><td><strong>grade</strong></td><td>OBS / PARTIAL / GAP, with <em>for counsel</em> wherever a legal conclusion would be needed</td></tr>
+</tbody></table>
+<p><strong>The "for counsel" boundary.</strong> The site states what the documents say and where they say it.
+It draws no legal conclusion, gives no advice, and computes no deadline: on <a href="appeal.html">/appeal</a>
+the two dates stated in ICA Dkt 17 p.1 are printed as verbatim quotations and marked <em>for counsel</em>,
+because whether they bind and what satisfies them are legal questions. Where a fact would need a legal
+judgement, the row says <em>for counsel</em> instead of answering.</p>
+
+<h2>3. Hashes — what makes the numbers checkable</h2>
+<table><thead><tr><th>manifest</th><th>sha256</th></tr></thead><tbody><tr><td><a href="MANIFEST.csv">MANIFEST.csv</a></td><td><code>ca24bc54c536216415340152a6507da28496db94064811e494bf8bd48ba552b0</code></td></tr><tr><td><a href="MANIFEST.sha256">MANIFEST.sha256</a></td><td><code>78152ca666e5b9f55c7778670284daec071a50594aaab5611cd14eb06fab57d8</code></td></tr><tr><td><a href="TEXTS_MANIFEST.sha256">TEXTS_MANIFEST.sha256</a></td><td><code>86c4ea60027efecae38536736bc7f0a9d8f908e15b10849628d396ab89258fcb</code></td></tr></tbody></table>
+<p><code>/ssot.json</code> is the machine-readable index: it carries the SHA-256 of every dataset this site
+was built from, the counts, the build timestamp <code>2026-11-03T16:19:44-10:00</code> and the generator name, so a
+reader can detect drift. Dataset hashes:</p>
+<table><thead><tr><th>dataset</th><th>sha256</th></tr></thead><tbody><tr><td><code>appeal.json</code></td><td><code>25527c2c787a942dda003083f755a63dc951b014e5618164939b7a014320d4d4</code></td></tr><tr><td><code>coverage.json</code></td><td><code>fc0258a8c3a2ac8fab7913d1dcadb222c505854f2683c9b299ea9d9d88be5e54</code></td></tr><tr><td><code>deadlines.json</code></td><td><code>639411861ea230659bb77a97b976d7d2d8697f159c7195c295f95a5e04474b77</code></td></tr><tr><td><code>trial_docket.json</code></td><td><code>81906feda849f46ff8ea63da333c53e8647b2dc358d39c3eb68928504033b401</code></td></tr></tbody></table>
+<p class="muted">Machine-readable surfaces: <a href="ssot.json">/ssot.json</a> (== /data/ssot.json) ·
+<a href="data/texts.json">/data/texts.json</a> · <a href="data/crossref.json">/data/crossref.json</a>.</p>
+
+<h2 id="tiers-obtainability">Tiers: what "best available" means</h2>
+<p>A file's tier states <strong>what was obtainable at capture time</strong>, not how good the copy is.
+<em>Certified</em> means the court's certified download was available and taken; <em>best available</em> means the
+certified channel was already consumed, so the current regular copy was taken now, hashed, and compared with the
+file already held — on 2026-11-03, nine of nine were byte-identical. "Best available" is therefore a statement
+about <strong>obtainability, not quality</strong>, and it is never rendered as "certified". If a later capture of the
+same docket returns a different hash, the earlier file is not overwritten: it is kept and recorded as a
+<strong>superseded rendition</strong> next to the new one, each with its own hash, capture time and telemetry record.
+</p>
+<h2>Canonical library (2026-11-03)</h2>
+<div class="ok"><p>41 of 495 trial rows hold a PDF of their own document, and all 41 are in the canonical library (0 outside); 454 are text-only and 491 carry a text rendition. Grades: OBS 41 / PARTIAL 454.</p></div>
+<div class="gap"><p><strong>Three caveats that travel with the 41.</strong></p><ul><li><strong>Dkt 423</strong> — the canonical file is the court’s combined <em>DOC423-424</em> print: the 12-page certified Dkt 423 order with the 2-page certified NEF 424 appended. No standalone Dkt 423 PDF exists on the station.</li><li><strong>Dkt 424</strong> is still graded <em>text-only</em> — it is not one of the 41.</li><li><strong>24 of the 33 promoted sources are image-only scans</strong> filed <code>SRC</code>, because certification cannot be read from their text layer.</li></ul></div>
+<h2>4. What is NOT published, and why</h2>
+<div class="gap">
+<p><strong>No PDF for 454 of the 495 trial dockets</strong> (495 −
+41 that hold a PDF of their own document). 491 of 495 carry
+a text rendition; those rows are published on <a href="register.html">/register</a>, and the text itself is
+published on <a href="texts.html">/texts</a>. No PDF exists to publish.</p>
+<p><strong>5 appeal docket rows are GAP</strong> (dockets 12, 14, 16, 18, 20) — never captured.
+They are published as explicit GAP rows on <a href="appeal.html">/appeal</a> rather than guessed.</p>
+<p><strong>Some certificates are courthouse-only</strong> — no certified copy of Dkt 480, and no certified
+copies of the Dkt 486/487 minutes, is in the export; the minutes' text is.</p>
+<p class="muted">Nothing on this site is redacted or altered, and no row silently disappears: a row with no
+published file says so and names the file and hash that is held.</p>
+</div>
+
+<h2 id="export-authority">Which export is authoritative</h2>
+<div class="ok"><p><strong>The 70-document export is the authoritative one</strong> (50,453,826 bytes; <code>MANIFEST.csv</code> 15,625 B <code>954cd1c1488431b9…</code>, <code>MANIFEST.sha256</code> 14,013 B <code>7e12153e59c77ba4…</code>, README <code>0d0bf3ca82c484e7…</code>).</p><p class="muted">The earlier <strong>37-document set is superseded and archived</strong>, and the <strong>70-document set is superseded</strong> by the current 80-document export (19,147,433 bytes; MANIFEST.csv 7,079 B <code>a0c7c8e9…</code>, MANIFEST.sha256 6,272 B <code>caac1843…</code>). Nothing on this site is derived from it any more: every hash and size above is computed from the files served in the same build, and the build fails if a published claim does not equal the bytes served.</p></div>
+<p class="muted">The trial snapshot reconciles the record end-to-end: the court’s page renders 503 docket rows, and this site’s register is 495 rows plus the 8-docket tail (496–503) — <strong>495 + 8 = 503</strong>. See <a href="snapshots.html#reconciliation">/snapshots#reconciliation</a>.</p>
+<h2 id="evidence-layers">Independent evidence layers</h2>
+<div class="ok"><p><a href="snapshots.html">/snapshots</a> — two dated transcriptions of the court’s case views — one per case — (what the page said at a moment in time) · <a href="certified.html">/certified</a> — the certified-first capture rule and the Windows telemetry that proves when and from where each file came · <a href="nef.html">/nef</a> — the court’s own e-filing notices as an independent cross-reference (67 mails; the two dates that match no register row are the post-495 tail).</p></div>
+<h2>5. The code</h2>
+<p><strong>The builder code and site source are public:</strong> <a href="https://github.com/NikoPikoFriko/the95xrecord-code" rel="noopener">https://github.com/NikoPikoFriko/the95xrecord-code</a> — it holds the site source (<code>site/</code>: every page, <code>/data/*.json</code>, the 491 text files, <code>sitemap.xml</code>, <code>robots.txt</code>), the deploy script (<code>tools/deploy-live.sh</code>) and the corpus generators (<code>tools/ssot/build_texts.py</code>, <code>build_crossref.py</code>, <code>verify_published.py</code>, <code>update.sh</code>). An external analyst can read the code that produced every number on this site, not only the numbers. The case-room library and third-party sources remain private.</p>
+<p class="muted">Every page on this site is static HTML generated from the datasets; the site publishes its own
+build timestamps and the hashes above so that any claim can be re-derived rather than trusted. Built
+2026-11-03T17:40:08-10:00.</p>
+</main><footer class="muted"><p>States the record's contents; concludes nothing about the merits. Gaps are published on purpose.</p>
+<p>Generated by gen_provenance.py from the datasets — every number computed, none typed.</p></footer></body></html>

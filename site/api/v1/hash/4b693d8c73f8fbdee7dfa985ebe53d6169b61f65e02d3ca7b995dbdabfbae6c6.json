@@ -1,0 +1,11 @@
+{
+  "schema": "ssot/api-hash@1",
+  "sha256": "4b693d8c73f8fbdee7dfa985ebe53d6169b61f65e02d3ca7b995dbdabfbae6c6",
+  "kind": "trial_text",
+  "case": "1RC191003776",
+  "docket": 45,
+  "file": "2020-01-15__Dkt045__1RC191003776__thyssenkrupp-elevator-corporation-s-reply-memorandum-in-supp.ocr.txt",
+  "published_url": "https://the95xrecord.vercel.app/COURT_DOCKET/LISTINGS/1RC191003776/04_TEXT/ocr/2020-01-15__Dkt045__1RC191003776__thyssenkrupp-elevator-corporation-s-reply-memorandum-in-supp.ocr.txt",
+  "lookup": "https://the95xrecord.vercel.app/api/v1/hash/4b693d8c73f8fbdee7dfa985ebe53d6169b61f65e02d3ca7b995dbdabfbae6c6.json",
+  "ssot": "https://the95xrecord.vercel.app/ssot.json"
+}

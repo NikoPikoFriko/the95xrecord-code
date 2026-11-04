@@ -1,0 +1,11 @@
+{
+  "schema": "ssot/api-hash@1",
+  "sha256": "b1c916c1829c893f4d4ad96ca311430f86b9b1f0bd197bbde72c49d2647d27bd",
+  "kind": "document_page",
+  "case": "1RC191003776",
+  "docket": 437,
+  "file": "2026-08-20__1RC191003776__DKT0437__defendant-counterclaim-plaintiff-nikodem-pikor-s.pdf",
+  "published_url": "https://the95xrecord.vercel.app/docs/6a73681abc",
+  "lookup": "https://the95xrecord.vercel.app/api/v1/hash/b1c916c1829c893f4d4ad96ca311430f86b9b1f0bd197bbde72c49d2647d27bd.json",
+  "ssot": "https://the95xrecord.vercel.app/ssot.json"
+}

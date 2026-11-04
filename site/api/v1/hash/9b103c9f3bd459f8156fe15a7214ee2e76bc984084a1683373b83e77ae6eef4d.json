@@ -1,0 +1,11 @@
+{
+  "schema": "ssot/api-hash@1",
+  "sha256": "9b103c9f3bd459f8156fe15a7214ee2e76bc984084a1683373b83e77ae6eef4d",
+  "kind": "document_page",
+  "case": "1RC191003776",
+  "docket": 26,
+  "file": "2020-01-10__Dkt26__1RC191003776__return-and-acknowledgment-on-subpoena-for-w-e-deni.pdf",
+  "published_url": "https://the95xrecord.vercel.app/docs/74a063df5a",
+  "lookup": "https://the95xrecord.vercel.app/api/v1/hash/9b103c9f3bd459f8156fe15a7214ee2e76bc984084a1683373b83e77ae6eef4d.json",
+  "ssot": "https://the95xrecord.vercel.app/ssot.json"
+}

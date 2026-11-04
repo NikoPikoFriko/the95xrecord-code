@@ -1,0 +1,26 @@
+{
+  "schema": "ssot/api-docket@1",
+  "case": "CAAP-26-0000625",
+  "docket": 8,
+  "code": "DOC1",
+  "title": "Notice of Non-Payment",
+  "filed": "15-SEP-2026",
+  "filed_iso": "2026-09-15",
+  "time": "13:58:00",
+  "grade": "OBS",
+  "for_counsel": false,
+  "evidence": {
+    "held_by_station": true,
+    "file": "APPEALS/CAAP-26-0000625/DOCKET/2026-09-15__CAAP-26-0000625__DKT__DKT0008-DOC1__notice-of-non-payment__SRC__hada2e1835ee1.pdf",
+    "sha256": "ada2e1835ee18b4e309f71c7d36dc0f50ce4b9f3869c59274d3de2ebb2255240",
+    "pages": 2,
+    "form": "src",
+    "gap": false
+  },
+  "flags": [],
+  "links": {
+    "appeal": "https://the95xrecord.vercel.app/appeal#dkt-8",
+    "appeal_json": "https://the95xrecord.vercel.app/api/v1/case/CAAP-26-0000625/dkt/8.json",
+    "ssot": "https://the95xrecord.vercel.app/ssot.json"
+  }
+}

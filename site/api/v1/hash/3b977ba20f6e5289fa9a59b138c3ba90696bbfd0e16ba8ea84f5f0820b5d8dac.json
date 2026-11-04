@@ -1,0 +1,11 @@
+{
+  "schema": "ssot/api-hash@1",
+  "sha256": "3b977ba20f6e5289fa9a59b138c3ba90696bbfd0e16ba8ea84f5f0820b5d8dac",
+  "kind": "appeal_pdf",
+  "case": "CAAP-26-0000625",
+  "docket": 6,
+  "file": "2026-09-04__CAAP-26-0000625__DKT__DKT0006-CA__civil-appeal-docketing-statement__SRC__h3b977ba20f6e.pdf",
+  "published_url": null,
+  "lookup": "https://the95xrecord.vercel.app/api/v1/hash/3b977ba20f6e5289fa9a59b138c3ba90696bbfd0e16ba8ea84f5f0820b5d8dac.json",
+  "ssot": "https://the95xrecord.vercel.app/ssot.json"
+}

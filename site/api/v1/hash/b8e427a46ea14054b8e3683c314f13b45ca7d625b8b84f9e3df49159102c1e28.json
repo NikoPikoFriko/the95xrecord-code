@@ -1,0 +1,11 @@
+{
+  "schema": "ssot/api-hash@1",
+  "sha256": "b8e427a46ea14054b8e3683c314f13b45ca7d625b8b84f9e3df49159102c1e28",
+  "kind": "document_page",
+  "case": "1RC191003776",
+  "docket": 62,
+  "file": "2020-02-13__1RC191003776__DKT0062__odepo-notice-of-n.pdf",
+  "published_url": "https://the95xrecord.vercel.app/docs/59b7f152c3",
+  "lookup": "https://the95xrecord.vercel.app/api/v1/hash/b8e427a46ea14054b8e3683c314f13b45ca7d625b8b84f9e3df49159102c1e28.json",
+  "ssot": "https://the95xrecord.vercel.app/ssot.json"
+}

@@ -1,0 +1,12 @@
+{
+ "schema": "ssot/api-hash@1",
+ "sha256": "918d3d734577f4300fb49f1dbba360be2e2e4a05ac7c3ba85ba51197682165dc",
+ "kind": "trial_document",
+ "case": "1RC191003776",
+ "docket": 423,
+ "file": "2026-06-15__1RC191003776__DKT__DKT0423-ORD__order-granting-in-part-and-denying-in-part-plaintiff-and-cou__CERT__h918d3d734577.pdf",
+ "published_url": null,
+ "lookup": "https://the95xrecord.vercel.app/api/v1/hash/918d3d734577f4300fb49f1dbba360be2e2e4a05ac7c3ba85ba51197682165dc.json",
+ "ssot": "https://the95xrecord.vercel.app/ssot.json",
+ "tier": "certified copy"
+}

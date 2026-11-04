@@ -1,0 +1,11 @@
+{
+  "schema": "ssot/api-hash@1",
+  "sha256": "3ff965727f816d73c823ad54015c27bd9fa79029299ef58d1ab3e8bc3ad5ca68",
+  "kind": "document_page",
+  "case": "1RC191003776",
+  "docket": 352,
+  "file": "2022-10-27__1RC191003776__DKT0352__ntc-court-date-trial-8-30am.pdf",
+  "published_url": "https://the95xrecord.vercel.app/docs/be6e10ed00",
+  "lookup": "https://the95xrecord.vercel.app/api/v1/hash/3ff965727f816d73c823ad54015c27bd9fa79029299ef58d1ab3e8bc3ad5ca68.json",
+  "ssot": "https://the95xrecord.vercel.app/ssot.json"
+}

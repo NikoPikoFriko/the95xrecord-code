@@ -1,0 +1,11 @@
+{
+  "schema": "ssot/api-hash@1",
+  "sha256": "ecccbf8fd1b647ff2f87c27a118d03448a42000d148bbc0ec81935d1af6051a9",
+  "kind": "trial_text",
+  "case": "1RC191003776",
+  "docket": 413,
+  "file": "2024-11-06__Dkt413__1RC191003776__approved-and-so-ordered-stipulation-and-order-regarding-cont.ocr.txt",
+  "published_url": "https://the95xrecord.vercel.app/COURT_DOCKET/LISTINGS/1RC191003776/04_TEXT/ocr/2024-11-06__Dkt413__1RC191003776__approved-and-so-ordered-stipulation-and-order-regarding-cont.ocr.txt",
+  "lookup": "https://the95xrecord.vercel.app/api/v1/hash/ecccbf8fd1b647ff2f87c27a118d03448a42000d148bbc0ec81935d1af6051a9.json",
+  "ssot": "https://the95xrecord.vercel.app/ssot.json"
+}

@@ -1,0 +1,11 @@
+{
+  "schema": "ssot/api-hash@1",
+  "sha256": "e673b45f161d71781a1362c68142f6c41a68d4b0f9c3e7a6eaa4eb5c708a72cc",
+  "kind": "trial_text",
+  "case": "1RC191003776",
+  "docket": 411,
+  "file": "2024-10-29__Dkt411__1RC191003776__proposed-stipulation-and-order-regarding-continuance-of-hear.ocr.txt",
+  "published_url": "https://the95xrecord.vercel.app/COURT_DOCKET/LISTINGS/1RC191003776/04_TEXT/ocr/2024-10-29__Dkt411__1RC191003776__proposed-stipulation-and-order-regarding-continuance-of-hear.ocr.txt",
+  "lookup": "https://the95xrecord.vercel.app/api/v1/hash/e673b45f161d71781a1362c68142f6c41a68d4b0f9c3e7a6eaa4eb5c708a72cc.json",
+  "ssot": "https://the95xrecord.vercel.app/ssot.json"
+}

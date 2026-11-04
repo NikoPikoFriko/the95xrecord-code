@@ -1,0 +1,11 @@
+{
+  "schema": "ssot/api-hash@1",
+  "sha256": "885a04f6cff02e6c11e9ea2741630f1acdb91c3ced79344dd0b750fb47856f41",
+  "kind": "document_page",
+  "case": "1RC191003776",
+  "docket": 65,
+  "file": "2020-02-18__1RC191003776__DKT0065__nef-re-granted-thyssenkrupps-non-hearing-mtn-attys-fees-and.pdf",
+  "published_url": "https://the95xrecord.vercel.app/docs/c4a9b7e42c",
+  "lookup": "https://the95xrecord.vercel.app/api/v1/hash/885a04f6cff02e6c11e9ea2741630f1acdb91c3ced79344dd0b750fb47856f41.json",
+  "ssot": "https://the95xrecord.vercel.app/ssot.json"
+}

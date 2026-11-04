@@ -1,0 +1,33 @@
+{
+  "schema": "ssot/api-docket@1",
+  "case": "1RC191003776",
+  "docket": 405,
+  "code": "MEO",
+  "filed": "31-JUL-2024",
+  "filed_iso": "2024-07-31",
+  "time": "18:13:35",
+  "ra_pdf_page": 147,
+  "grade": "PARTIAL",
+  "for_counsel": false,
+  "evidence": {
+    "renditions": [],
+    "text": {
+      "file": "COURT_DOCKET/LISTINGS/1RC191003776/04_TEXT/ocr/2024-07-31__Dkt405__1RC191003776__defendant-third-party-plaintiff-nikodem-pikor-s-opposition-t.ocr.txt",
+      "sha256": "039f1e7ae728df22c42676f878e12cca3999f2212189e4dd84f0602327f0eb2a",
+      "location": "court_docket_listings_ocr",
+      "published_url": "https://the95xrecord.vercel.app/COURT_DOCKET/LISTINGS/1RC191003776/04_TEXT/ocr/2024-07-31__Dkt405__1RC191003776__defendant-third-party-plaintiff-nikodem-pikor-s-opposition-t.ocr.txt"
+    },
+    "held_by_station": true,
+    "gap": false
+  },
+  "pdf_conflict": null,
+  "flags": [
+    "text_only_no_pdf_of_document"
+  ],
+  "links": {
+    "register": "https://the95xrecord.vercel.app/register#dkt-405",
+    "register_json": "https://the95xrecord.vercel.app/api/v1/case/1RC191003776/dkt/405.json",
+    "ssot": "https://the95xrecord.vercel.app/ssot.json",
+    "crossref": "https://the95xrecord.vercel.app/data/crossref.json"
+  }
+}

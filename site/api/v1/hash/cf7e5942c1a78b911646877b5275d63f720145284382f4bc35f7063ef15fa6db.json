@@ -1,0 +1,11 @@
+{
+  "schema": "ssot/api-hash@1",
+  "sha256": "cf7e5942c1a78b911646877b5275d63f720145284382f4bc35f7063ef15fa6db",
+  "kind": "document_page",
+  "case": "1RC191003776",
+  "docket": 405,
+  "file": "2024-08-01__1RC191003776__DKT0405__opp-to-aoao-mtn-atty-fees-and-costs.pdf",
+  "published_url": "https://the95xrecord.vercel.app/docs/0f682e5e65",
+  "lookup": "https://the95xrecord.vercel.app/api/v1/hash/cf7e5942c1a78b911646877b5275d63f720145284382f4bc35f7063ef15fa6db.json",
+  "ssot": "https://the95xrecord.vercel.app/ssot.json"
+}

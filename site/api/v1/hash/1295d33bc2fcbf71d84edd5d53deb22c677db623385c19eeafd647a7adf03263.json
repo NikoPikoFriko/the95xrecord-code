@@ -1,0 +1,11 @@
+{
+  "schema": "ssot/api-hash@1",
+  "sha256": "1295d33bc2fcbf71d84edd5d53deb22c677db623385c19eeafd647a7adf03263",
+  "kind": "document_page",
+  "case": "1RC191003776",
+  "docket": null,
+  "file": "2020-02-13__1RC191003776__NONE__fsc-aoao-odepo-notice-of.pdf",
+  "published_url": "https://the95xrecord.vercel.app/docs/36cbf725c2",
+  "lookup": "https://the95xrecord.vercel.app/api/v1/hash/1295d33bc2fcbf71d84edd5d53deb22c677db623385c19eeafd647a7adf03263.json",
+  "ssot": "https://the95xrecord.vercel.app/ssot.json"
+}

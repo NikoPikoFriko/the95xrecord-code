@@ -1,0 +1,11 @@
+{
+  "schema": "ssot/api-hash@1",
+  "sha256": "c75d0f9a7eb29468b9100d19c79e24558e4d77219719bea029333cd861b94ffe",
+  "kind": "document_page",
+  "case": "1RC191003776",
+  "docket": 85,
+  "file": "2020-06-12__1RC191003776__DKT0085__nef-def-marine-surf-waikiki-opp-def-cntrclaim-3ppl.pdf",
+  "published_url": "https://the95xrecord.vercel.app/docs/36399f474e",
+  "lookup": "https://the95xrecord.vercel.app/api/v1/hash/c75d0f9a7eb29468b9100d19c79e24558e4d77219719bea029333cd861b94ffe.json",
+  "ssot": "https://the95xrecord.vercel.app/ssot.json"
+}

@@ -1,0 +1,11 @@
+{
+  "schema": "ssot/api-hash@1",
+  "sha256": "4090f3726076b0435879f28de81e2161d8f5d8ccb5dc6a0f10e40f11c1268168",
+  "kind": "document_page",
+  "case": "1RC191003776",
+  "docket": 266,
+  "file": "2022-01-13__1RC191003776__DKT0266__ras-c-decoito.pdf",
+  "published_url": "https://the95xrecord.vercel.app/docs/301a1e0cc3",
+  "lookup": "https://the95xrecord.vercel.app/api/v1/hash/4090f3726076b0435879f28de81e2161d8f5d8ccb5dc6a0f10e40f11c1268168.json",
+  "ssot": "https://the95xrecord.vercel.app/ssot.json"
+}

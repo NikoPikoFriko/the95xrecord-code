@@ -1,0 +1,11 @@
+{
+  "schema": "ssot/api-hash@1",
+  "sha256": "12d66e4e85dbea0f165c64da59e2ed029e5bcfd4876d7c9abc7be1cb259e9061",
+  "kind": "trial_text",
+  "case": "1RC191003776",
+  "docket": 224,
+  "file": "2021-09-23__Dkt224__1RC191003776__notice-of-remote-hearing.ocr.txt",
+  "published_url": "https://the95xrecord.vercel.app/COURT_DOCKET/LISTINGS/1RC191003776/04_TEXT/ocr/2021-09-23__Dkt224__1RC191003776__notice-of-remote-hearing.ocr.txt",
+  "lookup": "https://the95xrecord.vercel.app/api/v1/hash/12d66e4e85dbea0f165c64da59e2ed029e5bcfd4876d7c9abc7be1cb259e9061.json",
+  "ssot": "https://the95xrecord.vercel.app/ssot.json"
+}

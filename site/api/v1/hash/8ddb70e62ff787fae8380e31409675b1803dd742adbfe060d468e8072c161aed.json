@@ -1,0 +1,11 @@
+{
+  "schema": "ssot/api-hash@1",
+  "sha256": "8ddb70e62ff787fae8380e31409675b1803dd742adbfe060d468e8072c161aed",
+  "kind": "document_page",
+  "case": "1RC191003776",
+  "docket": 342,
+  "file": "2022-10-13__1RC191003776__DKT0342__dkt0342-0347-joint-exhibits-list.pdf",
+  "published_url": "https://the95xrecord.vercel.app/docs/2cc193fcc4",
+  "lookup": "https://the95xrecord.vercel.app/api/v1/hash/8ddb70e62ff787fae8380e31409675b1803dd742adbfe060d468e8072c161aed.json",
+  "ssot": "https://the95xrecord.vercel.app/ssot.json"
+}

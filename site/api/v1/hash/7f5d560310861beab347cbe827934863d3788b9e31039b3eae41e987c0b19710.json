@@ -1,0 +1,11 @@
+{
+  "schema": "ssot/api-hash@1",
+  "sha256": "7f5d560310861beab347cbe827934863d3788b9e31039b3eae41e987c0b19710",
+  "kind": "trial_pdf",
+  "case": "1RC191003776",
+  "docket": 423,
+  "file": "2026-09-04__CAAP-26-0000625__DKT__DKT0003-EXH__exhibit-fees-order-dkt423__SRC__h7f5d56031086.pdf",
+  "published_url": null,
+  "lookup": "https://the95xrecord.vercel.app/api/v1/hash/7f5d560310861beab347cbe827934863d3788b9e31039b3eae41e987c0b19710.json",
+  "ssot": "https://the95xrecord.vercel.app/ssot.json"
+}

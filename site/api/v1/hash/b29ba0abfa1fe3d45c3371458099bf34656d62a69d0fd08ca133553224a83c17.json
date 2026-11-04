@@ -1,0 +1,11 @@
+{
+  "schema": "ssot/api-hash@1",
+  "sha256": "b29ba0abfa1fe3d45c3371458099bf34656d62a69d0fd08ca133553224a83c17",
+  "kind": "document_page",
+  "case": "1RC191003776",
+  "docket": null,
+  "file": "2026-10-19__CAAP-26-0000625__NONE__hrap50c-motion-discharge-counsel-proceed-pro-se.pdf",
+  "published_url": "https://the95xrecord.vercel.app/docs/3c2b169c50",
+  "lookup": "https://the95xrecord.vercel.app/api/v1/hash/b29ba0abfa1fe3d45c3371458099bf34656d62a69d0fd08ca133553224a83c17.json",
+  "ssot": "https://the95xrecord.vercel.app/ssot.json"
+}

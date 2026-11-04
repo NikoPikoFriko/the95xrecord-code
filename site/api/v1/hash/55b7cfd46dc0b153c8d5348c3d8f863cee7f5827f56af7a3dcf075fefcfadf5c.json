@@ -1,0 +1,11 @@
+{
+  "schema": "ssot/api-hash@1",
+  "sha256": "55b7cfd46dc0b153c8d5348c3d8f863cee7f5827f56af7a3dcf075fefcfadf5c",
+  "kind": "trial_text",
+  "case": "1RC191003776",
+  "docket": 394,
+  "file": "2023-06-02__Dkt394__1RC191003776__defendant-third-party-plaintiff-nikodem-pikor-s-proposed-fin.ocr.txt",
+  "published_url": "https://the95xrecord.vercel.app/COURT_DOCKET/LISTINGS/1RC191003776/04_TEXT/ocr/2023-06-02__Dkt394__1RC191003776__defendant-third-party-plaintiff-nikodem-pikor-s-proposed-fin.ocr.txt",
+  "lookup": "https://the95xrecord.vercel.app/api/v1/hash/55b7cfd46dc0b153c8d5348c3d8f863cee7f5827f56af7a3dcf075fefcfadf5c.json",
+  "ssot": "https://the95xrecord.vercel.app/ssot.json"
+}

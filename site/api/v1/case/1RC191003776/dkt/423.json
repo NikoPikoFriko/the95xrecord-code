@@ -1,0 +1,40 @@
+{
+  "schema": "ssot/api-docket@1",
+  "case": "1RC191003776",
+  "docket": 423,
+  "code": "ORD",
+  "filed": "15-JUN-2026",
+  "filed_iso": "2026-06-15",
+  "time": "13:32:36",
+  "ra_pdf_page": 157,
+  "grade": "PARTIAL",
+  "for_counsel": false,
+  "evidence": {
+    "renditions": [
+      {
+        "file": "APPEALS/CAAP-26-0000625/DOCKET/2026-09-04__CAAP-26-0000625__DKT__DKT0003-EXH__exhibit-fees-order-dkt423__SRC__h7f5d56031086.pdf",
+        "sha256": "7f5d560310861beab347cbe827934863d3788b9e31039b3eae41e987c0b19710",
+        "location": "appeal_exhibit",
+        "published_url": null
+      }
+    ],
+    "text": {
+      "file": "COURT_DOCKET/LISTINGS/1RC191003776/04_TEXT/ocr/2026-06-15__Dkt423__1RC191003776__order-granting-in-part-and-denying-in-part-plaintiff-and-cou.ocr.txt",
+      "sha256": "89d6e44ed58e2db2d6ffc3a97e58e262f953730a45e20b440da1e9b7ec7aa0cb",
+      "location": "court_docket_listings_ocr",
+      "published_url": "https://the95xrecord.vercel.app/COURT_DOCKET/LISTINGS/1RC191003776/04_TEXT/ocr/2026-06-15__Dkt423__1RC191003776__order-granting-in-part-and-denying-in-part-plaintiff-and-cou.ocr.txt"
+    },
+    "held_by_station": true,
+    "gap": false
+  },
+  "pdf_conflict": null,
+  "flags": [
+    "pdf_outside_canonical_library"
+  ],
+  "links": {
+    "register": "https://the95xrecord.vercel.app/register#dkt-423",
+    "register_json": "https://the95xrecord.vercel.app/api/v1/case/1RC191003776/dkt/423.json",
+    "ssot": "https://the95xrecord.vercel.app/ssot.json",
+    "crossref": "https://the95xrecord.vercel.app/data/crossref.json"
+  }
+}

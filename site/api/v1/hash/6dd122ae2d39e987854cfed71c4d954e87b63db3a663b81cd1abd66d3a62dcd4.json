@@ -1,0 +1,11 @@
+{
+  "schema": "ssot/api-hash@1",
+  "sha256": "6dd122ae2d39e987854cfed71c4d954e87b63db3a663b81cd1abd66d3a62dcd4",
+  "kind": "document_page",
+  "case": "1RC191003776",
+  "docket": 342,
+  "file": "2022-10-13__1RC191003776__DKT0342__dkt0342-0344-03-court-excerpts-and.pdf",
+  "published_url": "https://the95xrecord.vercel.app/docs/3fb7b9345f",
+  "lookup": "https://the95xrecord.vercel.app/api/v1/hash/6dd122ae2d39e987854cfed71c4d954e87b63db3a663b81cd1abd66d3a62dcd4.json",
+  "ssot": "https://the95xrecord.vercel.app/ssot.json"
+}

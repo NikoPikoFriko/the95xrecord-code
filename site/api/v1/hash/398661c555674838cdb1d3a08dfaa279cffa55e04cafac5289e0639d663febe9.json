@@ -1,0 +1,11 @@
+{
+  "schema": "ssot/api-hash@1",
+  "sha256": "398661c555674838cdb1d3a08dfaa279cffa55e04cafac5289e0639d663febe9",
+  "kind": "document_page",
+  "case": "1RC191003776",
+  "docket": 109,
+  "file": "2020-07-16__Dkt109__1RC191003776__payment-payment-by-check-money-order-civil-in-the-.pdf",
+  "published_url": "https://the95xrecord.vercel.app/docs/671d83119f",
+  "lookup": "https://the95xrecord.vercel.app/api/v1/hash/398661c555674838cdb1d3a08dfaa279cffa55e04cafac5289e0639d663febe9.json",
+  "ssot": "https://the95xrecord.vercel.app/ssot.json"
+}

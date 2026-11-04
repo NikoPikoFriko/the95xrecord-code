@@ -1,0 +1,11 @@
+{
+  "schema": "ssot/api-hash@1",
+  "sha256": "af57a01807c9e36e98714df02a2a57c1e10914f80a8f680ccd0539dde3283a1d",
+  "kind": "document_page",
+  "case": "1RC191003776",
+  "docket": 299,
+  "file": "2022-03-30__1RC191003776__DKT0299__proposed-order-grant-deny-aoao-msj.pdf",
+  "published_url": "https://the95xrecord.vercel.app/docs/c7be8abc7e",
+  "lookup": "https://the95xrecord.vercel.app/api/v1/hash/af57a01807c9e36e98714df02a2a57c1e10914f80a8f680ccd0539dde3283a1d.json",
+  "ssot": "https://the95xrecord.vercel.app/ssot.json"
+}

@@ -1,0 +1,489 @@
+{
+ "schema": "jims/snapshot@1",
+ "captured_at": "2026-11-03T18:49:00-10:00",
+ "captured_by": "browser session (Agent Window), logged in as WEBU398113",
+ "source_url": "https://jimspss1.courts.state.hi.us/JIMSExternal/manage-cases.iface",
+ "case": {
+  "id": "CAAP-26-0000625",
+  "court": "Intermediate Court of Appeals",
+  "location": "Intermediate Court of Appeals",
+  "type": "AP",
+  "status": "ACTIVE",
+  "description": "AOAO Marine Surf Waikiki v. Pikor, et al.",
+  "initiation_date": "04-SEP-2026"
+ },
+ "caption": "Association of Apartment Owners of Marine Surf Waikiki, Inc., a Hawaii nonprofit corporation, by its Board of Directors, Plaintiff/Counterclaim Defendant-Appellee, v. Nikodem Pikor, Defendant/Counterclaimant/Third-Party Plaintiff-Appellant, and Thyssenkrupp Elevator Corporation, Foreign Profit Corporation, Third-Party Defendant-Appellee.",
+ "dockets": [
+  {
+   "docket": 1,
+   "code": "NA",
+   "description": "Notice of Appeal EFile Document upload of type Notice of Appeal",
+   "filed": "04-SEP-2026",
+   "time": "16:22:21",
+   "filing_party": ""
+  },
+  {
+   "docket": 2,
+   "code": "EXH",
+   "description": "Exhibit EFile Document upload of type Exhibit",
+   "filed": "04-SEP-2026",
+   "time": "16:22:21",
+   "filing_party": ""
+  },
+  {
+   "docket": 3,
+   "code": "EXH",
+   "description": "Exhibit EFile Document upload of type Exhibit",
+   "filed": "04-SEP-2026",
+   "time": "16:22:21",
+   "filing_party": ""
+  },
+  {
+   "docket": 4,
+   "code": "EXH",
+   "description": "Exhibit EFile Document upload of type Exhibit",
+   "filed": "04-SEP-2026",
+   "time": "16:22:21",
+   "filing_party": ""
+  },
+  {
+   "docket": 5,
+   "code": "COS",
+   "description": "Certificate of Service EFile Document upload of type Certificate of Service",
+   "filed": "04-SEP-2026",
+   "time": "16:22:21",
+   "filing_party": ""
+  },
+  {
+   "docket": 6,
+   "code": "CA",
+   "description": "Civil Appeal Docketing Statement EFile Document upload of type Civil Appeal Docketing Statement",
+   "filed": "04-SEP-2026",
+   "time": "16:22:21",
+   "filing_party": ""
+  },
+  {
+   "docket": 7,
+   "code": "NEF",
+   "description": "Notice of Electronic Filing",
+   "filed": "04-SEP-2026",
+   "time": "16:22:21",
+   "filing_party": ""
+  },
+  {
+   "docket": 8,
+   "code": "DOC1",
+   "description": "Notice of Non-Payment ODP Document generated on 15-SEP-2026",
+   "filed": "15-SEP-2026",
+   "time": "13:58:00",
+   "filing_party": ""
+  },
+  {
+   "docket": 9,
+   "code": "NEF",
+   "description": "Notice of Electronic Filing",
+   "filed": "15-SEP-2026",
+   "time": "13:58:00",
+   "filing_party": ""
+  },
+  {
+   "docket": 10,
+   "code": "PY",
+   "description": "Payment Payment by CHK in the amount of $285.00",
+   "filed": "16-SEP-2026",
+   "time": "13:21:45",
+   "filing_party": ""
+  },
+  {
+   "docket": 11,
+   "code": "AMNI",
+   "description": "Appellate Mediation not Includ Excluded from appellate mediation.",
+   "filed": "07-OCT-2026",
+   "time": "08:08:17",
+   "filing_party": ""
+  },
+  {
+   "docket": 12,
+   "code": "NEF",
+   "description": "Notice of Electronic Filing",
+   "filed": "07-OCT-2026",
+   "time": "08:08:17",
+   "filing_party": ""
+  },
+  {
+   "docket": 13,
+   "code": "MOT",
+   "description": "Motion for ___________ EFile Document upload of type Motion for",
+   "filed": "09-OCT-2026",
+   "time": "16:27:57",
+   "filing_party": "Dutcher, Amanda (A9749)"
+  },
+  {
+   "docket": 14,
+   "code": "NEF",
+   "description": "Notice of Electronic Filing",
+   "filed": "09-OCT-2026",
+   "time": "16:27:57",
+   "filing_party": ""
+  },
+  {
+   "docket": 15,
+   "code": "RA",
+   "description": "Record on Appeal Record on Appeal",
+   "filed": "28-OCT-2026",
+   "time": "08:41:38",
+   "filing_party": ""
+  },
+  {
+   "docket": 16,
+   "code": "NEF",
+   "description": "Notice of Electronic Filing",
+   "filed": "28-OCT-2026",
+   "time": "08:41:38",
+   "filing_party": ""
+  },
+  {
+   "docket": 17,
+   "code": "NC",
+   "description": "Notice of Entrng Case on Clndr ODP Document generated on 28-OCT-2026",
+   "filed": "28-OCT-2026",
+   "time": "10:18:21",
+   "filing_party": ""
+  },
+  {
+   "docket": 18,
+   "code": "NEF",
+   "description": "Notice of Electronic Filing copy of RA fly, Index, clk's cert and NC mailed 10/28/26 to: Thyssenkrupp Elevator Corporation, a Foreign Profit Corporation, 1265 E Fort Union Blvd Ste 350, Cottonwood Heights, Utah 84047",
+   "filed": "28-OCT-2026",
+   "time": "10:18:21",
+   "filing_party": ""
+  },
+  {
+   "docket": 19,
+   "code": "AMRA",
+   "description": "Amended Record on Appeal Amended Record on Appeal",
+   "filed": "29-OCT-2026",
+   "time": "13:30:19",
+   "filing_party": ""
+  },
+  {
+   "docket": 20,
+   "code": "NEF",
+   "description": "Notice of Electronic Filing copy of AMRA fly, Index, Clk's cert mailed 10/29/26 to: Thyssenkrupp Elevator Corporation, a Foreign Profit Corporation, 1265 E Fort Union Blvd Ste 350, Cottonwood Heights, Utah 84047",
+   "filed": "29-OCT-2026",
+   "time": "13:30:19",
+   "filing_party": ""
+  }
+ ],
+ "documents": [
+  {
+   "docket": 1,
+   "code": "NA",
+   "description": "Notice of Appeal EFile Document upload of type Notice of Appeal",
+   "filed": "04-SEP-2026"
+  },
+  {
+   "docket": 2,
+   "code": "EXH",
+   "description": "Exhibit EFile Document upload of type Exhibit",
+   "filed": "04-SEP-2026"
+  },
+  {
+   "docket": 3,
+   "code": "EXH",
+   "description": "Exhibit EFile Document upload of type Exhibit",
+   "filed": "04-SEP-2026"
+  },
+  {
+   "docket": 4,
+   "code": "EXH",
+   "description": "Exhibit EFile Document upload of type Exhibit",
+   "filed": "04-SEP-2026"
+  },
+  {
+   "docket": 5,
+   "code": "COS",
+   "description": "Certificate of Service EFile Document upload of type Certificate of Service",
+   "filed": "04-SEP-2026"
+  },
+  {
+   "docket": 6,
+   "code": "CA",
+   "description": "Civil Appeal Docketing Statement EFile Document upload of type Civil Appeal Docketing Statement",
+   "filed": "04-SEP-2026"
+  },
+  {
+   "docket": 7,
+   "code": "NEF",
+   "description": "Notice of Electronic Filing",
+   "filed": "04-SEP-2026"
+  },
+  {
+   "docket": 8,
+   "code": "DOC1",
+   "description": "Notice of Non-Payment ODP Document generated on 15-SEP-2026",
+   "filed": "15-SEP-2026"
+  },
+  {
+   "docket": 9,
+   "code": "NEF",
+   "description": "Notice of Electronic Filing",
+   "filed": "15-SEP-2026"
+  },
+  {
+   "docket": 10,
+   "code": "PY",
+   "description": "Payment Payment by CHK in the amount of $285.00",
+   "filed": "16-SEP-2026"
+  },
+  {
+   "docket": 11,
+   "code": "AMNI",
+   "description": "Appellate Mediation not Includ Excluded from appellate mediation.",
+   "filed": "07-OCT-2026"
+  },
+  {
+   "docket": 12,
+   "code": "NEF",
+   "description": "Notice of Electronic Filing",
+   "filed": "07-OCT-2026"
+  },
+  {
+   "docket": 13,
+   "code": "MOT",
+   "description": "Motion for ___________ EFile Document upload of type Motion for",
+   "filed": "09-OCT-2026"
+  },
+  {
+   "docket": 14,
+   "code": "NEF",
+   "description": "Notice of Electronic Filing",
+   "filed": "09-OCT-2026"
+  },
+  {
+   "docket": 15,
+   "code": "RA",
+   "description": "Record on Appeal Record on Appeal",
+   "filed": "28-OCT-2026"
+  },
+  {
+   "docket": 16,
+   "code": "NEF",
+   "description": "Notice of Electronic Filing",
+   "filed": "28-OCT-2026"
+  },
+  {
+   "docket": 17,
+   "code": "NC",
+   "description": "Notice of Entrng Case on Clndr ODP Document generated on 28-OCT-2026",
+   "filed": "28-OCT-2026"
+  },
+  {
+   "docket": 18,
+   "code": "NEF",
+   "description": "Notice of Electronic Filing copy of RA fly, Index, clk's cert and NC mailed 10/28/26 to: Thyssenkrupp Elevator Corporation, a Foreign Profit Corporation, 1265 E Fort Union Blvd Ste 350, Cottonwood Heights, Utah 84047",
+   "filed": "28-OCT-2026"
+  },
+  {
+   "docket": 19,
+   "code": "AMRA",
+   "description": "Amended Record on Appeal Amended Record on Appeal",
+   "filed": "29-OCT-2026"
+  },
+  {
+   "docket": 20,
+   "code": "NEF",
+   "description": "Notice of Electronic Filing copy of AMRA fly, Index, Clk's cert mailed 10/29/26 to: Thyssenkrupp Elevator Corporation, a Foreign Profit Corporation, 1265 E Fort Union Blvd Ste 350, Cottonwood Heights, Utah 84047",
+   "filed": "29-OCT-2026"
+  }
+ ],
+ "parties": [
+  {
+   "seq": "3",
+   "party_id": "A5857",
+   "role": "Attorney",
+   "name": "Terrance M. Revere",
+   "start": "04-SEP-2026"
+  },
+  {
+   "seq": "4",
+   "party_id": "A9749",
+   "role": "Attorney",
+   "name": "Amanda L. Dutcher",
+   "start": "04-SEP-2026"
+  },
+  {
+   "seq": "5",
+   "party_id": "A8151",
+   "role": "Attorney",
+   "name": "Glenn S. Horio",
+   "start": "04-SEP-2026"
+  },
+  {
+   "seq": "7",
+   "party_id": "A7433",
+   "role": "Attorney",
+   "name": "James R. Ferguson",
+   "start": "04-SEP-2026"
+  },
+  {
+   "seq": "8",
+   "party_id": "@3192562",
+   "role": "Plaintiff-Appellee",
+   "name": "ASSOCIATION OF APARTMENT OWNERS OF MARINE SURF",
+   "start": "09-SEP-2026"
+  },
+  {
+   "seq": "9",
+   "party_id": "@3192563",
+   "role": "Defendant-Appellant",
+   "name": "NIKODEM PIKOR",
+   "start": "09-SEP-2026"
+  },
+  {
+   "seq": "10",
+   "party_id": "@3578112",
+   "role": "Defendant-Appellee",
+   "name": "ASSOCATION OF APARTMENT OWNERS OF MARINE SURF by Its Board o",
+   "start": "09-SEP-2026"
+  },
+  {
+   "seq": "11",
+   "party_id": "@3192565",
+   "role": "Defendant-Appellee",
+   "name": "THYSSENKRUPP ELEVATOR CORPORATION, FOREIGN PROFIT",
+   "start": "09-SEP-2026"
+  },
+  {
+   "seq": "12",
+   "party_id": "A11522",
+   "role": "Attorney",
+   "name": "Yun W. Kim",
+   "start": "28-OCT-2026"
+  },
+  {
+   "seq": "13",
+   "party_id": "A4687",
+   "role": "Attorney",
+   "name": "April Luria",
+   "start": "28-OCT-2026"
+  },
+  {
+   "seq": "14",
+   "party_id": "A9630",
+   "role": "Attorney",
+   "name": "Barron T. Oda",
+   "start": "28-OCT-2026"
+  },
+  {
+   "seq": "15",
+   "party_id": "A3914",
+   "role": "Attorney",
+   "name": "Jodie D. Roeca",
+   "start": "28-OCT-2026"
+  }
+ ],
+ "milestones": [
+  {
+   "task": "Notice of Appeal",
+   "assigned_party": "",
+   "original": "04-SEP-2026",
+   "current": "04-SEP-2026",
+   "actual": "04-SEP-2026"
+  },
+  {
+   "task": "Civil Appeal Docketing Statement",
+   "assigned_party": "",
+   "original": "08-SEP-2026",
+   "current": "08-SEP-2026",
+   "actual": "04-SEP-2026"
+  },
+  {
+   "task": "Filing Fee Payment",
+   "assigned_party": "Revere, Terrance M. (A5857), Dutcher, Amanda Lee (A9...)",
+   "original": "05-OCT-2026",
+   "current": "05-OCT-2026",
+   "actual": "16-SEP-2026"
+  },
+  {
+   "task": "Transcript",
+   "assigned_party": "",
+   "original": "19-OCT-2026",
+   "current": "19-OCT-2026",
+   "actual": ""
+  },
+  {
+   "task": "Record on Appeal",
+   "assigned_party": "",
+   "original": "04-NOV-2026",
+   "current": "04-NOV-2026",
+   "actual": "28-OCT-2026"
+  },
+  {
+   "task": "Statement of Jurisdiction",
+   "assigned_party": "",
+   "original": "16-NOV-2026",
+   "current": "09-NOV-2026",
+   "actual": ""
+  },
+  {
+   "task": "Opening Brief",
+   "assigned_party": "PIKOR, NIKODEM (@3192563)",
+   "original": "14-DEC-2026",
+   "current": "07-DEC-2026",
+   "actual": ""
+  },
+  {
+   "task": "Answering Brief",
+   "assigned_party": "ASSOCATION OF APARTMENT OWNERS (@3578112)",
+   "original": "25-JAN-2027",
+   "current": "19-JAN-2027",
+   "actual": ""
+  },
+  {
+   "task": "Answering Brief",
+   "assigned_party": "ASSOCIATION OF APARTMENT OWNERS (@3192562)",
+   "original": "25-JAN-2027",
+   "current": "19-JAN-2027",
+   "actual": ""
+  },
+  {
+   "task": "Answering Brief",
+   "assigned_party": "THYSSENKRUPP ELEVATOR (@3192565)",
+   "original": "25-JAN-2027",
+   "current": "19-JAN-2027",
+   "actual": ""
+  },
+  {
+   "task": "Reply Brief",
+   "assigned_party": "PIKOR, NIKODEM (@3192563)",
+   "original": "08-FEB-2027",
+   "current": "02-FEB-2027",
+   "actual": ""
+  },
+  {
+   "task": "Panel Assignment",
+   "assigned_party": "",
+   "original": "12-FEB-2027",
+   "current": "12-FEB-2027",
+   "actual": ""
+  },
+  {
+   "task": "Oral Arguments",
+   "assigned_party": "",
+   "original": "12-FEB-2027",
+   "current": "12-FEB-2027",
+   "actual": ""
+  },
+  {
+   "task": "Judgment on Appeal",
+   "assigned_party": "",
+   "original": "12-FEB-2027",
+   "current": "12-FEB-2027",
+   "actual": ""
+  }
+ ],
+ "milestone_advisory": "Advisory: The Milestone Dates provided in Manage Cases may not be accurate. In the event of a difference between a Milestone Date in Manage Cases and the Milestone Date calculated in accordance with the Hawaii Rules of Appellate Procedure or applicable court rules, the Hawaii Rules of Appellate Procedure or applicable court rules prevail.",
+ "capture_note": "Transcribed from the rendered JIMS case view. Raw JSF HTML was not captured; the authoritative machine copy is this JSON plus the browser screenshots in this folder. Certified-first download policy applies (see tools/ssot/certified_first.md).",
+ "hash_disclosure": "The sha256 of this file is recorded in the adjacent .sha256 sidecar and in the site's snapshot index; it is NOT embedded in this document, because an embedded self-hash can only describe the bytes before that field existed. For the record, the earlier embedded value c8d4b16afb17de21… was the hash of the pre-embed content and must not be used to verify this file."
+}

@@ -1,0 +1,11 @@
+{
+  "schema": "ssot/api-hash@1",
+  "sha256": "aed50a106756fe6696bb1c65ac61f2138a22c79a34f036efd13657f00660b229",
+  "kind": "document_page",
+  "case": "1RC191003776",
+  "docket": 240,
+  "file": "2021-12-29__1RC191003776__DKT0240__ex-parte-mtn-short-time-hear-aoao-msj.pdf",
+  "published_url": "https://the95xrecord.vercel.app/docs/6b0619b6f2",
+  "lookup": "https://the95xrecord.vercel.app/api/v1/hash/aed50a106756fe6696bb1c65ac61f2138a22c79a34f036efd13657f00660b229.json",
+  "ssot": "https://the95xrecord.vercel.app/ssot.json"
+}

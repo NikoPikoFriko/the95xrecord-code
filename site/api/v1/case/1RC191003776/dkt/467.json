@@ -1,0 +1,40 @@
+{
+  "schema": "ssot/api-docket@1",
+  "case": "1RC191003776",
+  "docket": 467,
+  "code": "NOCDA",
+  "filed": "15-SEP-2026",
+  "filed_iso": "2026-09-15",
+  "time": "14:38:32",
+  "ra_pdf_page": 180,
+  "grade": "PARTIAL",
+  "for_counsel": false,
+  "evidence": {
+    "renditions": [
+      {
+        "file": "07_AGENT_WORK_REVIEW/FROM_AI_WORKSPACES_2026-10-23/CURSOR/.cursor/worktrees/AOAO_Marine_Surf_1RC191003776/ddym/99_INBOX/infranodus_judicial_audit_2026-10-03/judicial-audit-2026-10-03/evidence/docket/Dkt467.pdf",
+        "sha256": "b6a16e25701f0c6271105bf0ac927b2653d6f7fd878407553c89d0a23fc3ed8f",
+        "location": "agent_worktree",
+        "published_url": null
+      }
+    ],
+    "text": {
+      "file": "06_EXTRACT/MAGIC_06_MATERIALS/DESK MAGIC FILES/2026-09-15__1RC191003776__DKT__DKT0467-NOCDA__docket-text__OCR__h31471085bf4d.txt",
+      "sha256": "31471085bf4d34acbb1c8f85365ccc58cce738c7a541d8fc60b3ee79cd2c98b1",
+      "location": "extract_materials_text",
+      "published_url": "https://the95xrecord.vercel.app/06_EXTRACT/MAGIC_06_MATERIALS/DESK MAGIC FILES/2026-09-15__1RC191003776__DKT__DKT0467-NOCDA__docket-text__OCR__h31471085bf4d.txt"
+    },
+    "held_by_station": true,
+    "gap": false
+  },
+  "pdf_conflict": null,
+  "flags": [
+    "pdf_outside_canonical_library"
+  ],
+  "links": {
+    "register": "https://the95xrecord.vercel.app/register#dkt-467",
+    "register_json": "https://the95xrecord.vercel.app/api/v1/case/1RC191003776/dkt/467.json",
+    "ssot": "https://the95xrecord.vercel.app/ssot.json",
+    "crossref": "https://the95xrecord.vercel.app/data/crossref.json"
+  }
+}

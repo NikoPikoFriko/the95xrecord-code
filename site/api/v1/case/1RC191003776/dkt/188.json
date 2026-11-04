@@ -1,0 +1,33 @@
+{
+  "schema": "ssot/api-docket@1",
+  "case": "1RC191003776",
+  "docket": 188,
+  "code": "RAS",
+  "filed": "17-MAR-2021",
+  "filed_iso": "2021-03-17",
+  "time": "16:35:00",
+  "ra_pdf_page": 61,
+  "grade": "PARTIAL",
+  "for_counsel": false,
+  "evidence": {
+    "renditions": [],
+    "text": {
+      "file": "COURT_DOCKET/LISTINGS/1RC191003776/04_TEXT/ocr/2021-03-17__Dkt188__1RC191003776__return-of-service-acknowledgment-of-service-bank-of-hawaii.ocr.txt",
+      "sha256": "6e880f4f2447973ad77aa23a05e7a0651a3881c867c0a52abb849bba02e5580b",
+      "location": "court_docket_listings_ocr",
+      "published_url": "https://the95xrecord.vercel.app/COURT_DOCKET/LISTINGS/1RC191003776/04_TEXT/ocr/2021-03-17__Dkt188__1RC191003776__return-of-service-acknowledgment-of-service-bank-of-hawaii.ocr.txt"
+    },
+    "held_by_station": true,
+    "gap": false
+  },
+  "pdf_conflict": null,
+  "flags": [
+    "text_only_no_pdf_of_document"
+  ],
+  "links": {
+    "register": "https://the95xrecord.vercel.app/register#dkt-188",
+    "register_json": "https://the95xrecord.vercel.app/api/v1/case/1RC191003776/dkt/188.json",
+    "ssot": "https://the95xrecord.vercel.app/ssot.json",
+    "crossref": "https://the95xrecord.vercel.app/data/crossref.json"
+  }
+}

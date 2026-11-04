@@ -1,0 +1,11 @@
+{
+  "schema": "ssot/api-hash@1",
+  "sha256": "5be507750a1a83bae0b4c47e048ffd3ae78dadf27a17b191316ceaaf2a31ae4f",
+  "kind": "trial_text",
+  "case": "1RC191003776",
+  "docket": 64,
+  "file": "2020-02-18__Dkt064__1RC191003776__granted-thyssenkrupp-elevator-corporation-s-non-hearing-moti.ocr.txt",
+  "published_url": "https://the95xrecord.vercel.app/COURT_DOCKET/LISTINGS/1RC191003776/04_TEXT/ocr/2020-02-18__Dkt064__1RC191003776__granted-thyssenkrupp-elevator-corporation-s-non-hearing-moti.ocr.txt",
+  "lookup": "https://the95xrecord.vercel.app/api/v1/hash/5be507750a1a83bae0b4c47e048ffd3ae78dadf27a17b191316ceaaf2a31ae4f.json",
+  "ssot": "https://the95xrecord.vercel.app/ssot.json"
+}

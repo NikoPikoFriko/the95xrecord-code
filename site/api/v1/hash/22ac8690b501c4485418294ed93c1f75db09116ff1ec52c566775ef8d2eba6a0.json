@@ -1,0 +1,11 @@
+{
+  "schema": "ssot/api-hash@1",
+  "sha256": "22ac8690b501c4485418294ed93c1f75db09116ff1ec52c566775ef8d2eba6a0",
+  "kind": "document_page",
+  "case": "1RC191003776",
+  "docket": 116,
+  "file": "2020-09-28__1RC191003776__DKT0116__amended-ntc-court-date-pretrial-conference-10-00am.pdf",
+  "published_url": "https://the95xrecord.vercel.app/docs/fbde759339",
+  "lookup": "https://the95xrecord.vercel.app/api/v1/hash/22ac8690b501c4485418294ed93c1f75db09116ff1ec52c566775ef8d2eba6a0.json",
+  "ssot": "https://the95xrecord.vercel.app/ssot.json"
+}

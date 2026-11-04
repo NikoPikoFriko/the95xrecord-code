@@ -1,0 +1,11 @@
+{
+  "schema": "ssot/api-hash@1",
+  "sha256": "0578bfb487890ed84c9f726484102b8bcd1fdeff92c5e115c950ae951f148c80",
+  "kind": "document_page",
+  "case": "1RC191003776",
+  "docket": 34,
+  "file": "2020-01-14__Dkt34__1RC191003776__response-and-memorandum-in-opposition-to-motion-fo.pdf",
+  "published_url": "https://the95xrecord.vercel.app/docs/9dd051f76b",
+  "lookup": "https://the95xrecord.vercel.app/api/v1/hash/0578bfb487890ed84c9f726484102b8bcd1fdeff92c5e115c950ae951f148c80.json",
+  "ssot": "https://the95xrecord.vercel.app/ssot.json"
+}

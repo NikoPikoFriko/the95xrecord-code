@@ -1,0 +1,11 @@
+{
+  "schema": "ssot/api-hash@1",
+  "sha256": "0891b265f73055c1bbc1fd1d4f0e354f4f50bbb698d124835f7cb5108bbe4748",
+  "kind": "trial_text",
+  "case": "1RC191003776",
+  "docket": 114,
+  "file": "2020-09-25__Dkt114__1RC191003776__order-granting-in-part-and-denying-in-part-plaintiff-counter.ocr.txt",
+  "published_url": "https://the95xrecord.vercel.app/COURT_DOCKET/LISTINGS/1RC191003776/04_TEXT/ocr/2020-09-25__Dkt114__1RC191003776__order-granting-in-part-and-denying-in-part-plaintiff-counter.ocr.txt",
+  "lookup": "https://the95xrecord.vercel.app/api/v1/hash/0891b265f73055c1bbc1fd1d4f0e354f4f50bbb698d124835f7cb5108bbe4748.json",
+  "ssot": "https://the95xrecord.vercel.app/ssot.json"
+}

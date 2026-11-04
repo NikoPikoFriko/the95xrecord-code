@@ -1,0 +1,11 @@
+{
+  "schema": "ssot/api-hash@1",
+  "sha256": "a831489a390ccf3cf56d2fe35fd72d88825b98359a981119f92a5dd542ee6310",
+  "kind": "document_page",
+  "case": "1RC191003776",
+  "docket": 26,
+  "file": "2020-01-10__1RC191003776__DKT0026__ros-w-denison.pdf",
+  "published_url": "https://the95xrecord.vercel.app/docs/8570d49628",
+  "lookup": "https://the95xrecord.vercel.app/api/v1/hash/a831489a390ccf3cf56d2fe35fd72d88825b98359a981119f92a5dd542ee6310.json",
+  "ssot": "https://the95xrecord.vercel.app/ssot.json"
+}

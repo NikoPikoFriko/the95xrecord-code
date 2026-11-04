@@ -1,0 +1,11 @@
+{
+  "schema": "ssot/api-hash@1",
+  "sha256": "e7a2e29197a05e962dcd09ba9768c7d311412c2547ccd2733a29dc9f3922375f",
+  "kind": "trial_text",
+  "case": "1RC191003776",
+  "docket": 193,
+  "file": "2021-03-18__Dkt193__1RC191003776__notice-of-invitation-and-option-to-participate-in-alternativ.ocr.txt",
+  "published_url": "https://the95xrecord.vercel.app/COURT_DOCKET/LISTINGS/1RC191003776/04_TEXT/ocr/2021-03-18__Dkt193__1RC191003776__notice-of-invitation-and-option-to-participate-in-alternativ.ocr.txt",
+  "lookup": "https://the95xrecord.vercel.app/api/v1/hash/e7a2e29197a05e962dcd09ba9768c7d311412c2547ccd2733a29dc9f3922375f.json",
+  "ssot": "https://the95xrecord.vercel.app/ssot.json"
+}

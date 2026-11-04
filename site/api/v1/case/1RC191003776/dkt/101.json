@@ -1,0 +1,33 @@
+{
+  "schema": "ssot/api-docket@1",
+  "case": "1RC191003776",
+  "docket": 101,
+  "code": "NTCE",
+  "filed": "09-JUL-2020",
+  "filed_iso": "2020-07-09",
+  "time": "12:25:54",
+  "ra_pdf_page": 35,
+  "grade": "PARTIAL",
+  "for_counsel": false,
+  "evidence": {
+    "renditions": [],
+    "text": {
+      "file": "COURT_DOCKET/LISTINGS/1RC191003776/04_TEXT/ocr/2020-07-09__Dkt101__1RC191003776__notice-of-submission-of-1-proposed-order-granting-third-part.ocr.txt",
+      "sha256": "d8c54cb868173cc684f4744c350bc1b0cb0be92580d8d14f73a0e2d4e27e2610",
+      "location": "court_docket_listings_ocr",
+      "published_url": "https://the95xrecord.vercel.app/COURT_DOCKET/LISTINGS/1RC191003776/04_TEXT/ocr/2020-07-09__Dkt101__1RC191003776__notice-of-submission-of-1-proposed-order-granting-third-part.ocr.txt"
+    },
+    "held_by_station": true,
+    "gap": false
+  },
+  "pdf_conflict": null,
+  "flags": [
+    "text_only_no_pdf_of_document"
+  ],
+  "links": {
+    "register": "https://the95xrecord.vercel.app/register#dkt-101",
+    "register_json": "https://the95xrecord.vercel.app/api/v1/case/1RC191003776/dkt/101.json",
+    "ssot": "https://the95xrecord.vercel.app/ssot.json",
+    "crossref": "https://the95xrecord.vercel.app/data/crossref.json"
+  }
+}

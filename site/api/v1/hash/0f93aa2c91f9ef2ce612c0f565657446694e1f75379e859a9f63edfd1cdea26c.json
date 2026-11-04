@@ -1,0 +1,11 @@
+{
+  "schema": "ssot/api-hash@1",
+  "sha256": "0f93aa2c91f9ef2ce612c0f565657446694e1f75379e859a9f63edfd1cdea26c",
+  "kind": "trial_text",
+  "case": "1RC191003776",
+  "docket": 11,
+  "file": "2019-08-23__Dkt011__1RC191003776__certificate-of-service-re-counterclaim-defendant-association.ocr.txt",
+  "published_url": "https://the95xrecord.vercel.app/COURT_DOCKET/LISTINGS/1RC191003776/04_TEXT/ocr/2019-08-23__Dkt011__1RC191003776__certificate-of-service-re-counterclaim-defendant-association.ocr.txt",
+  "lookup": "https://the95xrecord.vercel.app/api/v1/hash/0f93aa2c91f9ef2ce612c0f565657446694e1f75379e859a9f63edfd1cdea26c.json",
+  "ssot": "https://the95xrecord.vercel.app/ssot.json"
+}

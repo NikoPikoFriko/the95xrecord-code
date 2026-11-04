@@ -1,0 +1,11 @@
+{
+  "schema": "ssot/api-hash@1",
+  "sha256": "5f70badf3fd15af3a9d18878884c1316e0be06d23b5e3070d5d552b5e129e879",
+  "kind": "trial_text",
+  "case": "1RC191003776",
+  "docket": 66,
+  "file": "2020-03-06__Dkt066__1RC191003776__notice-of-appearance-as-co-counsel-for-plaintiff-association.ocr.txt",
+  "published_url": "https://the95xrecord.vercel.app/COURT_DOCKET/LISTINGS/1RC191003776/04_TEXT/ocr/2020-03-06__Dkt066__1RC191003776__notice-of-appearance-as-co-counsel-for-plaintiff-association.ocr.txt",
+  "lookup": "https://the95xrecord.vercel.app/api/v1/hash/5f70badf3fd15af3a9d18878884c1316e0be06d23b5e3070d5d552b5e129e879.json",
+  "ssot": "https://the95xrecord.vercel.app/ssot.json"
+}

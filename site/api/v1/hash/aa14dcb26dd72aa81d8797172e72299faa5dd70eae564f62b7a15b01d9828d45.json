@@ -1,0 +1,11 @@
+{
+  "schema": "ssot/api-hash@1",
+  "sha256": "aa14dcb26dd72aa81d8797172e72299faa5dd70eae564f62b7a15b01d9828d45",
+  "kind": "document_page",
+  "case": "1RC191003776",
+  "docket": null,
+  "file": "2020-12-02__1RC191003776__NONE__j-dempsey-ltr-re-demand-for-payment-9-197-41.pdf",
+  "published_url": "https://the95xrecord.vercel.app/docs/73668fa340",
+  "lookup": "https://the95xrecord.vercel.app/api/v1/hash/aa14dcb26dd72aa81d8797172e72299faa5dd70eae564f62b7a15b01d9828d45.json",
+  "ssot": "https://the95xrecord.vercel.app/ssot.json"
+}

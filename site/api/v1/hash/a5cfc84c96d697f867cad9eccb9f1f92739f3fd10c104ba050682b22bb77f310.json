@@ -1,0 +1,11 @@
+{
+  "schema": "ssot/api-hash@1",
+  "sha256": "a5cfc84c96d697f867cad9eccb9f1f92739f3fd10c104ba050682b22bb77f310",
+  "kind": "document_page",
+  "case": "1RC191003776",
+  "docket": 75,
+  "file": "2020-04-29__1RC191003776__DKT0075__amend-notice-of-court-date-re-pt-conf-jun8-930.pdf",
+  "published_url": "https://the95xrecord.vercel.app/docs/96637cf41d",
+  "lookup": "https://the95xrecord.vercel.app/api/v1/hash/a5cfc84c96d697f867cad9eccb9f1f92739f3fd10c104ba050682b22bb77f310.json",
+  "ssot": "https://the95xrecord.vercel.app/ssot.json"
+}

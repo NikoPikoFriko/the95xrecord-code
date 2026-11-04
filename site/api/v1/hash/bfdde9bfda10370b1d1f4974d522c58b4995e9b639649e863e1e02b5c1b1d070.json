@@ -1,0 +1,11 @@
+{
+  "schema": "ssot/api-hash@1",
+  "sha256": "bfdde9bfda10370b1d1f4974d522c58b4995e9b639649e863e1e02b5c1b1d070",
+  "kind": "document_page",
+  "case": "1RC191003776",
+  "docket": 367,
+  "file": "2023-01-12__1RC191003776__DKT0367__trial-memo-2-re-waiver.pdf",
+  "published_url": "https://the95xrecord.vercel.app/docs/119fe03fed",
+  "lookup": "https://the95xrecord.vercel.app/api/v1/hash/bfdde9bfda10370b1d1f4974d522c58b4995e9b639649e863e1e02b5c1b1d070.json",
+  "ssot": "https://the95xrecord.vercel.app/ssot.json"
+}

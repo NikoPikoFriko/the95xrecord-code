@@ -1,0 +1,11 @@
+{
+  "schema": "ssot/api-hash@1",
+  "sha256": "5ca1d00e558c9693a002cc81bd16e220a7e493faacdea2ce5119797d9c72cb0c",
+  "kind": "document_page",
+  "case": "1RC191003776",
+  "docket": 83,
+  "file": "2020-06-04__1RC191003776__DKT0083__nef-ntc-invitation-and-opton-participate-in-alternative-remote.pdf",
+  "published_url": "https://the95xrecord.vercel.app/docs/3b9065aa48",
+  "lookup": "https://the95xrecord.vercel.app/api/v1/hash/5ca1d00e558c9693a002cc81bd16e220a7e493faacdea2ce5119797d9c72cb0c.json",
+  "ssot": "https://the95xrecord.vercel.app/ssot.json"
+}

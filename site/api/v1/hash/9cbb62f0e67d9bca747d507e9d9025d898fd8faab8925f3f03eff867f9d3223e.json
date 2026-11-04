@@ -1,0 +1,11 @@
+{
+  "schema": "ssot/api-hash@1",
+  "sha256": "9cbb62f0e67d9bca747d507e9d9025d898fd8faab8925f3f03eff867f9d3223e",
+  "kind": "appeal_pdf",
+  "case": "CAAP-26-0000625",
+  "docket": 7,
+  "file": "2026-09-04__CAAP-26-0000625__DKT__DKT0007-NEF__nef-notice-of-appeal__CERT__h9cbb62f0e67d.pdf",
+  "published_url": null,
+  "lookup": "https://the95xrecord.vercel.app/api/v1/hash/9cbb62f0e67d9bca747d507e9d9025d898fd8faab8925f3f03eff867f9d3223e.json",
+  "ssot": "https://the95xrecord.vercel.app/ssot.json"
+}

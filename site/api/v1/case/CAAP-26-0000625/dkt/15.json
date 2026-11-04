@@ -1,0 +1,26 @@
+{
+  "schema": "ssot/api-docket@1",
+  "case": "CAAP-26-0000625",
+  "docket": 15,
+  "code": "RA",
+  "title": "Record on Appeal",
+  "filed": "28-OCT-2026",
+  "filed_iso": "2026-10-28",
+  "time": "08:41:00",
+  "grade": "OBS",
+  "for_counsel": false,
+  "evidence": {
+    "held_by_station": true,
+    "file": "APPEALS/CAAP-26-0000625/DOCKET/2026-10-28__CAAP-26-0000625__DKT__DKT0015-RA__record-on-appeal__SRC__hefa1ddef4d93.pdf",
+    "sha256": "efa1ddef4d93fae99c43fd324504cc7c433ff4cbc89d60d39ec687380f1114b1",
+    "pages": 197,
+    "form": "src",
+    "gap": false
+  },
+  "flags": [],
+  "links": {
+    "appeal": "https://the95xrecord.vercel.app/appeal#dkt-15",
+    "appeal_json": "https://the95xrecord.vercel.app/api/v1/case/CAAP-26-0000625/dkt/15.json",
+    "ssot": "https://the95xrecord.vercel.app/ssot.json"
+  }
+}

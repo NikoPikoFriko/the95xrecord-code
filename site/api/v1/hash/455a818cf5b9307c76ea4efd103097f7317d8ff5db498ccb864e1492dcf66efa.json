@@ -1,0 +1,11 @@
+{
+  "schema": "ssot/api-hash@1",
+  "sha256": "455a818cf5b9307c76ea4efd103097f7317d8ff5db498ccb864e1492dcf66efa",
+  "kind": "trial_text",
+  "case": "1RC191003776",
+  "docket": 134,
+  "file": "2020-11-18__Dkt134__1RC191003776__granted-final-judgment-in-favor-of-thyssenkrupp-elevator-cor.ocr.txt",
+  "published_url": "https://the95xrecord.vercel.app/COURT_DOCKET/LISTINGS/1RC191003776/04_TEXT/ocr/2020-11-18__Dkt134__1RC191003776__granted-final-judgment-in-favor-of-thyssenkrupp-elevator-cor.ocr.txt",
+  "lookup": "https://the95xrecord.vercel.app/api/v1/hash/455a818cf5b9307c76ea4efd103097f7317d8ff5db498ccb864e1492dcf66efa.json",
+  "ssot": "https://the95xrecord.vercel.app/ssot.json"
+}

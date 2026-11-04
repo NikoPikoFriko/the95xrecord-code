@@ -1,0 +1,11 @@
+{
+  "schema": "ssot/api-hash@1",
+  "sha256": "742f720b26ae13fefef973ccec4c3d2ac790bcb4199e3edc0be08e013b9e61ca",
+  "kind": "document_page",
+  "case": "1RC191003776",
+  "docket": 140,
+  "file": "2020-12-18__1RC191003776__DKT0140__ntc-of-appeal.pdf",
+  "published_url": "https://the95xrecord.vercel.app/docs/8b72609f7f",
+  "lookup": "https://the95xrecord.vercel.app/api/v1/hash/742f720b26ae13fefef973ccec4c3d2ac790bcb4199e3edc0be08e013b9e61ca.json",
+  "ssot": "https://the95xrecord.vercel.app/ssot.json"
+}

@@ -1,0 +1,11 @@
+{
+  "schema": "ssot/api-hash@1",
+  "sha256": "823a9691e834fbde2b2beca18cce8a120e5a7ecc58bc47a5fd1cddd4bc107ef6",
+  "kind": "trial_text",
+  "case": "1RC191003776",
+  "docket": 26,
+  "file": "2020-01-10__Dkt026__1RC191003776__return-and-acknowledgment-on-subpoena-for-w-e-denison.ocr.txt",
+  "published_url": "https://the95xrecord.vercel.app/COURT_DOCKET/LISTINGS/1RC191003776/04_TEXT/ocr/2020-01-10__Dkt026__1RC191003776__return-and-acknowledgment-on-subpoena-for-w-e-denison.ocr.txt",
+  "lookup": "https://the95xrecord.vercel.app/api/v1/hash/823a9691e834fbde2b2beca18cce8a120e5a7ecc58bc47a5fd1cddd4bc107ef6.json",
+  "ssot": "https://the95xrecord.vercel.app/ssot.json"
+}

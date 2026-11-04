@@ -1,0 +1,11 @@
+{
+  "schema": "ssot/api-hash@1",
+  "sha256": "aa711417f6a85f2996f8cee4adea731b00b086a1e00ef7b0b17ec9989579814d",
+  "kind": "document_page",
+  "case": "1RC191003776",
+  "docket": 329,
+  "file": "2021-02-03__Dkt329__1RC191003776__record-on-appeal.pdf",
+  "published_url": "https://the95xrecord.vercel.app/docs/eba22a7a70",
+  "lookup": "https://the95xrecord.vercel.app/api/v1/hash/aa711417f6a85f2996f8cee4adea731b00b086a1e00ef7b0b17ec9989579814d.json",
+  "ssot": "https://the95xrecord.vercel.app/ssot.json"
+}

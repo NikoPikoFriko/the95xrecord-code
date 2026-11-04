@@ -1,0 +1,11 @@
+{
+  "schema": "ssot/api-hash@1",
+  "sha256": "518b321f5a12bd10d569d38c7ed504b513229eb4a1fb1f473980ea4b1592e7cf",
+  "kind": "document_page",
+  "case": "1RC191003776",
+  "docket": 28,
+  "file": "2020-01-13__Dkt28__1RC191003776__notice-of-change-of-firm-name-of-counsel-for-plain.pdf",
+  "published_url": "https://the95xrecord.vercel.app/docs/9557926b87",
+  "lookup": "https://the95xrecord.vercel.app/api/v1/hash/518b321f5a12bd10d569d38c7ed504b513229eb4a1fb1f473980ea4b1592e7cf.json",
+  "ssot": "https://the95xrecord.vercel.app/ssot.json"
+}

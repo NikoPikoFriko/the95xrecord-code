@@ -1,0 +1,11 @@
+{
+  "schema": "ssot/api-hash@1",
+  "sha256": "07794dac5ab1b951180af407046a0badf96ab6c5347247b8e1f813f88db82113",
+  "kind": "document_page",
+  "case": "1RC191003776",
+  "docket": 200,
+  "file": "2021-03-30__1RC191003776__DKT0200__ntc-remote-option-pretrial-conference-9-00am.pdf",
+  "published_url": "https://the95xrecord.vercel.app/docs/1d49883197",
+  "lookup": "https://the95xrecord.vercel.app/api/v1/hash/07794dac5ab1b951180af407046a0badf96ab6c5347247b8e1f813f88db82113.json",
+  "ssot": "https://the95xrecord.vercel.app/ssot.json"
+}

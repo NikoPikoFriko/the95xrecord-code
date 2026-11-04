@@ -1,0 +1,11 @@
+{
+  "schema": "ssot/api-hash@1",
+  "sha256": "0c3da8cd69ea595dd402ac55c0dee59541e6b409aff3ceafed6f6bfe98cae91e",
+  "kind": "evidence_export",
+  "case": "CAAP-26-0000625",
+  "docket": null,
+  "file": "APPEAL_DEADLINE_PACK.md",
+  "published_url": null,
+  "lookup": "https://the95xrecord.vercel.app/api/v1/hash/0c3da8cd69ea595dd402ac55c0dee59541e6b409aff3ceafed6f6bfe98cae91e.json",
+  "ssot": "https://the95xrecord.vercel.app/ssot.json"
+}

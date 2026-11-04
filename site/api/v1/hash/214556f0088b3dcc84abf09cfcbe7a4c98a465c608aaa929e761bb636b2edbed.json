@@ -1,0 +1,11 @@
+{
+  "schema": "ssot/api-hash@1",
+  "sha256": "214556f0088b3dcc84abf09cfcbe7a4c98a465c608aaa929e761bb636b2edbed",
+  "kind": "document_page",
+  "case": "1RC191003776",
+  "docket": 51,
+  "file": "2020-01-27__Dkt51__1RC191003776__proposed-order-granting-third-party-defendant-thys.pdf",
+  "published_url": "https://the95xrecord.vercel.app/docs/a63087f7be",
+  "lookup": "https://the95xrecord.vercel.app/api/v1/hash/214556f0088b3dcc84abf09cfcbe7a4c98a465c608aaa929e761bb636b2edbed.json",
+  "ssot": "https://the95xrecord.vercel.app/ssot.json"
+}

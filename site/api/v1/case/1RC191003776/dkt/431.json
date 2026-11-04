@@ -1,0 +1,39 @@
+{
+  "schema": "ssot/api-docket@1",
+  "case": "1RC191003776",
+  "docket": 431,
+  "code": "MOT",
+  "filed": "19-AUG-2026",
+  "filed_iso": "2026-08-19",
+  "time": "20:34:32",
+  "ra_pdf_page": 159,
+  "grade": "PARTIAL",
+  "for_counsel": false,
+  "evidence": {
+    "renditions": [],
+    "text": {
+      "file": "COURT_DOCKET/LISTINGS/1RC191003776/04_TEXT/ocr/2026-08-19__Dkt431__1RC191003776__defendant-counterclaim-plaintiff-nikodem-pikor-s-motion-for.ocr.txt",
+      "sha256": "8045ad1b82ebccb33170a4b9a339679c9dff30743529e8c3fa336f78f70cd846",
+      "location": "court_docket_listings_ocr",
+      "published_url": "https://the95xrecord.vercel.app/COURT_DOCKET/LISTINGS/1RC191003776/04_TEXT/ocr/2026-08-19__Dkt431__1RC191003776__defendant-counterclaim-plaintiff-nikodem-pikor-s-motion-for.ocr.txt"
+    },
+    "held_by_station": true,
+    "gap": false
+  },
+  "pdf_conflict": {
+    "kind": "draft_referencing_docket",
+    "file": "APPEALS/CAAP-26-0000625/10_DRAFTS/PROTECTIVE_NOA_2026-10-22/NOTICE_OF_APPEAL_Dkt431_Dkt442_DRAFT_2026-10-22.pdf",
+    "sha256": "32ede73ed0a5e80978aaae92bbfb62e37bc72b28394f5264b0228024a8ce8bcd",
+    "reason": "draft notice of appeal in the appeal workspace that cites trial Dkt 431 and Dkt 442; page 1 reads 'DRAFT FOR REVIEW - NOT FILED', so it is neither the filed motion Dkt 431 nor a filing"
+  },
+  "flags": [
+    "draft_referencing_docket",
+    "text_only_no_pdf_of_document"
+  ],
+  "links": {
+    "register": "https://the95xrecord.vercel.app/register#dkt-431",
+    "register_json": "https://the95xrecord.vercel.app/api/v1/case/1RC191003776/dkt/431.json",
+    "ssot": "https://the95xrecord.vercel.app/ssot.json",
+    "crossref": "https://the95xrecord.vercel.app/data/crossref.json"
+  }
+}

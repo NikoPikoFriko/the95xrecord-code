@@ -1,0 +1,11 @@
+{
+  "schema": "ssot/api-hash@1",
+  "sha256": "4442b02f63a2e250ead9742cfe379a66c8db875b4ceb5276e124ecfb7fdd2346",
+  "kind": "document_page",
+  "case": "1RC191003776",
+  "docket": 48,
+  "file": "2020-01-20__Dkt48__1RC191003776__defendant-and-third-party-plaintiff-s-motion-to-su.pdf",
+  "published_url": "https://the95xrecord.vercel.app/docs/994225f66f",
+  "lookup": "https://the95xrecord.vercel.app/api/v1/hash/4442b02f63a2e250ead9742cfe379a66c8db875b4ceb5276e124ecfb7fdd2346.json",
+  "ssot": "https://the95xrecord.vercel.app/ssot.json"
+}

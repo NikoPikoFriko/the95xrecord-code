@@ -1,0 +1,11 @@
+{
+  "schema": "ssot/api-hash@1",
+  "sha256": "11cfa42e1d80b944bfbff8ce5060a20631dc58feac8acae3a4680094340ed07f",
+  "kind": "document_page",
+  "case": "1RC191003776",
+  "docket": 168,
+  "file": "2021-02-23__Dkt168__1RC191003776__notice-of-invitation-and-option-to-participate-in-.pdf",
+  "published_url": "https://the95xrecord.vercel.app/docs/668330ae8b",
+  "lookup": "https://the95xrecord.vercel.app/api/v1/hash/11cfa42e1d80b944bfbff8ce5060a20631dc58feac8acae3a4680094340ed07f.json",
+  "ssot": "https://the95xrecord.vercel.app/ssot.json"
+}

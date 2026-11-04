@@ -1,0 +1,11 @@
+{
+  "schema": "ssot/api-hash@1",
+  "sha256": "0895d6edc6db7f63cf9b8802257268674d73ed1e3a562fcb46d469f266de9ed4",
+  "kind": "document_page",
+  "case": "1RC191003776",
+  "docket": 6,
+  "file": "2026-09-04__CAAP-26-0000625__DKT0006__civil-appeal-docketing-statement.pdf",
+  "published_url": "https://the95xrecord.vercel.app/docs/e32be3fa8b",
+  "lookup": "https://the95xrecord.vercel.app/api/v1/hash/0895d6edc6db7f63cf9b8802257268674d73ed1e3a562fcb46d469f266de9ed4.json",
+  "ssot": "https://the95xrecord.vercel.app/ssot.json"
+}

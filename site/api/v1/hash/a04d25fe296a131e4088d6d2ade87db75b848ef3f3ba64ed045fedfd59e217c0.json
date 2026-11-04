@@ -1,0 +1,11 @@
+{
+  "schema": "ssot/api-hash@1",
+  "sha256": "a04d25fe296a131e4088d6d2ade87db75b848ef3f3ba64ed045fedfd59e217c0",
+  "kind": "document_page",
+  "case": "1RC191003776",
+  "docket": 158,
+  "file": "2021-01-28__1RC191003776__DKT0158__aoao-answer-to-1st-amended-cntrclaim.pdf",
+  "published_url": "https://the95xrecord.vercel.app/docs/79c2ee399b",
+  "lookup": "https://the95xrecord.vercel.app/api/v1/hash/a04d25fe296a131e4088d6d2ade87db75b848ef3f3ba64ed045fedfd59e217c0.json",
+  "ssot": "https://the95xrecord.vercel.app/ssot.json"
+}

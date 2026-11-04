@@ -1,0 +1,11 @@
+{
+  "schema": "ssot/api-hash@1",
+  "sha256": "bc4664746a60ac3e8a2f0392c1b38a735d36e612ca0f964eb8e5ed7ab394e99f",
+  "kind": "document_page",
+  "case": "1RC191003776",
+  "docket": null,
+  "file": "MarineSurf_HIOSH_Permits_to_Operate_2015-2020.pdf",
+  "published_url": "https://the95xrecord.vercel.app/docs/dd0f763874",
+  "lookup": "https://the95xrecord.vercel.app/api/v1/hash/bc4664746a60ac3e8a2f0392c1b38a735d36e612ca0f964eb8e5ed7ab394e99f.json",
+  "ssot": "https://the95xrecord.vercel.app/ssot.json"
+}

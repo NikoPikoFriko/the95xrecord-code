@@ -1,0 +1,33 @@
+{
+  "schema": "ssot/api-docket@1",
+  "case": "1RC191003776",
+  "docket": 79,
+  "code": "NHM",
+  "filed": "02-JUN-2020",
+  "filed_iso": "2020-06-02",
+  "time": "15:24:37",
+  "ra_pdf_page": 25,
+  "grade": "PARTIAL",
+  "for_counsel": false,
+  "evidence": {
+    "renditions": [],
+    "text": {
+      "file": "COURT_DOCKET/LISTINGS/1RC191003776/04_TEXT/ocr/2020-06-02__Dkt079__1RC191003776__defendant-and-counterclaim-third-party-plaintiff-nikodem-pik.ocr.txt",
+      "sha256": "07a8f2dc8ef46675205633e3dcf8e782d25b91db10571404f4dac3dee94314ac",
+      "location": "court_docket_listings_ocr",
+      "published_url": "https://the95xrecord.vercel.app/COURT_DOCKET/LISTINGS/1RC191003776/04_TEXT/ocr/2020-06-02__Dkt079__1RC191003776__defendant-and-counterclaim-third-party-plaintiff-nikodem-pik.ocr.txt"
+    },
+    "held_by_station": true,
+    "gap": false
+  },
+  "pdf_conflict": null,
+  "flags": [
+    "text_only_no_pdf_of_document"
+  ],
+  "links": {
+    "register": "https://the95xrecord.vercel.app/register#dkt-79",
+    "register_json": "https://the95xrecord.vercel.app/api/v1/case/1RC191003776/dkt/79.json",
+    "ssot": "https://the95xrecord.vercel.app/ssot.json",
+    "crossref": "https://the95xrecord.vercel.app/data/crossref.json"
+  }
+}

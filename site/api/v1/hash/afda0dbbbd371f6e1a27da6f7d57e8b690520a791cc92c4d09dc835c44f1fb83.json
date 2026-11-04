@@ -1,0 +1,11 @@
+{
+  "schema": "ssot/api-hash@1",
+  "sha256": "afda0dbbbd371f6e1a27da6f7d57e8b690520a791cc92c4d09dc835c44f1fb83",
+  "kind": "evidence_export",
+  "case": "1RC191003776",
+  "docket": 496,
+  "file": "2026-09-04__1RC191003776__DKT__DKT0496-NA__notice-of-appeal-caap-26-625__SRC__hafda0dbbbd37.pdf",
+  "published_url": null,
+  "lookup": "https://the95xrecord.vercel.app/api/v1/hash/afda0dbbbd371f6e1a27da6f7d57e8b690520a791cc92c4d09dc835c44f1fb83.json",
+  "ssot": "https://the95xrecord.vercel.app/ssot.json"
+}

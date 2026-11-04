@@ -1,0 +1,11 @@
+{
+  "schema": "ssot/api-hash@1",
+  "sha256": "7c7978910396cbbd03f5e481b326ba7499ecf8d1b5a946006c05b80aa1b46472",
+  "kind": "evidence_export",
+  "case": "1RC191003776",
+  "docket": 502,
+  "file": "2026-10-29__1RC191003776__DKT__DKT0502-RA__amended-record-on-appeal-caap-26-625__SRC__h7c7978910396.pdf",
+  "published_url": null,
+  "lookup": "https://the95xrecord.vercel.app/api/v1/hash/7c7978910396cbbd03f5e481b326ba7499ecf8d1b5a946006c05b80aa1b46472.json",
+  "ssot": "https://the95xrecord.vercel.app/ssot.json"
+}

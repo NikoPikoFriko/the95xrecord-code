@@ -1,0 +1,11 @@
+{
+  "schema": "ssot/api-hash@1",
+  "sha256": "b98a4d789a89bc8ea81f05d75b555a64126ac71bb3c497f645ff49c5fa9c6e74",
+  "kind": "document_page",
+  "case": "1RC191003776",
+  "docket": 210,
+  "file": "2021-06-04__1RC191003776__DKT0210__ntc-option-to-appear-remotely-ptc-1-30pm.pdf",
+  "published_url": "https://the95xrecord.vercel.app/docs/d23fe5522c",
+  "lookup": "https://the95xrecord.vercel.app/api/v1/hash/b98a4d789a89bc8ea81f05d75b555a64126ac71bb3c497f645ff49c5fa9c6e74.json",
+  "ssot": "https://the95xrecord.vercel.app/ssot.json"
+}

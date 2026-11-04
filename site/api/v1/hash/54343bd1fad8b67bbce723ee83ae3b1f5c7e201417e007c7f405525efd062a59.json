@@ -1,0 +1,11 @@
+{
+  "schema": "ssot/api-hash@1",
+  "sha256": "54343bd1fad8b67bbce723ee83ae3b1f5c7e201417e007c7f405525efd062a59",
+  "kind": "trial_text",
+  "case": "1RC191003776",
+  "docket": 391,
+  "file": "2023-04-25__Dkt391__1RC191003776__other.ocr.txt",
+  "published_url": "https://the95xrecord.vercel.app/COURT_DOCKET/LISTINGS/1RC191003776/04_TEXT/ocr/2023-04-25__Dkt391__1RC191003776__other.ocr.txt",
+  "lookup": "https://the95xrecord.vercel.app/api/v1/hash/54343bd1fad8b67bbce723ee83ae3b1f5c7e201417e007c7f405525efd062a59.json",
+  "ssot": "https://the95xrecord.vercel.app/ssot.json"
+}

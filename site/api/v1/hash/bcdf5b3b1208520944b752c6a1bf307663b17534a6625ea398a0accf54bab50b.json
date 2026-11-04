@@ -1,0 +1,11 @@
+{
+  "schema": "ssot/api-hash@1",
+  "sha256": "bcdf5b3b1208520944b752c6a1bf307663b17534a6625ea398a0accf54bab50b",
+  "kind": "document_page",
+  "case": "1RC191003776",
+  "docket": null,
+  "file": "UNDATED__CAAP-26-0000625__NONE__case-summary-for-my-case-view-hawai-i-intermediate-court-of.pdf",
+  "published_url": "https://the95xrecord.vercel.app/docs/43069b8f30",
+  "lookup": "https://the95xrecord.vercel.app/api/v1/hash/bcdf5b3b1208520944b752c6a1bf307663b17534a6625ea398a0accf54bab50b.json",
+  "ssot": "https://the95xrecord.vercel.app/ssot.json"
+}

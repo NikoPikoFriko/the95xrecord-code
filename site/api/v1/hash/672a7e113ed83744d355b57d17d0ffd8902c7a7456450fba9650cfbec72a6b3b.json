@@ -1,0 +1,11 @@
+{
+  "schema": "ssot/api-hash@1",
+  "sha256": "672a7e113ed83744d355b57d17d0ffd8902c7a7456450fba9650cfbec72a6b3b",
+  "kind": "document_page",
+  "case": "1RC191003776",
+  "docket": 188,
+  "file": "2021-03-17__1RC191003776__DKT0188__ras-boh.pdf",
+  "published_url": "https://the95xrecord.vercel.app/docs/068f2719aa",
+  "lookup": "https://the95xrecord.vercel.app/api/v1/hash/672a7e113ed83744d355b57d17d0ffd8902c7a7456450fba9650cfbec72a6b3b.json",
+  "ssot": "https://the95xrecord.vercel.app/ssot.json"
+}

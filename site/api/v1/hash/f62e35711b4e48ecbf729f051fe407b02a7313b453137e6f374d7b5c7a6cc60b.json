@@ -1,0 +1,11 @@
+{
+  "schema": "ssot/api-hash@1",
+  "sha256": "f62e35711b4e48ecbf729f051fe407b02a7313b453137e6f374d7b5c7a6cc60b",
+  "kind": "document_page",
+  "case": "1RC191003776",
+  "docket": 431,
+  "file": "2026-08-19__1RC191003776__DKT0431__reconsideration.pdf",
+  "published_url": "https://the95xrecord.vercel.app/docs/e77dad9070",
+  "lookup": "https://the95xrecord.vercel.app/api/v1/hash/f62e35711b4e48ecbf729f051fe407b02a7313b453137e6f374d7b5c7a6cc60b.json",
+  "ssot": "https://the95xrecord.vercel.app/ssot.json"
+}

@@ -1,0 +1,318 @@
+{
+  "schema": "ssot/tier-map@1",
+  "case": "1RC191003776",
+  "generated": "2026-11-03T19:44:32-10:00",
+  "source": "MANIFEST.csv grade field + file hashes (authoritative), one row per docket",
+  "tiers": {
+    "certified": 10,
+    "best_available": 41
+  },
+  "by_docket": {
+    "114": {
+      "tier": "best available",
+      "file": "2020-09-25__1RC191003776__DKT__DKT0114-ORD__order-granting-in-part-and-denying-in-part-plaintiff-counter__SRC__ha12173759fff.pdf",
+      "sha256": "a12173759fff3b987e41a8e1e28c9dcaa6f4d60dd9f56408fd3d3e25510f081d",
+      "pages": ""
+    },
+    "132": {
+      "tier": "best available",
+      "file": "2020-11-17__1RC191003776__DKT__DKT0132-ORDG__order-granting-third-party-defendant-thyssenkrupp-elevator-c__SRC__hdbf3d15a8d84.pdf",
+      "sha256": "dbf3d15a8d8426debb0f866f9195f26385278f936dbdd9e00e82490371d211e1",
+      "pages": ""
+    },
+    "134": {
+      "tier": "best available",
+      "file": "2020-11-18__1RC191003776__DKT__DKT0134-ORD__granted-final-judgment-in-favor-of-thyssenkrupp-elevator-cor__SRC__hc811499ac301.pdf",
+      "sha256": "c811499ac3013904e85785f4c522af40384bb9a96a0680dae8784c3b8aa86d03",
+      "pages": ""
+    },
+    "244": {
+      "tier": "best available",
+      "file": "2021-12-29__1RC191003776__DKT__DKT0244-ORDG__granted-order-granting-ex-parte-motion-to-shorten-time-to-he__SRC__hfc277661b59f.pdf",
+      "sha256": "fc277661b59f28486d57a9558fa13841bd08c5554cdcb0dfc991bd218f120f0d",
+      "pages": ""
+    },
+    "334": {
+      "tier": "best available",
+      "file": "2022-08-05__1RC191003776__DKT__DKT0334-SCON__stipulation-for-continuance__SRC__hdf85f2abfcb4.pdf",
+      "sha256": "df85f2abfcb49468656671e85442f394847a3efd3297343d996bb093738e103d",
+      "pages": ""
+    },
+    "336": {
+      "tier": "best available",
+      "file": "2022-08-05__1RC191003776__DKT__DKT0336-SCON__granted-stipulation-for-continuance__SRC__hf9f0041c14fa.pdf",
+      "sha256": "f9f0041c14fa78b7768dbf47ea80aac9d1aa5cffe2dc3314848afb7625dc75c2",
+      "pages": ""
+    },
+    "396": {
+      "tier": "best available",
+      "file": "2024-01-31__1RC191003776__DKT__DKT0396-FOF__findings-of-fact-conclusions-of-law-and-order-granting-plain__SRC__h8c316ed47a30.pdf",
+      "sha256": "8c316ed47a30bb5701fb6441a61675b0ebc1757e2cd8f1640190855a47887635",
+      "pages": ""
+    },
+    "411": {
+      "tier": "best available",
+      "file": "2024-10-29__1RC191003776__DKT__DKT0411-STIP__proposed-stipulation-and-order-regarding-continuance-of-hear__SRC__h50fd42142fa4.pdf",
+      "sha256": "50fd42142fa4a85d11e5299b1d397927763386efb6fa35632d6f81088581ca8a",
+      "pages": ""
+    },
+    "413": {
+      "tier": "best available",
+      "file": "2024-11-06__1RC191003776__DKT__DKT0413-STIP__approved-and-so-ordered-stipulation-and-order-regarding-cont__SRC__hf2ab1217077a.pdf",
+      "sha256": "f2ab1217077a85d6aa76a31744e38a94d76153626d71c157120431288a8b671e",
+      "pages": ""
+    },
+    "423": {
+      "tier": "certified",
+      "file": "2026-06-15__1RC191003776__DKT__DKT0423-ORD__order-granting-in-part-and-denying-in-part-plaintiff-and-cou__CERT__h918d3d734577.pdf",
+      "sha256": "918d3d734577f4300fb49f1dbba360be2e2e4a05ac7c3ba85ba51197682165dc",
+      "pages": ""
+    },
+    "427": {
+      "tier": "best available",
+      "file": "2026-06-23__1RC191003776__DKT__DKT0427-JDG__judgment-granted-by-judge-c-thomas-pm__SRC__h6c24e855bc64.pdf",
+      "sha256": "6c24e855bc64908ee2f81147f4ec289ffda5a6127946d0c362300b27d758340c",
+      "pages": ""
+    },
+    "429": {
+      "tier": "best available",
+      "file": "2026-06-23__1RC191003776__DKT__DKT0429-NEJ__notice-of-entry-of-judgment-or-order-pm__SRC__h2696cd9e22cd.pdf",
+      "sha256": "2696cd9e22cd80ac5f5eb35c8c442bb6a8d0631ec56bdca9485725ea30a40ac5",
+      "pages": ""
+    },
+    "432": {
+      "tier": "best available",
+      "file": "2026-08-19__1RC191003776__DKT__DKT0432-MOT__defendant-counterclaim-plaintiff-nikodem-pikor-motion-to-sta__SRC__h3b27f3eadf55.pdf",
+      "sha256": "3b27f3eadf55a8d579d17f26e1599a7f5164751a8c4f7f9ac4517e226e7564d4",
+      "pages": ""
+    },
+    "433": {
+      "tier": "best available",
+      "file": "2026-08-19__1RC191003776__DKT__DKT0433-MOT__defendant-counterclaim-plaintiff-nikodem-pikor-s-motion-to-e__SRC__h487eaf0cb7cf.pdf",
+      "sha256": "487eaf0cb7cf48afca703e907029c3afdc29f729d5cf3a3cf2203d9f63d0f040",
+      "pages": ""
+    },
+    "434": {
+      "tier": "certified",
+      "file": "2026-08-19__1RC191003776__DKT__DKT0434-NEF__nef-for-dkt431__CERT__h6a42daab86ac.pdf",
+      "sha256": "6a42daab86aca7a3e71c60af5649c5683cab1bdbe4d1d5298d9e909832428ecd",
+      "pages": ""
+    },
+    "435": {
+      "tier": "certified",
+      "file": "2026-08-20__1RC191003776__DKT__DKT0435-DOC__defendant-counterclaim-plaintiff-nikodem-pikor-s-motion-to-s__CERT__h6e6e1f0c8217.pdf",
+      "sha256": "6e6e1f0c8217bad9eb1188cf487fec90e7b276fbe8fbf53e8089f92fecacdaea",
+      "pages": ""
+    },
+    "436": {
+      "tier": "certified",
+      "file": "2026-08-20__1RC191003776__DKT__DKT0436-NEF__nef-for-dkt435__CERT__h9609fa6a85a4.pdf",
+      "sha256": "9609fa6a85a46284d5ef21a2ceb3fc2dbb3e6a9429b3bc414b36540a1c126bee",
+      "pages": ""
+    },
+    "437": {
+      "tier": "certified",
+      "file": "2026-08-20__1RC191003776__DKT__DKT0437-DOC__defendant-counterclaim-plaintiff-nikodem-pikor-s-motion-to-e__CERT__h602a3e102b18.pdf",
+      "sha256": "602a3e102b18447df8617721baea40252168a707a44177e40dd37540b1285fea",
+      "pages": ""
+    },
+    "438": {
+      "tier": "certified",
+      "file": "2026-08-20__1RC191003776__DKT__DKT0438-NEF__nef-for-dkt437__CERT__h1e1b414d842a.pdf",
+      "sha256": "1e1b414d842a42bcecb9a468dcb9cda51e68220db0b7f0a6a1d65a253e12038f",
+      "pages": ""
+    },
+    "441": {
+      "tier": "best available",
+      "file": "2026-08-24__1RC191003776__DKT__DKT0441-MOT__defendant-counterclaim-plaintiff-nikodem-pikor-s-motion-to-s__SRC__hb995effe382f.pdf",
+      "sha256": "b995effe382f146a7a001f719634921a8023cb38fd9dc313212644ebbe227484",
+      "pages": ""
+    },
+    "451": {
+      "tier": "best available",
+      "file": "2026-08-31__1RC191003776__DKT__DKT0451-MEO__counterclaim-defendant-association-of-apartment-owners-of-ma__SRC__ha6c06756ea15.pdf",
+      "sha256": "a6c06756ea15df09f07b4eed5c9a608af98366c7a452e1ee81951f60734f193f",
+      "pages": ""
+    },
+    "466": {
+      "tier": "best available",
+      "file": "2026-09-15__1RC191003776__DKT__DKT0466-NOCDA__docket-text__SRC__h30f4f2bf7f4e.pdf",
+      "sha256": "30f4f2bf7f4e16fc4375c48df9fb1a63a09c10078a93824c29711875586f1976",
+      "pages": ""
+    },
+    "467": {
+      "tier": "best available",
+      "file": "2026-09-15__1RC191003776__DKT__DKT0467-NOCDA__docket-text__SRC__hb6a16e25701f.pdf",
+      "sha256": "b6a16e25701f0c6271105bf0ac927b2653d6f7fd878407553c89d0a23fc3ed8f",
+      "pages": ""
+    },
+    "468": {
+      "tier": "best available",
+      "file": "2026-09-15__1RC191003776__DKT__DKT0468-NTCE__docket-text__SRC__h121e89213320.pdf",
+      "sha256": "121e89213320b3599e174cfbfd39af218097959910477d15a695eeca5cc4c007",
+      "pages": ""
+    },
+    "473": {
+      "tier": "best available",
+      "file": "2026-09-21__1RC191003776__DKT__DKT0473-NEF__notice-for-dkt472__SRC__h52e35e32402e.pdf",
+      "sha256": "52e35e32402ef93007b562b1a31ffaf5e1bcde3b5607a0e280576fa3f2bdc7fb",
+      "pages": ""
+    },
+    "474": {
+      "tier": "best available",
+      "file": "2026-09-21__1RC191003776__DKT__DKT0474-MEO__plaintiff-opposition__SRC__h8274872a8837.pdf",
+      "sha256": "8274872a883717f0f3d03fc5db926e34bd5872b31d283fddfb3ebae363468b47",
+      "pages": ""
+    },
+    "475": {
+      "tier": "best available",
+      "file": "2026-09-21__1RC191003776__DKT__DKT0475-NEF__notice-for-dkt474__SRC__h2ddd2057b0fa.pdf",
+      "sha256": "2ddd2057b0fa15cb4f08fab7812eebba580e155cec6b78504ffb9aff53912cbe",
+      "pages": ""
+    },
+    "476": {
+      "tier": "best available",
+      "file": "2026-09-22__1RC191003776__DKT__DKT0476-SCON__stipulation-continuance__SRC__hb51168607348.pdf",
+      "sha256": "b51168607348826b57e172968963dd67de8e1364e7cf215146eba4d652fa21a0",
+      "pages": ""
+    },
+    "477": {
+      "tier": "best available",
+      "file": "2026-09-22__1RC191003776__DKT__DKT0477-NEF__notice-for-dkt476__SRC__h09857f2dbd1f.pdf",
+      "sha256": "09857f2dbd1fce983cdb6aded0ae9a0b2ee2fbe47e03f180d98ff63089e9d797",
+      "pages": ""
+    },
+    "478": {
+      "tier": "best available",
+      "file": "2026-09-24__1RC191003776__DKT__DKT0478-SCON__other__SRC__ha9c267f03e7e.pdf",
+      "sha256": "a9c267f03e7efd9b044c5117b4938b3ea094316adfb8d3d3e3959aa50d49c70e",
+      "pages": ""
+    },
+    "479": {
+      "tier": "certified",
+      "file": "2026-09-24__1RC191003776__DKT__DKT0479-NEF__nef-for-dkt478__CERT__hb7e0258c5648.pdf",
+      "sha256": "b7e0258c564853f2269afc590bf35d14a9d14e785a746828e586668ee91b4784",
+      "pages": ""
+    },
+    "482": {
+      "tier": "best available",
+      "file": "2026-09-30__1RC191003776__DKT__DKT0482-MTWC__other__SRC__h031de4cadb30.pdf",
+      "sha256": "031de4cadb30cbb466e8bbb99f285b8e28aea701a18a035f99ee88599a73c0f3",
+      "pages": ""
+    },
+    "483": {
+      "tier": "best available",
+      "file": "2026-09-30__1RC191003776__DKT__DKT0483-NEF__other__SRC__h8c3643e96138.pdf",
+      "sha256": "8c3643e96138adb9e434ba420db4d49c69e7e5038ddfdf6a656af043d4fa9b79",
+      "pages": ""
+    },
+    "486": {
+      "tier": "best available",
+      "file": "2026-10-05__1RC191003776__DKT__DKT0486-MINH__minutes-portal-text__SRC__h754554257b32.txt",
+      "sha256": "4bfb603e4d042d241fda3aa21bd5d4406f9657bf1b2ef3b1458e96e4c7b4f873",
+      "pages": ""
+    },
+    "487": {
+      "tier": "best available",
+      "file": "2026-10-05__1RC191003776__DKT__DKT0487-MINH__minutes-portal-text__SRC__hb84be8151659.txt",
+      "sha256": "97aa202993073a374a5582edc6b535428dacd4a14734f9c9c28b5ffa296e3bbc",
+      "pages": ""
+    },
+    "488": {
+      "tier": "best available",
+      "file": "2026-10-19__1RC191003776__DKT__DKT0488-PROP__proposed-order-reconsideration-fees-dkt431__SRC__h5ed5e1968bcf.pdf",
+      "sha256": "5ed5e1968bcfcf28aca91881e5957d9a0e20626858ebaee116f24ee33c88bef6",
+      "pages": ""
+    },
+    "489": {
+      "tier": "best available",
+      "file": "2026-10-19__1RC191003776__DKT__DKT0489-NEF__nef-for-proposed-order-reconsideration-dkt488__NEF__ha9cad9b36d8b.pdf",
+      "sha256": "a9cad9b36d8b3a7bbe406358fa63f41d952a92636f694f3d58f834ef1da0bd54",
+      "pages": ""
+    },
+    "490": {
+      "tier": "best available",
+      "file": "2026-10-19__1RC191003776__DKT__DKT0490-PROP__proposed-order-denying-extend-time-dkt442__SRC__h4770c624ada4.pdf",
+      "sha256": "4770c624ada425baf1bd4f08790fc7305aa137ad8d76de396f337cc9a9f3f296",
+      "pages": ""
+    },
+    "491": {
+      "tier": "best available",
+      "file": "2026-10-19__1RC191003776__DKT__DKT0491-NEF__nef-for-proposed-order-dkt490__NEF__h61ecfedfcb2e.pdf",
+      "sha256": "61ecfedfcb2e2dd104f58a493558597706ad797852e3256a65a648fbe7220fbe",
+      "pages": ""
+    },
+    "492": {
+      "tier": "certified",
+      "file": "2026-10-21__1RC191003776__DKT__DKT0492-DOC__order-denying-extend-time-dkt442-stricken__CERT__he709cc96578b.pdf",
+      "sha256": "e709cc96578bed4cdb522c0972dc196936723f3f5697be92dcbdba26b307028a",
+      "pages": ""
+    },
+    "493": {
+      "tier": "certified",
+      "file": "2026-10-21__1RC191003776__DKT__DKT0493-NEF__nef-for-order-dkt492-stricken__CERT__h7ccd357f8143.pdf",
+      "sha256": "7ccd357f8143a6364299cba1df8b244bd9b94736db4c1b94101f0cab125558e7",
+      "pages": ""
+    },
+    "494": {
+      "tier": "best available",
+      "file": "2026-10-23__1RC191003776__DKT__DKT0494-PROP__proposed-order-extend-time-dkt442-exhibits__SRC__h7e6ca77920bf.pdf",
+      "sha256": "7e6ca77920bfae393fe666cf1dda023ef3e10ba835adfbb92859ea5341ab52d0",
+      "pages": ""
+    },
+    "495": {
+      "tier": "best available",
+      "file": "2026-10-23__1RC191003776__DKT__DKT0495-NEF__nef-for-proposed-order-dkt494__NEF__h86ae8dd1c6b7.pdf",
+      "sha256": "86ae8dd1c6b7093f3e23ca076e6a82668c7585bb043661f5733b00ce52d5d022",
+      "pages": ""
+    },
+    "496": {
+      "tier": "certified",
+      "file": "2026-09-04__1RC191003776__DKT__DKT0496-NA__notice-of-appeal-caap-26-625__CERT__h8719ada165f9.pdf",
+      "sha256": "8719ada165f96c1eff2040c0312bd6c7adf19871f3702fdf865b5ace5d04b94e",
+      "pages": ""
+    },
+    "497": {
+      "tier": "best available",
+      "file": "2026-09-04__1RC191003776__DKT__DKT0497-NEF__nef-for-notice-of-appeal-dkt496__NEF__hffaecdd198f2.pdf",
+      "sha256": "ffaecdd198f2f4735814eb1a1d214be03995e5708b1579f66a4c4a6e89f4a8f5",
+      "pages": ""
+    },
+    "498": {
+      "tier": "best available",
+      "file": "2026-10-28__1RC191003776__DKT__DKT0498-RA__record-on-appeal-caap-26-625__SRC__h65100c89cd2b.pdf",
+      "sha256": "65100c89cd2be4e58decd8ecba9cd581d24b7a8db31a25b7f269d4072cd1576e",
+      "pages": ""
+    },
+    "499": {
+      "tier": "best available",
+      "file": "2026-10-28__1RC191003776__DKT__DKT0499-NEF__nef-for-record-on-appeal-dkt498__NEF__h751646b64c6a.pdf",
+      "sha256": "751646b64c6aeb2414a90c4510be3a6795f3f1133a84bfa472f39ef8b74158d5",
+      "pages": ""
+    },
+    "500": {
+      "tier": "best available",
+      "file": "2026-10-28__1RC191003776__DKT__DKT0500-ORD__order-denying-motion-reconsideration-fees__SRC__h72bb68d9ebd2.pdf",
+      "sha256": "72bb68d9ebd2c570164a67d009f46268104c1b64bc450c3a1e7b7cd8485c4f0b",
+      "pages": ""
+    },
+    "501": {
+      "tier": "best available",
+      "file": "2026-10-28__1RC191003776__DKT__DKT0501-NEF__nef-for-order-dkt500__NEF__h937ceb5dfc24.pdf",
+      "sha256": "937ceb5dfc2465cb97f2c576c1139fb04ca987f32f797fbc679cc14ad49b80ed",
+      "pages": ""
+    },
+    "502": {
+      "tier": "best available",
+      "file": "2026-10-29__1RC191003776__DKT__DKT0502-RA__amended-record-on-appeal-caap-26-625__SRC__h7c7978910396.pdf",
+      "sha256": "7c7978910396cbbd03f5e481b326ba7499ecf8d1b5a946006c05b80aa1b46472",
+      "pages": ""
+    },
+    "503": {
+      "tier": "best available",
+      "file": "2026-10-29__1RC191003776__DKT__DKT0503-NEF__nef-for-amended-record-on-appeal-dkt502__NEF__hc38308661b3e.pdf",
+      "sha256": "c38308661b3eb31e0130e4a16c1c032b1c52a19e239698440afd8d6461e1fb07",
+      "pages": ""
+    }
+  }
+}

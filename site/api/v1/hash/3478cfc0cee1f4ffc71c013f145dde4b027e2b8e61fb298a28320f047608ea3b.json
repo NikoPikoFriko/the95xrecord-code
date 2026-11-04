@@ -1,0 +1,11 @@
+{
+  "schema": "ssot/api-hash@1",
+  "sha256": "3478cfc0cee1f4ffc71c013f145dde4b027e2b8e61fb298a28320f047608ea3b",
+  "kind": "document_page",
+  "case": "1RC191003776",
+  "docket": 7,
+  "file": "2019-07-16__Dkt07__1RC191003776__return-of-service-third-party-complaint.pdf",
+  "published_url": "https://the95xrecord.vercel.app/docs/7aebcd0151",
+  "lookup": "https://the95xrecord.vercel.app/api/v1/hash/3478cfc0cee1f4ffc71c013f145dde4b027e2b8e61fb298a28320f047608ea3b.json",
+  "ssot": "https://the95xrecord.vercel.app/ssot.json"
+}

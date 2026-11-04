@@ -1,0 +1,11 @@
+{
+  "schema": "ssot/api-hash@1",
+  "sha256": "840a14032f10c744322dc045954dfab728e71d067af72b6141f6be77420a39d1",
+  "kind": "document_page",
+  "case": "1RC191003776",
+  "docket": 324,
+  "file": "2022-06-30__1RC191003776__DKT0324__ntc-invitation-and-option-to-participate-in-alt-remote-hrg.pdf",
+  "published_url": "https://the95xrecord.vercel.app/docs/e97b9f4dcd",
+  "lookup": "https://the95xrecord.vercel.app/api/v1/hash/840a14032f10c744322dc045954dfab728e71d067af72b6141f6be77420a39d1.json",
+  "ssot": "https://the95xrecord.vercel.app/ssot.json"
+}

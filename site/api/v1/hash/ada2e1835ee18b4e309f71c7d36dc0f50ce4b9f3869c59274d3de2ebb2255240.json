@@ -1,0 +1,11 @@
+{
+  "schema": "ssot/api-hash@1",
+  "sha256": "ada2e1835ee18b4e309f71c7d36dc0f50ce4b9f3869c59274d3de2ebb2255240",
+  "kind": "appeal_pdf",
+  "case": "CAAP-26-0000625",
+  "docket": 8,
+  "file": "2026-09-15__CAAP-26-0000625__DKT__DKT0008-DOC1__notice-of-non-payment__SRC__hada2e1835ee1.pdf",
+  "published_url": null,
+  "lookup": "https://the95xrecord.vercel.app/api/v1/hash/ada2e1835ee18b4e309f71c7d36dc0f50ce4b9f3869c59274d3de2ebb2255240.json",
+  "ssot": "https://the95xrecord.vercel.app/ssot.json"
+}

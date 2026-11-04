@@ -1,0 +1,11 @@
+{
+  "schema": "ssot/api-hash@1",
+  "sha256": "74c708052f655010a6ae8fe8460c7c83a46c33240c0260d1751cf0cef02e8cb4",
+  "kind": "trial_text",
+  "case": "1RC191003776",
+  "docket": 396,
+  "file": "2024-01-31__Dkt396__1RC191003776__findings-of-fact-conclusions-of-law-and-order-granting-plain.ocr.txt",
+  "published_url": "https://the95xrecord.vercel.app/COURT_DOCKET/LISTINGS/1RC191003776/04_TEXT/ocr/2024-01-31__Dkt396__1RC191003776__findings-of-fact-conclusions-of-law-and-order-granting-plain.ocr.txt",
+  "lookup": "https://the95xrecord.vercel.app/api/v1/hash/74c708052f655010a6ae8fe8460c7c83a46c33240c0260d1751cf0cef02e8cb4.json",
+  "ssot": "https://the95xrecord.vercel.app/ssot.json"
+}

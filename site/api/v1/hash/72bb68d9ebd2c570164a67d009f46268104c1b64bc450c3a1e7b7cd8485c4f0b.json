@@ -1,0 +1,11 @@
+{
+  "schema": "ssot/api-hash@1",
+  "sha256": "72bb68d9ebd2c570164a67d009f46268104c1b64bc450c3a1e7b7cd8485c4f0b",
+  "kind": "evidence_export",
+  "case": "1RC191003776",
+  "docket": 500,
+  "file": "2026-10-28__1RC191003776__DKT__DKT0500-ORD__order-denying-motion-reconsideration-fees__SRC__h72bb68d9ebd2.pdf",
+  "published_url": null,
+  "lookup": "https://the95xrecord.vercel.app/api/v1/hash/72bb68d9ebd2c570164a67d009f46268104c1b64bc450c3a1e7b7cd8485c4f0b.json",
+  "ssot": "https://the95xrecord.vercel.app/ssot.json"
+}

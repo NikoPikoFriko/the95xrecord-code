@@ -1,0 +1,11 @@
+{
+  "schema": "ssot/api-hash@1",
+  "sha256": "ce8598ff850ae861f39f12b71a895139f77240e6ceee337a41cc2420ecd18dbc",
+  "kind": "document_page",
+  "case": "1RC191003776",
+  "docket": 3,
+  "file": "2026-09-04__CAAP-26-0000625__DKT0003__exhibit-dkt423-fees-order.pdf",
+  "published_url": "https://the95xrecord.vercel.app/docs/7a3310f4e1",
+  "lookup": "https://the95xrecord.vercel.app/api/v1/hash/ce8598ff850ae861f39f12b71a895139f77240e6ceee337a41cc2420ecd18dbc.json",
+  "ssot": "https://the95xrecord.vercel.app/ssot.json"
+}

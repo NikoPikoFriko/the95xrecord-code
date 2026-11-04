@@ -1,0 +1,11 @@
+{
+  "schema": "ssot/api-hash@1",
+  "sha256": "04e46b37e4145a22a40e75a0f1180b7e5a44adc95ce03e2b5da4f2753574ceec",
+  "kind": "evidence_export",
+  "case": "1RC191003776",
+  "docket": 493,
+  "file": "2026-10-21__1RC191003776__DKT__DKT0493-NEF__nef-for-order-dkt492-stricken__NEF__h04e46b37e414.pdf",
+  "published_url": null,
+  "lookup": "https://the95xrecord.vercel.app/api/v1/hash/04e46b37e4145a22a40e75a0f1180b7e5a44adc95ce03e2b5da4f2753574ceec.json",
+  "ssot": "https://the95xrecord.vercel.app/ssot.json"
+}

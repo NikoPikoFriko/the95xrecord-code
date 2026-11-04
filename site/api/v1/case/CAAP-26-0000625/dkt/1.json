@@ -1,0 +1,26 @@
+{
+  "schema": "ssot/api-docket@1",
+  "case": "CAAP-26-0000625",
+  "docket": 1,
+  "code": "NA",
+  "title": "Notice of Appeal",
+  "filed": "04-SEP-2026",
+  "filed_iso": "2026-09-04",
+  "time": "16:22:21",
+  "grade": "OBS",
+  "for_counsel": false,
+  "evidence": {
+    "held_by_station": true,
+    "file": "APPEALS/CAAP-26-0000625/DOCKET/2026-09-04__CAAP-26-0000625__DKT__DKT0001-NA__notice-of-appeal__SRC__h93185a111258.pdf",
+    "sha256": "93185a111258e78834c58495cd9e9f2bb5cbd16ce385f60b7b3d3d0bc1150ee5",
+    "pages": 4,
+    "form": "src",
+    "gap": false
+  },
+  "flags": [],
+  "links": {
+    "appeal": "https://the95xrecord.vercel.app/appeal#dkt-1",
+    "appeal_json": "https://the95xrecord.vercel.app/api/v1/case/CAAP-26-0000625/dkt/1.json",
+    "ssot": "https://the95xrecord.vercel.app/ssot.json"
+  }
+}

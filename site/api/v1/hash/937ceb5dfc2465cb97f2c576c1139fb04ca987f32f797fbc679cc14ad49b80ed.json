@@ -1,0 +1,11 @@
+{
+  "schema": "ssot/api-hash@1",
+  "sha256": "937ceb5dfc2465cb97f2c576c1139fb04ca987f32f797fbc679cc14ad49b80ed",
+  "kind": "evidence_export",
+  "case": "1RC191003776",
+  "docket": 501,
+  "file": "2026-10-28__1RC191003776__DKT__DKT0501-NEF__nef-for-order-dkt500__NEF__h937ceb5dfc24.pdf",
+  "published_url": null,
+  "lookup": "https://the95xrecord.vercel.app/api/v1/hash/937ceb5dfc2465cb97f2c576c1139fb04ca987f32f797fbc679cc14ad49b80ed.json",
+  "ssot": "https://the95xrecord.vercel.app/ssot.json"
+}

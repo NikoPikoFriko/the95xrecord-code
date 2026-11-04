@@ -1,0 +1,11 @@
+{
+  "schema": "ssot/api-hash@1",
+  "sha256": "e5566b2abd8bb46538e3c27637988a037c0eeb6829ecfcb98e376b66abd98d33",
+  "kind": "document_page",
+  "case": "1RC191003776",
+  "docket": 223,
+  "file": "2021-08-17__1RC191003776__DKT0223__ntc-court-date-settlement-conf-1-30pm.pdf",
+  "published_url": "https://the95xrecord.vercel.app/docs/569276e748",
+  "lookup": "https://the95xrecord.vercel.app/api/v1/hash/e5566b2abd8bb46538e3c27637988a037c0eeb6829ecfcb98e376b66abd98d33.json",
+  "ssot": "https://the95xrecord.vercel.app/ssot.json"
+}

@@ -1,0 +1,11 @@
+{
+  "schema": "ssot/api-hash@1",
+  "sha256": "cb97ce5f06d57e4c64bd3e4cd3d199314a89ed22553b33880dd6bf889e8ea9c9",
+  "kind": "document_page",
+  "case": "1RC191003776",
+  "docket": 394,
+  "file": "2023-06-02__1RC191003776__DKT0394__proposed-fof-col.pdf",
+  "published_url": "https://the95xrecord.vercel.app/docs/a25a1b9162",
+  "lookup": "https://the95xrecord.vercel.app/api/v1/hash/cb97ce5f06d57e4c64bd3e4cd3d199314a89ed22553b33880dd6bf889e8ea9c9.json",
+  "ssot": "https://the95xrecord.vercel.app/ssot.json"
+}

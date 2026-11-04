@@ -1,0 +1,11 @@
+{
+  "schema": "ssot/api-hash@1",
+  "sha256": "321cb7f1c6b977e5663701a0895b562ecf619a56e1671eea585b96b7522fff87",
+  "kind": "document_page",
+  "case": "1RC191003776",
+  "docket": 182,
+  "file": "2021-03-10__Dkt182__1RC191003776__granted-motion-for-issuance-of-garnishee-summons-a.pdf",
+  "published_url": "https://the95xrecord.vercel.app/docs/098e72708d",
+  "lookup": "https://the95xrecord.vercel.app/api/v1/hash/321cb7f1c6b977e5663701a0895b562ecf619a56e1671eea585b96b7522fff87.json",
+  "ssot": "https://the95xrecord.vercel.app/ssot.json"
+}

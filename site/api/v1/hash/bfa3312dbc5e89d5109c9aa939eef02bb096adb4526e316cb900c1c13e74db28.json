@@ -1,0 +1,11 @@
+{
+  "schema": "ssot/api-hash@1",
+  "sha256": "bfa3312dbc5e89d5109c9aa939eef02bb096adb4526e316cb900c1c13e74db28",
+  "kind": "document_page",
+  "case": "1RC191003776",
+  "docket": 117,
+  "file": "2020-10-15__1RC191003776__DKT0117__aoao-mtn-partial-dismissal-1st-amended-cntrclaim.pdf",
+  "published_url": "https://the95xrecord.vercel.app/docs/9c6666bd11",
+  "lookup": "https://the95xrecord.vercel.app/api/v1/hash/bfa3312dbc5e89d5109c9aa939eef02bb096adb4526e316cb900c1c13e74db28.json",
+  "ssot": "https://the95xrecord.vercel.app/ssot.json"
+}

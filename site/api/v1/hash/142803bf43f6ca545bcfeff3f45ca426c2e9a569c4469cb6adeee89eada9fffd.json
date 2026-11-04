@@ -1,0 +1,11 @@
+{
+  "schema": "ssot/api-hash@1",
+  "sha256": "142803bf43f6ca545bcfeff3f45ca426c2e9a569c4469cb6adeee89eada9fffd",
+  "kind": "document_page",
+  "case": "1RC191003776",
+  "docket": 467,
+  "file": "2026-09-15__1RC191003776__DKT0467__amended-ntc-of-court-date-hrg-on-mtn-8-30am.pdf",
+  "published_url": "https://the95xrecord.vercel.app/docs/3d48d569ff",
+  "lookup": "https://the95xrecord.vercel.app/api/v1/hash/142803bf43f6ca545bcfeff3f45ca426c2e9a569c4469cb6adeee89eada9fffd.json",
+  "ssot": "https://the95xrecord.vercel.app/ssot.json"
+}

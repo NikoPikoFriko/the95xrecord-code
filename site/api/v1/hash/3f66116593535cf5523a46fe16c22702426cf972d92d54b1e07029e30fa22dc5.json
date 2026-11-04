@@ -1,0 +1,11 @@
+{
+  "schema": "ssot/api-hash@1",
+  "sha256": "3f66116593535cf5523a46fe16c22702426cf972d92d54b1e07029e30fa22dc5",
+  "kind": "document_page",
+  "case": "1RC191003776",
+  "docket": 56,
+  "file": "2020-02-03__Dkt56__1RC191003776__order-granting-third-party-defendant-thyssenkrup-e.pdf",
+  "published_url": "https://the95xrecord.vercel.app/docs/6dfc121b44",
+  "lookup": "https://the95xrecord.vercel.app/api/v1/hash/3f66116593535cf5523a46fe16c22702426cf972d92d54b1e07029e30fa22dc5.json",
+  "ssot": "https://the95xrecord.vercel.app/ssot.json"
+}

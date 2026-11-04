@@ -1,0 +1,26 @@
+{
+  "schema": "ssot/api-docket@1",
+  "case": "CAAP-26-0000625",
+  "docket": 10,
+  "code": "PY",
+  "title": "Payment by CHK in the amount of $285.00",
+  "filed": "16-SEP-2026",
+  "filed_iso": "2026-09-16",
+  "time": "13:21:45",
+  "grade": "OBS",
+  "for_counsel": false,
+  "evidence": {
+    "held_by_station": true,
+    "file": "APPEALS/CAAP-26-0000625/DOCKET/2026-09-16__CAAP-26-0000625__DKT__DKT0010-PY__payment-285-receipt-609983__SRC__h080b7bfde42b.pdf",
+    "sha256": "080b7bfde42b1f4b87ef9b9bc40d51def599592359bc7ef3347400bad9fb59c2",
+    "pages": 1,
+    "form": "src",
+    "gap": false
+  },
+  "flags": [],
+  "links": {
+    "appeal": "https://the95xrecord.vercel.app/appeal#dkt-10",
+    "appeal_json": "https://the95xrecord.vercel.app/api/v1/case/CAAP-26-0000625/dkt/10.json",
+    "ssot": "https://the95xrecord.vercel.app/ssot.json"
+  }
+}

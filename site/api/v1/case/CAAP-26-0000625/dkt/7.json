@@ -1,0 +1,28 @@
+{
+  "schema": "ssot/api-docket@1",
+  "case": "CAAP-26-0000625",
+  "docket": 7,
+  "code": "NEF",
+  "title": "Notice of Electronic Filing",
+  "filed": "04-SEP-2026",
+  "filed_iso": "2026-09-04",
+  "time": "16:22:21",
+  "grade": "OBS",
+  "for_counsel": false,
+  "evidence": {
+    "held_by_station": true,
+    "file": "APPEALS/CAAP-26-0000625/09_INTAKE/jefs_2026-10-04/2026-09-04__CAAP-26-0000625__DKT__DKT0007-NEF__nef-notice-of-appeal__CERT__h9cbb62f0e67d.pdf",
+    "sha256": "9cbb62f0e67d9bca747d507e9d9025d898fd8faab8925f3f03eff867f9d3223e",
+    "pages": 2,
+    "form": "cert",
+    "gap": false
+  },
+  "flags": [
+    "certified_intake_print_only"
+  ],
+  "links": {
+    "appeal": "https://the95xrecord.vercel.app/appeal#dkt-7",
+    "appeal_json": "https://the95xrecord.vercel.app/api/v1/case/CAAP-26-0000625/dkt/7.json",
+    "ssot": "https://the95xrecord.vercel.app/ssot.json"
+  }
+}

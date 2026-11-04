@@ -1,0 +1,11 @@
+{
+  "schema": "ssot/api-hash@1",
+  "sha256": "14d54356067a9acfc7f939ce6c7ef962aa2ab8a584a842ca9303c9b863359a8c",
+  "kind": "trial_text",
+  "case": "1RC191003776",
+  "docket": 266,
+  "file": "2022-01-13__Dkt266__1RC191003776__return-of-service-acknowledgment-of-service-re-subpoena-to-c.ocr.txt",
+  "published_url": "https://the95xrecord.vercel.app/COURT_DOCKET/LISTINGS/1RC191003776/04_TEXT/ocr/2022-01-13__Dkt266__1RC191003776__return-of-service-acknowledgment-of-service-re-subpoena-to-c.ocr.txt",
+  "lookup": "https://the95xrecord.vercel.app/api/v1/hash/14d54356067a9acfc7f939ce6c7ef962aa2ab8a584a842ca9303c9b863359a8c.json",
+  "ssot": "https://the95xrecord.vercel.app/ssot.json"
+}

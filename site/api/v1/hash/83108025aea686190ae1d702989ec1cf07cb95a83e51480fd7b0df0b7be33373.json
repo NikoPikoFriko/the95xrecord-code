@@ -1,0 +1,11 @@
+{
+  "schema": "ssot/api-hash@1",
+  "sha256": "83108025aea686190ae1d702989ec1cf07cb95a83e51480fd7b0df0b7be33373",
+  "kind": "document_page",
+  "case": "1RC191003776",
+  "docket": 101,
+  "file": "2020-07-09__Dkt101__1RC191003776__notice-of-submission-of-1-proposed-order-granting-.pdf",
+  "published_url": "https://the95xrecord.vercel.app/docs/bf8368bbe0",
+  "lookup": "https://the95xrecord.vercel.app/api/v1/hash/83108025aea686190ae1d702989ec1cf07cb95a83e51480fd7b0df0b7be33373.json",
+  "ssot": "https://the95xrecord.vercel.app/ssot.json"
+}

@@ -1,0 +1,11 @@
+{
+  "schema": "ssot/api-hash@1",
+  "sha256": "32ede73ed0a5e80978aaae92bbfb62e37bc72b28394f5264b0228024a8ce8bcd",
+  "kind": "document_page",
+  "case": "1RC191003776",
+  "docket": 431,
+  "file": "2026-10-22__1RC191003776__DKT0431__draft-dkt0431-0442-notice-of-appeal-draft.pdf",
+  "published_url": "https://the95xrecord.vercel.app/docs/9179fbfb72",
+  "lookup": "https://the95xrecord.vercel.app/api/v1/hash/32ede73ed0a5e80978aaae92bbfb62e37bc72b28394f5264b0228024a8ce8bcd.json",
+  "ssot": "https://the95xrecord.vercel.app/ssot.json"
+}

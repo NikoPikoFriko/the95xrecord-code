@@ -1,0 +1,11 @@
+{
+  "schema": "ssot/api-hash@1",
+  "sha256": "bf81175f4957e0c78fadfe87fbab443cfe76c177267b26b993d408efd932dd3f",
+  "kind": "trial_text",
+  "case": "1RC191003776",
+  "docket": 291,
+  "file": "2022-02-18__Dkt291__1RC191003776__counterclaim-defendant-association-of-apartment-owners-of-ma.ocr.txt",
+  "published_url": "https://the95xrecord.vercel.app/COURT_DOCKET/LISTINGS/1RC191003776/04_TEXT/ocr/2022-02-18__Dkt291__1RC191003776__counterclaim-defendant-association-of-apartment-owners-of-ma.ocr.txt",
+  "lookup": "https://the95xrecord.vercel.app/api/v1/hash/bf81175f4957e0c78fadfe87fbab443cfe76c177267b26b993d408efd932dd3f.json",
+  "ssot": "https://the95xrecord.vercel.app/ssot.json"
+}

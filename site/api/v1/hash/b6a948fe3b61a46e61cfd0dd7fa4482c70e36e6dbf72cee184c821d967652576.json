@@ -1,0 +1,11 @@
+{
+  "schema": "ssot/api-hash@1",
+  "sha256": "b6a948fe3b61a46e61cfd0dd7fa4482c70e36e6dbf72cee184c821d967652576",
+  "kind": "trial_text",
+  "case": "1RC191003776",
+  "docket": 109,
+  "file": "2020-07-16__Dkt109__1RC191003776__payment-payment-by-check-money-order-civil-in-the-amount-of.ocr.txt",
+  "published_url": "https://the95xrecord.vercel.app/COURT_DOCKET/LISTINGS/1RC191003776/04_TEXT/ocr/2020-07-16__Dkt109__1RC191003776__payment-payment-by-check-money-order-civil-in-the-amount-of.ocr.txt",
+  "lookup": "https://the95xrecord.vercel.app/api/v1/hash/b6a948fe3b61a46e61cfd0dd7fa4482c70e36e6dbf72cee184c821d967652576.json",
+  "ssot": "https://the95xrecord.vercel.app/ssot.json"
+}

@@ -1,0 +1,11 @@
+{
+  "schema": "ssot/api-hash@1",
+  "sha256": "d09f3635aa970fec239a426d8ed2c2dbafd438523b88eb0c0a5eaa17e5af22f5",
+  "kind": "document_page",
+  "case": "1RC191003776",
+  "docket": 346,
+  "file": "2021-07-15__1RC191003776__DKT0346__pikor-letter-to-board-2018-06-27.pdf",
+  "published_url": "https://the95xrecord.vercel.app/docs/6ee87c05e2",
+  "lookup": "https://the95xrecord.vercel.app/api/v1/hash/d09f3635aa970fec239a426d8ed2c2dbafd438523b88eb0c0a5eaa17e5af22f5.json",
+  "ssot": "https://the95xrecord.vercel.app/ssot.json"
+}

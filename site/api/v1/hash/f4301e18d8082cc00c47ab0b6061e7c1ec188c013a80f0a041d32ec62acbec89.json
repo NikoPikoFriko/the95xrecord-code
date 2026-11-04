@@ -1,0 +1,11 @@
+{
+  "schema": "ssot/api-hash@1",
+  "sha256": "f4301e18d8082cc00c47ab0b6061e7c1ec188c013a80f0a041d32ec62acbec89",
+  "kind": "trial_text",
+  "case": "1RC191003776",
+  "docket": 257,
+  "file": "2022-01-07__Dkt257__1RC191003776__re-harold-hitchcock.ocr.txt",
+  "published_url": "https://the95xrecord.vercel.app/COURT_DOCKET/LISTINGS/1RC191003776/04_TEXT/ocr/2022-01-07__Dkt257__1RC191003776__re-harold-hitchcock.ocr.txt",
+  "lookup": "https://the95xrecord.vercel.app/api/v1/hash/f4301e18d8082cc00c47ab0b6061e7c1ec188c013a80f0a041d32ec62acbec89.json",
+  "ssot": "https://the95xrecord.vercel.app/ssot.json"
+}

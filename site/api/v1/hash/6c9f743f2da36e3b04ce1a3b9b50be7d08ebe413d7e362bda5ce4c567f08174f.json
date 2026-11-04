@@ -1,0 +1,11 @@
+{
+  "schema": "ssot/api-hash@1",
+  "sha256": "6c9f743f2da36e3b04ce1a3b9b50be7d08ebe413d7e362bda5ce4c567f08174f",
+  "kind": "trial_text",
+  "case": "1RC191003776",
+  "docket": 88,
+  "file": "2020-06-15__Dkt088__1RC191003776__errata-to-counterclaim-defendant-association-of-apartment-ow.ocr.txt",
+  "published_url": "https://the95xrecord.vercel.app/COURT_DOCKET/LISTINGS/1RC191003776/04_TEXT/ocr/2020-06-15__Dkt088__1RC191003776__errata-to-counterclaim-defendant-association-of-apartment-ow.ocr.txt",
+  "lookup": "https://the95xrecord.vercel.app/api/v1/hash/6c9f743f2da36e3b04ce1a3b9b50be7d08ebe413d7e362bda5ce4c567f08174f.json",
+  "ssot": "https://the95xrecord.vercel.app/ssot.json"
+}

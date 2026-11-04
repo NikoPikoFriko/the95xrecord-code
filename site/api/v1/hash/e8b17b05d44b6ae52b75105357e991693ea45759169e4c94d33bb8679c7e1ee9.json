@@ -1,0 +1,11 @@
+{
+  "schema": "ssot/api-hash@1",
+  "sha256": "e8b17b05d44b6ae52b75105357e991693ea45759169e4c94d33bb8679c7e1ee9",
+  "kind": "document_page",
+  "case": "1RC191003776",
+  "docket": 62,
+  "file": "2020-02-13__Dkt62__1RC191003776__notice-of-taking-deposition.pdf",
+  "published_url": "https://the95xrecord.vercel.app/docs/a507ef42cb",
+  "lookup": "https://the95xrecord.vercel.app/api/v1/hash/e8b17b05d44b6ae52b75105357e991693ea45759169e4c94d33bb8679c7e1ee9.json",
+  "ssot": "https://the95xrecord.vercel.app/ssot.json"
+}

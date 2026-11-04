@@ -1,0 +1,11 @@
+{
+  "schema": "ssot/api-hash@1",
+  "sha256": "15fbbca0c0c5369e0fea95c22069f87c24610f22e38a3d09d33e47adce29024a",
+  "kind": "trial_text",
+  "case": "1RC191003776",
+  "docket": 482,
+  "file": "1RC191003776__Dkt482__MTWC-proposed-orde.txt",
+  "published_url": "https://the95xrecord.vercel.app/06_EXTRACT/MAGIC_06_MATERIALS/DESK MAGIC FILES/1RC191003776__Dkt482__MTWC-proposed-orde.txt",
+  "lookup": "https://the95xrecord.vercel.app/api/v1/hash/15fbbca0c0c5369e0fea95c22069f87c24610f22e38a3d09d33e47adce29024a.json",
+  "ssot": "https://the95xrecord.vercel.app/ssot.json"
+}

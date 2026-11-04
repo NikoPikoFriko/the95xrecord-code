@@ -1,0 +1,11 @@
+{
+  "schema": "ssot/api-hash@1",
+  "sha256": "5550c9c2fcb793b583990d9e4b742c53c7037c2061e0e922b76b5b89dc310228",
+  "kind": "trial_text",
+  "case": "1RC191003776",
+  "docket": 12,
+  "file": "2019-09-03__Dkt012__1RC191003776__certificate-of-service-re-third-party-defendant-thyssenkrupp.ocr.txt",
+  "published_url": "https://the95xrecord.vercel.app/COURT_DOCKET/LISTINGS/1RC191003776/04_TEXT/ocr/2019-09-03__Dkt012__1RC191003776__certificate-of-service-re-third-party-defendant-thyssenkrupp.ocr.txt",
+  "lookup": "https://the95xrecord.vercel.app/api/v1/hash/5550c9c2fcb793b583990d9e4b742c53c7037c2061e0e922b76b5b89dc310228.json",
+  "ssot": "https://the95xrecord.vercel.app/ssot.json"
+}

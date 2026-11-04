@@ -1,0 +1,11 @@
+{
+  "schema": "ssot/api-hash@1",
+  "sha256": "381fbcfdda524758ffc1d1094717b84d26b7733adcacadc20838e99b900df44d",
+  "kind": "document_page",
+  "case": "1RC191003776",
+  "docket": 48,
+  "file": "2020-01-20__1RC191003776__DKT0048__def-and-3rd-pty-pltfs-ex-parte-mtn-to-submit-a-sup.pdf",
+  "published_url": "https://the95xrecord.vercel.app/docs/f9c565f5ee",
+  "lookup": "https://the95xrecord.vercel.app/api/v1/hash/381fbcfdda524758ffc1d1094717b84d26b7733adcacadc20838e99b900df44d.json",
+  "ssot": "https://the95xrecord.vercel.app/ssot.json"
+}

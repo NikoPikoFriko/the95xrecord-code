@@ -1,0 +1,11 @@
+{
+  "schema": "ssot/api-hash@1",
+  "sha256": "c189e113563f88fc48853470900d216d1ae9ff962be9d9374243915dfe1ec471",
+  "kind": "document_page",
+  "case": "1RC191003776",
+  "docket": 70,
+  "file": "2020-04-07__1RC191003776__DKT0070__nocd-re-motion-jun8-830.pdf",
+  "published_url": "https://the95xrecord.vercel.app/docs/7814bc5eb4",
+  "lookup": "https://the95xrecord.vercel.app/api/v1/hash/c189e113563f88fc48853470900d216d1ae9ff962be9d9374243915dfe1ec471.json",
+  "ssot": "https://the95xrecord.vercel.app/ssot.json"
+}

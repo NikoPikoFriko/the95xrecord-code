@@ -1,0 +1,11 @@
+{
+  "schema": "ssot/api-hash@1",
+  "sha256": "9860e7e3131761494f594439afd4ebebba4e8e618dc914a25a581659810a12b4",
+  "kind": "trial_text",
+  "case": "1RC191003776",
+  "docket": 152,
+  "file": "2021-01-22__Dkt152__1RC191003776__third-party-defendant-thyssenkrupp-elevator-corporation-s-ex.ocr.txt",
+  "published_url": "https://the95xrecord.vercel.app/COURT_DOCKET/LISTINGS/1RC191003776/04_TEXT/ocr/2021-01-22__Dkt152__1RC191003776__third-party-defendant-thyssenkrupp-elevator-corporation-s-ex.ocr.txt",
+  "lookup": "https://the95xrecord.vercel.app/api/v1/hash/9860e7e3131761494f594439afd4ebebba4e8e618dc914a25a581659810a12b4.json",
+  "ssot": "https://the95xrecord.vercel.app/ssot.json"
+}

@@ -1,0 +1,11 @@
+{
+  "schema": "ssot/api-hash@1",
+  "sha256": "e663ec640a136099924b558d739e6995276349d982852d0c4d7129092095da3b",
+  "kind": "document_page",
+  "case": "1RC191003776",
+  "docket": 43,
+  "file": "2020-01-14__1RC191003776__DKT0043__nef-re-exhs-4-6-re-resp-and-mio-to-msj-on-3rd-pty-cmpt.pdf",
+  "published_url": "https://the95xrecord.vercel.app/docs/0420b56b7f",
+  "lookup": "https://the95xrecord.vercel.app/api/v1/hash/e663ec640a136099924b558d739e6995276349d982852d0c4d7129092095da3b.json",
+  "ssot": "https://the95xrecord.vercel.app/ssot.json"
+}

@@ -1,0 +1,11 @@
+{
+  "schema": "ssot/api-hash@1",
+  "sha256": "b1898208fcaf07612eee20147d199c5f5d4a72044d00b5f76ffb95624a0c8d5c",
+  "kind": "document_page",
+  "case": "1RC191003776",
+  "docket": 186,
+  "file": "2021-03-16__1RC191003776__DKT0186__garnishee-disclosure.pdf",
+  "published_url": "https://the95xrecord.vercel.app/docs/c032ca9428",
+  "lookup": "https://the95xrecord.vercel.app/api/v1/hash/b1898208fcaf07612eee20147d199c5f5d4a72044d00b5f76ffb95624a0c8d5c.json",
+  "ssot": "https://the95xrecord.vercel.app/ssot.json"
+}

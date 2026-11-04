@@ -1,0 +1,40 @@
+{
+  "schema": "ssot/api-docket@1",
+  "case": "1RC191003776",
+  "docket": 134,
+  "code": "ORD",
+  "filed": "18-NOV-2020",
+  "filed_iso": "2020-11-18",
+  "time": "10:48:54",
+  "ra_pdf_page": 47,
+  "grade": "PARTIAL",
+  "for_counsel": false,
+  "evidence": {
+    "renditions": [
+      {
+        "file": "07_AGENT_WORK_REVIEW/FROM_AI_WORKSPACES_2026-10-23/CURSOR/.cursor/worktrees/AOAO_Marine_Surf_1RC191003776/ddym/99_INBOX/infranodus_judicial_audit_2026-10-03/judicial-audit-2026-10-03/evidence/docket/Dkt134.pdf",
+        "sha256": "c811499ac3013904e85785f4c522af40384bb9a96a0680dae8784c3b8aa86d03",
+        "location": "agent_worktree",
+        "published_url": null
+      }
+    ],
+    "text": {
+      "file": "COURT_DOCKET/LISTINGS/1RC191003776/04_TEXT/ocr/2020-11-18__Dkt134__1RC191003776__granted-final-judgment-in-favor-of-thyssenkrupp-elevator-cor.ocr.txt",
+      "sha256": "455a818cf5b9307c76ea4efd103097f7317d8ff5db498ccb864e1492dcf66efa",
+      "location": "court_docket_listings_ocr",
+      "published_url": "https://the95xrecord.vercel.app/COURT_DOCKET/LISTINGS/1RC191003776/04_TEXT/ocr/2020-11-18__Dkt134__1RC191003776__granted-final-judgment-in-favor-of-thyssenkrupp-elevator-cor.ocr.txt"
+    },
+    "held_by_station": true,
+    "gap": false
+  },
+  "pdf_conflict": null,
+  "flags": [
+    "pdf_outside_canonical_library"
+  ],
+  "links": {
+    "register": "https://the95xrecord.vercel.app/register#dkt-134",
+    "register_json": "https://the95xrecord.vercel.app/api/v1/case/1RC191003776/dkt/134.json",
+    "ssot": "https://the95xrecord.vercel.app/ssot.json",
+    "crossref": "https://the95xrecord.vercel.app/data/crossref.json"
+  }
+}

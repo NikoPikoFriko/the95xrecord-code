@@ -1,0 +1,11 @@
+{
+  "schema": "ssot/api-hash@1",
+  "sha256": "7e9e481c0986b592f5731f117520e64aff8930c2fb92ff5d3b9eb847b89a975b",
+  "kind": "appeal_pdf",
+  "case": "CAAP-26-0000625",
+  "docket": 9,
+  "file": "2026-09-15__CAAP-26-0000625__DKT__DKT0009-NEF__nef-nonpayment__CERT__h7e9e481c0986.pdf",
+  "published_url": null,
+  "lookup": "https://the95xrecord.vercel.app/api/v1/hash/7e9e481c0986b592f5731f117520e64aff8930c2fb92ff5d3b9eb847b89a975b.json",
+  "ssot": "https://the95xrecord.vercel.app/ssot.json"
+}

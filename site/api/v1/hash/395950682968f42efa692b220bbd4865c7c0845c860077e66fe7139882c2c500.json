@@ -1,0 +1,11 @@
+{
+  "schema": "ssot/api-hash@1",
+  "sha256": "395950682968f42efa692b220bbd4865c7c0845c860077e66fe7139882c2c500",
+  "kind": "document_page",
+  "case": "1RC191003776",
+  "docket": 121,
+  "file": "2020-10-16__1RC191003776__DKT0121__pltf-aoao-joinder-to-cntrclaim-def-aoao-mtn-partial-dismissal.pdf",
+  "published_url": "https://the95xrecord.vercel.app/docs/0b33179800",
+  "lookup": "https://the95xrecord.vercel.app/api/v1/hash/395950682968f42efa692b220bbd4865c7c0845c860077e66fe7139882c2c500.json",
+  "ssot": "https://the95xrecord.vercel.app/ssot.json"
+}

@@ -1,0 +1,11 @@
+{
+  "schema": "ssot/api-hash@1",
+  "sha256": "ee9125e1d3e7ea5d470204bf58158abe6a7648746a49c436e54d0e266b87a6d2",
+  "kind": "document_page",
+  "case": "1RC191003776",
+  "docket": 252,
+  "file": "2022-01-06__1RC191003776__DKT0252__proposed-subpoena-h-hitchcock.pdf",
+  "published_url": "https://the95xrecord.vercel.app/docs/874bffdabc",
+  "lookup": "https://the95xrecord.vercel.app/api/v1/hash/ee9125e1d3e7ea5d470204bf58158abe6a7648746a49c436e54d0e266b87a6d2.json",
+  "ssot": "https://the95xrecord.vercel.app/ssot.json"
+}

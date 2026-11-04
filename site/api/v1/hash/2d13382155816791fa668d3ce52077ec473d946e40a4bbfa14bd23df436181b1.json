@@ -1,0 +1,11 @@
+{
+  "schema": "ssot/api-hash@1",
+  "sha256": "2d13382155816791fa668d3ce52077ec473d946e40a4bbfa14bd23df436181b1",
+  "kind": "document_page",
+  "case": "1RC191003776",
+  "docket": 93,
+  "file": "2020-06-29__1RC191003776__DKT0093__nef-ord-grant-def-and-cntrclaim-3ppltf-n-mtn.pdf",
+  "published_url": "https://the95xrecord.vercel.app/docs/3af8908a14",
+  "lookup": "https://the95xrecord.vercel.app/api/v1/hash/2d13382155816791fa668d3ce52077ec473d946e40a4bbfa14bd23df436181b1.json",
+  "ssot": "https://the95xrecord.vercel.app/ssot.json"
+}

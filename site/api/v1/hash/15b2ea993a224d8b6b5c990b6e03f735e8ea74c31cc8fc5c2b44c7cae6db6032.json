@@ -1,0 +1,11 @@
+{
+  "schema": "ssot/api-hash@1",
+  "sha256": "15b2ea993a224d8b6b5c990b6e03f735e8ea74c31cc8fc5c2b44c7cae6db6032",
+  "kind": "document_page",
+  "case": "1RC191003776",
+  "docket": 365,
+  "file": "2023-01-12__1RC191003776__DKT0365__trial-memo-1-re-offer-of-proof.pdf",
+  "published_url": "https://the95xrecord.vercel.app/docs/e59999810f",
+  "lookup": "https://the95xrecord.vercel.app/api/v1/hash/15b2ea993a224d8b6b5c990b6e03f735e8ea74c31cc8fc5c2b44c7cae6db6032.json",
+  "ssot": "https://the95xrecord.vercel.app/ssot.json"
+}

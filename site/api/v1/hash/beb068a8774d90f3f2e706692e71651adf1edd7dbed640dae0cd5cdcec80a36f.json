@@ -1,0 +1,11 @@
+{
+  "schema": "ssot/api-hash@1",
+  "sha256": "beb068a8774d90f3f2e706692e71651adf1edd7dbed640dae0cd5cdcec80a36f",
+  "kind": "document_page",
+  "case": "1RC191003776",
+  "docket": 16,
+  "file": "2019-11-22__1RC191003776__DKT0016__nef-re-cos-re-3rd-pty-def-thyssenkrupp-elevator-corps-joiner-to.pdf",
+  "published_url": "https://the95xrecord.vercel.app/docs/8c67206b58",
+  "lookup": "https://the95xrecord.vercel.app/api/v1/hash/beb068a8774d90f3f2e706692e71651adf1edd7dbed640dae0cd5cdcec80a36f.json",
+  "ssot": "https://the95xrecord.vercel.app/ssot.json"
+}

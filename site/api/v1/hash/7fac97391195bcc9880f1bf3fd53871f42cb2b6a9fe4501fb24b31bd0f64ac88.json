@@ -1,0 +1,11 @@
+{
+ "schema": "ssot/api-hash@1",
+ "sha256": "7fac97391195bcc9880f1bf3fd53871f42cb2b6a9fe4501fb24b31bd0f64ac88",
+ "kind": "dataset",
+ "case": null,
+ "docket": null,
+ "file": "data/reasoning_traces.json",
+ "published_url": "https://the95xrecord.vercel.app/data/reasoning_traces.json",
+ "lookup": "https://the95xrecord.vercel.app/api/v1/hash/7fac97391195bcc9880f1bf3fd53871f42cb2b6a9fe4501fb24b31bd0f64ac88.json",
+ "ssot": "https://the95xrecord.vercel.app/ssot.json"
+}

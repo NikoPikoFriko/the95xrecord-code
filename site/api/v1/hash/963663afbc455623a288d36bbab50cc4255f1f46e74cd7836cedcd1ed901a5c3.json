@@ -1,0 +1,11 @@
+{
+  "schema": "ssot/api-hash@1",
+  "sha256": "963663afbc455623a288d36bbab50cc4255f1f46e74cd7836cedcd1ed901a5c3",
+  "kind": "document_page",
+  "case": "1RC191003776",
+  "docket": 130,
+  "file": "2020-11-17__Dkt130__1RC191003776__proposed-notice-of-entry-of-final-judgment.pdf",
+  "published_url": "https://the95xrecord.vercel.app/docs/a8bbd103a4",
+  "lookup": "https://the95xrecord.vercel.app/api/v1/hash/963663afbc455623a288d36bbab50cc4255f1f46e74cd7836cedcd1ed901a5c3.json",
+  "ssot": "https://the95xrecord.vercel.app/ssot.json"
+}

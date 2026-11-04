@@ -1,0 +1,11 @@
+{
+  "schema": "ssot/api-hash@1",
+  "sha256": "1a3e9b6b6cf587a9b93f555a7a2a7ca015e54ded0d80833986be81b2e275c103",
+  "kind": "document_page",
+  "case": "1RC191003776",
+  "docket": 139,
+  "file": "2020-11-24__1RC191003776__DKT0139__nocd-pretrial-conference-9-00am-h1a3e9b.pdf",
+  "published_url": "https://the95xrecord.vercel.app/docs/4f76011cb9",
+  "lookup": "https://the95xrecord.vercel.app/api/v1/hash/1a3e9b6b6cf587a9b93f555a7a2a7ca015e54ded0d80833986be81b2e275c103.json",
+  "ssot": "https://the95xrecord.vercel.app/ssot.json"
+}

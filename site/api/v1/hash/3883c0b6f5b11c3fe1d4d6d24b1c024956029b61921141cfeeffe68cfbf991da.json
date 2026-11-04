@@ -1,0 +1,11 @@
+{
+  "schema": "ssot/api-hash@1",
+  "sha256": "3883c0b6f5b11c3fe1d4d6d24b1c024956029b61921141cfeeffe68cfbf991da",
+  "kind": "document_page",
+  "case": "1RC191003776",
+  "docket": 54,
+  "file": "2020-01-28__1RC191003776__DKT0054__denied-def-3rd-pty-pltf-ex-parte-mtn-to-submit-supp-affidavit.pdf",
+  "published_url": "https://the95xrecord.vercel.app/docs/48e3837bf6",
+  "lookup": "https://the95xrecord.vercel.app/api/v1/hash/3883c0b6f5b11c3fe1d4d6d24b1c024956029b61921141cfeeffe68cfbf991da.json",
+  "ssot": "https://the95xrecord.vercel.app/ssot.json"
+}

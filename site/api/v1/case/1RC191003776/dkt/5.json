@@ -1,0 +1,41 @@
+{
+  "schema": "ssot/api-docket@1",
+  "case": "1RC191003776",
+  "docket": 5,
+  "code": "CS",
+  "filed": "08-JUL-2019",
+  "filed_iso": "2019-07-08",
+  "time": "10:08:00",
+  "ra_pdf_page": 6,
+  "grade": "PARTIAL",
+  "for_counsel": false,
+  "evidence": {
+    "renditions": [],
+    "text": {
+      "file": "COURT_DOCKET/LISTINGS/1RC191003776/04_TEXT/ocr/2019-07-08__Dkt005__1RC191003776__certificate-of-service.ocr.txt",
+      "sha256": "43e761517bbb92cb2b0652fdd74aebebc15f106d6528595b80567f8be2ded838",
+      "location": "court_docket_listings_ocr",
+      "published_url": "https://the95xrecord.vercel.app/COURT_DOCKET/LISTINGS/1RC191003776/04_TEXT/ocr/2019-07-08__Dkt005__1RC191003776__certificate-of-service.ocr.txt"
+    },
+    "held_by_station": true,
+    "gap": false
+  },
+  "pdf_conflict": {
+    "kind": "same_number_file_appeal_series",
+    "file": "APPEALS/CAAP-26-0000625/09_INTAKE/jefs_2026-10-04/2026-09-04__CAAP-26-0000625__DKT__DKT0005-COS__certificate-of-service__CERT__hb6618831d455.pdf",
+    "sha256": "b6618831d455bdecc5302c697c8cd0a354e05f46857b3e2b2c9aa9b1994e5396",
+    "belongs_to_case": "CAAP-26-0000625",
+    "appeal_dkt": 5,
+    "reason": "file is an appeal-docket document (CAAP-26-0000625) whose number equals this trial docket number; the register row describes a different document"
+  },
+  "flags": [
+    "same_number_file_appeal_series",
+    "text_only_no_pdf_of_document"
+  ],
+  "links": {
+    "register": "https://the95xrecord.vercel.app/register#dkt-5",
+    "register_json": "https://the95xrecord.vercel.app/api/v1/case/1RC191003776/dkt/5.json",
+    "ssot": "https://the95xrecord.vercel.app/ssot.json",
+    "crossref": "https://the95xrecord.vercel.app/data/crossref.json"
+  }
+}

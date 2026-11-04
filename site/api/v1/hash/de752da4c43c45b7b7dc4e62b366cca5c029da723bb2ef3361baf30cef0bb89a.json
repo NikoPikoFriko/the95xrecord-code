@@ -1,0 +1,11 @@
+{
+  "schema": "ssot/api-hash@1",
+  "sha256": "de752da4c43c45b7b7dc4e62b366cca5c029da723bb2ef3361baf30cef0bb89a",
+  "kind": "document_page",
+  "case": "1RC191003776",
+  "docket": 182,
+  "file": "2021-03-10__1RC191003776__DKT0182__ord-grant-mtn-issuance-garnishee-summons-fhb.pdf",
+  "published_url": "https://the95xrecord.vercel.app/docs/1f6f2fddea",
+  "lookup": "https://the95xrecord.vercel.app/api/v1/hash/de752da4c43c45b7b7dc4e62b366cca5c029da723bb2ef3361baf30cef0bb89a.json",
+  "ssot": "https://the95xrecord.vercel.app/ssot.json"
+}

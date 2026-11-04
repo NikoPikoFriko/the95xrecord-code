@@ -1,0 +1,137 @@
+{
+ "schema": "ssot-machine/index@1",
+ "generated": "2026-11-03T20:30:31-10:00",
+ "generator": "gen_machine22.py (T22) — machine files re-derived by gen_t53.py (T53)",
+ "cases": [
+  "1RC191003776",
+  "CAAP-26-0000625"
+ ],
+ "note": "Every file here is hash-pinned. texts: 491 rows in texts.json, texts_491.jsonl and the sqlite `texts` table; the 266-row export is marked superseded. Unknown sha256 lookups: /api/v1/hash/<sha256>.json returns the native 404 status and /404.html embeds a machine-readable error block.",
+ "files": [
+  {
+   "file": "ssot.sqlite",
+   "url": "https://the95xrecord.vercel.app/data/ssot.sqlite",
+   "format": "sqlite",
+   "description": "SQLite 3 single-file database (client-side queryable)",
+   "bytes": 696320,
+   "sha256": "f28d4b6d24c6f861053aef7695f87d61d884d371be6b5df2757fca81dcb63b0d",
+   "tables": {
+    "trial_dockets": 495,
+    "appeal_dockets": 20,
+    "texts_266_backup": 266,
+    "crossref": 495,
+    "deadlines": 7,
+    "evidence_files": 70,
+    "docs_1121": 1121,
+    "library_meta": 10,
+    "register_tail": 9,
+    "texts": 491
+   },
+   "rows": 2984,
+   "note": "texts holds all 491 published text renditions (was 266). 266-row original kept as texts_266_backup inside the file; the served corpus is 491."
+  },
+  {
+   "file": "dockets.jsonl",
+   "url": "https://the95xrecord.vercel.app/data/dockets.jsonl",
+   "format": "jsonl",
+   "description": "NDJSON: one RA register row per line",
+   "bytes": 296059,
+   "sha256": "71a0904e4b72d4ea07d0b72e427d67a03257448fa9d9f955495c1afc21ada9e8",
+   "rows": 495
+  },
+  {
+   "file": "appeal_dockets.jsonl",
+   "url": "https://the95xrecord.vercel.app/data/appeal_dockets.jsonl",
+   "format": "jsonl",
+   "description": "NDJSON: one ICA docket row per line",
+   "bytes": 12261,
+   "sha256": "4d2cbe6d0fd6ff0f598d9f995db447082d6230fc15c3f760fbc2e7f038fda769",
+   "rows": 20
+  },
+  {
+   "file": "texts_266.jsonl",
+   "url": "https://the95xrecord.vercel.app/data/texts_266.jsonl",
+   "format": "jsonl",
+   "description": "NDJSON: one published text entry per line",
+   "bytes": 141351,
+   "sha256": "e3fc979ec196ad7fd3e8ac0f6d2c1323df9046c904e8fea072e0fd7efaf03d6a",
+   "rows": 266,
+   "superseded_by": "texts_491.jsonl (491 rows); texts.json (491 entries)",
+   "note": "266-row machine export from the first corpus. Kept served for continuity and labelled superseded in this index; it is NOT current.",
+   "status": "superseded"
+  },
+  {
+   "file": "docs_1121.jsonl",
+   "url": "https://the95xrecord.vercel.app/data/docs_1121.jsonl",
+   "format": "jsonl",
+   "description": "NDJSON: one document page per line",
+   "bytes": 23541,
+   "sha256": "3240a10fa500bd36138723445cb101578f223a850f75faf4ecb1c4479c8264c6",
+   "rows": 1121
+  },
+  {
+   "file": "trial_docket.csv",
+   "url": "https://the95xrecord.vercel.app/data/trial_docket.csv",
+   "format": "csv",
+   "description": "RFC-4180 CSV: trial register",
+   "bytes": 184038,
+   "sha256": "91a1e8709819b7044102e1deefd9c053fa6faf21a567b7e9ebbfe7c0090ac768",
+   "rows": 495
+  },
+  {
+   "file": "appeal_docket.csv",
+   "url": "https://the95xrecord.vercel.app/data/appeal_docket.csv",
+   "format": "csv",
+   "description": "RFC-4180 CSV: appeal docket",
+   "bytes": 7887,
+   "sha256": "cf8feb3392f0660724d7f8b6a3dbad6eb50dcc9baabd49386b0be71849242967",
+   "rows": 20
+  },
+  {
+   "file": "docs_1121_manifest.csv",
+   "url": "https://the95xrecord.vercel.app/data/docs_1121_manifest.csv",
+   "format": "csv",
+   "description": "RFC-4180 CSV: document manifest",
+   "bytes": 13456,
+   "sha256": "9866c3a78d3b42eb5f02457468065dd6bcb93de544f715c5969b67007513c39c",
+   "rows": 1121
+  },
+  {
+   "file": "texts.json",
+   "rows": 491,
+   "bytes": 288448,
+   "sha256": "6e95bf28ea421470b69094cc7eb14c179242da530fa574127db5df122374a8d3",
+   "description": "the complete text corpus: every trial docket row holding a text rendition",
+   "url": "https://the95xrecord.vercel.app/data/texts.json",
+   "format": "json"
+  },
+  {
+   "file": "texts_491.jsonl",
+   "url": "https://the95xrecord.vercel.app/data/texts_491.jsonl",
+   "format": "jsonl",
+   "description": "NDJSON: one published text entry per line, sha256-addressed",
+   "bytes": 343411,
+   "sha256": "cb81e555a3b7cb6ac1843d0e67082211c8b064e9e9a54680c37e1d4463763375",
+   "rows": 491,
+   "supersedes": "texts_266.jsonl"
+  },
+  {
+   "file": "query.sqlite",
+   "url": "https://the95xrecord.vercel.app/data/query.sqlite",
+   "format": "sqlite",
+   "description": "the client-side query database behind /query (derived from ssot.sqlite + tiers + quotes)",
+   "bytes": 663552,
+   "sha256": "4cb065015e89020a6772c9f2085260f00a6a50855ff83f265ea6c38c8e4b8182"
+  },
+  {
+   "file": "reasoning_traces.json",
+   "url": "https://the95xrecord.vercel.app/data/reasoning_traces.json",
+   "format": "json",
+   "description": "four deterministic reasoning traces, four steps each, every citation hash-checked",
+   "bytes": 12245,
+   "sha256": "c62fdbaa902619dccb45dce7774a70ea508c0bf95cf927bb4ea443de6999b67f",
+   "rows": 4
+  }
+ ],
+ "notice": "texts.json supersedes texts_266.jsonl (266 rows): the corpus now covers the NEF/service rows too (491 rows, 456 OCR + 35 native)"
+}

@@ -1,0 +1,11 @@
+{
+  "schema": "ssot/api-hash@1",
+  "sha256": "c5bec6105aaaa20d03398e184bec0c2c1e2feded8bf0d3eb2832c5c7cd093083",
+  "kind": "document_page",
+  "case": "1RC191003776",
+  "docket": 45,
+  "file": "2020-01-15__Dkt45__1RC191003776__thyssenkrupp-elevator-corporation-s-reply-memorand.pdf",
+  "published_url": "https://the95xrecord.vercel.app/docs/50e910182c",
+  "lookup": "https://the95xrecord.vercel.app/api/v1/hash/c5bec6105aaaa20d03398e184bec0c2c1e2feded8bf0d3eb2832c5c7cd093083.json",
+  "ssot": "https://the95xrecord.vercel.app/ssot.json"
+}

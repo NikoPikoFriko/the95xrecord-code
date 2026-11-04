@@ -1,0 +1,11 @@
+{
+  "schema": "ssot/api-hash@1",
+  "sha256": "a1e33c58faeb1542bc620908abd4115031d560a7d7e4ee62d89c4bb487e7de18",
+  "kind": "trial_text",
+  "case": "1RC191003776",
+  "docket": 301,
+  "file": "2022-03-31__Dkt301__1RC191003776__withdrawal-of-counsel.ocr.txt",
+  "published_url": "https://the95xrecord.vercel.app/COURT_DOCKET/LISTINGS/1RC191003776/04_TEXT/ocr/2022-03-31__Dkt301__1RC191003776__withdrawal-of-counsel.ocr.txt",
+  "lookup": "https://the95xrecord.vercel.app/api/v1/hash/a1e33c58faeb1542bc620908abd4115031d560a7d7e4ee62d89c4bb487e7de18.json",
+  "ssot": "https://the95xrecord.vercel.app/ssot.json"
+}

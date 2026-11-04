@@ -1,0 +1,11 @@
+{
+  "schema": "ssot/api-hash@1",
+  "sha256": "283ac78989a3164038ec5798c3a9cf63bc3e3350d705d00bac38883025fd26db",
+  "kind": "document_page",
+  "case": "1RC191003776",
+  "docket": 51,
+  "file": "2020-01-27__1RC191003776__DKT0051__proposed-ord-grant-3rd-pty-def-thyssenkrupps-msj-o.pdf",
+  "published_url": "https://the95xrecord.vercel.app/docs/b2d3d01e57",
+  "lookup": "https://the95xrecord.vercel.app/api/v1/hash/283ac78989a3164038ec5798c3a9cf63bc3e3350d705d00bac38883025fd26db.json",
+  "ssot": "https://the95xrecord.vercel.app/ssot.json"
+}

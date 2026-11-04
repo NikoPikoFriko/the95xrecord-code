@@ -1,0 +1,11 @@
+{
+  "schema": "ssot/api-hash@1",
+  "sha256": "facaee2a50819225d402adcd552aa927aea08395fbf97c57d1d9bd5ab60feb5c",
+  "kind": "document_page",
+  "case": "1RC191003776",
+  "docket": 472,
+  "file": "2026-09-21__1RC191003776__DKT0472__dkt0472-0473-aoao-mio-mfr-ord-grant-deny-mtn.pdf",
+  "published_url": "https://the95xrecord.vercel.app/docs/cb0c9f45d0",
+  "lookup": "https://the95xrecord.vercel.app/api/v1/hash/facaee2a50819225d402adcd552aa927aea08395fbf97c57d1d9bd5ab60feb5c.json",
+  "ssot": "https://the95xrecord.vercel.app/ssot.json"
+}

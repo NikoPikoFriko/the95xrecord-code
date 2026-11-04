@@ -1,0 +1,11 @@
+{
+  "schema": "ssot/api-hash@1",
+  "sha256": "82f5dee126c1ce4288f320389e19fa5071c95443f689c5df5a637f352c453af5",
+  "kind": "trial_text",
+  "case": "1RC191003776",
+  "docket": 54,
+  "file": "2020-01-28__Dkt054__1RC191003776__denied-defendant-and-3rd-party-plaintiff-s-ex-parte-motion-t.ocr.txt",
+  "published_url": "https://the95xrecord.vercel.app/COURT_DOCKET/LISTINGS/1RC191003776/04_TEXT/ocr/2020-01-28__Dkt054__1RC191003776__denied-defendant-and-3rd-party-plaintiff-s-ex-parte-motion-t.ocr.txt",
+  "lookup": "https://the95xrecord.vercel.app/api/v1/hash/82f5dee126c1ce4288f320389e19fa5071c95443f689c5df5a637f352c453af5.json",
+  "ssot": "https://the95xrecord.vercel.app/ssot.json"
+}

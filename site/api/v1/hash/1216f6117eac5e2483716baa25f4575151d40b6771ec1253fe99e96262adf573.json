@@ -1,0 +1,11 @@
+{
+  "schema": "ssot/api-hash@1",
+  "sha256": "1216f6117eac5e2483716baa25f4575151d40b6771ec1253fe99e96262adf573",
+  "kind": "document_page",
+  "case": "1RC191003776",
+  "docket": 423,
+  "file": "2026-06-15__1RC191003776__DKT0423__order-granting-in-part-and-denying-in-part-plain.pdf",
+  "published_url": "https://the95xrecord.vercel.app/docs/411783b244",
+  "lookup": "https://the95xrecord.vercel.app/api/v1/hash/1216f6117eac5e2483716baa25f4575151d40b6771ec1253fe99e96262adf573.json",
+  "ssot": "https://the95xrecord.vercel.app/ssot.json"
+}

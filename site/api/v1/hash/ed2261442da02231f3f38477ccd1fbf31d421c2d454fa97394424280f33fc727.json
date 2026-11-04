@@ -1,0 +1,11 @@
+{
+  "schema": "ssot/api-hash@1",
+  "sha256": "ed2261442da02231f3f38477ccd1fbf31d421c2d454fa97394424280f33fc727",
+  "kind": "document_page",
+  "case": "1RC191003776",
+  "docket": 33,
+  "file": "2020-01-14__1RC191003776__DKT0033__nef-re-counter-def-aoaos-stmt-of-no-opp-to-3rd-pty-def.pdf",
+  "published_url": "https://the95xrecord.vercel.app/docs/3a8292019c",
+  "lookup": "https://the95xrecord.vercel.app/api/v1/hash/ed2261442da02231f3f38477ccd1fbf31d421c2d454fa97394424280f33fc727.json",
+  "ssot": "https://the95xrecord.vercel.app/ssot.json"
+}

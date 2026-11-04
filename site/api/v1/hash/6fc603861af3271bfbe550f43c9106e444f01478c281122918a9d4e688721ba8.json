@@ -1,0 +1,11 @@
+{
+  "schema": "ssot/api-hash@1",
+  "sha256": "6fc603861af3271bfbe550f43c9106e444f01478c281122918a9d4e688721ba8",
+  "kind": "document_page",
+  "case": "1RC191003776",
+  "docket": 68,
+  "file": "2020-04-07__Dkt68__1RC191003776__motion-for-certification-rule-54b.pdf",
+  "published_url": "https://the95xrecord.vercel.app/docs/61b536ce34",
+  "lookup": "https://the95xrecord.vercel.app/api/v1/hash/6fc603861af3271bfbe550f43c9106e444f01478c281122918a9d4e688721ba8.json",
+  "ssot": "https://the95xrecord.vercel.app/ssot.json"
+}

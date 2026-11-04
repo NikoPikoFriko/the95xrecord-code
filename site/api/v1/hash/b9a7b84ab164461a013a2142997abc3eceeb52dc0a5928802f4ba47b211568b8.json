@@ -1,0 +1,11 @@
+{
+  "schema": "ssot/api-hash@1",
+  "sha256": "b9a7b84ab164461a013a2142997abc3eceeb52dc0a5928802f4ba47b211568b8",
+  "kind": "trial_text",
+  "case": "1RC191003776",
+  "docket": 48,
+  "file": "2020-01-20__Dkt048__1RC191003776__defendant-and-third-party-plaintiff-s-motion-to-submit-a-sup.ocr.txt",
+  "published_url": "https://the95xrecord.vercel.app/COURT_DOCKET/LISTINGS/1RC191003776/04_TEXT/ocr/2020-01-20__Dkt048__1RC191003776__defendant-and-third-party-plaintiff-s-motion-to-submit-a-sup.ocr.txt",
+  "lookup": "https://the95xrecord.vercel.app/api/v1/hash/b9a7b84ab164461a013a2142997abc3eceeb52dc0a5928802f4ba47b211568b8.json",
+  "ssot": "https://the95xrecord.vercel.app/ssot.json"
+}

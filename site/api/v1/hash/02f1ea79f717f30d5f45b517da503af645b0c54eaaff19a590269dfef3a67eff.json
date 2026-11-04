@@ -1,0 +1,11 @@
+{
+  "schema": "ssot/api-hash@1",
+  "sha256": "02f1ea79f717f30d5f45b517da503af645b0c54eaaff19a590269dfef3a67eff",
+  "kind": "document_page",
+  "case": "1RC191003776",
+  "docket": 186,
+  "file": "2021-03-16__Dkt186__1RC191003776__bank-of-hawaii-garnishee-answer-disclosure-not-ind.pdf",
+  "published_url": "https://the95xrecord.vercel.app/docs/b1f0cf7a3a",
+  "lookup": "https://the95xrecord.vercel.app/api/v1/hash/02f1ea79f717f30d5f45b517da503af645b0c54eaaff19a590269dfef3a67eff.json",
+  "ssot": "https://the95xrecord.vercel.app/ssot.json"
+}

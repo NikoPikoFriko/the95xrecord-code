@@ -1,0 +1,11 @@
+{
+  "schema": "ssot/api-hash@1",
+  "sha256": "4520635eb37d1352d33c2939817d8f57ad057f09e5a0f833eed1a12055bdddf6",
+  "kind": "document_page",
+  "case": "1RC191003776",
+  "docket": 31,
+  "file": "2020-01-13__1RC191003776__DKT0031__nef-re-pltf-aoaos-stmt-of-position-re-3rd-pty-def-thyssenkrupps.pdf",
+  "published_url": "https://the95xrecord.vercel.app/docs/1fc3f0057d",
+  "lookup": "https://the95xrecord.vercel.app/api/v1/hash/4520635eb37d1352d33c2939817d8f57ad057f09e5a0f833eed1a12055bdddf6.json",
+  "ssot": "https://the95xrecord.vercel.app/ssot.json"
+}

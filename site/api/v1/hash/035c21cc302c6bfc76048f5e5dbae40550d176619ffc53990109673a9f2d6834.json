@@ -1,0 +1,11 @@
+{
+  "schema": "ssot/api-hash@1",
+  "sha256": "035c21cc302c6bfc76048f5e5dbae40550d176619ffc53990109673a9f2d6834",
+  "kind": "document_page",
+  "case": "1RC191003776",
+  "docket": 346,
+  "file": "2021-07-15__1RC191003776__DKT0346__hi-osh-response-2018-10-15.pdf",
+  "published_url": "https://the95xrecord.vercel.app/docs/534cd39488",
+  "lookup": "https://the95xrecord.vercel.app/api/v1/hash/035c21cc302c6bfc76048f5e5dbae40550d176619ffc53990109673a9f2d6834.json",
+  "ssot": "https://the95xrecord.vercel.app/ssot.json"
+}

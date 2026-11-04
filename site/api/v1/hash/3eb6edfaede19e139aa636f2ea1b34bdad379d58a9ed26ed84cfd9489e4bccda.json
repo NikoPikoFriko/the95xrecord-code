@@ -1,0 +1,11 @@
+{
+  "schema": "ssot/api-hash@1",
+  "sha256": "3eb6edfaede19e139aa636f2ea1b34bdad379d58a9ed26ed84cfd9489e4bccda",
+  "kind": "trial_text",
+  "case": "1RC191003776",
+  "docket": 253,
+  "file": "2022-01-06__Dkt253__1RC191003776__proposed-subpoena-witness-stuart-uchida.ocr.txt",
+  "published_url": "https://the95xrecord.vercel.app/COURT_DOCKET/LISTINGS/1RC191003776/04_TEXT/ocr/2022-01-06__Dkt253__1RC191003776__proposed-subpoena-witness-stuart-uchida.ocr.txt",
+  "lookup": "https://the95xrecord.vercel.app/api/v1/hash/3eb6edfaede19e139aa636f2ea1b34bdad379d58a9ed26ed84cfd9489e4bccda.json",
+  "ssot": "https://the95xrecord.vercel.app/ssot.json"
+}

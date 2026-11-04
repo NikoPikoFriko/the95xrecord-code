@@ -1,0 +1,11 @@
+{
+  "schema": "ssot/api-hash@1",
+  "sha256": "329e16b711c8170b8ffe37ca9fcfbb80ee48601411597de971308fdd6e743e57",
+  "kind": "trial_text",
+  "case": "1RC191003776",
+  "docket": 90,
+  "file": "2020-06-17__Dkt090__1RC191003776__defendant-and-counterclaim-third-party-plaintiff-nikodem-pik.ocr.txt",
+  "published_url": "https://the95xrecord.vercel.app/COURT_DOCKET/LISTINGS/1RC191003776/04_TEXT/ocr/2020-06-17__Dkt090__1RC191003776__defendant-and-counterclaim-third-party-plaintiff-nikodem-pik.ocr.txt",
+  "lookup": "https://the95xrecord.vercel.app/api/v1/hash/329e16b711c8170b8ffe37ca9fcfbb80ee48601411597de971308fdd6e743e57.json",
+  "ssot": "https://the95xrecord.vercel.app/ssot.json"
+}

@@ -1,0 +1,11 @@
+{
+  "schema": "ssot/api-hash@1",
+  "sha256": "e709cc96578bed4cdb522c0972dc196936723f3f5697be92dcbdba26b307028a",
+  "kind": "trial_pdf",
+  "case": "1RC191003776",
+  "docket": 492,
+  "file": "2026-10-21__1RC191003776__DKT__DKT0492-DOC__order-denying-extend-time-dkt442-stricken__CERT__he709cc96578b.pdf",
+  "published_url": null,
+  "lookup": "https://the95xrecord.vercel.app/api/v1/hash/e709cc96578bed4cdb522c0972dc196936723f3f5697be92dcbdba26b307028a.json",
+  "ssot": "https://the95xrecord.vercel.app/ssot.json"
+}

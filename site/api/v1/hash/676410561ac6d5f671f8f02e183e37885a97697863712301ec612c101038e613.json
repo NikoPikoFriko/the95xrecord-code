@@ -1,0 +1,11 @@
+{
+  "schema": "ssot/api-hash@1",
+  "sha256": "676410561ac6d5f671f8f02e183e37885a97697863712301ec612c101038e613",
+  "kind": "document_page",
+  "case": "1RC191003776",
+  "docket": 377,
+  "file": "2023-01-18__1RC191003776__DKT0377__req-transcript-of-proceedings-trial.pdf",
+  "published_url": "https://the95xrecord.vercel.app/docs/599e3120d0",
+  "lookup": "https://the95xrecord.vercel.app/api/v1/hash/676410561ac6d5f671f8f02e183e37885a97697863712301ec612c101038e613.json",
+  "ssot": "https://the95xrecord.vercel.app/ssot.json"
+}

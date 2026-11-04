@@ -1,0 +1,11 @@
+{
+  "schema": "ssot/api-hash@1",
+  "sha256": "0f421b5430f9c9eb50f9649df04ead599d43a3fe9b5ddc6fec080244aa56f6cb",
+  "kind": "document_page",
+  "case": "1RC191003776",
+  "docket": 88,
+  "file": "2020-06-15__Dkt88__1RC191003776__errata-to-counterclaim-defendant-association-of-ap.pdf",
+  "published_url": "https://the95xrecord.vercel.app/docs/560b61c68f",
+  "lookup": "https://the95xrecord.vercel.app/api/v1/hash/0f421b5430f9c9eb50f9649df04ead599d43a3fe9b5ddc6fec080244aa56f6cb.json",
+  "ssot": "https://the95xrecord.vercel.app/ssot.json"
+}

@@ -1,0 +1,11 @@
+{
+  "schema": "ssot/api-hash@1",
+  "sha256": "38255d488f8bd02f815d0c5e863b9160953d5c0b54167e844d05d981456c3066",
+  "kind": "trial_text",
+  "case": "1RC191003776",
+  "docket": 429,
+  "file": "2026-06-23__Dkt429__1RC191003776__notice-of-entry-of-judgment-or-order-pm.ocr.txt",
+  "published_url": "https://the95xrecord.vercel.app/COURT_DOCKET/LISTINGS/1RC191003776/04_TEXT/ocr/2026-06-23__Dkt429__1RC191003776__notice-of-entry-of-judgment-or-order-pm.ocr.txt",
+  "lookup": "https://the95xrecord.vercel.app/api/v1/hash/38255d488f8bd02f815d0c5e863b9160953d5c0b54167e844d05d981456c3066.json",
+  "ssot": "https://the95xrecord.vercel.app/ssot.json"
+}

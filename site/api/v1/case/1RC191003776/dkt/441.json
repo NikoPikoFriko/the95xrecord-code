@@ -1,0 +1,40 @@
+{
+  "schema": "ssot/api-docket@1",
+  "case": "1RC191003776",
+  "docket": 441,
+  "code": "MOT",
+  "filed": "24-AUG-2026",
+  "filed_iso": "2026-08-24",
+  "time": "09:35:57",
+  "ra_pdf_page": 165,
+  "grade": "PARTIAL",
+  "for_counsel": false,
+  "evidence": {
+    "renditions": [
+      {
+        "file": "07_AGENT_WORK_REVIEW/FROM_AI_WORKSPACES_2026-10-23/CURSOR/.cursor/worktrees/AOAO_Marine_Surf_1RC191003776/ddym/99_INBOX/infranodus_judicial_audit_2026-10-03/judicial-audit-2026-10-03/evidence/docket/Dkt441.pdf",
+        "sha256": "b995effe382f146a7a001f719634921a8023cb38fd9dc313212644ebbe227484",
+        "location": "agent_worktree",
+        "published_url": null
+      }
+    ],
+    "text": {
+      "file": "COURT_DOCKET/LISTINGS/1RC191003776/04_TEXT/ocr/2026-08-24__Dkt441__1RC191003776__defendant-counterclaim-plaintiff-nikodem-pikor-s-motion-to-s.ocr.txt",
+      "sha256": "93c8cc4e78d963b8fe62858787491cdd3d90dbcb08c2c192d581f141130cda3f",
+      "location": "court_docket_listings_ocr",
+      "published_url": "https://the95xrecord.vercel.app/COURT_DOCKET/LISTINGS/1RC191003776/04_TEXT/ocr/2026-08-24__Dkt441__1RC191003776__defendant-counterclaim-plaintiff-nikodem-pikor-s-motion-to-s.ocr.txt"
+    },
+    "held_by_station": true,
+    "gap": false
+  },
+  "pdf_conflict": null,
+  "flags": [
+    "pdf_outside_canonical_library"
+  ],
+  "links": {
+    "register": "https://the95xrecord.vercel.app/register#dkt-441",
+    "register_json": "https://the95xrecord.vercel.app/api/v1/case/1RC191003776/dkt/441.json",
+    "ssot": "https://the95xrecord.vercel.app/ssot.json",
+    "crossref": "https://the95xrecord.vercel.app/data/crossref.json"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "schema": "ssot/api-hash@1",
+  "sha256": "602a3e102b18447df8617721baea40252168a707a44177e40dd37540b1285fea",
+  "kind": "trial_pdf",
+  "case": "1RC191003776",
+  "docket": 437,
+  "file": "Dkt437_ExtendStricken_5877396538.pdf",
+  "published_url": null,
+  "lookup": "https://the95xrecord.vercel.app/api/v1/hash/602a3e102b18447df8617721baea40252168a707a44177e40dd37540b1285fea.json",
+  "ssot": "https://the95xrecord.vercel.app/ssot.json"
+}

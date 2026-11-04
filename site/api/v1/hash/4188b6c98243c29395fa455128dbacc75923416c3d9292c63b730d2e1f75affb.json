@@ -1,0 +1,11 @@
+{
+  "schema": "ssot/api-hash@1",
+  "sha256": "4188b6c98243c29395fa455128dbacc75923416c3d9292c63b730d2e1f75affb",
+  "kind": "document_page",
+  "case": "1RC191003776",
+  "docket": null,
+  "file": "MarineSurf_HIOSH_permits_inspections_in_production_order.pdf",
+  "published_url": "https://the95xrecord.vercel.app/docs/9a5260e053",
+  "lookup": "https://the95xrecord.vercel.app/api/v1/hash/4188b6c98243c29395fa455128dbacc75923416c3d9292c63b730d2e1f75affb.json",
+  "ssot": "https://the95xrecord.vercel.app/ssot.json"
+}

@@ -1,0 +1,11 @@
+{
+  "schema": "ssot/api-hash@1",
+  "sha256": "8a6f55866ddd37c03ae67ea0d42efb7b30b4166d043411cb86e3caf0df74fd27",
+  "kind": "document_page",
+  "case": "1RC191003776",
+  "docket": 429,
+  "file": "2026-06-23__1RC191003776__DKT0429__dkt0429-0430-ntc-entry-of-judgment-ord.pdf",
+  "published_url": "https://the95xrecord.vercel.app/docs/708d84b888",
+  "lookup": "https://the95xrecord.vercel.app/api/v1/hash/8a6f55866ddd37c03ae67ea0d42efb7b30b4166d043411cb86e3caf0df74fd27.json",
+  "ssot": "https://the95xrecord.vercel.app/ssot.json"
+}

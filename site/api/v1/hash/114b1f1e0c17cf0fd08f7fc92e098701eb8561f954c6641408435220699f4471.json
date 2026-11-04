@@ -1,0 +1,11 @@
+{
+  "schema": "ssot/api-hash@1",
+  "sha256": "114b1f1e0c17cf0fd08f7fc92e098701eb8561f954c6641408435220699f4471",
+  "kind": "document_page",
+  "case": "1RC191003776",
+  "docket": 365,
+  "file": "2023-01-12__Dkt365__1RC191003776__defendant-and-counterclaim-thirdparty-plaintiff-ni.pdf",
+  "published_url": "https://the95xrecord.vercel.app/docs/ec60818959",
+  "lookup": "https://the95xrecord.vercel.app/api/v1/hash/114b1f1e0c17cf0fd08f7fc92e098701eb8561f954c6641408435220699f4471.json",
+  "ssot": "https://the95xrecord.vercel.app/ssot.json"
+}

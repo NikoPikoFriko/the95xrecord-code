@@ -1,0 +1,11 @@
+{
+  "schema": "ssot/api-hash@1",
+  "sha256": "cb14cad03b35951aae8d034576607073130ec6dc11b1eaceca811f40ba17db77",
+  "kind": "appeal_pdf",
+  "case": "CAAP-26-0000625",
+  "docket": 11,
+  "file": "2026-10-07__CAAP-26-0000625__DKT__DKT0011-AMNI__appellate-mediation-excluded__SRC__hcb14cad03b35.pdf",
+  "published_url": null,
+  "lookup": "https://the95xrecord.vercel.app/api/v1/hash/cb14cad03b35951aae8d034576607073130ec6dc11b1eaceca811f40ba17db77.json",
+  "ssot": "https://the95xrecord.vercel.app/ssot.json"
+}

@@ -1,0 +1,11 @@
+{
+  "schema": "ssot/api-hash@1",
+  "sha256": "f439ed79b2d50c2daa6af85ec865c50ff23c5aa537ac8aa7ca2d122b21adb534",
+  "kind": "trial_text",
+  "case": "1RC191003776",
+  "docket": 242,
+  "file": "2021-12-29__Dkt242__1RC191003776__stricken-counterclaim-defendant-association-of-apartment-own.ocr.txt",
+  "published_url": "https://the95xrecord.vercel.app/COURT_DOCKET/LISTINGS/1RC191003776/04_TEXT/ocr/2021-12-29__Dkt242__1RC191003776__stricken-counterclaim-defendant-association-of-apartment-own.ocr.txt",
+  "lookup": "https://the95xrecord.vercel.app/api/v1/hash/f439ed79b2d50c2daa6af85ec865c50ff23c5aa537ac8aa7ca2d122b21adb534.json",
+  "ssot": "https://the95xrecord.vercel.app/ssot.json"
+}

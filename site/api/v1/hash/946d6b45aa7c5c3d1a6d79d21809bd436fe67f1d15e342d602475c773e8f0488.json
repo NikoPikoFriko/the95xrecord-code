@@ -1,0 +1,11 @@
+{
+  "schema": "ssot/api-hash@1",
+  "sha256": "946d6b45aa7c5c3d1a6d79d21809bd436fe67f1d15e342d602475c773e8f0488",
+  "kind": "document_page",
+  "case": "1RC191003776",
+  "docket": 289,
+  "file": "2022-02-18__1RC191003776__DKT0289__sub-exh-16-suppt-mio-aoao-msj.pdf",
+  "published_url": "https://the95xrecord.vercel.app/docs/505bb6ee1f",
+  "lookup": "https://the95xrecord.vercel.app/api/v1/hash/946d6b45aa7c5c3d1a6d79d21809bd436fe67f1d15e342d602475c773e8f0488.json",
+  "ssot": "https://the95xrecord.vercel.app/ssot.json"
+}

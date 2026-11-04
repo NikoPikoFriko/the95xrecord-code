@@ -1,0 +1,11 @@
+{
+  "schema": "ssot/api-hash@1",
+  "sha256": "9f5ca62097cff0500760a78f3adb4d6ee1de539c5e2520c4784de0d47a54ac2a",
+  "kind": "trial_text",
+  "case": "1RC191003776",
+  "docket": 119,
+  "file": "2020-10-16__Dkt119__1RC191003776__amended-notice-of-hearing-to-counterclaim-defendant-associat.ocr.txt",
+  "published_url": "https://the95xrecord.vercel.app/COURT_DOCKET/LISTINGS/1RC191003776/04_TEXT/ocr/2020-10-16__Dkt119__1RC191003776__amended-notice-of-hearing-to-counterclaim-defendant-associat.ocr.txt",
+  "lookup": "https://the95xrecord.vercel.app/api/v1/hash/9f5ca62097cff0500760a78f3adb4d6ee1de539c5e2520c4784de0d47a54ac2a.json",
+  "ssot": "https://the95xrecord.vercel.app/ssot.json"
+}

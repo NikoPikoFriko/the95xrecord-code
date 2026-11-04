@@ -1,0 +1,11 @@
+{
+  "schema": "ssot/api-hash@1",
+  "sha256": "ccf6e9114ac8b4832ff1c95bbd5dc0e41628117743de92ca819c3db0185db8d5",
+  "kind": "trial_text",
+  "case": "1RC191003776",
+  "docket": 174,
+  "file": "2021-03-04__Dkt174__1RC191003776__motion-for-issuance-of-garnishee-summons-after-judgment.ocr.txt",
+  "published_url": "https://the95xrecord.vercel.app/COURT_DOCKET/LISTINGS/1RC191003776/04_TEXT/ocr/2021-03-04__Dkt174__1RC191003776__motion-for-issuance-of-garnishee-summons-after-judgment.ocr.txt",
+  "lookup": "https://the95xrecord.vercel.app/api/v1/hash/ccf6e9114ac8b4832ff1c95bbd5dc0e41628117743de92ca819c3db0185db8d5.json",
+  "ssot": "https://the95xrecord.vercel.app/ssot.json"
+}

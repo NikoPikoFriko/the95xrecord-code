@@ -1,0 +1,46 @@
+{
+  "schema": "ssot/api-docket@1",
+  "case": "1RC191003776",
+  "docket": 427,
+  "code": "JDG",
+  "filed": "23-JUN-2026",
+  "filed_iso": "2026-06-23",
+  "time": "13:07:55",
+  "ra_pdf_page": 158,
+  "grade": "PARTIAL",
+  "for_counsel": false,
+  "evidence": {
+    "renditions": [
+      {
+        "file": "07_AGENT_WORK_REVIEW/FROM_AI_WORKSPACES_2026-10-23/CURSOR/.cursor/worktrees/AOAO_Marine_Surf_1RC191003776/ddym/99_INBOX/infranodus_judicial_audit_2026-10-03/judicial-audit-2026-10-03/evidence/docket/Dkt427.pdf",
+        "sha256": "6c24e855bc64908ee2f81147f4ec289ffda5a6127946d0c362300b27d758340c",
+        "location": "agent_worktree",
+        "published_url": null
+      },
+      {
+        "file": "APPEALS/CAAP-26-0000625/DOCKET/2026-09-04__CAAP-26-0000625__DKT__DKT0004-EXH__exhibit-judgment-dkt427__SRC__h61cd1758aa85.pdf",
+        "sha256": "61cd1758aa85ddeeaf6ab9df70f554b5e3880ae52a0e18f289d7bb053243fdb1",
+        "location": "appeal_exhibit",
+        "published_url": null
+      }
+    ],
+    "text": {
+      "file": "COURT_DOCKET/LISTINGS/1RC191003776/04_TEXT/ocr/2026-06-23__Dkt427__1RC191003776__judgment-granted-by-judge-c-thomas-pm.ocr.txt",
+      "sha256": "b7bb55eb2ea38851e04ab7e9eedfd4c3554029c500c4af9ef290eecc655c7ee5",
+      "location": "court_docket_listings_ocr",
+      "published_url": "https://the95xrecord.vercel.app/COURT_DOCKET/LISTINGS/1RC191003776/04_TEXT/ocr/2026-06-23__Dkt427__1RC191003776__judgment-granted-by-judge-c-thomas-pm.ocr.txt"
+    },
+    "held_by_station": true,
+    "gap": false
+  },
+  "pdf_conflict": null,
+  "flags": [
+    "pdf_outside_canonical_library"
+  ],
+  "links": {
+    "register": "https://the95xrecord.vercel.app/register#dkt-427",
+    "register_json": "https://the95xrecord.vercel.app/api/v1/case/1RC191003776/dkt/427.json",
+    "ssot": "https://the95xrecord.vercel.app/ssot.json",
+    "crossref": "https://the95xrecord.vercel.app/data/crossref.json"
+  }
+}

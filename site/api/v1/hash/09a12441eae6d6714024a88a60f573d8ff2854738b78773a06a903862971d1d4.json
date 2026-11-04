@@ -1,0 +1,11 @@
+{
+  "schema": "ssot/api-hash@1",
+  "sha256": "09a12441eae6d6714024a88a60f573d8ff2854738b78773a06a903862971d1d4",
+  "kind": "trial_text",
+  "case": "1RC191003776",
+  "docket": 264,
+  "file": "2022-01-13__Dkt264__1RC191003776__subpoena-duces-tecum-re-rule-30-b-6-representative-of-thysse.ocr.txt",
+  "published_url": "https://the95xrecord.vercel.app/COURT_DOCKET/LISTINGS/1RC191003776/04_TEXT/ocr/2022-01-13__Dkt264__1RC191003776__subpoena-duces-tecum-re-rule-30-b-6-representative-of-thysse.ocr.txt",
+  "lookup": "https://the95xrecord.vercel.app/api/v1/hash/09a12441eae6d6714024a88a60f573d8ff2854738b78773a06a903862971d1d4.json",
+  "ssot": "https://the95xrecord.vercel.app/ssot.json"
+}

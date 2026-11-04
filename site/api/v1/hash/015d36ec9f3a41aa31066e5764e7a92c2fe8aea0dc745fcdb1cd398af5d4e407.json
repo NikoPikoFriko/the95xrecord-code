@@ -1,0 +1,11 @@
+{
+  "schema": "ssot/api-hash@1",
+  "sha256": "015d36ec9f3a41aa31066e5764e7a92c2fe8aea0dc745fcdb1cd398af5d4e407",
+  "kind": "document_page",
+  "case": "1RC191003776",
+  "docket": 238,
+  "file": "2021-12-28__Dkt238__1RC191003776__ex-parte-motion-to-shorten-time-to-hear-countercla.pdf",
+  "published_url": "https://the95xrecord.vercel.app/docs/b8795e9b69",
+  "lookup": "https://the95xrecord.vercel.app/api/v1/hash/015d36ec9f3a41aa31066e5764e7a92c2fe8aea0dc745fcdb1cd398af5d4e407.json",
+  "ssot": "https://the95xrecord.vercel.app/ssot.json"
+}

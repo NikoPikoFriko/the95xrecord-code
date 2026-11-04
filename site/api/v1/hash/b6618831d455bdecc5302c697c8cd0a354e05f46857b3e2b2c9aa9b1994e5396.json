@@ -1,0 +1,11 @@
+{
+  "schema": "ssot/api-hash@1",
+  "sha256": "b6618831d455bdecc5302c697c8cd0a354e05f46857b3e2b2c9aa9b1994e5396",
+  "kind": "document_page",
+  "case": "1RC191003776",
+  "docket": 5,
+  "file": "2026-09-04__CAAP-26-0000625__DKT0005__certificate-of-service.pdf",
+  "published_url": "https://the95xrecord.vercel.app/docs/57aa6f2bef",
+  "lookup": "https://the95xrecord.vercel.app/api/v1/hash/b6618831d455bdecc5302c697c8cd0a354e05f46857b3e2b2c9aa9b1994e5396.json",
+  "ssot": "https://the95xrecord.vercel.app/ssot.json"
+}

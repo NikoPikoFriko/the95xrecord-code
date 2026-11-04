@@ -1,0 +1,11 @@
+{
+  "schema": "ssot/api-hash@1",
+  "sha256": "cdc5bb39c085d2b2f870ba8f1dfd28f1641766cc14760665da3a55e1663d79d5",
+  "kind": "document_page",
+  "case": "1RC191003776",
+  "docket": 82,
+  "file": "2020-06-04__Dkt82__1RC191003776__notice-of-invitation-remote-hearing.pdf",
+  "published_url": "https://the95xrecord.vercel.app/docs/f7d41bdc46",
+  "lookup": "https://the95xrecord.vercel.app/api/v1/hash/cdc5bb39c085d2b2f870ba8f1dfd28f1641766cc14760665da3a55e1663d79d5.json",
+  "ssot": "https://the95xrecord.vercel.app/ssot.json"
+}

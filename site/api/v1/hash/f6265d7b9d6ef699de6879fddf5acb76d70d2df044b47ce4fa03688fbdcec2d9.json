@@ -1,0 +1,11 @@
+{
+  "schema": "ssot/api-hash@1",
+  "sha256": "f6265d7b9d6ef699de6879fddf5acb76d70d2df044b47ce4fa03688fbdcec2d9",
+  "kind": "document_page",
+  "case": "1RC191003776",
+  "docket": 261,
+  "file": "2022-01-12__1RC191003776__DKT0261__proposed-sdt-hf6265d.pdf",
+  "published_url": "https://the95xrecord.vercel.app/docs/1246feab6f",
+  "lookup": "https://the95xrecord.vercel.app/api/v1/hash/f6265d7b9d6ef699de6879fddf5acb76d70d2df044b47ce4fa03688fbdcec2d9.json",
+  "ssot": "https://the95xrecord.vercel.app/ssot.json"
+}

@@ -1,0 +1,11 @@
+{
+  "schema": "ssot/api-hash@1",
+  "sha256": "95da9b9a84fabed1e9c25f0d12171b016eb8d79f97e5f4a7a5147cdc08e17ada",
+  "kind": "document_page",
+  "case": "1RC191003776",
+  "docket": 262,
+  "file": "2022-01-12__Dkt262__1RC191003776__defendant-s-rule-30-b-6-notice-of-taking-depositio.pdf",
+  "published_url": "https://the95xrecord.vercel.app/docs/50e2ec22f1",
+  "lookup": "https://the95xrecord.vercel.app/api/v1/hash/95da9b9a84fabed1e9c25f0d12171b016eb8d79f97e5f4a7a5147cdc08e17ada.json",
+  "ssot": "https://the95xrecord.vercel.app/ssot.json"
+}

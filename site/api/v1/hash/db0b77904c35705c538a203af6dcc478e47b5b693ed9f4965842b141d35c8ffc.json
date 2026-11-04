@@ -1,0 +1,11 @@
+{
+  "schema": "ssot/api-hash@1",
+  "sha256": "db0b77904c35705c538a203af6dcc478e47b5b693ed9f4965842b141d35c8ffc",
+  "kind": "document_page",
+  "case": "1RC191003776",
+  "docket": 83,
+  "file": "2020-06-04__1RC191003776__DKT0083__nef-ntc-invitation-and-opton-participate-in-altern.pdf",
+  "published_url": "https://the95xrecord.vercel.app/docs/146bbffbab",
+  "lookup": "https://the95xrecord.vercel.app/api/v1/hash/db0b77904c35705c538a203af6dcc478e47b5b693ed9f4965842b141d35c8ffc.json",
+  "ssot": "https://the95xrecord.vercel.app/ssot.json"
+}

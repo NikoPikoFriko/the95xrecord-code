@@ -1,0 +1,11 @@
+{
+  "schema": "ssot/api-hash@1",
+  "sha256": "a74b7899b00b168c81593a29383f374d77d65f014078029c27f1a18c2cff6f9e",
+  "kind": "document_page",
+  "case": "1RC191003776",
+  "docket": 423,
+  "file": "2026-06-15__1RC191003776__DKT0423__ex3-fee-order-full.pdf",
+  "published_url": "https://the95xrecord.vercel.app/docs/41028149d7",
+  "lookup": "https://the95xrecord.vercel.app/api/v1/hash/a74b7899b00b168c81593a29383f374d77d65f014078029c27f1a18c2cff6f9e.json",
+  "ssot": "https://the95xrecord.vercel.app/ssot.json"
+}

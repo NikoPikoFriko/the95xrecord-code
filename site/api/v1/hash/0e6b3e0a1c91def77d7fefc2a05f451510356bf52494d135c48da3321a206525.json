@@ -1,0 +1,11 @@
+{
+  "schema": "ssot/api-hash@1",
+  "sha256": "0e6b3e0a1c91def77d7fefc2a05f451510356bf52494d135c48da3321a206525",
+  "kind": "document_page",
+  "case": "1RC191003776",
+  "docket": 6,
+  "file": "2019-07-12__Dkt06__1RC191003776__stricken-return-of-service.pdf",
+  "published_url": "https://the95xrecord.vercel.app/docs/0d8577572e",
+  "lookup": "https://the95xrecord.vercel.app/api/v1/hash/0e6b3e0a1c91def77d7fefc2a05f451510356bf52494d135c48da3321a206525.json",
+  "ssot": "https://the95xrecord.vercel.app/ssot.json"
+}

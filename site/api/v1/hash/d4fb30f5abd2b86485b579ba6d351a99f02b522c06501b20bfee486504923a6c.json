@@ -1,0 +1,11 @@
+{
+  "schema": "ssot/api-hash@1",
+  "sha256": "d4fb30f5abd2b86485b579ba6d351a99f02b522c06501b20bfee486504923a6c",
+  "kind": "document_page",
+  "case": "1RC191003776",
+  "docket": 261,
+  "file": "2022-01-12__Dkt261__1RC191003776__proposed-subpoena-duces-tecum-exhibit-a.pdf",
+  "published_url": "https://the95xrecord.vercel.app/docs/e1bfdc440b",
+  "lookup": "https://the95xrecord.vercel.app/api/v1/hash/d4fb30f5abd2b86485b579ba6d351a99f02b522c06501b20bfee486504923a6c.json",
+  "ssot": "https://the95xrecord.vercel.app/ssot.json"
+}

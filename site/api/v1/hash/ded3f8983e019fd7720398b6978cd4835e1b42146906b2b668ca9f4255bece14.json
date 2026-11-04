@@ -1,0 +1,11 @@
+{
+  "schema": "ssot/api-hash@1",
+  "sha256": "ded3f8983e019fd7720398b6978cd4835e1b42146906b2b668ca9f4255bece14",
+  "kind": "document_page",
+  "case": "1RC191003776",
+  "docket": 230,
+  "file": "2021-11-18__1RC191003776__DKT0230__cos-1st-radm-rati-aoao.pdf",
+  "published_url": "https://the95xrecord.vercel.app/docs/ad6407c35d",
+  "lookup": "https://the95xrecord.vercel.app/api/v1/hash/ded3f8983e019fd7720398b6978cd4835e1b42146906b2b668ca9f4255bece14.json",
+  "ssot": "https://the95xrecord.vercel.app/ssot.json"
+}

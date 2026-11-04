@@ -1,0 +1,11 @@
+{
+  "schema": "ssot/api-hash@1",
+  "sha256": "10ce16612180a9e7c40377569da193906a226b0b56a5474041401b3d9ca67a54",
+  "kind": "document_page",
+  "case": "1RC191003776",
+  "docket": 405,
+  "file": "2024-07-31__1RC191003776__DKT0405__opposition-fees.pdf",
+  "published_url": "https://the95xrecord.vercel.app/docs/fc542f22e3",
+  "lookup": "https://the95xrecord.vercel.app/api/v1/hash/10ce16612180a9e7c40377569da193906a226b0b56a5474041401b3d9ca67a54.json",
+  "ssot": "https://the95xrecord.vercel.app/ssot.json"
+}

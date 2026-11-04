@@ -1,0 +1,11 @@
+{
+  "schema": "ssot/api-hash@1",
+  "sha256": "7e6ca77920bfae393fe666cf1dda023ef3e10ba835adfbb92859ea5341ab52d0",
+  "kind": "trial_pdf",
+  "case": "1RC191003776",
+  "docket": 494,
+  "file": "2026-10-23__1RC191003776__DKT__DKT0494-PROP__proposed-order-extend-time-dkt442-exhibits__SRC__h7e6ca77920bf.pdf",
+  "published_url": null,
+  "lookup": "https://the95xrecord.vercel.app/api/v1/hash/7e6ca77920bfae393fe666cf1dda023ef3e10ba835adfbb92859ea5341ab52d0.json",
+  "ssot": "https://the95xrecord.vercel.app/ssot.json"
+}

@@ -1,0 +1,11 @@
+{
+  "schema": "ssot/api-hash@1",
+  "sha256": "53d7e6a2734d8d55538879152fb92e8988c1e8607a0edb5e278ab263b915ef21",
+  "kind": "document_page",
+  "case": "1RC191003776",
+  "docket": 11,
+  "file": "2026-10-07__CAAP-26-0000625__DKT0011__dkt0011-0012-caap-625-mandatory-participation.pdf",
+  "published_url": "https://the95xrecord.vercel.app/docs/6acde44ded",
+  "lookup": "https://the95xrecord.vercel.app/api/v1/hash/53d7e6a2734d8d55538879152fb92e8988c1e8607a0edb5e278ab263b915ef21.json",
+  "ssot": "https://the95xrecord.vercel.app/ssot.json"
+}

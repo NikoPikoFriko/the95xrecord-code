@@ -1,0 +1,33 @@
+{
+  "schema": "ssot/api-docket@1",
+  "case": "1RC191003776",
+  "docket": 234,
+  "code": "CS",
+  "filed": "17-DEC-2021",
+  "filed_iso": "2021-12-17",
+  "time": "15:29:58",
+  "ra_pdf_page": 80,
+  "grade": "PARTIAL",
+  "for_counsel": false,
+  "evidence": {
+    "renditions": [],
+    "text": {
+      "file": "COURT_DOCKET/LISTINGS/1RC191003776/04_TEXT/ocr/2021-12-17__Dkt234__1RC191003776__amended-certificate-of-service.ocr.txt",
+      "sha256": "f46e22028ff4e6e5e0b189d9d8c9408a90367b16c7f67ba8791a1414ba116f12",
+      "location": "court_docket_listings_ocr",
+      "published_url": "https://the95xrecord.vercel.app/COURT_DOCKET/LISTINGS/1RC191003776/04_TEXT/ocr/2021-12-17__Dkt234__1RC191003776__amended-certificate-of-service.ocr.txt"
+    },
+    "held_by_station": true,
+    "gap": false
+  },
+  "pdf_conflict": null,
+  "flags": [
+    "text_only_no_pdf_of_document"
+  ],
+  "links": {
+    "register": "https://the95xrecord.vercel.app/register#dkt-234",
+    "register_json": "https://the95xrecord.vercel.app/api/v1/case/1RC191003776/dkt/234.json",
+    "ssot": "https://the95xrecord.vercel.app/ssot.json",
+    "crossref": "https://the95xrecord.vercel.app/data/crossref.json"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "schema": "ssot/api-hash@1",
+  "sha256": "b3dde18d0ba994c25bd97a7378f3ed0b6e7eb6891fc800d14a9c6488bd34581e",
+  "kind": "document_page",
+  "case": "1RC191003776",
+  "docket": 357,
+  "file": "2022-11-03__1RC191003776__DKT0357__transcript-request-cd-audio.pdf",
+  "published_url": "https://the95xrecord.vercel.app/docs/903c405498",
+  "lookup": "https://the95xrecord.vercel.app/api/v1/hash/b3dde18d0ba994c25bd97a7378f3ed0b6e7eb6891fc800d14a9c6488bd34581e.json",
+  "ssot": "https://the95xrecord.vercel.app/ssot.json"
+}

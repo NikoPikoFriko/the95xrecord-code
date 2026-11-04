@@ -1,0 +1,227 @@
+{
+ "generated": "2026-11-03",
+ "trial_nef_emails": 39,
+ "range": [
+  "2026-08-19T20:39:07-10:00",
+  "2026-10-29T13:39:16-10:00"
+ ],
+ "docket_nef_rows": 184,
+ "matched_dates": [
+  "09-SEP-2026",
+  "11-SEP-2026",
+  "15-SEP-2026",
+  "16-SEP-2026",
+  "19-AUG-2026",
+  "19-OCT-2026",
+  "20-AUG-2026",
+  "21-OCT-2026",
+  "21-SEP-2026",
+  "22-SEP-2026",
+  "23-OCT-2026",
+  "24-AUG-2026",
+  "24-SEP-2026",
+  "30-SEP-2026",
+  "31-AUG-2026"
+ ],
+ "unmatched_dates": [
+  "28-OCT-2026",
+  "29-OCT-2026"
+ ],
+ "emails": [
+  {
+   "date": "2026-08-19T20:39:07-10:00",
+   "id": "1a01de541b59b484",
+   "subject": "JEFS Notice in case:1RC191003776, ASSOCIATION OF APARTMENT ETC VS NIKODEM PIKOR"
+  },
+  {
+   "date": "2026-08-20T11:49:07-10:00",
+   "id": "1a021265bf7978f3",
+   "subject": "JEFS Notice in case:1RC191003776, ASSOCIATION OF APARTMENT ETC VS NIKODEM PIKOR"
+  },
+  {
+   "date": "2026-08-20T11:59:07-10:00",
+   "id": "1a0212f8ee2605b4",
+   "subject": "JEFS Notice in case:1RC191003776, ASSOCIATION OF APARTMENT ETC VS NIKODEM PIKOR"
+  },
+  {
+   "date": "2026-08-24T09:34:40-10:00",
+   "id": "1a03544b164f6a09",
+   "subject": "JEFS Notice in case:1RC191003776, ASSOCIATION OF APARTMENT ETC VS NIKODEM PIKOR"
+  },
+  {
+   "date": "2026-08-24T09:39:17-10:00",
+   "id": "1a03548dee6a2454",
+   "subject": "JEFS Notice in case:1RC191003776, ASSOCIATION OF APARTMENT ETC VS NIKODEM PIKOR"
+  },
+  {
+   "date": "2026-08-24T10:24:15-10:00",
+   "id": "1a03572106d8902e",
+   "subject": "Notice of Court Date in case:1RC191003776, ASSOCIATION OF APARTMENT ETC VS NIKODEM PIKOR"
+  },
+  {
+   "date": "2026-08-24T10:29:39-10:00",
+   "id": "1a035770e03cfae4",
+   "subject": "Notice of Court Date in case:1RC191003776, ASSOCIATION OF APARTMENT ETC VS NIKODEM PIKOR"
+  },
+  {
+   "date": "2026-08-24T10:30:01-10:00",
+   "id": "1a035774dfa8a3fe",
+   "subject": "JEFS Notice in case:1RC191003776, ASSOCIATION OF APARTMENT ETC VS NIKODEM PIKOR"
+  },
+  {
+   "date": "2026-08-31T14:04:06-10:00",
+   "id": "1a05a47e96ab88aa",
+   "subject": "Notice of Court Date in case:1RC191003776, ASSOCIATION OF APARTMENT ETC VS NIKODEM PIKOR"
+  },
+  {
+   "date": "2026-08-31T14:29:20-10:00",
+   "id": "1a05a5f28df6041e",
+   "subject": "JEFS Notice in case:1RC191003776, ASSOCIATION OF APARTMENT ETC VS NIKODEM PIKOR"
+  },
+  {
+   "date": "2026-08-31T16:54:18-10:00",
+   "id": "1a05ae3dfae5ac2f",
+   "subject": "JEFS Notice in case:1RC191003776, ASSOCIATION OF APARTMENT ETC VS NIKODEM PIKOR"
+  },
+  {
+   "date": "2026-09-09T07:54:06-10:00",
+   "id": "1a0874e626f839eb",
+   "subject": "JEFS Notice in case:1RC191003776, ASSOCIATION OF APARTMENT ETC VS NIKODEM PIKOR"
+  },
+  {
+   "date": "2026-09-09T07:59:13-10:00",
+   "id": "1a087534bb953f11",
+   "subject": "JEFS Notice in case:1RC191003776, ASSOCIATION OF APARTMENT ETC VS NIKODEM PIKOR"
+  },
+  {
+   "date": "2026-09-09T07:59:17-10:00",
+   "id": "1a0875363df1968b",
+   "subject": "JEFS Notice in case:1RC191003776, ASSOCIATION OF APARTMENT ETC VS NIKODEM PIKOR"
+  },
+  {
+   "date": "2026-09-09T08:19:18-10:00",
+   "id": "1a087659094c4c1e",
+   "subject": "JEFS Notice in case:1RC191003776, ASSOCIATION OF APARTMENT ETC VS NIKODEM PIKOR"
+  },
+  {
+   "date": "2026-09-11T17:14:11-10:00",
+   "id": "1a0939bfebbad10c",
+   "subject": "JEFS Notice in case:1RC191003776, ASSOCIATION OF APARTMENT ETC VS NIKODEM PIKOR"
+  },
+  {
+   "date": "2026-09-15T09:29:09-10:00",
+   "id": "1a0a68b9b5b8b2ff",
+   "subject": "Notice of Court Date in case:1RC191003776, ASSOCIATION OF APARTMENT ETC VS NIKODEM PIKOR"
+  },
+  {
+   "date": "2026-09-15T09:29:10-10:00",
+   "id": "1a0a68baab9acc29",
+   "subject": "Notice of Court Date in case:1RC191003776, ASSOCIATION OF APARTMENT ETC VS NIKODEM PIKOR"
+  },
+  {
+   "date": "2026-09-15T09:29:18-10:00",
+   "id": "1a0a68badea08718",
+   "subject": "JEFS Notice in case:1RC191003776, ASSOCIATION OF APARTMENT ETC VS NIKODEM PIKOR"
+  },
+  {
+   "date": "2026-09-15T14:39:30-10:00",
+   "id": "1a0a7a79f2ec4f79",
+   "subject": "Amended Notice of Court Date in case:1RC191003776, ASSOCIATION OF APARTMENT ETC VS NIKODEM PIKOR"
+  },
+  {
+   "date": "2026-09-15T14:39:31-10:00",
+   "id": "1a0a7a7cb1fb2a1d",
+   "subject": "Amended Notice of Court Date in case:1RC191003776, ASSOCIATION OF APARTMENT ETC VS NIKODEM PIKOR"
+  },
+  {
+   "date": "2026-09-15T14:44:07-10:00",
+   "id": "1a0a7abe77194d4b",
+   "subject": "Amended Notice of Court Date in case:1RC191003776, ASSOCIATION OF APARTMENT ETC VS NIKODEM PIKOR"
+  },
+  {
+   "date": "2026-09-15T14:44:29-10:00",
+   "id": "1a0a7ac3f0447952",
+   "subject": "JEFS Notice in case:1RC191003776, ASSOCIATION OF APARTMENT ETC VS NIKODEM PIKOR"
+  },
+  {
+   "date": "2026-09-15T14:44:30-10:00",
+   "id": "1a0a7ac4b776ea37",
+   "subject": "JEFS Notice in case:1RC191003776, ASSOCIATION OF APARTMENT ETC VS NIKODEM PIKOR"
+  },
+  {
+   "date": "2026-09-16T14:04:25-10:00",
+   "id": "1a0acadfaabcd404",
+   "subject": "JEFS Notice in case:1RC191003776, ASSOCIATION OF APARTMENT ETC VS NIKODEM PIKOR"
+  },
+  {
+   "date": "2026-09-21T08:49:21-10:00",
+   "id": "1a0c54d41c60dbff",
+   "subject": "JEFS Notice in case:1RC191003776, ASSOCIATION OF APARTMENT ETC VS NIKODEM PIKOR"
+  },
+  {
+   "date": "2026-09-21T13:14:13-10:00",
+   "id": "1a0c63fb68a4e654",
+   "subject": "JEFS Notice in case:1RC191003776, ASSOCIATION OF APARTMENT ETC VS NIKODEM PIKOR"
+  },
+  {
+   "date": "2026-09-22T10:54:24-10:00",
+   "id": "1a0cae63f970a1e8",
+   "subject": "JEFS Notice in case:1RC191003776, ASSOCIATION OF APARTMENT ETC VS NIKODEM PIKOR"
+  },
+  {
+   "date": "2026-09-24T16:04:09-10:00",
+   "id": "1a0d64e780be3694",
+   "subject": "JEFS Notice in case:1RC191003776, ASSOCIATION OF APARTMENT ETC VS NIKODEM PIKOR"
+  },
+  {
+   "date": "2026-09-30T14:54:10-10:00",
+   "id": "1a0f4f4737f8aa27",
+   "subject": "JEFS Notice in case:1RC191003776, ASSOCIATION OF APARTMENT ETC VS NIKODEM PIKOR"
+  },
+  {
+   "date": "2026-10-19T14:49:06-10:00",
+   "id": "1a156c8ac163fc92",
+   "subject": "JEFS Notice in case:1RC191003776, ASSOCIATION OF APARTMENT ETC VS NIKODEM PIKOR"
+  },
+  {
+   "date": "2026-10-19T14:49:07-10:00",
+   "id": "1a156c8c60f449ad",
+   "subject": "JEFS Notice in case:1RC191003776, ASSOCIATION OF APARTMENT ETC VS NIKODEM PIKOR"
+  },
+  {
+   "date": "2026-10-19T14:54:22-10:00",
+   "id": "1a156cd8aeb8389f",
+   "subject": "JEFS Notice in case:1RC191003776, ASSOCIATION OF APARTMENT ETC VS NIKODEM PIKOR"
+  },
+  {
+   "date": "2026-10-21T10:54:08-10:00",
+   "id": "1a1603e46edd5a77",
+   "subject": "JEFS Notice in case:1RC191003776, ASSOCIATION OF APARTMENT ETC VS NIKODEM PIKOR"
+  },
+  {
+   "date": "2026-10-23T11:39:14-10:00",
+   "id": "1a16ab465300a640",
+   "subject": "JEFS Notice in case:1RC191003776, ASSOCIATION OF APARTMENT ETC VS NIKODEM PIKOR"
+  },
+  {
+   "date": "2026-10-28T09:14:15-10:00",
+   "id": "1a183ef657de6093",
+   "subject": "JEFS Notice in case:1RC191003776, ASSOCIATION OF APARTMENT ETC VS NIKODEM PIKOR"
+  },
+  {
+   "date": "2026-10-28T09:29:13-10:00",
+   "id": "1a183fd075bfa13b",
+   "subject": "JEFS Notice in case:1RC191003776, ASSOCIATION OF APARTMENT ETC VS NIKODEM PIKOR"
+  },
+  {
+   "date": "2026-10-28T14:59:11-10:00",
+   "id": "1a1852b28be920ef",
+   "subject": "JEFS Notice in case:1RC191003776, ASSOCIATION OF APARTMENT ETC VS NIKODEM PIKOR"
+  },
+  {
+   "date": "2026-10-29T13:39:16-10:00",
+   "id": "1a18a08883ed04cd",
+   "subject": "JEFS Notice in case:1RC191003776, ASSOCIATION OF APARTMENT ETC VS NIKODEM PIKOR"
+  }
+ ]
+}

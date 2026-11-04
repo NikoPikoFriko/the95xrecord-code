@@ -1,0 +1,11 @@
+{
+  "schema": "ssot/api-hash@1",
+  "sha256": "adaebaa0dbb36f83f80e7d2cd2dbfecdc1b369dd208c384917e362cd276ea903",
+  "kind": "trial_text",
+  "case": "1RC191003776",
+  "docket": 92,
+  "file": "2020-06-29__Dkt092__1RC191003776__order-granting-defendant-and-counterclaim-third-party-plaint.ocr.txt",
+  "published_url": "https://the95xrecord.vercel.app/COURT_DOCKET/LISTINGS/1RC191003776/04_TEXT/ocr/2020-06-29__Dkt092__1RC191003776__order-granting-defendant-and-counterclaim-third-party-plaint.ocr.txt",
+  "lookup": "https://the95xrecord.vercel.app/api/v1/hash/adaebaa0dbb36f83f80e7d2cd2dbfecdc1b369dd208c384917e362cd276ea903.json",
+  "ssot": "https://the95xrecord.vercel.app/ssot.json"
+}

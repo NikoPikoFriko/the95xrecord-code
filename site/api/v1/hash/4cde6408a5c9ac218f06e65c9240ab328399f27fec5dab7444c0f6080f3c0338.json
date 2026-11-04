@@ -1,0 +1,11 @@
+{
+  "schema": "ssot/api-hash@1",
+  "sha256": "4cde6408a5c9ac218f06e65c9240ab328399f27fec5dab7444c0f6080f3c0338",
+  "kind": "trial_text",
+  "case": "1RC191003776",
+  "docket": 336,
+  "file": "2022-08-05__Dkt336__1RC191003776__granted-stipulation-for-continuance.ocr.txt",
+  "published_url": "https://the95xrecord.vercel.app/COURT_DOCKET/LISTINGS/1RC191003776/04_TEXT/ocr/2022-08-05__Dkt336__1RC191003776__granted-stipulation-for-continuance.ocr.txt",
+  "lookup": "https://the95xrecord.vercel.app/api/v1/hash/4cde6408a5c9ac218f06e65c9240ab328399f27fec5dab7444c0f6080f3c0338.json",
+  "ssot": "https://the95xrecord.vercel.app/ssot.json"
+}

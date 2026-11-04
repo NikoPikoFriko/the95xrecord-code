@@ -1,0 +1,11 @@
+{
+  "schema": "ssot/api-hash@1",
+  "sha256": "680d59ecdd16bf7fec08ba35b5b5edd6c008ec4ac70eea72e6aaae08d092bfa8",
+  "kind": "trial_text",
+  "case": "1RC191003776",
+  "docket": 189,
+  "file": "2021-03-17__Dkt189__1RC191003776__return-of-service-acknowledgment-of-service-central-pacific.ocr.txt",
+  "published_url": "https://the95xrecord.vercel.app/COURT_DOCKET/LISTINGS/1RC191003776/04_TEXT/ocr/2021-03-17__Dkt189__1RC191003776__return-of-service-acknowledgment-of-service-central-pacific.ocr.txt",
+  "lookup": "https://the95xrecord.vercel.app/api/v1/hash/680d59ecdd16bf7fec08ba35b5b5edd6c008ec4ac70eea72e6aaae08d092bfa8.json",
+  "ssot": "https://the95xrecord.vercel.app/ssot.json"
+}

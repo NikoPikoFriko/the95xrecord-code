@@ -1,0 +1,11 @@
+{
+  "schema": "ssot/api-hash@1",
+  "sha256": "c239d9ad3e63b1dc89657c751a8fdd070a07ac51fba6d5db29651b96a4b46bf4",
+  "kind": "document_page",
+  "case": "1RC191003776",
+  "docket": 86,
+  "file": "2020-06-12__Dkt86__1RC191003776__memorandum-in-opposition-joinder.pdf",
+  "published_url": "https://the95xrecord.vercel.app/docs/241c1ada7b",
+  "lookup": "https://the95xrecord.vercel.app/api/v1/hash/c239d9ad3e63b1dc89657c751a8fdd070a07ac51fba6d5db29651b96a4b46bf4.json",
+  "ssot": "https://the95xrecord.vercel.app/ssot.json"
+}

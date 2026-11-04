@@ -1,0 +1,40 @@
+{
+  "schema": "ssot/api-docket@1",
+  "case": "1RC191003776",
+  "docket": 336,
+  "code": "SCON",
+  "filed": "05-AUG-2022",
+  "filed_iso": "2022-08-05",
+  "time": "15:40:06",
+  "ra_pdf_page": 114,
+  "grade": "PARTIAL",
+  "for_counsel": false,
+  "evidence": {
+    "renditions": [
+      {
+        "file": "07_AGENT_WORK_REVIEW/FROM_AI_WORKSPACES_2026-10-23/CURSOR/.cursor/worktrees/AOAO_Marine_Surf_1RC191003776/ddym/99_INBOX/infranodus_judicial_audit_2026-10-03/judicial-audit-2026-10-03/evidence/docket/Dkt336.pdf",
+        "sha256": "f9f0041c14fa78b7768dbf47ea80aac9d1aa5cffe2dc3314848afb7625dc75c2",
+        "location": "agent_worktree",
+        "published_url": null
+      }
+    ],
+    "text": {
+      "file": "COURT_DOCKET/LISTINGS/1RC191003776/04_TEXT/ocr/2022-08-05__Dkt336__1RC191003776__granted-stipulation-for-continuance.ocr.txt",
+      "sha256": "4cde6408a5c9ac218f06e65c9240ab328399f27fec5dab7444c0f6080f3c0338",
+      "location": "court_docket_listings_ocr",
+      "published_url": "https://the95xrecord.vercel.app/COURT_DOCKET/LISTINGS/1RC191003776/04_TEXT/ocr/2022-08-05__Dkt336__1RC191003776__granted-stipulation-for-continuance.ocr.txt"
+    },
+    "held_by_station": true,
+    "gap": false
+  },
+  "pdf_conflict": null,
+  "flags": [
+    "pdf_outside_canonical_library"
+  ],
+  "links": {
+    "register": "https://the95xrecord.vercel.app/register#dkt-336",
+    "register_json": "https://the95xrecord.vercel.app/api/v1/case/1RC191003776/dkt/336.json",
+    "ssot": "https://the95xrecord.vercel.app/ssot.json",
+    "crossref": "https://the95xrecord.vercel.app/data/crossref.json"
+  }
+}

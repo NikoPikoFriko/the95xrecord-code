@@ -1,0 +1,11 @@
+{
+  "schema": "ssot/api-hash@1",
+  "sha256": "e5da7ff6dadabd71a9c2d32d885f6f34d763376ea631a223fffa68f786638250",
+  "kind": "document_page",
+  "case": "1RC191003776",
+  "docket": 392,
+  "file": "2023-06-01__Dkt392__1RC191003776__proposed-findings-of-fact-and-conclusions-of-law-a.pdf",
+  "published_url": "https://the95xrecord.vercel.app/docs/1ac018f1a3",
+  "lookup": "https://the95xrecord.vercel.app/api/v1/hash/e5da7ff6dadabd71a9c2d32d885f6f34d763376ea631a223fffa68f786638250.json",
+  "ssot": "https://the95xrecord.vercel.app/ssot.json"
+}

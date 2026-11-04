@@ -1,0 +1,38 @@
+{
+  "schema": "ssot/api-docket@1",
+  "case": "1RC191003776",
+  "docket": 489,
+  "code": "NEF",
+  "filed": "19-OCT-2026",
+  "filed_iso": "2026-10-19",
+  "time": "14:47:04",
+  "ra_pdf_page": 193,
+  "grade": "OBS",
+  "for_counsel": false,
+  "evidence": {
+    "renditions": [
+      {
+        "file": "COURT_DOCKET/REGULAR/2026-10-19__1RC191003776__DKT__DKT0489-NEF__nef-for-proposed-order-reconsideration-dkt488__NEF__ha9cad9b36d8b.pdf",
+        "sha256": "a9cad9b36d8b3a7bbe406358fa63f41d952a92636f694f3d58f834ef1da0bd54",
+        "location": "canonical_library",
+        "published_url": null
+      }
+    ],
+    "text": {
+      "file": "05_AI_REVIEW/MAGIC_04_REPORTS/DOCKET_JSON_2026-10-20/TEXT/1RC191003776_DKT0489.txt",
+      "sha256": "f9a156d1897cb87f3da43e4ce8c6c104e3bf409b67dfd1dcbfba3964fc8bfab6",
+      "location": "ai_review_report_text",
+      "published_url": "https://the95xrecord.vercel.app/05_AI_REVIEW/MAGIC_04_REPORTS/DOCKET_JSON_2026-10-20/TEXT/1RC191003776_DKT0489.txt"
+    },
+    "held_by_station": true,
+    "gap": false
+  },
+  "pdf_conflict": null,
+  "flags": [],
+  "links": {
+    "register": "https://the95xrecord.vercel.app/register#dkt-489",
+    "register_json": "https://the95xrecord.vercel.app/api/v1/case/1RC191003776/dkt/489.json",
+    "ssot": "https://the95xrecord.vercel.app/ssot.json",
+    "crossref": "https://the95xrecord.vercel.app/data/crossref.json"
+  }
+}

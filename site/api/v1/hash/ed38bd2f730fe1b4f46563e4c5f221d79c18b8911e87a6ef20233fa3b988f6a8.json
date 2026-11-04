@@ -1,0 +1,11 @@
+{
+  "schema": "ssot/api-hash@1",
+  "sha256": "ed38bd2f730fe1b4f46563e4c5f221d79c18b8911e87a6ef20233fa3b988f6a8",
+  "kind": "document_page",
+  "case": "1RC191003776",
+  "docket": 259,
+  "file": "2022-01-07__1RC191003776__DKT0259__subpoena-stuart-uchida.pdf",
+  "published_url": "https://the95xrecord.vercel.app/docs/966a3f071f",
+  "lookup": "https://the95xrecord.vercel.app/api/v1/hash/ed38bd2f730fe1b4f46563e4c5f221d79c18b8911e87a6ef20233fa3b988f6a8.json",
+  "ssot": "https://the95xrecord.vercel.app/ssot.json"
+}

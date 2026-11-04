@@ -1,0 +1,11 @@
+{
+  "schema": "ssot/api-hash@1",
+  "sha256": "46e72445b23c07a7c1e2f79e188f670e2d4f568f72be970ea0d7d78d6139a4a6",
+  "kind": "document_page",
+  "case": "1RC191003776",
+  "docket": 255,
+  "file": "2022-01-07__1RC191003776__DKT0255__subpoena-chuck-decoito.pdf",
+  "published_url": "https://the95xrecord.vercel.app/docs/46555cad45",
+  "lookup": "https://the95xrecord.vercel.app/api/v1/hash/46e72445b23c07a7c1e2f79e188f670e2d4f568f72be970ea0d7d78d6139a4a6.json",
+  "ssot": "https://the95xrecord.vercel.app/ssot.json"
+}

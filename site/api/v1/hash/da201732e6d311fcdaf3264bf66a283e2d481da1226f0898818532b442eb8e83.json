@@ -1,0 +1,11 @@
+{
+  "schema": "ssot/api-hash@1",
+  "sha256": "da201732e6d311fcdaf3264bf66a283e2d481da1226f0898818532b442eb8e83",
+  "kind": "document_page",
+  "case": "1RC191003776",
+  "docket": 162,
+  "file": "2021-02-18__1RC191003776__DKT0162__nocd-mtn-ord-exam-1-35pm.pdf",
+  "published_url": "https://the95xrecord.vercel.app/docs/030f65193d",
+  "lookup": "https://the95xrecord.vercel.app/api/v1/hash/da201732e6d311fcdaf3264bf66a283e2d481da1226f0898818532b442eb8e83.json",
+  "ssot": "https://the95xrecord.vercel.app/ssot.json"
+}

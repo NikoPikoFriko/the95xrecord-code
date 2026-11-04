@@ -1,0 +1,11 @@
+{
+  "schema": "ssot/api-hash@1",
+  "sha256": "6bce06fe57463f2289a76ebf9928ebb586a7efb8c68c723a9f80156f3a2361b9",
+  "kind": "document_page",
+  "case": "1RC191003776",
+  "docket": 104,
+  "file": "2020-07-09__1RC191003776__DKT0104__nef-aoao-marine-surf-waikiki-mtn-recon-re-ord-grant-n-mtn-lv.pdf",
+  "published_url": "https://the95xrecord.vercel.app/docs/23f7daddc1",
+  "lookup": "https://the95xrecord.vercel.app/api/v1/hash/6bce06fe57463f2289a76ebf9928ebb586a7efb8c68c723a9f80156f3a2361b9.json",
+  "ssot": "https://the95xrecord.vercel.app/ssot.json"
+}

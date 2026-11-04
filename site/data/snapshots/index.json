@@ -1,0 +1,54 @@
+{
+  "schema": "ssot/snapshots-index@1",
+  "generated": "2026-11-03T19:43:24-10:00",
+  "note": "Time-versioned JIMS case views, transcribed from the rendered page. The raw JSF HTML was not captured; the transcription is a rendering, not the wire bytes. Each file's authoritative hash is sha256 of the served bytes (computed in the build).",
+  "entries": [
+    {
+      "id": "JIMS_CAAP-26-0000625_2026-11-03T1849",
+      "case": "CAAP-26-0000625",
+      "captured_at": "2026-11-03T18:49:00-10:00",
+      "captured_by": "browser session (Agent Window), logged in as WEBU398113",
+      "source_url": "https://jimspss1.courts.state.hi.us/JIMSExternal/manage-cases.iface",
+      "file": "JIMS_CAAP-26-0000625_2026-11-03T1849.json",
+      "url": "https://the95xrecord.vercel.app/data/snapshots/JIMS_CAAP-26-0000625_2026-11-03T1849.json",
+      "sha256_url": "https://the95xrecord.vercel.app/data/snapshots/JIMS_CAAP-26-0000625_2026-11-03T1849.sha256",
+      "sha256": "9eca705a6d597b26197b73848a3aed31fb2a18869ef4ff5592c7d5d01f45b5da",
+      "bytes": 13104,
+      "embedded_self_hash_note": "the file carries sha256_of_this_document=None which is a hash of its own content before that field was appended, so it cannot equal the file hash; the authoritative value is this entry's sha256",
+      "what_it_contains": {
+        "dockets": 20,
+        "documents": 20,
+        "parties": 12,
+        "milestones": 14,
+        "milestone_advisory": "Advisory: The Milestone Dates provided in Manage Cases may not be accurate. In the event of a difference between a Milestone Date in Manage Cases and the Milestone Date calculated in accordance with the Hawaii Rules of Appellate Procedure or applicable court rules, the Hawaii Rules of Appellate Procedure or applicable court rules prevail."
+      }
+    },
+    {
+      "id": "JIMS_1RC191003776_2026-11-03T1934",
+      "case": "1RC191003776",
+      "captured_at": "2026-11-03T19:34:33-10:00",
+      "captured_by": "WEBU398113",
+      "source_url": "https://jimspss1.courts.state.hi.us/JIMSExternal/manage-cases.iface",
+      "file": "JIMS_1RC191003776_2026-11-03T1934.json",
+      "url": "https://the95xrecord.vercel.app/data/snapshots/JIMS_1RC191003776_2026-11-03T1934.json",
+      "sha256_url": "https://the95xrecord.vercel.app/data/snapshots/JIMS_1RC191003776_2026-11-03T1934.sha256",
+      "sha256": "b0366d17d8fc12bb1bfff12a74593e91b7c6007ed0c8f7ff05c8ea4399ce5574",
+      "bytes": 21637,
+      "what_it_contains": {
+        "dockets_rows_rendered": 503,
+        "documents_rows_rendered": 468,
+        "dockets_tail_rows": 24,
+        "parties": 14,
+        "milestones": 0,
+        "milestones_note": "No Milestones table element is present in this case's rendered page (table ids on the page: partiesTable, eventsTable, docketsTable, documentsTable) — the appeal case has one, this trial case did not render it. Nothing invented.",
+        "reconciliation": "the court's page renders 503 docket rows; the site's register is 495 rows plus the 8-docket post-495 tail (496-503) = 503 — the two records agree end-to-end"
+      },
+      "superseded": {
+        "bytes": 22994,
+        "sha256": "177af54c10fa0ca7d24d0b95321f6ab18406625bfcb5206f23175058c17cedff",
+        "reason": "earlier transcription of the same case view; the sidecar it named did not exist",
+        "note": "kept as a named hash for continuity; the current file is the one served"
+      }
+    }
+  ]
+}

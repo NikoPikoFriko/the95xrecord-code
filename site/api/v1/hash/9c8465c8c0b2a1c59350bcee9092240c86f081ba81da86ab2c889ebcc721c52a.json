@@ -1,0 +1,11 @@
+{
+  "schema": "ssot/api-hash@1",
+  "sha256": "9c8465c8c0b2a1c59350bcee9092240c86f081ba81da86ab2c889ebcc721c52a",
+  "kind": "document_page",
+  "case": "1RC191003776",
+  "docket": 346,
+  "file": "2021-07-15__1RC191003776__DKT0346__pikor-email-2018-07-03.pdf",
+  "published_url": "https://the95xrecord.vercel.app/docs/7a8d2af925",
+  "lookup": "https://the95xrecord.vercel.app/api/v1/hash/9c8465c8c0b2a1c59350bcee9092240c86f081ba81da86ab2c889ebcc721c52a.json",
+  "ssot": "https://the95xrecord.vercel.app/ssot.json"
+}

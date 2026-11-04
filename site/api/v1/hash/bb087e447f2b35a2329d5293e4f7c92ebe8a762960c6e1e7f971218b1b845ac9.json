@@ -1,0 +1,11 @@
+{
+  "schema": "ssot/api-hash@1",
+  "sha256": "bb087e447f2b35a2329d5293e4f7c92ebe8a762960c6e1e7f971218b1b845ac9",
+  "kind": "document_page",
+  "case": "1RC191003776",
+  "docket": 228,
+  "file": "2021-10-05__1RC191003776__DKT0228__minutes-excerpt-placeholder.pdf",
+  "published_url": "https://the95xrecord.vercel.app/docs/d9daed81de",
+  "lookup": "https://the95xrecord.vercel.app/api/v1/hash/bb087e447f2b35a2329d5293e4f7c92ebe8a762960c6e1e7f971218b1b845ac9.json",
+  "ssot": "https://the95xrecord.vercel.app/ssot.json"
+}

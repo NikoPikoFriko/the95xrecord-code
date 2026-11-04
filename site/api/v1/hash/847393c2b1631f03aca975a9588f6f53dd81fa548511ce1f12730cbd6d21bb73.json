@@ -1,0 +1,11 @@
+{
+  "schema": "ssot/api-hash@1",
+  "sha256": "847393c2b1631f03aca975a9588f6f53dd81fa548511ce1f12730cbd6d21bb73",
+  "kind": "document_page",
+  "case": "1RC191003776",
+  "docket": 92,
+  "file": "2020-06-29__1RC191003776__DKT0092__order-granting-defendant-and-counter.pdf",
+  "published_url": "https://the95xrecord.vercel.app/docs/ec0027f6a9",
+  "lookup": "https://the95xrecord.vercel.app/api/v1/hash/847393c2b1631f03aca975a9588f6f53dd81fa548511ce1f12730cbd6d21bb73.json",
+  "ssot": "https://the95xrecord.vercel.app/ssot.json"
+}

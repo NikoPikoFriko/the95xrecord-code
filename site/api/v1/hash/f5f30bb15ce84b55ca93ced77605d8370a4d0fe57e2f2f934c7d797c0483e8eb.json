@@ -1,0 +1,11 @@
+{
+  "schema": "ssot/api-hash@1",
+  "sha256": "f5f30bb15ce84b55ca93ced77605d8370a4d0fe57e2f2f934c7d797c0483e8eb",
+  "kind": "document_page",
+  "case": "1RC191003776",
+  "docket": 84,
+  "file": "2020-06-12__Dkt84__1RC191003776__memorandum-in-opposition.pdf",
+  "published_url": "https://the95xrecord.vercel.app/docs/764ff26856",
+  "lookup": "https://the95xrecord.vercel.app/api/v1/hash/f5f30bb15ce84b55ca93ced77605d8370a4d0fe57e2f2f934c7d797c0483e8eb.json",
+  "ssot": "https://the95xrecord.vercel.app/ssot.json"
+}

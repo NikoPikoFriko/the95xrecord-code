@@ -1,0 +1,11 @@
+{
+  "schema": "ssot/api-hash@1",
+  "sha256": "89815b91b30cf852371d0ff3d7c45993eea9dc916f8d8b6994ead2127b6844a9",
+  "kind": "document_page",
+  "case": "1RC191003776",
+  "docket": 252,
+  "file": "2022-01-06__Dkt252__1RC191003776__proposed-subpoena-witness-harold-hitchcock.pdf",
+  "published_url": "https://the95xrecord.vercel.app/docs/77f1371615",
+  "lookup": "https://the95xrecord.vercel.app/api/v1/hash/89815b91b30cf852371d0ff3d7c45993eea9dc916f8d8b6994ead2127b6844a9.json",
+  "ssot": "https://the95xrecord.vercel.app/ssot.json"
+}

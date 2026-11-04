@@ -1,0 +1,38 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>404 — not found in this record</title>
+<style>
+:root{--ink:#111;--muted:#666;--line:#e5e5e5;--bg:#faf9f7;--accent:#7a1f1f}
+*{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--ink);font:16px/1.55 Georgia,serif}
+header{padding:52px 24px 26px;border-bottom:1px solid var(--line)}main,footer{max-width:920px;margin:0 auto;padding:24px}
+h1{font-size:2.05rem;line-height:1.15;margin:0 0 8px}h2{margin:2em 0 .5em;font-size:1.22rem}
+.muted{color:var(--muted)}a{color:var(--accent)}code{font:12px/1.4 ui-monospace,Menlo,monospace;background:#f0eee9;padding:1px 4px;border-radius:3px}
+.gap{border-left:3px solid var(--accent);padding-left:14px;margin:18px 0}
+</style></head><body><header><h1>404 — not found in this record</h1>
+<p class="muted">AOAO Marine Surf Waikiki v. Nikodem Pikor · 1RC191003776 · appeal CAAP-26-0000625</p>
+<p class="muted"><a href="/">record</a> · <a href="/register">register</a> · <a href="/appeal">appeal</a> · <a href="/query">query</a> · <a href="/reasoning/">reasoning</a> · <a href="/texts">texts</a> · <a href="/ssot.json">/ssot.json</a> · <a href="/api/v1/index.json">/api/v1/index.json</a></p></header><main>
+<p><strong>That path is not held by this site.</strong> A 404 here means <em>not in the published record</em>; it does
+not mean the record says the thing does not exist. The site publishes a fixed corpus (dockets, held files, texts,
+snapshots, traces); anything outside it is simply absent.</p>
+
+<h2>If you were looking up a sha256</h2>
+<p>Every hash the record holds has an object at <code>/api/v1/hash/&lt;sha256&gt;.json</code>. The authoritative map is
+<a href="/api/v1/hashes.json">/api/v1/hashes.json</a> (1,655 objects as of this build). If your
+hash is not in that map, the record does not hold it — that is the answer, and it is machine-readable:</p>
+<div class="gap"><pre><code>{"status": 404, "error": "unknown_sha256"}</code></pre>
+<p class="muted">The full unknown-hash document is served at
+<a href="/api/v1/hash/_404.json">/api/v1/hash/_404.json</a>; this page embeds the same object in the
+<code>&lt;script type="application/json" id="api-404"&gt;</code> block below for clients that only follow HTML.</p></div>
+
+<h2>Where to go instead</h2>
+<ul>
+<li><a href="/query">/query</a> — SQL over the whole record in your browser (case ↔ docket ↔ RA page ↔ sha256 ↔ quote ↔ extraction method ↔ tier).</li>
+<li><a href="/register">/register</a> — the 495-row trial docket, each row with its tier and a full-hash drawer.</li>
+<li><a href="/appeal">/appeal</a> — the 20-row appeal docket, the two deadlines verbatim, the GAPs.</li>
+<li><a href="/texts">/texts</a> — 491 text renditions, each hash verifiable in place.</li>
+<li><a href="/reasoning/">/reasoning</a> — four deterministic traces, four steps each.</li>
+<li><a href="/ssot.json">/ssot.json</a> — the machine index (tiers, capture policy, datasets, lineage).</li>
+</ul>
+<script type="application/json" id="api-404">{"schema": "ssot/api-hash-404@1", "status": 404, "error": "unknown_sha256", "message": "That sha256 is not held by this record. The full hash map is at /api/v1/hashes.json; the lookup endpoint is /api/v1/hash/<sha256>.json for any hash in that map.", "known_hashes": 1655, "hash_map": "https://the95xrecord.vercel.app/api/v1/hashes.json", "api_index": "https://the95xrecord.vercel.app/api/v1/index.json", "ssot": "https://the95xrecord.vercel.app/ssot.json", "note": "static hosting: a missing path returns the platform's 404 status; this document is the canonical machine-readable body and /404.html embeds the same object for clients that follow HTML"}</script>
+</main><footer class="muted"><p>States the record's contents; concludes nothing about the merits. Gaps are published on purpose.</p>
+<p>404 · static hosting: the status is native, the body is the machine-readable error above.</p></footer></body></html>

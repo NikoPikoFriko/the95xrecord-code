@@ -1,0 +1,11 @@
+{
+  "schema": "ssot/api-hash@1",
+  "sha256": "8f1936ebe298fbbe818b300569013f674a6b3a3520a5b885959625e346d8790c",
+  "kind": "document_page",
+  "case": "1RC191003776",
+  "docket": 346,
+  "file": "2021-07-15__1RC191003776__DKT0346__video-on-cd.pdf",
+  "published_url": "https://the95xrecord.vercel.app/docs/028e0bcb73",
+  "lookup": "https://the95xrecord.vercel.app/api/v1/hash/8f1936ebe298fbbe818b300569013f674a6b3a3520a5b885959625e346d8790c.json",
+  "ssot": "https://the95xrecord.vercel.app/ssot.json"
+}

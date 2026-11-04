@@ -1,0 +1,11 @@
+{
+  "schema": "ssot/api-hash@1",
+  "sha256": "a45add26e18f412ca369de73885c459edeb059d2f5802609bfa9be5f3cc8f964",
+  "kind": "document_page",
+  "case": "1RC191003776",
+  "docket": 257,
+  "file": "2022-01-07__1RC191003776__DKT0257__subpoena-harold-hitchcock.pdf",
+  "published_url": "https://the95xrecord.vercel.app/docs/5aa5966d36",
+  "lookup": "https://the95xrecord.vercel.app/api/v1/hash/a45add26e18f412ca369de73885c459edeb059d2f5802609bfa9be5f3cc8f964.json",
+  "ssot": "https://the95xrecord.vercel.app/ssot.json"
+}

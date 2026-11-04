@@ -1,0 +1,11 @@
+{
+  "schema": "ssot/api-hash@1",
+  "sha256": "e263b510fda97e86a136dddfc058c4212f9ccb6462cc0d1280eb9e57c93cc469",
+  "kind": "document_page",
+  "case": "1RC191003776",
+  "docket": 259,
+  "file": "2022-01-07__Dkt259__1RC191003776__re-stuart-uchida.pdf",
+  "published_url": "https://the95xrecord.vercel.app/docs/e0f9a3770f",
+  "lookup": "https://the95xrecord.vercel.app/api/v1/hash/e263b510fda97e86a136dddfc058c4212f9ccb6462cc0d1280eb9e57c93cc469.json",
+  "ssot": "https://the95xrecord.vercel.app/ssot.json"
+}

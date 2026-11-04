@@ -1,0 +1,11 @@
+{
+  "schema": "ssot/api-hash@1",
+  "sha256": "fc464461774153945adc35d3c3f2055732ca9f2146a007f5a76258f38f86649b",
+  "kind": "document_page",
+  "case": "1RC191003776",
+  "docket": 276,
+  "file": "2022-01-18__1RC191003776__DKT0276__ntc-court-date-9-00am-pretrial-conference.pdf",
+  "published_url": "https://the95xrecord.vercel.app/docs/ed494aa404",
+  "lookup": "https://the95xrecord.vercel.app/api/v1/hash/fc464461774153945adc35d3c3f2055732ca9f2146a007f5a76258f38f86649b.json",
+  "ssot": "https://the95xrecord.vercel.app/ssot.json"
+}

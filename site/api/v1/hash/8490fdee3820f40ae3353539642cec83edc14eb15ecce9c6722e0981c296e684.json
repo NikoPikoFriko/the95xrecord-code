@@ -1,0 +1,11 @@
+{
+  "schema": "ssot/api-hash@1",
+  "sha256": "8490fdee3820f40ae3353539642cec83edc14eb15ecce9c6722e0981c296e684",
+  "kind": "document_page",
+  "case": "1RC191003776",
+  "docket": 97,
+  "file": "2020-07-09__1RC191003776__DKT0097__dkt0097-0099-1st-amended-answer-cmplt.pdf",
+  "published_url": "https://the95xrecord.vercel.app/docs/bf740a559a",
+  "lookup": "https://the95xrecord.vercel.app/api/v1/hash/8490fdee3820f40ae3353539642cec83edc14eb15ecce9c6722e0981c296e684.json",
+  "ssot": "https://the95xrecord.vercel.app/ssot.json"
+}

@@ -1,0 +1,11 @@
+{
+  "schema": "ssot/api-hash@1",
+  "sha256": "01e417587ddbfc0fe22b5500021a3b90de1dfbb4d187b32e0efec3884aa4b5b5",
+  "kind": "document_page",
+  "case": "1RC191003776",
+  "docket": 305,
+  "file": "2022-05-05__1RC191003776__DKT0305__cntrclmnt-aoao-witness-list-h01e417.pdf",
+  "published_url": "https://the95xrecord.vercel.app/docs/0bbb8860e4",
+  "lookup": "https://the95xrecord.vercel.app/api/v1/hash/01e417587ddbfc0fe22b5500021a3b90de1dfbb4d187b32e0efec3884aa4b5b5.json",
+  "ssot": "https://the95xrecord.vercel.app/ssot.json"
+}

@@ -1,0 +1,11 @@
+{
+ "schema": "ssot/api-hash@1",
+ "sha256": "7114101be05c9f5b1d9e55080b4258bb83e0044a9aecaaa72e1dc603715703fb",
+ "kind": "dataset",
+ "case": null,
+ "docket": null,
+ "file": "data/query.sqlite",
+ "published_url": "https://the95xrecord.vercel.app/data/query.sqlite",
+ "lookup": "https://the95xrecord.vercel.app/api/v1/hash/7114101be05c9f5b1d9e55080b4258bb83e0044a9aecaaa72e1dc603715703fb.json",
+ "ssot": "https://the95xrecord.vercel.app/ssot.json"
+}

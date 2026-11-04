@@ -1,0 +1,11 @@
+{
+  "schema": "ssot/api-hash@1",
+  "sha256": "091793b89b686ceacd62a3b2958628b708b693a63ab72ec793800bec25d708d1",
+  "kind": "document_page",
+  "case": "1RC191003776",
+  "docket": 195,
+  "file": "2021-03-22__1RC191003776__DKT0195__garnishee-disclosure-cpb.pdf",
+  "published_url": "https://the95xrecord.vercel.app/docs/d2cedc14e4",
+  "lookup": "https://the95xrecord.vercel.app/api/v1/hash/091793b89b686ceacd62a3b2958628b708b693a63ab72ec793800bec25d708d1.json",
+  "ssot": "https://the95xrecord.vercel.app/ssot.json"
+}

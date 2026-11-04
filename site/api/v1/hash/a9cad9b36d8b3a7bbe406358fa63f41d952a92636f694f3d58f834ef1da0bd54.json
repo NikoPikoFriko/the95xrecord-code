@@ -1,0 +1,11 @@
+{
+  "schema": "ssot/api-hash@1",
+  "sha256": "a9cad9b36d8b3a7bbe406358fa63f41d952a92636f694f3d58f834ef1da0bd54",
+  "kind": "trial_pdf",
+  "case": "1RC191003776",
+  "docket": 489,
+  "file": "2026-10-19__1RC191003776__DKT__DKT0489-NEF__nef-for-proposed-order-reconsideration-dkt488__NEF__ha9cad9b36d8b.pdf",
+  "published_url": null,
+  "lookup": "https://the95xrecord.vercel.app/api/v1/hash/a9cad9b36d8b3a7bbe406358fa63f41d952a92636f694f3d58f834ef1da0bd54.json",
+  "ssot": "https://the95xrecord.vercel.app/ssot.json"
+}

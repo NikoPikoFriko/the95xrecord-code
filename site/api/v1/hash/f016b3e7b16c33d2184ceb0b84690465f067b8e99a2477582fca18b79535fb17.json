@@ -1,0 +1,11 @@
+{
+  "schema": "ssot/api-hash@1",
+  "sha256": "f016b3e7b16c33d2184ceb0b84690465f067b8e99a2477582fca18b79535fb17",
+  "kind": "trial_text",
+  "case": "1RC191003776",
+  "docket": 154,
+  "file": "2021-01-25__Dkt154__1RC191003776__errata-re-thyssenkrupp-elevator-corporation-s-ex-parte-motio.ocr.txt",
+  "published_url": "https://the95xrecord.vercel.app/COURT_DOCKET/LISTINGS/1RC191003776/04_TEXT/ocr/2021-01-25__Dkt154__1RC191003776__errata-re-thyssenkrupp-elevator-corporation-s-ex-parte-motio.ocr.txt",
+  "lookup": "https://the95xrecord.vercel.app/api/v1/hash/f016b3e7b16c33d2184ceb0b84690465f067b8e99a2477582fca18b79535fb17.json",
+  "ssot": "https://the95xrecord.vercel.app/ssot.json"
+}

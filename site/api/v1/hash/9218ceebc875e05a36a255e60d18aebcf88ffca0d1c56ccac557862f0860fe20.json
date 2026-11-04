@@ -1,0 +1,11 @@
+{
+  "schema": "ssot/api-hash@1",
+  "sha256": "9218ceebc875e05a36a255e60d18aebcf88ffca0d1c56ccac557862f0860fe20",
+  "kind": "document_page",
+  "case": "1RC191003776",
+  "docket": 15,
+  "file": "2019-11-22__1RC191003776__DKT0015__cos-re-3rd-pty-def-thyssenkrupp-elevator-corps-joi.pdf",
+  "published_url": "https://the95xrecord.vercel.app/docs/1a5e4e1d0a",
+  "lookup": "https://the95xrecord.vercel.app/api/v1/hash/9218ceebc875e05a36a255e60d18aebcf88ffca0d1c56ccac557862f0860fe20.json",
+  "ssot": "https://the95xrecord.vercel.app/ssot.json"
+}

@@ -1,0 +1,11 @@
+{
+  "schema": "ssot/api-hash@1",
+  "sha256": "8c248874bfe252c349fca760908909dd1fb7de676a96e4a7a4eaa606e9599034",
+  "kind": "document_page",
+  "case": "1RC191003776",
+  "docket": 108,
+  "file": "2020-07-16__1RC191003776__DKT0108__nef-payment-due-to-court-200-00.pdf",
+  "published_url": "https://the95xrecord.vercel.app/docs/b0c974ca9a",
+  "lookup": "https://the95xrecord.vercel.app/api/v1/hash/8c248874bfe252c349fca760908909dd1fb7de676a96e4a7a4eaa606e9599034.json",
+  "ssot": "https://the95xrecord.vercel.app/ssot.json"
+}

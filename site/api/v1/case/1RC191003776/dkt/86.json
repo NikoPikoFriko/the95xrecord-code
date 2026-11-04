@@ -1,0 +1,33 @@
+{
+  "schema": "ssot/api-docket@1",
+  "case": "1RC191003776",
+  "docket": 86,
+  "code": "MEO",
+  "filed": "12-JUN-2020",
+  "filed_iso": "2020-06-12",
+  "time": "16:48:20",
+  "ra_pdf_page": 28,
+  "grade": "PARTIAL",
+  "for_counsel": false,
+  "evidence": {
+    "renditions": [],
+    "text": {
+      "file": "COURT_DOCKET/LISTINGS/1RC191003776/04_TEXT/ocr/2020-06-12__Dkt086__1RC191003776__plaintiff-and-counterclaim-defendant-association-of-apartmen.ocr.txt",
+      "sha256": "f09f1427eac6cc830ff73d0e9b2eef98e9b1cbb75ecb1c37d7f5fb9740ccc379",
+      "location": "court_docket_listings_ocr",
+      "published_url": "https://the95xrecord.vercel.app/COURT_DOCKET/LISTINGS/1RC191003776/04_TEXT/ocr/2020-06-12__Dkt086__1RC191003776__plaintiff-and-counterclaim-defendant-association-of-apartmen.ocr.txt"
+    },
+    "held_by_station": true,
+    "gap": false
+  },
+  "pdf_conflict": null,
+  "flags": [
+    "text_only_no_pdf_of_document"
+  ],
+  "links": {
+    "register": "https://the95xrecord.vercel.app/register#dkt-86",
+    "register_json": "https://the95xrecord.vercel.app/api/v1/case/1RC191003776/dkt/86.json",
+    "ssot": "https://the95xrecord.vercel.app/ssot.json",
+    "crossref": "https://the95xrecord.vercel.app/data/crossref.json"
+  }
+}

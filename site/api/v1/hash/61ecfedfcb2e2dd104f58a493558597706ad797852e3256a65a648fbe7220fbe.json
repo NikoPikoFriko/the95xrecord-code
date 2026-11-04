@@ -1,0 +1,11 @@
+{
+  "schema": "ssot/api-hash@1",
+  "sha256": "61ecfedfcb2e2dd104f58a493558597706ad797852e3256a65a648fbe7220fbe",
+  "kind": "trial_pdf",
+  "case": "1RC191003776",
+  "docket": 491,
+  "file": "2026-10-19__1RC191003776__DKT__DKT0491-NEF__nef-for-proposed-order-dkt490__NEF__h61ecfedfcb2e.pdf",
+  "published_url": null,
+  "lookup": "https://the95xrecord.vercel.app/api/v1/hash/61ecfedfcb2e2dd104f58a493558597706ad797852e3256a65a648fbe7220fbe.json",
+  "ssot": "https://the95xrecord.vercel.app/ssot.json"
+}

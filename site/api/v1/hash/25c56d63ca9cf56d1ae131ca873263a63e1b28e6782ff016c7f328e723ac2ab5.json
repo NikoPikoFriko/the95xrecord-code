@@ -1,0 +1,11 @@
+{
+  "schema": "ssot/api-hash@1",
+  "sha256": "25c56d63ca9cf56d1ae131ca873263a63e1b28e6782ff016c7f328e723ac2ab5",
+  "kind": "document_page",
+  "case": "1RC191003776",
+  "docket": 349,
+  "file": "2022-10-26__1RC191003776__DKT0349__minute-entry-saved-docket.pdf",
+  "published_url": "https://the95xrecord.vercel.app/docs/b014038575",
+  "lookup": "https://the95xrecord.vercel.app/api/v1/hash/25c56d63ca9cf56d1ae131ca873263a63e1b28e6782ff016c7f328e723ac2ab5.json",
+  "ssot": "https://the95xrecord.vercel.app/ssot.json"
+}

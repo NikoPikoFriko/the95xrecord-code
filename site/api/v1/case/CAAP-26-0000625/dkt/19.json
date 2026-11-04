@@ -1,0 +1,26 @@
+{
+  "schema": "ssot/api-docket@1",
+  "case": "CAAP-26-0000625",
+  "docket": 19,
+  "code": "AMRA",
+  "title": "Amended Record on Appeal",
+  "filed": "29-OCT-2026",
+  "filed_iso": "2026-10-29",
+  "time": "13:30:00",
+  "grade": "OBS",
+  "for_counsel": false,
+  "evidence": {
+    "held_by_station": true,
+    "file": "APPEALS/CAAP-26-0000625/DOCKET/2026-10-29__CAAP-26-0000625__DKT__DKT0019-AMRA__amended-record-on-appeal__SRC__h46429ea256f9.pdf",
+    "sha256": "46429ea256f90049b9083010fa08e7af116a9e9b4b6a8dd4bdf27ac1b0121e21",
+    "pages": 5,
+    "form": "src",
+    "gap": false
+  },
+  "flags": [],
+  "links": {
+    "appeal": "https://the95xrecord.vercel.app/appeal#dkt-19",
+    "appeal_json": "https://the95xrecord.vercel.app/api/v1/case/CAAP-26-0000625/dkt/19.json",
+    "ssot": "https://the95xrecord.vercel.app/ssot.json"
+  }
+}

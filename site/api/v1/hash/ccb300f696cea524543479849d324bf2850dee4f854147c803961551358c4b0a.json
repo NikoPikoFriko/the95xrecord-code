@@ -1,0 +1,11 @@
+{
+  "schema": "ssot/api-hash@1",
+  "sha256": "ccb300f696cea524543479849d324bf2850dee4f854147c803961551358c4b0a",
+  "kind": "evidence_export",
+  "case": "CAAP-26-0000625",
+  "docket": null,
+  "file": "TIMELINE.csv",
+  "published_url": null,
+  "lookup": "https://the95xrecord.vercel.app/api/v1/hash/ccb300f696cea524543479849d324bf2850dee4f854147c803961551358c4b0a.json",
+  "ssot": "https://the95xrecord.vercel.app/ssot.json"
+}

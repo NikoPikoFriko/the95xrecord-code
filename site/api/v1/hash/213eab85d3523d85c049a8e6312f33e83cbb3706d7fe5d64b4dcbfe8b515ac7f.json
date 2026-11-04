@@ -1,0 +1,11 @@
+{
+  "schema": "ssot/api-hash@1",
+  "sha256": "213eab85d3523d85c049a8e6312f33e83cbb3706d7fe5d64b4dcbfe8b515ac7f",
+  "kind": "trial_text",
+  "case": "1RC191003776",
+  "docket": 417,
+  "file": "2024-11-12__Dkt417__1RC191003776__amended-notice-of-hearing-certificate-of-service.ocr.txt",
+  "published_url": "https://the95xrecord.vercel.app/COURT_DOCKET/LISTINGS/1RC191003776/04_TEXT/ocr/2024-11-12__Dkt417__1RC191003776__amended-notice-of-hearing-certificate-of-service.ocr.txt",
+  "lookup": "https://the95xrecord.vercel.app/api/v1/hash/213eab85d3523d85c049a8e6312f33e83cbb3706d7fe5d64b4dcbfe8b515ac7f.json",
+  "ssot": "https://the95xrecord.vercel.app/ssot.json"
+}

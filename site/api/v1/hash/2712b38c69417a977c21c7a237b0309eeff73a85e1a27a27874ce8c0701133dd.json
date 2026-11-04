@@ -1,0 +1,11 @@
+{
+  "schema": "ssot/api-hash@1",
+  "sha256": "2712b38c69417a977c21c7a237b0309eeff73a85e1a27a27874ce8c0701133dd",
+  "kind": "trial_text",
+  "case": "1RC191003776",
+  "docket": 252,
+  "file": "2022-01-06__Dkt252__1RC191003776__proposed-subpoena-witness-harold-hitchcock.ocr.txt",
+  "published_url": "https://the95xrecord.vercel.app/COURT_DOCKET/LISTINGS/1RC191003776/04_TEXT/ocr/2022-01-06__Dkt252__1RC191003776__proposed-subpoena-witness-harold-hitchcock.ocr.txt",
+  "lookup": "https://the95xrecord.vercel.app/api/v1/hash/2712b38c69417a977c21c7a237b0309eeff73a85e1a27a27874ce8c0701133dd.json",
+  "ssot": "https://the95xrecord.vercel.app/ssot.json"
+}

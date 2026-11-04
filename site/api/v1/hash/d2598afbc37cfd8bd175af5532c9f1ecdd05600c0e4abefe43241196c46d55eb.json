@@ -1,0 +1,11 @@
+{
+  "schema": "ssot/api-hash@1",
+  "sha256": "d2598afbc37cfd8bd175af5532c9f1ecdd05600c0e4abefe43241196c46d55eb",
+  "kind": "document_page",
+  "case": "1RC191003776",
+  "docket": 398,
+  "file": "2024-06-27__1RC191003776__DKT0398__ex1-p1-3-p16-18-p26-p216-219-rls-invoices-p220-306.pdf",
+  "published_url": "https://the95xrecord.vercel.app/docs/1a17c71c7f",
+  "lookup": "https://the95xrecord.vercel.app/api/v1/hash/d2598afbc37cfd8bd175af5532c9f1ecdd05600c0e4abefe43241196c46d55eb.json",
+  "ssot": "https://the95xrecord.vercel.app/ssot.json"
+}

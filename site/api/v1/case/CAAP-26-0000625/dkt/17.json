@@ -1,0 +1,26 @@
+{
+  "schema": "ssot/api-docket@1",
+  "case": "CAAP-26-0000625",
+  "docket": 17,
+  "code": "NC",
+  "title": "Notice of Entrng Case on Clndr - Notice of Entering Case on Calendar",
+  "filed": "28-OCT-2026",
+  "filed_iso": "2026-10-28",
+  "time": "10:18:00",
+  "grade": "OBS",
+  "for_counsel": false,
+  "evidence": {
+    "held_by_station": true,
+    "file": "APPEALS/CAAP-26-0000625/DOCKET/2026-10-28__CAAP-26-0000625__DKT__DKT0017-NC__notice-of-entering-case-on-calendar__SRC__h496bfdebc04a.pdf",
+    "sha256": "496bfdebc04a9e699d152ec7f7a46736e341a291d7734385dc829f7120b3659d",
+    "pages": 2,
+    "form": "src",
+    "gap": false
+  },
+  "flags": [],
+  "links": {
+    "appeal": "https://the95xrecord.vercel.app/appeal#dkt-17",
+    "appeal_json": "https://the95xrecord.vercel.app/api/v1/case/CAAP-26-0000625/dkt/17.json",
+    "ssot": "https://the95xrecord.vercel.app/ssot.json"
+  }
+}

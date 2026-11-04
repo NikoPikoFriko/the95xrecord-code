@@ -1,0 +1,11 @@
+{
+  "schema": "ssot/api-hash@1",
+  "sha256": "bc2e4a5dbc3886edcf0500d7b262ac4bc8e53daa99c0b0c36f4de89f39751375",
+  "kind": "document_page",
+  "case": "1RC191003776",
+  "docket": 174,
+  "file": "2021-03-04__1RC191003776__DKT0174__mtn-issuance-garnishee-summons-after-judgment-cpb.pdf",
+  "published_url": "https://the95xrecord.vercel.app/docs/e850fbc0e0",
+  "lookup": "https://the95xrecord.vercel.app/api/v1/hash/bc2e4a5dbc3886edcf0500d7b262ac4bc8e53daa99c0b0c36f4de89f39751375.json",
+  "ssot": "https://the95xrecord.vercel.app/ssot.json"
+}

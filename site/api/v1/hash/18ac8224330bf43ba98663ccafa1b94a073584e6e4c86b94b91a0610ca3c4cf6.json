@@ -1,0 +1,11 @@
+{
+  "schema": "ssot/api-hash@1",
+  "sha256": "18ac8224330bf43ba98663ccafa1b94a073584e6e4c86b94b91a0610ca3c4cf6",
+  "kind": "document_page",
+  "case": "1RC191003776",
+  "docket": 55,
+  "file": "2020-01-28__1RC191003776__DKT0055__nef-re-denied-def-3rd-pty-pltf-ex-parte-mtn-to-submit-supp.pdf",
+  "published_url": "https://the95xrecord.vercel.app/docs/efa47a1f83",
+  "lookup": "https://the95xrecord.vercel.app/api/v1/hash/18ac8224330bf43ba98663ccafa1b94a073584e6e4c86b94b91a0610ca3c4cf6.json",
+  "ssot": "https://the95xrecord.vercel.app/ssot.json"
+}

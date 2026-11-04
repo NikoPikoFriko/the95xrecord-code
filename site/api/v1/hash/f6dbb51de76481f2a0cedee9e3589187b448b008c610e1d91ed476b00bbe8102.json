@@ -1,0 +1,11 @@
+{
+  "schema": "ssot/api-hash@1",
+  "sha256": "f6dbb51de76481f2a0cedee9e3589187b448b008c610e1d91ed476b00bbe8102",
+  "kind": "document_page",
+  "case": "1RC191003776",
+  "docket": 383,
+  "file": "2023-04-04__Dkt383__1RC191003776__plaintiff-and-couterclaim-defendant-association-of.pdf",
+  "published_url": "https://the95xrecord.vercel.app/docs/7ae90a813f",
+  "lookup": "https://the95xrecord.vercel.app/api/v1/hash/f6dbb51de76481f2a0cedee9e3589187b448b008c610e1d91ed476b00bbe8102.json",
+  "ssot": "https://the95xrecord.vercel.app/ssot.json"
+}

@@ -1,0 +1,11 @@
+{
+  "schema": "ssot/api-hash@1",
+  "sha256": "8fd86780125663460de07a3675bb5a7f9f505a6333103b0ad5360606dc8b397d",
+  "kind": "document_page",
+  "case": "1RC191003776",
+  "docket": 8,
+  "file": "2026-09-15__CAAP-26-0000625__DKT0008__dkt0008-0009-caap-ntc-of-non-paymt.pdf",
+  "published_url": "https://the95xrecord.vercel.app/docs/eb813fe580",
+  "lookup": "https://the95xrecord.vercel.app/api/v1/hash/8fd86780125663460de07a3675bb5a7f9f505a6333103b0ad5360606dc8b397d.json",
+  "ssot": "https://the95xrecord.vercel.app/ssot.json"
+}

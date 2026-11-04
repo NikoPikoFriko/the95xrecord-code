@@ -1,0 +1,11 @@
+{
+  "schema": "ssot/api-hash@1",
+  "sha256": "7897051d8f6a7897675c363b1b35e30c59456abde7db7f47052c4a3e180f4fa0",
+  "kind": "appeal_pdf",
+  "case": "CAAP-26-0000625",
+  "docket": 13,
+  "file": "2026-10-09__CAAP-26-0000625__DKT__DKT0013-MOT__motion-leave-to-withdraw-counsel__SRC__h7897051d8f6a.pdf",
+  "published_url": null,
+  "lookup": "https://the95xrecord.vercel.app/api/v1/hash/7897051d8f6a7897675c363b1b35e30c59456abde7db7f47052c4a3e180f4fa0.json",
+  "ssot": "https://the95xrecord.vercel.app/ssot.json"
+}

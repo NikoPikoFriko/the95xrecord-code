@@ -1,0 +1,11 @@
+{
+  "schema": "ssot/api-hash@1",
+  "sha256": "403b531a29b8269e7d7efab80500453730fb1a58628baae02b5025b7cdd470f3",
+  "kind": "document_page",
+  "case": "1RC191003776",
+  "docket": 370,
+  "file": "2023-01-12__1RC191003776__DKT0370__aoao-pocket-memo-re-attorney-client-privilege.pdf",
+  "published_url": "https://the95xrecord.vercel.app/docs/ab01673608",
+  "lookup": "https://the95xrecord.vercel.app/api/v1/hash/403b531a29b8269e7d7efab80500453730fb1a58628baae02b5025b7cdd470f3.json",
+  "ssot": "https://the95xrecord.vercel.app/ssot.json"
+}

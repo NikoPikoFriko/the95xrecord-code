@@ -1,0 +1,11 @@
+{
+  "schema": "ssot/api-hash@1",
+  "sha256": "86003ecbf372429163a88f5dbaf49583c716817263f257238f5176acf8e3ac8c",
+  "kind": "document_page",
+  "case": "1RC191003776",
+  "docket": 97,
+  "file": "2020-07-09__Dkt97__1RC191003776__first-amended-answer-to-complaint-filed-may-31-201.pdf",
+  "published_url": "https://the95xrecord.vercel.app/docs/fc1d161efd",
+  "lookup": "https://the95xrecord.vercel.app/api/v1/hash/86003ecbf372429163a88f5dbaf49583c716817263f257238f5176acf8e3ac8c.json",
+  "ssot": "https://the95xrecord.vercel.app/ssot.json"
+}

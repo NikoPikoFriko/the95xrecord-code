@@ -1,0 +1,11 @@
+{
+  "schema": "ssot/api-hash@1",
+  "sha256": "374484c00a1a688e4cf36b2735b0906db4fdab6806d05c4c2065f41593a02624",
+  "kind": "document_page",
+  "case": "1RC191003776",
+  "docket": 222,
+  "file": "2021-08-16__1RC191003776__DKT0222__minutes-pretrial-conf-settlement-conf-1-30pm.pdf",
+  "published_url": "https://the95xrecord.vercel.app/docs/d2a24fad65",
+  "lookup": "https://the95xrecord.vercel.app/api/v1/hash/374484c00a1a688e4cf36b2735b0906db4fdab6806d05c4c2065f41593a02624.json",
+  "ssot": "https://the95xrecord.vercel.app/ssot.json"
+}

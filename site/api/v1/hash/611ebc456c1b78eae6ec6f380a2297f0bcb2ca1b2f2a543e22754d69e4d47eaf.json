@@ -1,0 +1,11 @@
+{
+  "schema": "ssot/api-hash@1",
+  "sha256": "611ebc456c1b78eae6ec6f380a2297f0bcb2ca1b2f2a543e22754d69e4d47eaf",
+  "kind": "document_page",
+  "case": "1RC191003776",
+  "docket": 73,
+  "file": "2020-04-15__Dkt73__1RC191003776__position-statement.pdf",
+  "published_url": "https://the95xrecord.vercel.app/docs/107ad0a1b3",
+  "lookup": "https://the95xrecord.vercel.app/api/v1/hash/611ebc456c1b78eae6ec6f380a2297f0bcb2ca1b2f2a543e22754d69e4d47eaf.json",
+  "ssot": "https://the95xrecord.vercel.app/ssot.json"
+}

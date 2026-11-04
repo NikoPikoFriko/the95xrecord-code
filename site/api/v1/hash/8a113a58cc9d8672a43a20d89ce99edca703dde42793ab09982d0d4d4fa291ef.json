@@ -1,0 +1,11 @@
+{
+  "schema": "ssot/api-hash@1",
+  "sha256": "8a113a58cc9d8672a43a20d89ce99edca703dde42793ab09982d0d4d4fa291ef",
+  "kind": "document_page",
+  "case": "1RC191003776",
+  "docket": 61,
+  "file": "2020-02-10__1RC191003776__DKT0061__nef-re-aoaos-stmt-of-no-position-to-3rd-pty-def-thyssenkrupps.pdf",
+  "published_url": "https://the95xrecord.vercel.app/docs/3ea3f23ec0",
+  "lookup": "https://the95xrecord.vercel.app/api/v1/hash/8a113a58cc9d8672a43a20d89ce99edca703dde42793ab09982d0d4d4fa291ef.json",
+  "ssot": "https://the95xrecord.vercel.app/ssot.json"
+}

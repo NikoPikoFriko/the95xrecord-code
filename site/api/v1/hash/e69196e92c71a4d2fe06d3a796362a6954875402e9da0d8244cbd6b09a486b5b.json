@@ -1,0 +1,11 @@
+{
+  "schema": "ssot/api-hash@1",
+  "sha256": "e69196e92c71a4d2fe06d3a796362a6954875402e9da0d8244cbd6b09a486b5b",
+  "kind": "document_page",
+  "case": "1RC191003776",
+  "docket": 396,
+  "file": "2024-01-31__1RC191003776__DKT0396__lawgic.pdf",
+  "published_url": "https://the95xrecord.vercel.app/docs/7cd0df27d9",
+  "lookup": "https://the95xrecord.vercel.app/api/v1/hash/e69196e92c71a4d2fe06d3a796362a6954875402e9da0d8244cbd6b09a486b5b.json",
+  "ssot": "https://the95xrecord.vercel.app/ssot.json"
+}

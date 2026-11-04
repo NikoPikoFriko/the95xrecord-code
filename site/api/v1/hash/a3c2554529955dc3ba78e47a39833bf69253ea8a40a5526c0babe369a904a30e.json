@@ -1,0 +1,11 @@
+{
+  "schema": "ssot/api-hash@1",
+  "sha256": "a3c2554529955dc3ba78e47a39833bf69253ea8a40a5526c0babe369a904a30e",
+  "kind": "document_page",
+  "case": "1RC191003776",
+  "docket": 262,
+  "file": "2022-01-12__1RC191003776__DKT0262__odepo-ntc.pdf",
+  "published_url": "https://the95xrecord.vercel.app/docs/2c4b476920",
+  "lookup": "https://the95xrecord.vercel.app/api/v1/hash/a3c2554529955dc3ba78e47a39833bf69253ea8a40a5526c0babe369a904a30e.json",
+  "ssot": "https://the95xrecord.vercel.app/ssot.json"
+}

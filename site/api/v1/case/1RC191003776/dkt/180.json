@@ -1,0 +1,33 @@
+{
+  "schema": "ssot/api-docket@1",
+  "case": "1RC191003776",
+  "docket": 180,
+  "code": "ORDG",
+  "filed": "08-MAR-2021",
+  "filed_iso": "2021-03-08",
+  "time": "09:20:31",
+  "ra_pdf_page": 59,
+  "grade": "PARTIAL",
+  "for_counsel": false,
+  "evidence": {
+    "renditions": [],
+    "text": {
+      "file": "COURT_DOCKET/LISTINGS/1RC191003776/04_TEXT/ocr/2021-03-08__Dkt180__1RC191003776__granted-migs-re-bank-of-hawaii-funds.ocr.txt",
+      "sha256": "ec0ba20a33c0b8158f5b5ccdd56f7c2c90bc19a79842dab5cb3d79fde4bf838c",
+      "location": "court_docket_listings_ocr",
+      "published_url": "https://the95xrecord.vercel.app/COURT_DOCKET/LISTINGS/1RC191003776/04_TEXT/ocr/2021-03-08__Dkt180__1RC191003776__granted-migs-re-bank-of-hawaii-funds.ocr.txt"
+    },
+    "held_by_station": true,
+    "gap": false
+  },
+  "pdf_conflict": null,
+  "flags": [
+    "text_only_no_pdf_of_document"
+  ],
+  "links": {
+    "register": "https://the95xrecord.vercel.app/register#dkt-180",
+    "register_json": "https://the95xrecord.vercel.app/api/v1/case/1RC191003776/dkt/180.json",
+    "ssot": "https://the95xrecord.vercel.app/ssot.json",
+    "crossref": "https://the95xrecord.vercel.app/data/crossref.json"
+  }
+}

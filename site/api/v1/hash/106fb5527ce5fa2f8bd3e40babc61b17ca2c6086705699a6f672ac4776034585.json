@@ -1,0 +1,11 @@
+{
+  "schema": "ssot/api-hash@1",
+  "sha256": "106fb5527ce5fa2f8bd3e40babc61b17ca2c6086705699a6f672ac4776034585",
+  "kind": "document_page",
+  "case": "1RC191003776",
+  "docket": 8,
+  "file": "2019-07-18__Dkt08__1RC191003776__amended-return-of-service-re-answer-and-countercla.pdf",
+  "published_url": "https://the95xrecord.vercel.app/docs/a6cfa1649c",
+  "lookup": "https://the95xrecord.vercel.app/api/v1/hash/106fb5527ce5fa2f8bd3e40babc61b17ca2c6086705699a6f672ac4776034585.json",
+  "ssot": "https://the95xrecord.vercel.app/ssot.json"
+}

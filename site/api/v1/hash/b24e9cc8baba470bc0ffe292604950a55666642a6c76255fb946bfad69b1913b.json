@@ -1,0 +1,11 @@
+{
+  "schema": "ssot/api-hash@1",
+  "sha256": "b24e9cc8baba470bc0ffe292604950a55666642a6c76255fb946bfad69b1913b",
+  "kind": "document_page",
+  "case": "1RC191003776",
+  "docket": 198,
+  "file": "2021-03-22__Dkt198__1RC191003776__notice-of-electronic-filing.pdf",
+  "published_url": "https://the95xrecord.vercel.app/docs/f7881aa7ee",
+  "lookup": "https://the95xrecord.vercel.app/api/v1/hash/b24e9cc8baba470bc0ffe292604950a55666642a6c76255fb946bfad69b1913b.json",
+  "ssot": "https://the95xrecord.vercel.app/ssot.json"
+}

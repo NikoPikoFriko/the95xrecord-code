@@ -1,0 +1,11 @@
+{
+  "schema": "ssot/api-hash@1",
+  "sha256": "c980134d4b403d0b2a9ba0fd6dbd76fa667342d74e6d18456136ce84c9a818aa",
+  "kind": "document_page",
+  "case": "1RC191003776",
+  "docket": 396,
+  "file": "2024-01-31__1RC191003776__DKT0396__findings-of-fact-conclusions-of-law-and-order.pdf",
+  "published_url": "https://the95xrecord.vercel.app/docs/6c45440ad7",
+  "lookup": "https://the95xrecord.vercel.app/api/v1/hash/c980134d4b403d0b2a9ba0fd6dbd76fa667342d74e6d18456136ce84c9a818aa.json",
+  "ssot": "https://the95xrecord.vercel.app/ssot.json"
+}

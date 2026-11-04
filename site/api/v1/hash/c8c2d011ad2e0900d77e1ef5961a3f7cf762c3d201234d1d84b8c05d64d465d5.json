@@ -1,0 +1,11 @@
+{
+  "schema": "ssot/api-hash@1",
+  "sha256": "c8c2d011ad2e0900d77e1ef5961a3f7cf762c3d201234d1d84b8c05d64d465d5",
+  "kind": "document_page",
+  "case": "1RC191003776",
+  "docket": 214,
+  "file": "2021-06-14__1RC191003776__DKT0214__aoao-1st-am-ntc-odepo-n-10-30am.pdf",
+  "published_url": "https://the95xrecord.vercel.app/docs/19061a3b34",
+  "lookup": "https://the95xrecord.vercel.app/api/v1/hash/c8c2d011ad2e0900d77e1ef5961a3f7cf762c3d201234d1d84b8c05d64d465d5.json",
+  "ssot": "https://the95xrecord.vercel.app/ssot.json"
+}

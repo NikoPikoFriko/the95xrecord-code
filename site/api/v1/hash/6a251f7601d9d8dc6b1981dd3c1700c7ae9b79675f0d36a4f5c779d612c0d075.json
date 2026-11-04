@@ -1,0 +1,11 @@
+{
+  "schema": "ssot/api-hash@1",
+  "sha256": "6a251f7601d9d8dc6b1981dd3c1700c7ae9b79675f0d36a4f5c779d612c0d075",
+  "kind": "trial_text",
+  "case": "1RC191003776",
+  "docket": 51,
+  "file": "2020-01-27__Dkt051__1RC191003776__proposed-order-granting-third-party-defendant-thyssenkrupp-e.ocr.txt",
+  "published_url": "https://the95xrecord.vercel.app/COURT_DOCKET/LISTINGS/1RC191003776/04_TEXT/ocr/2020-01-27__Dkt051__1RC191003776__proposed-order-granting-third-party-defendant-thyssenkrupp-e.ocr.txt",
+  "lookup": "https://the95xrecord.vercel.app/api/v1/hash/6a251f7601d9d8dc6b1981dd3c1700c7ae9b79675f0d36a4f5c779d612c0d075.json",
+  "ssot": "https://the95xrecord.vercel.app/ssot.json"
+}

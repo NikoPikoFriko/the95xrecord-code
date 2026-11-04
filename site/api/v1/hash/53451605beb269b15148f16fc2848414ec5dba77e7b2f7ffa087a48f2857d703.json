@@ -1,0 +1,11 @@
+{
+  "schema": "ssot/api-hash@1",
+  "sha256": "53451605beb269b15148f16fc2848414ec5dba77e7b2f7ffa087a48f2857d703",
+  "kind": "document_page",
+  "case": "1RC191003776",
+  "docket": 431,
+  "file": "2026-08-19__1RC191003776__DKT0431__defendant-counterclaim-plaintiff-nik.pdf",
+  "published_url": "https://the95xrecord.vercel.app/docs/ecc1d2d8a0",
+  "lookup": "https://the95xrecord.vercel.app/api/v1/hash/53451605beb269b15148f16fc2848414ec5dba77e7b2f7ffa087a48f2857d703.json",
+  "ssot": "https://the95xrecord.vercel.app/ssot.json"
+}

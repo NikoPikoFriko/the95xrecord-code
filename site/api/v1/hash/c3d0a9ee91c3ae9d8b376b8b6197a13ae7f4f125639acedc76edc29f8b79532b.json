@@ -1,0 +1,11 @@
+{
+  "schema": "ssot/api-hash@1",
+  "sha256": "c3d0a9ee91c3ae9d8b376b8b6197a13ae7f4f125639acedc76edc29f8b79532b",
+  "kind": "document_page",
+  "case": "1RC191003776",
+  "docket": 218,
+  "file": "2021-06-14__1RC191003776__DKT0218__minutes-pretrial-conference-order-further-ptc-1-30pm.pdf",
+  "published_url": "https://the95xrecord.vercel.app/docs/90db3f0e64",
+  "lookup": "https://the95xrecord.vercel.app/api/v1/hash/c3d0a9ee91c3ae9d8b376b8b6197a13ae7f4f125639acedc76edc29f8b79532b.json",
+  "ssot": "https://the95xrecord.vercel.app/ssot.json"
+}

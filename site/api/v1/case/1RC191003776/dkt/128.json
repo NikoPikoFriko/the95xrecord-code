@@ -1,0 +1,33 @@
+{
+  "schema": "ssot/api-docket@1",
+  "case": "1RC191003776",
+  "docket": 128,
+  "code": "PROP",
+  "filed": "17-NOV-2020",
+  "filed_iso": "2020-11-17",
+  "time": "12:03:40",
+  "ra_pdf_page": 46,
+  "grade": "PARTIAL",
+  "for_counsel": false,
+  "evidence": {
+    "renditions": [],
+    "text": {
+      "file": "COURT_DOCKET/LISTINGS/1RC191003776/04_TEXT/ocr/2020-11-17__Dkt128__1RC191003776__proposed-final-judgment-in-favor-of-thyssenkrupp-elevator-co.ocr.txt",
+      "sha256": "f26e49877ccf6fec3dc735d196d455a45844a1b07d12899314f43c072f06412c",
+      "location": "court_docket_listings_ocr",
+      "published_url": "https://the95xrecord.vercel.app/COURT_DOCKET/LISTINGS/1RC191003776/04_TEXT/ocr/2020-11-17__Dkt128__1RC191003776__proposed-final-judgment-in-favor-of-thyssenkrupp-elevator-co.ocr.txt"
+    },
+    "held_by_station": true,
+    "gap": false
+  },
+  "pdf_conflict": null,
+  "flags": [
+    "text_only_no_pdf_of_document"
+  ],
+  "links": {
+    "register": "https://the95xrecord.vercel.app/register#dkt-128",
+    "register_json": "https://the95xrecord.vercel.app/api/v1/case/1RC191003776/dkt/128.json",
+    "ssot": "https://the95xrecord.vercel.app/ssot.json",
+    "crossref": "https://the95xrecord.vercel.app/data/crossref.json"
+  }
+}

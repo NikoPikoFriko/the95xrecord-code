@@ -1,0 +1,11 @@
+{
+  "schema": "ssot/api-hash@1",
+  "sha256": "a539c59671552ffebd6bb743152b08d0bf38f5a5ec3d1aba275b2b6a60ad8320",
+  "kind": "document_page",
+  "case": "1RC191003776",
+  "docket": 180,
+  "file": "2021-03-08__Dkt180__1RC191003776__granted-migs-re-bank-of-hawaii-funds.pdf",
+  "published_url": "https://the95xrecord.vercel.app/docs/d75916889b",
+  "lookup": "https://the95xrecord.vercel.app/api/v1/hash/a539c59671552ffebd6bb743152b08d0bf38f5a5ec3d1aba275b2b6a60ad8320.json",
+  "ssot": "https://the95xrecord.vercel.app/ssot.json"
+}

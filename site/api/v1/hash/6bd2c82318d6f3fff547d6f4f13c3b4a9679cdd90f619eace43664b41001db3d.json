@@ -1,0 +1,11 @@
+{
+  "schema": "ssot/api-hash@1",
+  "sha256": "6bd2c82318d6f3fff547d6f4f13c3b4a9679cdd90f619eace43664b41001db3d",
+  "kind": "trial_text",
+  "case": "1RC191003776",
+  "docket": 297,
+  "file": "2022-02-23__Dkt297__1RC191003776__request-for-transcript-of-02-22-2022-hearing-on-aoao-s-motio.ocr.txt",
+  "published_url": "https://the95xrecord.vercel.app/COURT_DOCKET/LISTINGS/1RC191003776/04_TEXT/ocr/2022-02-23__Dkt297__1RC191003776__request-for-transcript-of-02-22-2022-hearing-on-aoao-s-motio.ocr.txt",
+  "lookup": "https://the95xrecord.vercel.app/api/v1/hash/6bd2c82318d6f3fff547d6f4f13c3b4a9679cdd90f619eace43664b41001db3d.json",
+  "ssot": "https://the95xrecord.vercel.app/ssot.json"
+}

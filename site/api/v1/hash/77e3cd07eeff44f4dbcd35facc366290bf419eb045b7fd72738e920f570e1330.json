@@ -1,0 +1,11 @@
+{
+  "schema": "ssot/api-hash@1",
+  "sha256": "77e3cd07eeff44f4dbcd35facc366290bf419eb045b7fd72738e920f570e1330",
+  "kind": "trial_text",
+  "case": "1RC191003776",
+  "docket": 56,
+  "file": "2020-02-03__Dkt056__1RC191003776__order-granting-third-party-defendant-thyssenkrup-elevator-co.ocr.txt",
+  "published_url": "https://the95xrecord.vercel.app/COURT_DOCKET/LISTINGS/1RC191003776/04_TEXT/ocr/2020-02-03__Dkt056__1RC191003776__order-granting-third-party-defendant-thyssenkrup-elevator-co.ocr.txt",
+  "lookup": "https://the95xrecord.vercel.app/api/v1/hash/77e3cd07eeff44f4dbcd35facc366290bf419eb045b7fd72738e920f570e1330.json",
+  "ssot": "https://the95xrecord.vercel.app/ssot.json"
+}

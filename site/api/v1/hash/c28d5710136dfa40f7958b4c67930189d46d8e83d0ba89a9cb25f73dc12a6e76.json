@@ -1,0 +1,11 @@
+{
+  "schema": "ssot/api-hash@1",
+  "sha256": "c28d5710136dfa40f7958b4c67930189d46d8e83d0ba89a9cb25f73dc12a6e76",
+  "kind": "trial_text",
+  "case": "1RC191003776",
+  "docket": 303,
+  "file": "2022-04-05__Dkt303__1RC191003776__granted-in-part-and-denied-in-part-counterclaim-defendant-as.ocr.txt",
+  "published_url": "https://the95xrecord.vercel.app/COURT_DOCKET/LISTINGS/1RC191003776/04_TEXT/ocr/2022-04-05__Dkt303__1RC191003776__granted-in-part-and-denied-in-part-counterclaim-defendant-as.ocr.txt",
+  "lookup": "https://the95xrecord.vercel.app/api/v1/hash/c28d5710136dfa40f7958b4c67930189d46d8e83d0ba89a9cb25f73dc12a6e76.json",
+  "ssot": "https://the95xrecord.vercel.app/ssot.json"
+}

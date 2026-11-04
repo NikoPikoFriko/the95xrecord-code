@@ -1,0 +1,11 @@
+{
+  "schema": "ssot/api-hash@1",
+  "sha256": "72da91bf664ee5d3a66d320c71d4269203e2de1a27fdb20f13ebbb440eb3d7bd",
+  "kind": "document_page",
+  "case": "1RC191003776",
+  "docket": 204,
+  "file": "2021-04-12__1RC191003776__DKT0204__release-of-garnishee-h72da91.pdf",
+  "published_url": "https://the95xrecord.vercel.app/docs/0cfbe89212",
+  "lookup": "https://the95xrecord.vercel.app/api/v1/hash/72da91bf664ee5d3a66d320c71d4269203e2de1a27fdb20f13ebbb440eb3d7bd.json",
+  "ssot": "https://the95xrecord.vercel.app/ssot.json"
+}

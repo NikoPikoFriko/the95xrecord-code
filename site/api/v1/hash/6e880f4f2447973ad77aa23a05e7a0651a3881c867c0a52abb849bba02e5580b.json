@@ -1,0 +1,11 @@
+{
+  "schema": "ssot/api-hash@1",
+  "sha256": "6e880f4f2447973ad77aa23a05e7a0651a3881c867c0a52abb849bba02e5580b",
+  "kind": "trial_text",
+  "case": "1RC191003776",
+  "docket": 188,
+  "file": "2021-03-17__Dkt188__1RC191003776__return-of-service-acknowledgment-of-service-bank-of-hawaii.ocr.txt",
+  "published_url": "https://the95xrecord.vercel.app/COURT_DOCKET/LISTINGS/1RC191003776/04_TEXT/ocr/2021-03-17__Dkt188__1RC191003776__return-of-service-acknowledgment-of-service-bank-of-hawaii.ocr.txt",
+  "lookup": "https://the95xrecord.vercel.app/api/v1/hash/6e880f4f2447973ad77aa23a05e7a0651a3881c867c0a52abb849bba02e5580b.json",
+  "ssot": "https://the95xrecord.vercel.app/ssot.json"
+}

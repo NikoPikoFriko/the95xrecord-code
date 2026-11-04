@@ -1,0 +1,40 @@
+{
+  "schema": "ssot/api-docket@1",
+  "case": "1RC191003776",
+  "docket": 244,
+  "code": "ORDG",
+  "filed": "29-DEC-2021",
+  "filed_iso": "2021-12-29",
+  "time": "10:56:26",
+  "ra_pdf_page": 84,
+  "grade": "PARTIAL",
+  "for_counsel": false,
+  "evidence": {
+    "renditions": [
+      {
+        "file": "07_AGENT_WORK_REVIEW/FROM_AI_WORKSPACES_2026-10-23/CURSOR/.cursor/worktrees/AOAO_Marine_Surf_1RC191003776/ddym/99_INBOX/infranodus_judicial_audit_2026-10-03/judicial-audit-2026-10-03/evidence/docket/Dkt244.pdf",
+        "sha256": "fc277661b59f28486d57a9558fa13841bd08c5554cdcb0dfc991bd218f120f0d",
+        "location": "agent_worktree",
+        "published_url": null
+      }
+    ],
+    "text": {
+      "file": "COURT_DOCKET/LISTINGS/1RC191003776/04_TEXT/ocr/2021-12-29__Dkt244__1RC191003776__granted-order-granting-ex-parte-motion-to-shorten-time-to-he.ocr.txt",
+      "sha256": "af051617e2f27092763f2b03e6e89dbace32c916788eed919ad36f686618938c",
+      "location": "court_docket_listings_ocr",
+      "published_url": "https://the95xrecord.vercel.app/COURT_DOCKET/LISTINGS/1RC191003776/04_TEXT/ocr/2021-12-29__Dkt244__1RC191003776__granted-order-granting-ex-parte-motion-to-shorten-time-to-he.ocr.txt"
+    },
+    "held_by_station": true,
+    "gap": false
+  },
+  "pdf_conflict": null,
+  "flags": [
+    "pdf_outside_canonical_library"
+  ],
+  "links": {
+    "register": "https://the95xrecord.vercel.app/register#dkt-244",
+    "register_json": "https://the95xrecord.vercel.app/api/v1/case/1RC191003776/dkt/244.json",
+    "ssot": "https://the95xrecord.vercel.app/ssot.json",
+    "crossref": "https://the95xrecord.vercel.app/data/crossref.json"
+  }
+}

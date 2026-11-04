@@ -1,0 +1,11 @@
+{
+  "schema": "ssot/api-hash@1",
+  "sha256": "996804a6c1ab6d4e03ca137f0d5d48662c74b45c41082fad4dd4a10dcd1bccf4",
+  "kind": "document_page",
+  "case": "1RC191003776",
+  "docket": 165,
+  "file": "2021-02-18__1RC191003776__DKT0165__amnocd-1-35pm.pdf",
+  "published_url": "https://the95xrecord.vercel.app/docs/8d6d6a2827",
+  "lookup": "https://the95xrecord.vercel.app/api/v1/hash/996804a6c1ab6d4e03ca137f0d5d48662c74b45c41082fad4dd4a10dcd1bccf4.json",
+  "ssot": "https://the95xrecord.vercel.app/ssot.json"
+}

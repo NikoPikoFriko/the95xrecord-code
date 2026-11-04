@@ -1,0 +1,33 @@
+{
+  "schema": "ssot/api-docket@1",
+  "case": "1RC191003776",
+  "docket": 152,
+  "code": "EMOE",
+  "filed": "22-JAN-2021",
+  "filed_iso": "2021-01-22",
+  "time": "14:53:02",
+  "ra_pdf_page": 52,
+  "grade": "PARTIAL",
+  "for_counsel": false,
+  "evidence": {
+    "renditions": [],
+    "text": {
+      "file": "COURT_DOCKET/LISTINGS/1RC191003776/04_TEXT/ocr/2021-01-22__Dkt152__1RC191003776__third-party-defendant-thyssenkrupp-elevator-corporation-s-ex.ocr.txt",
+      "sha256": "9860e7e3131761494f594439afd4ebebba4e8e618dc914a25a581659810a12b4",
+      "location": "court_docket_listings_ocr",
+      "published_url": "https://the95xrecord.vercel.app/COURT_DOCKET/LISTINGS/1RC191003776/04_TEXT/ocr/2021-01-22__Dkt152__1RC191003776__third-party-defendant-thyssenkrupp-elevator-corporation-s-ex.ocr.txt"
+    },
+    "held_by_station": true,
+    "gap": false
+  },
+  "pdf_conflict": null,
+  "flags": [
+    "text_only_no_pdf_of_document"
+  ],
+  "links": {
+    "register": "https://the95xrecord.vercel.app/register#dkt-152",
+    "register_json": "https://the95xrecord.vercel.app/api/v1/case/1RC191003776/dkt/152.json",
+    "ssot": "https://the95xrecord.vercel.app/ssot.json",
+    "crossref": "https://the95xrecord.vercel.app/data/crossref.json"
+  }
+}

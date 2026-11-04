@@ -1,0 +1,11 @@
+{
+  "schema": "ssot/api-hash@1",
+  "sha256": "28d60230a3859420de82803d4f893654214e4f74a91cdba103b2c3a7e8d74d2b",
+  "kind": "document_page",
+  "case": "1RC191003776",
+  "docket": 2,
+  "file": "2026-09-04__CAAP-26-0000625__DKT0002__exhibit-dkt396-fof.pdf",
+  "published_url": "https://the95xrecord.vercel.app/docs/a8c6834547",
+  "lookup": "https://the95xrecord.vercel.app/api/v1/hash/28d60230a3859420de82803d4f893654214e4f74a91cdba103b2c3a7e8d74d2b.json",
+  "ssot": "https://the95xrecord.vercel.app/ssot.json"
+}

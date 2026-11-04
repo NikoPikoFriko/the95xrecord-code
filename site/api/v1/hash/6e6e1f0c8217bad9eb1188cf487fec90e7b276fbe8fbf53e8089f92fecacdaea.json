@@ -1,0 +1,11 @@
+{
+  "schema": "ssot/api-hash@1",
+  "sha256": "6e6e1f0c8217bad9eb1188cf487fec90e7b276fbe8fbf53e8089f92fecacdaea",
+  "kind": "trial_pdf",
+  "case": "1RC191003776",
+  "docket": 435,
+  "file": "Dkt435_StayStricken_4162667777.pdf",
+  "published_url": null,
+  "lookup": "https://the95xrecord.vercel.app/api/v1/hash/6e6e1f0c8217bad9eb1188cf487fec90e7b276fbe8fbf53e8089f92fecacdaea.json",
+  "ssot": "https://the95xrecord.vercel.app/ssot.json"
+}

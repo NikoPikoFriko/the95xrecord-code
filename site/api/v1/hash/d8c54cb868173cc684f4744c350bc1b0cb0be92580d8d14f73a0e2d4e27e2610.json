@@ -1,0 +1,11 @@
+{
+  "schema": "ssot/api-hash@1",
+  "sha256": "d8c54cb868173cc684f4744c350bc1b0cb0be92580d8d14f73a0e2d4e27e2610",
+  "kind": "trial_text",
+  "case": "1RC191003776",
+  "docket": 101,
+  "file": "2020-07-09__Dkt101__1RC191003776__notice-of-submission-of-1-proposed-order-granting-third-part.ocr.txt",
+  "published_url": "https://the95xrecord.vercel.app/COURT_DOCKET/LISTINGS/1RC191003776/04_TEXT/ocr/2020-07-09__Dkt101__1RC191003776__notice-of-submission-of-1-proposed-order-granting-third-part.ocr.txt",
+  "lookup": "https://the95xrecord.vercel.app/api/v1/hash/d8c54cb868173cc684f4744c350bc1b0cb0be92580d8d14f73a0e2d4e27e2610.json",
+  "ssot": "https://the95xrecord.vercel.app/ssot.json"
+}

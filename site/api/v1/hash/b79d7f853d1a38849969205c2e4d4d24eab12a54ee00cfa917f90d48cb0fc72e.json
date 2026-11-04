@@ -1,0 +1,11 @@
+{
+  "schema": "ssot/api-hash@1",
+  "sha256": "b79d7f853d1a38849969205c2e4d4d24eab12a54ee00cfa917f90d48cb0fc72e",
+  "kind": "document_page",
+  "case": "1RC191003776",
+  "docket": null,
+  "file": "2018-12-10__1RC191003776__NONE__jw-elevator-ltr.pdf",
+  "published_url": "https://the95xrecord.vercel.app/docs/6394e4f008",
+  "lookup": "https://the95xrecord.vercel.app/api/v1/hash/b79d7f853d1a38849969205c2e4d4d24eab12a54ee00cfa917f90d48cb0fc72e.json",
+  "ssot": "https://the95xrecord.vercel.app/ssot.json"
+}

@@ -1,0 +1,11 @@
+{
+  "schema": "ssot/api-hash@1",
+  "sha256": "22ca89aaaedac47f5e289141f19fc789bfc840a08692a12c32c769c5124d9447",
+  "kind": "document_page",
+  "case": "1RC191003776",
+  "docket": 188,
+  "file": "2021-03-17__Dkt188__1RC191003776__return-of-service-acknowledgment-of-service-bank-o.pdf",
+  "published_url": "https://the95xrecord.vercel.app/docs/64c6241422",
+  "lookup": "https://the95xrecord.vercel.app/api/v1/hash/22ca89aaaedac47f5e289141f19fc789bfc840a08692a12c32c769c5124d9447.json",
+  "ssot": "https://the95xrecord.vercel.app/ssot.json"
+}

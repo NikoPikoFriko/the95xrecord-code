@@ -1,0 +1,11 @@
+{
+  "schema": "ssot/api-hash@1",
+  "sha256": "24c04e0fe8b76504ad815e6ca26f4aa6ed91a32e1f6ff668036c9751c1aa251f",
+  "kind": "document_page",
+  "case": "1RC191003776",
+  "docket": 189,
+  "file": "2021-03-17__Dkt189__1RC191003776__return-of-service-acknowledgment-of-service-centra.pdf",
+  "published_url": "https://the95xrecord.vercel.app/docs/f202b6394b",
+  "lookup": "https://the95xrecord.vercel.app/api/v1/hash/24c04e0fe8b76504ad815e6ca26f4aa6ed91a32e1f6ff668036c9751c1aa251f.json",
+  "ssot": "https://the95xrecord.vercel.app/ssot.json"
+}

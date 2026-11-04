@@ -1,0 +1,40 @@
+{
+  "schema": "ssot/api-docket@1",
+  "case": "1RC191003776",
+  "docket": 132,
+  "code": "ORDG",
+  "filed": "17-NOV-2020",
+  "filed_iso": "2020-11-17",
+  "time": "15:56:53",
+  "ra_pdf_page": 47,
+  "grade": "PARTIAL",
+  "for_counsel": false,
+  "evidence": {
+    "renditions": [
+      {
+        "file": "07_AGENT_WORK_REVIEW/FROM_AI_WORKSPACES_2026-10-23/CURSOR/.cursor/worktrees/AOAO_Marine_Surf_1RC191003776/ddym/99_INBOX/infranodus_judicial_audit_2026-10-03/judicial-audit-2026-10-03/evidence/docket/Dkt132.pdf",
+        "sha256": "dbf3d15a8d8426debb0f866f9195f26385278f936dbdd9e00e82490371d211e1",
+        "location": "agent_worktree",
+        "published_url": null
+      }
+    ],
+    "text": {
+      "file": "COURT_DOCKET/LISTINGS/1RC191003776/04_TEXT/ocr/2020-11-17__Dkt132__1RC191003776__order-granting-third-party-defendant-thyssenkrupp-elevator-c.ocr.txt",
+      "sha256": "8d2de9ae1b5efe531941620a095aac177269889fd53911a92d9185ac12001cad",
+      "location": "court_docket_listings_ocr",
+      "published_url": "https://the95xrecord.vercel.app/COURT_DOCKET/LISTINGS/1RC191003776/04_TEXT/ocr/2020-11-17__Dkt132__1RC191003776__order-granting-third-party-defendant-thyssenkrupp-elevator-c.ocr.txt"
+    },
+    "held_by_station": true,
+    "gap": false
+  },
+  "pdf_conflict": null,
+  "flags": [
+    "pdf_outside_canonical_library"
+  ],
+  "links": {
+    "register": "https://the95xrecord.vercel.app/register#dkt-132",
+    "register_json": "https://the95xrecord.vercel.app/api/v1/case/1RC191003776/dkt/132.json",
+    "ssot": "https://the95xrecord.vercel.app/ssot.json",
+    "crossref": "https://the95xrecord.vercel.app/data/crossref.json"
+  }
+}

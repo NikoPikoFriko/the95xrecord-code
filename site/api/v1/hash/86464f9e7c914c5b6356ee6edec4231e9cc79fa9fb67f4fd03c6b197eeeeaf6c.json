@@ -1,0 +1,11 @@
+{
+  "schema": "ssot/api-hash@1",
+  "sha256": "86464f9e7c914c5b6356ee6edec4231e9cc79fa9fb67f4fd03c6b197eeeeaf6c",
+  "kind": "document_page",
+  "case": "1RC191003776",
+  "docket": 20,
+  "file": "2020-01-06__1RC191003776__DKT0020__nef-re-thyssenkrupp-elevator-corps-msj-on-the-3rd-pty-cmplt.pdf",
+  "published_url": "https://the95xrecord.vercel.app/docs/f5c72ee08d",
+  "lookup": "https://the95xrecord.vercel.app/api/v1/hash/86464f9e7c914c5b6356ee6edec4231e9cc79fa9fb67f4fd03c6b197eeeeaf6c.json",
+  "ssot": "https://the95xrecord.vercel.app/ssot.json"
+}

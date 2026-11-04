@@ -1,0 +1,11 @@
+{
+  "schema": "ssot/api-hash@1",
+  "sha256": "9bd3ac3f8c00702ae85e61c92e6831ccbfc6bff9f5d42a60db7a5edbb3398ba3",
+  "kind": "trial_text",
+  "case": "1RC191003776",
+  "docket": 365,
+  "file": "2023-01-12__Dkt365__1RC191003776__defendant-and-counterclaim-thirdparty-plaintiff-nikodem-tria.ocr.txt",
+  "published_url": "https://the95xrecord.vercel.app/COURT_DOCKET/LISTINGS/1RC191003776/04_TEXT/ocr/2023-01-12__Dkt365__1RC191003776__defendant-and-counterclaim-thirdparty-plaintiff-nikodem-tria.ocr.txt",
+  "lookup": "https://the95xrecord.vercel.app/api/v1/hash/9bd3ac3f8c00702ae85e61c92e6831ccbfc6bff9f5d42a60db7a5edbb3398ba3.json",
+  "ssot": "https://the95xrecord.vercel.app/ssot.json"
+}

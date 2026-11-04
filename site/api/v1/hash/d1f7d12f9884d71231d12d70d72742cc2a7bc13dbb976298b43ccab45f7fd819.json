@@ -1,0 +1,11 @@
+{
+  "schema": "ssot/api-hash@1",
+  "sha256": "d1f7d12f9884d71231d12d70d72742cc2a7bc13dbb976298b43ccab45f7fd819",
+  "kind": "trial_text",
+  "case": "1RC191003776",
+  "docket": 156,
+  "file": "2021-01-26__Dkt156__1RC191003776__granted-ex-parte-motion-for-examination-of-judgment-debtor-s.ocr.txt",
+  "published_url": "https://the95xrecord.vercel.app/COURT_DOCKET/LISTINGS/1RC191003776/04_TEXT/ocr/2021-01-26__Dkt156__1RC191003776__granted-ex-parte-motion-for-examination-of-judgment-debtor-s.ocr.txt",
+  "lookup": "https://the95xrecord.vercel.app/api/v1/hash/d1f7d12f9884d71231d12d70d72742cc2a7bc13dbb976298b43ccab45f7fd819.json",
+  "ssot": "https://the95xrecord.vercel.app/ssot.json"
+}

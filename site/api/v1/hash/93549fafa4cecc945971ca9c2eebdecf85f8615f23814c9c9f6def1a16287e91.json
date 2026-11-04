@@ -1,0 +1,11 @@
+{
+  "schema": "ssot/api-hash@1",
+  "sha256": "93549fafa4cecc945971ca9c2eebdecf85f8615f23814c9c9f6def1a16287e91",
+  "kind": "document_page",
+  "case": "1RC191003776",
+  "docket": 234,
+  "file": "2021-12-17__Dkt234__1RC191003776__amended-certificate-of-service.pdf",
+  "published_url": "https://the95xrecord.vercel.app/docs/849b0251b6",
+  "lookup": "https://the95xrecord.vercel.app/api/v1/hash/93549fafa4cecc945971ca9c2eebdecf85f8615f23814c9c9f6def1a16287e91.json",
+  "ssot": "https://the95xrecord.vercel.app/ssot.json"
+}

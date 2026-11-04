@@ -1,0 +1,11 @@
+{
+  "schema": "ssot/api-hash@1",
+  "sha256": "6fa39840e49c6b4a3dd056a378a5d9748516cadbfbb85caf9f866aea26683f6f",
+  "kind": "document_page",
+  "case": "1RC191003776",
+  "docket": 279,
+  "file": "2022-02-10__Dkt279__1RC191003776__notice-of-remote-hearing.pdf",
+  "published_url": "https://the95xrecord.vercel.app/docs/bce2d1c27c",
+  "lookup": "https://the95xrecord.vercel.app/api/v1/hash/6fa39840e49c6b4a3dd056a378a5d9748516cadbfbb85caf9f866aea26683f6f.json",
+  "ssot": "https://the95xrecord.vercel.app/ssot.json"
+}

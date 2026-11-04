@@ -1,0 +1,11 @@
+{
+  "schema": "ssot/api-hash@1",
+  "sha256": "aa43e941f9c001b5b9bd6652396f0b8976314c23d9b1c50453327ff56243e51e",
+  "kind": "document_page",
+  "case": "1RC191003776",
+  "docket": 81,
+  "file": "2020-06-03__1RC191003776__DKT0081__nef-am-nocd-re-pt-conf-jul13-930-haa43e9.pdf",
+  "published_url": "https://the95xrecord.vercel.app/docs/2ea3fc1c19",
+  "lookup": "https://the95xrecord.vercel.app/api/v1/hash/aa43e941f9c001b5b9bd6652396f0b8976314c23d9b1c50453327ff56243e51e.json",
+  "ssot": "https://the95xrecord.vercel.app/ssot.json"
+}

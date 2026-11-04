@@ -1,0 +1,11 @@
+{
+  "schema": "ssot/api-hash@1",
+  "sha256": "d2c4efa5bded1fd650d7853c904dd1c64f051c987f77e2fcf081280ecb0399c9",
+  "kind": "document_page",
+  "case": "1RC191003776",
+  "docket": 88,
+  "file": "2020-06-15__1RC191003776__DKT0088__to-ccdef-aoaos-opp-to-defs-mtn-for-leave-to-amend-and-to-errata.pdf",
+  "published_url": "https://the95xrecord.vercel.app/docs/565f37833a",
+  "lookup": "https://the95xrecord.vercel.app/api/v1/hash/d2c4efa5bded1fd650d7853c904dd1c64f051c987f77e2fcf081280ecb0399c9.json",
+  "ssot": "https://the95xrecord.vercel.app/ssot.json"
+}

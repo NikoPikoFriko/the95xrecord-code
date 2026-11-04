@@ -1,0 +1,11 @@
+{
+  "schema": "ssot/api-hash@1",
+  "sha256": "0bbe2dc8afdf1d70ebbb922b182fbc984fd90edb4fcc2c84046089ecdf3450ca",
+  "kind": "document_page",
+  "case": "1RC191003776",
+  "docket": 49,
+  "file": "2020-01-20__1RC191003776__DKT0049__nef-re-def-and-3rd-pty-pltfs-ex-parte-mtn-to-submit-a-supp.pdf",
+  "published_url": "https://the95xrecord.vercel.app/docs/5bd60607a4",
+  "lookup": "https://the95xrecord.vercel.app/api/v1/hash/0bbe2dc8afdf1d70ebbb922b182fbc984fd90edb4fcc2c84046089ecdf3450ca.json",
+  "ssot": "https://the95xrecord.vercel.app/ssot.json"
+}

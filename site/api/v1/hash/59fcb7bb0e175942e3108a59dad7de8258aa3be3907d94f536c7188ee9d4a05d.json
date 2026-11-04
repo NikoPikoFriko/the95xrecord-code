@@ -1,0 +1,11 @@
+{
+  "schema": "ssot/api-hash@1",
+  "sha256": "59fcb7bb0e175942e3108a59dad7de8258aa3be3907d94f536c7188ee9d4a05d",
+  "kind": "document_page",
+  "case": "1RC191003776",
+  "docket": 386,
+  "file": "2023-04-05__Dkt386__1RC191003776__exhibit-deft-s-exhibit-d-cc.pdf",
+  "published_url": "https://the95xrecord.vercel.app/docs/007daa0aa5",
+  "lookup": "https://the95xrecord.vercel.app/api/v1/hash/59fcb7bb0e175942e3108a59dad7de8258aa3be3907d94f536c7188ee9d4a05d.json",
+  "ssot": "https://the95xrecord.vercel.app/ssot.json"
+}

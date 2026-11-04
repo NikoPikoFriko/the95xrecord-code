@@ -1,0 +1,11 @@
+{
+  "schema": "ssot/api-hash@1",
+  "sha256": "ed14db8cde08a9d97690479e7e22c3011b689519967d1d36dada24fe6c9536e6",
+  "kind": "document_page",
+  "case": "1RC191003776",
+  "docket": 89,
+  "file": "2020-06-15__1RC191003776__DKT0089__nef-re-errata-to-ccdef-aoaos-opp-to-defs-mtn-for-leave-to-amend.pdf",
+  "published_url": "https://the95xrecord.vercel.app/docs/4dc7ac61d2",
+  "lookup": "https://the95xrecord.vercel.app/api/v1/hash/ed14db8cde08a9d97690479e7e22c3011b689519967d1d36dada24fe6c9536e6.json",
+  "ssot": "https://the95xrecord.vercel.app/ssot.json"
+}

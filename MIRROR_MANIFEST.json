@@ -1,0 +1,12 @@
+{
+ "schema": "public-mirror/v1",
+ "generated_at": "2026-11-04T09:10:28-1000",
+ "source_tree": "C:\\Users\\NIKO\\TEMPLE\\site",
+ "source_commit": "df11eaade5a3931177611c45b12393ee34072f5e",
+ "source_dirty": false,
+ "deployment": "dpl_2qH188i4t2qMoXhRFW6bFb4dwhaK",
+ "live_url": "https://the95xrecord.vercel.app",
+ "note": "Derived snapshot of the deployed site source. The evidence repository (the95xrecord-evidence) is the publication authority for captured PDFs.",
+ "files_copied": 2506,
+ "files_removed": 0
+}

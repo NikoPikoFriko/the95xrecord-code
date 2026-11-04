@@ -1,0 +1,40 @@
+{
+  "schema": "ssot/api-docket@1",
+  "case": "1RC191003776",
+  "docket": 478,
+  "code": "SCON",
+  "filed": "24-SEP-2026",
+  "filed_iso": "2026-09-24",
+  "time": "16:01:29",
+  "ra_pdf_page": 188,
+  "grade": "PARTIAL",
+  "for_counsel": false,
+  "evidence": {
+    "renditions": [
+      {
+        "file": "07_AGENT_WORK_REVIEW/FROM_AI_WORKSPACES_2026-10-23/CURSOR/.cursor/worktrees/AOAO_Marine_Surf_1RC191003776/ddym/99_INBOX/infranodus_judicial_audit_2026-10-03/judicial-audit-2026-10-03/evidence/docket/Dkt478.pdf",
+        "sha256": "a9c267f03e7efd9b044c5117b4938b3ea094316adfb8d3d3e3959aa50d49c70e",
+        "location": "agent_worktree",
+        "published_url": null
+      }
+    ],
+    "text": {
+      "file": "06_EXTRACT/MAGIC_06_MATERIALS/DESK MAGIC FILES/2026-09-24__1RC191003776__DKT__DKT0478__2026-09-24-1rc191003776-dkt-dkt0478__OCR__h51b9252f6b03.txt",
+      "sha256": "51b9252f6b03d6b114c91c7d82338a438593275c497fc2c964b87e716719ac80",
+      "location": "extract_materials_text",
+      "published_url": "https://the95xrecord.vercel.app/06_EXTRACT/MAGIC_06_MATERIALS/DESK MAGIC FILES/2026-09-24__1RC191003776__DKT__DKT0478__2026-09-24-1rc191003776-dkt-dkt0478__OCR__h51b9252f6b03.txt"
+    },
+    "held_by_station": true,
+    "gap": false
+  },
+  "pdf_conflict": null,
+  "flags": [
+    "pdf_outside_canonical_library"
+  ],
+  "links": {
+    "register": "https://the95xrecord.vercel.app/register#dkt-478",
+    "register_json": "https://the95xrecord.vercel.app/api/v1/case/1RC191003776/dkt/478.json",
+    "ssot": "https://the95xrecord.vercel.app/ssot.json",
+    "crossref": "https://the95xrecord.vercel.app/data/crossref.json"
+  }
+}

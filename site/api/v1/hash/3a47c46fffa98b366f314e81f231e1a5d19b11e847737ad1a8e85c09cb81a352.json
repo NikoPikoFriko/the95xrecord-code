@@ -1,0 +1,11 @@
+{
+  "schema": "ssot/api-hash@1",
+  "sha256": "3a47c46fffa98b366f314e81f231e1a5d19b11e847737ad1a8e85c09cb81a352",
+  "kind": "document_page",
+  "case": "1RC191003776",
+  "docket": 176,
+  "file": "2021-03-04__1RC191003776__DKT0176__mtn-issuance-garnishee-summons-after-judgment-fhb.pdf",
+  "published_url": "https://the95xrecord.vercel.app/docs/abdbeadc6d",
+  "lookup": "https://the95xrecord.vercel.app/api/v1/hash/3a47c46fffa98b366f314e81f231e1a5d19b11e847737ad1a8e85c09cb81a352.json",
+  "ssot": "https://the95xrecord.vercel.app/ssot.json"
+}

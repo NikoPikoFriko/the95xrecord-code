@@ -1,0 +1,33 @@
+{
+  "schema": "ssot/api-docket@1",
+  "case": "1RC191003776",
+  "docket": 492,
+  "code": "DOC",
+  "filed": "21-OCT-2026",
+  "filed_iso": "2026-10-21",
+  "time": "10:49:56",
+  "ra_pdf_page": 194,
+  "grade": "OBS",
+  "for_counsel": false,
+  "evidence": {
+    "renditions": [
+      {
+        "file": "COURT_DOCKET/CERTIFIED/2026-10-21__1RC191003776__DKT__DKT0492-DOC__order-denying-extend-time-dkt442-stricken__CERT__he709cc96578b.pdf",
+        "sha256": "e709cc96578bed4cdb522c0972dc196936723f3f5697be92dcbdba26b307028a",
+        "location": "canonical_library",
+        "published_url": null
+      }
+    ],
+    "text": null,
+    "held_by_station": true,
+    "gap": false
+  },
+  "pdf_conflict": null,
+  "flags": [],
+  "links": {
+    "register": "https://the95xrecord.vercel.app/register#dkt-492",
+    "register_json": "https://the95xrecord.vercel.app/api/v1/case/1RC191003776/dkt/492.json",
+    "ssot": "https://the95xrecord.vercel.app/ssot.json",
+    "crossref": "https://the95xrecord.vercel.app/data/crossref.json"
+  }
+}

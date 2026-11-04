@@ -1,0 +1,11 @@
+{
+  "schema": "ssot/api-hash@1",
+  "sha256": "095b19ad28f760adbe4290afd824cfadb4bab3748da07dbcfc7bf7c86fb09789",
+  "kind": "trial_text",
+  "case": "1RC191003776",
+  "docket": 76,
+  "file": "2020-04-29__Dkt076__1RC191003776__withdrawal-and-substitution-of-counsel.ocr.txt",
+  "published_url": "https://the95xrecord.vercel.app/COURT_DOCKET/LISTINGS/1RC191003776/04_TEXT/ocr/2020-04-29__Dkt076__1RC191003776__withdrawal-and-substitution-of-counsel.ocr.txt",
+  "lookup": "https://the95xrecord.vercel.app/api/v1/hash/095b19ad28f760adbe4290afd824cfadb4bab3748da07dbcfc7bf7c86fb09789.json",
+  "ssot": "https://the95xrecord.vercel.app/ssot.json"
+}

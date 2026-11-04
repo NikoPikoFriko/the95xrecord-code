@@ -1,0 +1,11 @@
+{
+  "schema": "ssot/api-hash@1",
+  "sha256": "ebac524667e11d1053966aed957fd6bf7a6b24e93c3269e65b0a4feb57868a18",
+  "kind": "document_page",
+  "case": "1RC191003776",
+  "docket": 8,
+  "file": "2026-09-15__CAAP-26-0000625__DKT0008__notice-of-non-payment.pdf",
+  "published_url": "https://the95xrecord.vercel.app/docs/9dc897ebaa",
+  "lookup": "https://the95xrecord.vercel.app/api/v1/hash/ebac524667e11d1053966aed957fd6bf7a6b24e93c3269e65b0a4feb57868a18.json",
+  "ssot": "https://the95xrecord.vercel.app/ssot.json"
+}

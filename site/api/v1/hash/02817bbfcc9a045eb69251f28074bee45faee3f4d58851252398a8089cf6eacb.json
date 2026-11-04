@@ -1,0 +1,11 @@
+{
+  "schema": "ssot/api-hash@1",
+  "sha256": "02817bbfcc9a045eb69251f28074bee45faee3f4d58851252398a8089cf6eacb",
+  "kind": "document_page",
+  "case": "1RC191003776",
+  "docket": 458,
+  "file": "2026-09-09__1RC191003776__DKT__DKT0458-NEF__notice-of-electronic-filing__CERT__h02817bbfcc9a.pdf",
+  "published_url": "https://the95xrecord.vercel.app/docs/b4ee886624",
+  "lookup": "https://the95xrecord.vercel.app/api/v1/hash/02817bbfcc9a045eb69251f28074bee45faee3f4d58851252398a8089cf6eacb.json",
+  "ssot": "https://the95xrecord.vercel.app/ssot.json"
+}

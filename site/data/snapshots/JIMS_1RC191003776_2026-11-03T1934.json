@@ -1,0 +1,507 @@
+{
+ "schema": "jims/snapshot@1",
+ "case_number": "1RC191003776",
+ "captured_at": "2026-11-03T19:34:33-10:00",
+ "captured_by": "WEBU398113",
+ "source_url": "https://jimspss1.courts.state.hi.us/JIMSExternal/manage-cases.iface",
+ "case_header": {
+  "case_id": "1RC191003776",
+  "court": "FIRST CIRCUIT",
+  "location": "HONOLULU DIVISION",
+  "type": "RC",
+  "status": "ACTIVE",
+  "description": "ASSOCIATION OF APARTMENT ETC VS NIKODEM PIKOR",
+  "initiation_date": "31-MAY-2019"
+ },
+ "caption": "ASSOCIATION OF APARTMENT OWNERS OF MARINE SURF WAIKIKI, INC., a Hawaii nonprofit corporation, by its Board of Directors VS NIKODEM PIKOR",
+ "parties": [
+  {
+   "seq": "1",
+   "party_id": "@3192562",
+   "role": "Plaintiff",
+   "name": "ASSOCIATION OF APARTMENT OWNERS OF MARINE SURF",
+   "start_date": "31-MAY-2019",
+   "end_date": "",
+   "associated_party": ""
+  },
+  {
+   "seq": "2",
+   "party_id": "@3192563",
+   "role": "Defendant",
+   "name": "NIKODEM PIKOR",
+   "start_date": "31-MAY-2019",
+   "end_date": "",
+   "associated_party": ""
+  },
+  {
+   "seq": "3",
+   "party_id": "@3192564",
+   "role": "Other",
+   "name": "NIKODEM PIKOR",
+   "start_date": "08-JUL-2019",
+   "end_date": "",
+   "associated_party": ""
+  },
+  {
+   "seq": "4",
+   "party_id": "@3192565",
+   "role": "3rd Party Defendant",
+   "name": "THYSSENKRUPP ELEVATOR CORPORATION, FOREIGN PROFIT",
+   "start_date": "08-JUL-2019",
+   "end_date": "",
+   "associated_party": ""
+  },
+  {
+   "seq": "6",
+   "party_id": "A8151",
+   "role": "Attorney",
+   "name": "Glenn S. Horio",
+   "start_date": "31-MAY-2019",
+   "end_date": "",
+   "associated_party": "1"
+  },
+  {
+   "seq": "9",
+   "party_id": "@3578112",
+   "role": "Defendant",
+   "name": "ASSOCATION OF APARTMENT OWNERS OF MARINE SURF by Its Board o",
+   "start_date": "07-OCT-2019",
+   "end_date": "",
+   "associated_party": ""
+  },
+  {
+   "seq": "10",
+   "party_id": "A4687",
+   "role": "Attorney",
+   "name": "April Luria",
+   "start_date": "07-OCT-2019",
+   "end_date": "",
+   "associated_party": "9"
+  },
+  {
+   "seq": "12",
+   "party_id": "A7433",
+   "role": "Attorney",
+   "name": "James R. Ferguson",
+   "start_date": "13-APR-2020",
+   "end_date": "",
+   "associated_party": "9"
+  },
+  {
+   "seq": "17",
+   "party_id": "A9630",
+   "role": "Attorney",
+   "name": "Barron T. Oda",
+   "start_date": "09-JUL-2020",
+   "end_date": "",
+   "associated_party": "9"
+  },
+  {
+   "seq": "18",
+   "party_id": "@4671832",
+   "role": "Other",
+   "name": "Bank of Hawaii Legal Division",
+   "start_date": "16-MAR-2021",
+   "end_date": "",
+   "associated_party": ""
+  },
+  {
+   "seq": "19",
+   "party_id": "RP1CIRCT",
+   "role": "Court Reporter",
+   "name": "Recorded Proceeding 1st Circuit",
+   "start_date": "23-FEB-2022",
+   "end_date": "",
+   "associated_party": ""
+  },
+  {
+   "seq": "20",
+   "party_id": "A11522",
+   "role": "Attorney",
+   "name": "Yun W. Kim",
+   "start_date": "05-MAY-2022",
+   "end_date": "",
+   "associated_party": "1"
+  },
+  {
+   "seq": "23",
+   "party_id": "@7088538",
+   "role": "Defendant",
+   "name": "Nikodem T. Pikor",
+   "start_date": "19-AUG-2026",
+   "end_date": "",
+   "associated_party": ""
+  },
+  {
+   "seq": "27",
+   "party_id": "A3914",
+   "role": "Attorney",
+   "name": "Jodie D. Roeca",
+   "start_date": "19-OCT-2026",
+   "end_date": "",
+   "associated_party": "9"
+  }
+ ],
+ "dockets_tail": [
+  {
+   "docket": 480,
+   "code": "*MINH",
+   "description": "*MINH THOMAS:WAIHOLUA-RODRIGUES: (jd) HON:10B: CV: (13:31-13:34) ATTY GLENN HORIO AND ATTY YUN KIM PRESENT BY ZOOM FOR PLTFF ASSOCIATION OF APARTMENT OWNERS OF MARINE SURF WAIKIKI, INC., A HAWAII NONPROFIT CORPORATION, BY ITS BOARD OF DIRECTORS. ATTY JAMES FERGUSON PRESENT BY ZOOM FOR PLTFF ASSOCIATION OF APARTMENT OWNERS OF MARINE SURF BY ITS BOARD OF DIRECTORS AS TO COUNTERCLAIMS. ATTY AMANDA DUTCHER PRESENT BY ZOOM FOR DEFT NIKODEM PIKOR. COURT NOTED THAT THE COURT IS NOT COMFORTABLE SIGNING STIP TO CONTINUE; NO FACTUAL DISPUTES; ATTY DUTCHER HAS A MOTION TO WITHDRAW AS COUNSEL AND REQUESTS STIP TO CONTINUE THIS MATTER TO THE SAME DAY AS THE MOTION DUE TO COURT CLOSURE OF 9/14/26. BY ORDER OF THE COURT, AND PURSUANT TO RULE 78 OF DISTRICT COURT; JUDGE WILL ISSUE A MINUTE ORDER TODAY OR TOMORROW. 9/28/26***LATER AND BY ORDER OF THE COURT, DEFT/COUNTERCLAIM PLTFF NIKODEM PIKOR'S MOTION FOR RECONSIDERATION OF ORDER GRANTING IN PART AND DENYING IN PART MOTION FOR ATTY'S FEES AND COSTS FILED AUGUST 19, 2026 (DKT.431) IS DENIED. THE MOTION FOR ATTYS' FEES AND COSTS WAS A PRE-JUDGMENT MOTION, DECIDED BEFORE THE FINAL JUDGMENT WAS ENTERED, AND THEREFORE THE 90 DAY LIMITATION OF HRAP RULE 4(a)(3) DOES NOT APPLY. THIS RULING IS MADE WITHOUT A HEARING BASED ON THE WRITTEN SUBMISSION PURSUANT TO RULE 78 OF THE DISTRICT COURT RULES OF CIVIL PROCEDURE.",
+   "filing_party": "Glenn S. Horio April Luria James R. Ferguson Amanda L. Dutcher Terrance M. Revere Barron T. Oda Yun W. Kim Nikodem T. Pikor",
+   "time": "13:35:00",
+   "filed": "24-SEP-2026"
+  },
+  {
+   "docket": 481,
+   "code": "*MINH",
+   "description": "*MINH HO:YOSHITSUGU HON:10B:CV(MTN) (9:14-9:18) ATTY YUN KIM PRESENT VIA ZOOM FOR PLTFF/ASSOCIATION OF APARTMENT OWNERS OF MARINE SURF WAIKIKI, INC, A HAWAII NON-PROFIT CORPORATION, BY ITS BOARD OF DIRECTORS. ATTY JAMES FURGESON PRESENT VIA ZOOM FOR COUNTERCLAIM DEFT ASSOCIATION OF APARTMENT OWNERS OF MARINE SURF WAIKIKI, INC, A HAWAII NON-PROFIT CORPORATION, BY ITS BOARD OF DIRECTORS. ATTY AMANDA DUTCHER PRESENT VIA ZOOM FOR DEFT/COUNTERCLAIMANT NIKODEM PIKOR, NOT PRESENT. ATTY DUTCHER REPRESENTED NOTICE WAS GIVEN TO DEFT TO BE PRESENT. HEARING HAD ON ATTY DUTCHER'S MOTION TO WITHDRAW AS COUNSEL FOR DEFT/COUNTERCLAIMANT NIKODEM PIKOR. COURT NOTED FURTHER MOTIONS SET ON 10/05/26. ATTY DUTCHER NOTED MOTION FOR RECONSIDERATION WAS HEARD BEFORE JUDGE THOMAS ON 09/24/26 AND MINUTE ORDER WAS TO ISSUE RE: DECISION. BY ORDER OF THE COURT, MOTION TO WITHDRAW AS COUNSEL GRANTED; MOTIONS SET ON CALENDAR ON 10/05/26 AT 8:30AM IN COURTROOM 10B TO REMAIN ON CALENDAR. ATTY DUTCHER TO PREPARE ORDER.",
+   "filing_party": "Glenn S. Horio April Luria James R. Ferguson Amanda L. Dutcher Terrance M. Revere Barron T. Oda Yun W. Kim Nikodem T. Pikor",
+   "time": "08:30:00",
+   "filed": "28-SEP-2026"
+  },
+  {
+   "docket": 482,
+   "code": "MTWC",
+   "description": "Mtn for Withdrawal/Sub of Cnsl EFile Document upload of type Mtn for Withdrawal/Sub of Cnsl",
+   "filing_party": "ASSOCIATION OF APARTMENT OWNERS OF MARINE SURF NIKODEM PIKOR NIKODEM PIKOR THYSSENKRUPP ELEVATOR CORPORATION, FOREIGN PROFIT ASSOCATION OF APARTMENT OWNERS OF MARINE SURF by Its Board o Bank of Hawaii Legal Division Nikodem T. Pikor",
+   "time": "14:51:20",
+   "filed": "30-SEP-2026"
+  },
+  {
+   "docket": 483,
+   "code": "NEF",
+   "description": "Notice of Electronic Filing",
+   "filing_party": "ASSOCIATION OF APARTMENT OWNERS OF MARINE SURF NIKODEM PIKOR NIKODEM PIKOR THYSSENKRUPP ELEVATOR CORPORATION, FOREIGN PROFIT ASSOCATION OF APARTMENT OWNERS OF MARINE SURF by Its Board o Bank of Hawaii Legal Division Nikodem T. Pikor",
+   "time": "14:51:20",
+   "filed": "30-SEP-2026"
+  },
+  {
+   "docket": 484,
+   "code": "ORDG",
+   "description": "Order Granted",
+   "filing_party": "ASSOCIATION OF APARTMENT OWNERS OF MARINE SURF",
+   "time": "08:09:05",
+   "filed": "07-OCT-2026"
+  },
+  {
+   "docket": 485,
+   "code": "NEF",
+   "description": "Notice of Electronic Filing",
+   "filing_party": "ASSOCIATION OF APARTMENT OWNERS OF MARINE SURF",
+   "time": "08:09:05",
+   "filed": "07-OCT-2026"
+  },
+  {
+   "docket": 486,
+   "code": "*MINH",
+   "description": "*MINH T.HO:TAKEMOTO: HON:10B CV/MOTIONS: (9:43-9:57) ATTY YUN KIM, PRESENT VIA ZOOM FOR PLTFF ASSOCIATION OF APARTMENT OWNERS OF MARINE SURF WAIKIKI, INC., A HAWAII NONPROFIT CORPORATION, BY ITS BOARD OF DIRECTORS. ATTY JAMES FURGESON, PRESENT VIA ZOOM FOR COUNTERCLAIM DEFT ASSOCIATION OF APARTMENT OWNERS OF MARINE SURF WAIKIKI, INC., A HAWAII NONPROFIT CORPORATION, BY ITS BOARD OF DIRECTORS. ATTY AMANDA DUTCHER, PRESENT VIA ZOOM FOR DEFT AND COUNTERCLAIM/THIRD PARTY PLTFF NIKODEM PIKOR. DEFT/THIRD PARTY PLTFF NIKODEM PIKOR CALLED, PRESENT VIA ZOOM. ATTY AMANDA DUTCHER PREVIOUSLY WITHDREW AND COURT EXCUSED HER FROM TODAY'S HEARING. COURT DISCHARGED ATTY DUTCHER AS DEFT/THIRD PARTY PLTFF'S COUNSEL. LENGTHY HEARING HAD ON DEFT/COUNTERCLAIM PLTFF'S MOTION TO STAY ENFORCEMENT OF JUDGMENT. COURT FINDS RULE 4, HAWAII RULES OF APPELLATE PROCEDURE DOES NOT APPLY TO THIS CASE. BY ORDER OF THE COURT, DEFT/COUNTERCLAIM PLTFF'S MOTION IS DENIED. PLTFFS AND CROSS-DEFTS ATTYS TO PREPARE RESPECTIVE ORDERS.",
+   "filing_party": "Glenn S. Horio April Luria James R. Ferguson Amanda L. Dutcher Terrance M. Revere Barron T. Oda Yun W. Kim Nikodem T. Pikor",
+   "time": "08:30:00",
+   "filed": "05-OCT-2026"
+  },
+  {
+   "docket": 487,
+   "code": "*MINH",
+   "description": "*MINH T.HO:TAKEMOTO: HON:10B CV/MOTIONS: (9:43-9:57) ATTY YUN KIM, PRESENT VIA ZOOM FOR PLTFF ASSOCIATION OF APARTMENT OWNERS OF MARINE SURF WAIKIKI, INC., A HAWAII NONPROFIT CORPORATION, BY ITS BOARD OF DIRECTORS. ATTY JAMES FURGESON, PRESENT VIA ZOOM FOR COUNTERCLAIM DEFT ASSOCIATION OF APARTMENT OWNERS OF MARINE SURF WAIKIKI, INC., A HAWAII NONPROFIT CORPORATION, BY ITS BOARD OF DIRECTORS. ATTY AMANDA DUTCHER, PRESENT VIA ZOOM FOR DEFT AND COUNTERCLAIM/THIRD PARTY PLTFF NIKODEM PIKOR. DEFT/THIRD PARTY PLTFF NIKODEM PIKOR CALLED, PRESENT VIA ZOOM. ATTY AMANDA DUTCHER PREVIOUSLY WITHDREW AND COURT EXCUSED HER FROM TODAYS HEARING. COURT DISCHARGED ATTY DUTCHER AS DEFT/THIRD PARTY PLTFFS COUNSEL. LENGTHY HEARING HAD ON DEFT/COUNTERCLAIM PLTFFS MOTION TO EXTEND TIME TO FILE APPEAL (DKT. 442). COURT FINDS MOTION TO REQUEST FOR EXTENSION OF TIME IS UNTIMELY. BY ORDER OF THE COURT, DEFT/COUNTERCLAIM PLTFFS MOTION IS DENIED. PLTFFS AND CROSS-DEFTS ATTYS TO PREPARE RESPECTIVE ORDERS.",
+   "filing_party": "Glenn S. Horio April Luria James R. Ferguson Amanda L. Dutcher Terrance M. Revere Barron T. Oda Yun W. Kim Nikodem T. Pikor",
+   "time": "08:30:00",
+   "filed": "05-OCT-2026"
+  },
+  {
+   "docket": 488,
+   "code": "PROP",
+   "description": "Proposed EFile Document upload of type Proposed",
+   "filing_party": "ASSOCATION OF APARTMENT OWNERS OF MARINE SURF by Its Board o",
+   "time": "14:47:04",
+   "filed": "19-OCT-2026"
+  },
+  {
+   "docket": 489,
+   "code": "NEF",
+   "description": "Notice of Electronic Filing",
+   "filing_party": "ASSOCATION OF APARTMENT OWNERS OF MARINE SURF by Its Board o",
+   "time": "14:47:04",
+   "filed": "19-OCT-2026"
+  },
+  {
+   "docket": 490,
+   "code": "PROP",
+   "description": "Proposed EFile Document upload of type Proposed",
+   "filing_party": "ASSOCATION OF APARTMENT OWNERS OF MARINE SURF by Its Board o",
+   "time": "14:50:06",
+   "filed": "19-OCT-2026"
+  },
+  {
+   "docket": 491,
+   "code": "NEF",
+   "description": "Notice of Electronic Filing",
+   "filing_party": "ASSOCATION OF APARTMENT OWNERS OF MARINE SURF by Its Board o",
+   "time": "14:50:06",
+   "filed": "19-OCT-2026"
+  },
+  {
+   "docket": 492,
+   "code": "DOC",
+   "description": "Document",
+   "filing_party": "ASSOCIATION OF APARTMENT OWNERS OF MARINE SURF",
+   "time": "10:49:56",
+   "filed": "21-OCT-2026"
+  },
+  {
+   "docket": 493,
+   "code": "NEF",
+   "description": "Notice of Electronic Filing",
+   "filing_party": "ASSOCIATION OF APARTMENT OWNERS OF MARINE SURF",
+   "time": "10:49:56",
+   "filed": "21-OCT-2026"
+  },
+  {
+   "docket": 494,
+   "code": "PROP",
+   "description": "Proposed EFile Document upload of type Proposed",
+   "filing_party": "ASSOCATION OF APARTMENT OWNERS OF MARINE SURF by Its Board o",
+   "time": "11:34:15",
+   "filed": "23-OCT-2026"
+  },
+  {
+   "docket": 495,
+   "code": "NEF",
+   "description": "Notice of Electronic Filing",
+   "filing_party": "ASSOCATION OF APARTMENT OWNERS OF MARINE SURF by Its Board o",
+   "time": "11:34:15",
+   "filed": "23-OCT-2026"
+  },
+  {
+   "docket": 496,
+   "code": "NA",
+   "description": "Notice of Appeal",
+   "filing_party": "ASSOCIATION OF APARTMENT OWNERS OF MARINE SURF NIKODEM PIKOR NIKODEM PIKOR THYSSENKRUPP ELEVATOR CORPORATION, FOREIGN PROFIT ASSOCATION OF APARTMENT OWNERS OF MARINE SURF by Its Board o Bank of Hawaii Legal Division Nikodem T. Pikor",
+   "time": "16:22:00",
+   "filed": "04-SEP-2026"
+  },
+  {
+   "docket": 497,
+   "code": "NEF",
+   "description": "Notice of Electronic Filing",
+   "filing_party": "ASSOCIATION OF APARTMENT OWNERS OF MARINE SURF NIKODEM PIKOR NIKODEM PIKOR THYSSENKRUPP ELEVATOR CORPORATION, FOREIGN PROFIT ASSOCATION OF APARTMENT OWNERS OF MARINE SURF by Its Board o Bank of Hawaii Legal Division Nikodem T. Pikor",
+   "time": "16:22:00",
+   "filed": "04-SEP-2026"
+  },
+  {
+   "docket": 498,
+   "code": "RA",
+   "description": "Record on Appeal",
+   "filing_party": "ASSOCIATION OF APARTMENT OWNERS OF MARINE SURF NIKODEM PIKOR NIKODEM PIKOR THYSSENKRUPP ELEVATOR CORPORATION, FOREIGN PROFIT ASSOCATION OF APARTMENT OWNERS OF MARINE SURF by Its Board o Bank of Hawaii Legal Division Nikodem T. Pikor",
+   "time": "08:41:00",
+   "filed": "28-OCT-2026"
+  },
+  {
+   "docket": 499,
+   "code": "NEF",
+   "description": "Notice of Electronic Filing",
+   "filing_party": "ASSOCIATION OF APARTMENT OWNERS OF MARINE SURF NIKODEM PIKOR NIKODEM PIKOR THYSSENKRUPP ELEVATOR CORPORATION, FOREIGN PROFIT ASSOCATION OF APARTMENT OWNERS OF MARINE SURF by Its Board o Bank of Hawaii Legal Division Nikodem T. Pikor",
+   "time": "08:41:00",
+   "filed": "28-OCT-2026"
+  },
+  {
+   "docket": 500,
+   "code": "ORD",
+   "description": "Order ___",
+   "filing_party": "ASSOCATION OF APARTMENT OWNERS OF MARINE SURF by Its Board o",
+   "time": "14:55:00",
+   "filed": "28-OCT-2026"
+  },
+  {
+   "docket": 501,
+   "code": "NEF",
+   "description": "Notice of Electronic Filing",
+   "filing_party": "ASSOCATION OF APARTMENT OWNERS OF MARINE SURF by Its Board o",
+   "time": "14:55:00",
+   "filed": "28-OCT-2026"
+  },
+  {
+   "docket": 502,
+   "code": "RA",
+   "description": "Record on Appeal",
+   "filing_party": "ASSOCIATION OF APARTMENT OWNERS OF MARINE SURF NIKODEM PIKOR NIKODEM PIKOR THYSSENKRUPP ELEVATOR CORPORATION, FOREIGN PROFIT ASSOCATION OF APARTMENT OWNERS OF MARINE SURF by Its Board o Bank of Hawaii Legal Division Nikodem T. Pikor",
+   "time": "13:30:00",
+   "filed": "29-OCT-2026"
+  },
+  {
+   "docket": 503,
+   "code": "NEF",
+   "description": "Notice of Electronic Filing",
+   "filing_party": "ASSOCIATION OF APARTMENT OWNERS OF MARINE SURF NIKODEM PIKOR NIKODEM PIKOR THYSSENKRUPP ELEVATOR CORPORATION, FOREIGN PROFIT ASSOCATION OF APARTMENT OWNERS OF MARINE SURF by Its Board o Bank of Hawaii Legal Division Nikodem T. Pikor",
+   "time": "13:30:00",
+   "filed": "29-OCT-2026"
+  }
+ ],
+ "dockets_total_rows_rendered": 503,
+ "documents_tail": [
+  {
+   "docket": 482,
+   "category": "Motion",
+   "code": "MTWC",
+   "description": "Mtn for Withdrawal/Sub of Cnsl EFile Document upload of type Mtn for Withdrawal/Sub of Cnsl",
+   "defendant": "ASSOCIATION OF APARTMENT OWNERS OF MARINE SURF NIKODEM PIKOR NIKODEM PIKOR THYSSENKRUPP ELEVATOR CORPORATION, FOREIGN PROFIT ASSOCATION OF APARTMENT OWNERS OF MARINE SURF by Its Board o Bank of Hawaii Legal Division Nikodem T. Pikor",
+   "pdf_link_present": true
+  },
+  {
+   "docket": 483,
+   "category": "Other Documents",
+   "code": "NEF",
+   "description": "Other",
+   "defendant": "ASSOCIATION OF APARTMENT OWNERS OF MARINE SURF NIKODEM PIKOR NIKODEM PIKOR THYSSENKRUPP ELEVATOR CORPORATION, FOREIGN PROFIT ASSOCATION OF APARTMENT OWNERS OF MARINE SURF by Its Board o Bank of Hawaii Legal Division Nikodem T. Pikor",
+   "pdf_link_present": true
+  },
+  {
+   "docket": 484,
+   "category": "Order",
+   "code": "ORDG",
+   "description": "Order Granted",
+   "defendant": "ASSOCIATION OF APARTMENT OWNERS OF MARINE SURF",
+   "pdf_link_present": true
+  },
+  {
+   "docket": 485,
+   "category": "Other Documents",
+   "code": "NEF",
+   "description": "Other",
+   "defendant": "ASSOCIATION OF APARTMENT OWNERS OF MARINE SURF",
+   "pdf_link_present": true
+  },
+  {
+   "docket": 488,
+   "category": "Document",
+   "code": "PROP",
+   "description": "Proposed EFile Document upload of type Proposed",
+   "defendant": "ASSOCATION OF APARTMENT OWNERS OF MARINE SURF by Its Board o",
+   "pdf_link_present": true
+  },
+  {
+   "docket": 489,
+   "category": "Other Documents",
+   "code": "NEF",
+   "description": "Other",
+   "defendant": "ASSOCATION OF APARTMENT OWNERS OF MARINE SURF by Its Board o",
+   "pdf_link_present": true
+  },
+  {
+   "docket": 490,
+   "category": "Document",
+   "code": "PROP",
+   "description": "Proposed EFile Document upload of type Proposed",
+   "defendant": "ASSOCATION OF APARTMENT OWNERS OF MARINE SURF by Its Board o",
+   "pdf_link_present": true
+  },
+  {
+   "docket": 491,
+   "category": "Other Documents",
+   "code": "NEF",
+   "description": "Other",
+   "defendant": "ASSOCATION OF APARTMENT OWNERS OF MARINE SURF by Its Board o",
+   "pdf_link_present": true
+  },
+  {
+   "docket": 492,
+   "category": "Document",
+   "code": "DOC",
+   "description": "Document",
+   "defendant": "ASSOCIATION OF APARTMENT OWNERS OF MARINE SURF",
+   "pdf_link_present": true
+  },
+  {
+   "docket": 493,
+   "category": "Other Documents",
+   "code": "NEF",
+   "description": "Other",
+   "defendant": "ASSOCIATION OF APARTMENT OWNERS OF MARINE SURF",
+   "pdf_link_present": true
+  },
+  {
+   "docket": 494,
+   "category": "Document",
+   "code": "PROP",
+   "description": "Proposed EFile Document upload of type Proposed",
+   "defendant": "ASSOCATION OF APARTMENT OWNERS OF MARINE SURF by Its Board o",
+   "pdf_link_present": true
+  },
+  {
+   "docket": 495,
+   "category": "Other Documents",
+   "code": "NEF",
+   "description": "Other",
+   "defendant": "ASSOCATION OF APARTMENT OWNERS OF MARINE SURF by Its Board o",
+   "pdf_link_present": true
+  },
+  {
+   "docket": 496,
+   "category": "Notice",
+   "code": "NA",
+   "description": "Notice of Appeal",
+   "defendant": "ASSOCIATION OF APARTMENT OWNERS OF MARINE SURF NIKODEM PIKOR NIKODEM PIKOR THYSSENKRUPP ELEVATOR CORPORATION, FOREIGN PROFIT ASSOCATION OF APARTMENT OWNERS OF MARINE SURF by Its Board o Bank of Hawaii Legal Division Nikodem T. Pikor",
+   "pdf_link_present": true
+  },
+  {
+   "docket": 497,
+   "category": "Other Documents",
+   "code": "NEF",
+   "description": "Other",
+   "defendant": "ASSOCIATION OF APARTMENT OWNERS OF MARINE SURF NIKODEM PIKOR NIKODEM PIKOR THYSSENKRUPP ELEVATOR CORPORATION, FOREIGN PROFIT ASSOCATION OF APARTMENT OWNERS OF MARINE SURF by Its Board o Bank of Hawaii Legal Division Nikodem T. Pikor",
+   "pdf_link_present": true
+  },
+  {
+   "docket": 498,
+   "category": "Supporting Documents",
+   "code": "RA",
+   "description": "Record on Appeal",
+   "defendant": "ASSOCIATION OF APARTMENT OWNERS OF MARINE SURF NIKODEM PIKOR NIKODEM PIKOR THYSSENKRUPP ELEVATOR CORPORATION, FOREIGN PROFIT ASSOCATION OF APARTMENT OWNERS OF MARINE SURF by Its Board o Bank of Hawaii Legal Division Nikodem T. Pikor",
+   "pdf_link_present": true
+  },
+  {
+   "docket": 499,
+   "category": "Other Documents",
+   "code": "NEF",
+   "description": "Other",
+   "defendant": "ASSOCIATION OF APARTMENT OWNERS OF MARINE SURF NIKODEM PIKOR NIKODEM PIKOR THYSSENKRUPP ELEVATOR CORPORATION, FOREIGN PROFIT ASSOCATION OF APARTMENT OWNERS OF MARINE SURF by Its Board o Bank of Hawaii Legal Division Nikodem T. Pikor",
+   "pdf_link_present": true
+  },
+  {
+   "docket": 500,
+   "category": "Order",
+   "code": "ORD",
+   "description": "Order ___",
+   "defendant": "ASSOCATION OF APARTMENT OWNERS OF MARINE SURF by Its Board o",
+   "pdf_link_present": true
+  },
+  {
+   "docket": 501,
+   "category": "Other Documents",
+   "code": "NEF",
+   "description": "Other",
+   "defendant": "ASSOCATION OF APARTMENT OWNERS OF MARINE SURF by Its Board o",
+   "pdf_link_present": true
+  },
+  {
+   "docket": 502,
+   "category": "Supporting Documents",
+   "code": "RA",
+   "description": "Record on Appeal",
+   "defendant": "ASSOCIATION OF APARTMENT OWNERS OF MARINE SURF NIKODEM PIKOR NIKODEM PIKOR THYSSENKRUPP ELEVATOR CORPORATION, FOREIGN PROFIT ASSOCATION OF APARTMENT OWNERS OF MARINE SURF by Its Board o Bank of Hawaii Legal Division Nikodem T. Pikor",
+   "pdf_link_present": true
+  },
+  {
+   "docket": 503,
+   "category": "Other Documents",
+   "code": "NEF",
+   "description": "Other",
+   "defendant": "ASSOCIATION OF APARTMENT OWNERS OF MARINE SURF NIKODEM PIKOR NIKODEM PIKOR THYSSENKRUPP ELEVATOR CORPORATION, FOREIGN PROFIT ASSOCATION OF APARTMENT OWNERS OF MARINE SURF by Its Board o Bank of Hawaii Legal Division Nikodem T. Pikor",
+   "pdf_link_present": true
+  }
+ ],
+ "documents_total_rows_rendered": 468,
+ "milestones": [],
+ "milestones_note": "No Milestones table element is present in this case's rendered page (table ids on the page: partiesTable, eventsTable, docketsTable, documentsTable) — the appeal case has one, this trial case did not render it. Nothing invented.",
+ "capture_note": "Transcribed from the rendered 'My Case View' page in the live BrowserSkill session (browser 64cfb09a) via DOM reads of the rendered tables; the raw JSF HTML was not captured. Dockets tail = all rows the page rendered with docket number >= 480 (24 rows, 480-503); documents tail = all rows rendered with docket >= 480 (20 rows). Column values are as displayed; the Dockets table's cell order was observed to be dkt, code, description, defendant(blank), filing party, time, date. Nothing was inferred or filled in from another source.",
+ "hash_disclosure": "A file cannot contain its own hash, so this JSON embeds no hash of itself. The authority for the bytes of this capture is the sibling .sha256 sidecar, computed over the final file bytes after writing: JIMS_1RC191003776_2026-11-03T1934.sha256."
+}

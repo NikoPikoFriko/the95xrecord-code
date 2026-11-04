@@ -1,0 +1,11 @@
+{
+  "schema": "ssot/api-hash@1",
+  "sha256": "f41f5e46be580f874869cd08ff98fe856df222718113872302a7f9014d37956d",
+  "kind": "document_page",
+  "case": "1RC191003776",
+  "docket": 107,
+  "file": "2020-07-16__1RC191003776__DKT0107__payment-due-to-court-200-00.pdf",
+  "published_url": "https://the95xrecord.vercel.app/docs/eacead21ab",
+  "lookup": "https://the95xrecord.vercel.app/api/v1/hash/f41f5e46be580f874869cd08ff98fe856df222718113872302a7f9014d37956d.json",
+  "ssot": "https://the95xrecord.vercel.app/ssot.json"
+}

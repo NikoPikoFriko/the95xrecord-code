@@ -1,0 +1,33 @@
+{
+  "schema": "ssot/api-docket@1",
+  "case": "1RC191003776",
+  "docket": 493,
+  "code": "NEF",
+  "filed": "21-OCT-2026",
+  "filed_iso": "2026-10-21",
+  "time": "10:49:56",
+  "ra_pdf_page": 194,
+  "grade": "OBS",
+  "for_counsel": false,
+  "evidence": {
+    "renditions": [
+      {
+        "file": "COURT_DOCKET/CERTIFIED/2026-10-21__1RC191003776__DKT__DKT0493-NEF__nef-for-order-dkt492-stricken__CERT__h7ccd357f8143.pdf",
+        "sha256": "7ccd357f8143a6364299cba1df8b244bd9b94736db4c1b94101f0cab125558e7",
+        "location": "canonical_library",
+        "published_url": null
+      }
+    ],
+    "text": null,
+    "held_by_station": true,
+    "gap": false
+  },
+  "pdf_conflict": null,
+  "flags": [],
+  "links": {
+    "register": "https://the95xrecord.vercel.app/register#dkt-493",
+    "register_json": "https://the95xrecord.vercel.app/api/v1/case/1RC191003776/dkt/493.json",
+    "ssot": "https://the95xrecord.vercel.app/ssot.json",
+    "crossref": "https://the95xrecord.vercel.app/data/crossref.json"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "schema": "ssot/api-hash@1",
+  "sha256": "185c4770cedc46d2762c1270b8f13a5ff9276f3dadd0e4514e4bf1e65278677a",
+  "kind": "document_page",
+  "case": "1RC191003776",
+  "docket": 490,
+  "file": "2026-10-19__1RC191003776__DKT0490__order-denying-defendant-h185c47.pdf",
+  "published_url": "https://the95xrecord.vercel.app/docs/31356eb4ca",
+  "lookup": "https://the95xrecord.vercel.app/api/v1/hash/185c4770cedc46d2762c1270b8f13a5ff9276f3dadd0e4514e4bf1e65278677a.json",
+  "ssot": "https://the95xrecord.vercel.app/ssot.json"
+}

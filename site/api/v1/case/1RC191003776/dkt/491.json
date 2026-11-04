@@ -1,0 +1,38 @@
+{
+  "schema": "ssot/api-docket@1",
+  "case": "1RC191003776",
+  "docket": 491,
+  "code": "NEF",
+  "filed": "19-OCT-2026",
+  "filed_iso": "2026-10-19",
+  "time": "14:50:06",
+  "ra_pdf_page": 194,
+  "grade": "OBS",
+  "for_counsel": false,
+  "evidence": {
+    "renditions": [
+      {
+        "file": "COURT_DOCKET/REGULAR/2026-10-19__1RC191003776__DKT__DKT0491-NEF__nef-for-proposed-order-dkt490__NEF__h61ecfedfcb2e.pdf",
+        "sha256": "61ecfedfcb2e2dd104f58a493558597706ad797852e3256a65a648fbe7220fbe",
+        "location": "canonical_library",
+        "published_url": null
+      }
+    ],
+    "text": {
+      "file": "05_AI_REVIEW/MAGIC_04_REPORTS/DOCKET_JSON_2026-10-20/TEXT/1RC191003776_DKT0491.txt",
+      "sha256": "ada750f4d4a0653e8894bd791c2831f93f0083468e1c3266410e3604789d4a65",
+      "location": "ai_review_report_text",
+      "published_url": "https://the95xrecord.vercel.app/05_AI_REVIEW/MAGIC_04_REPORTS/DOCKET_JSON_2026-10-20/TEXT/1RC191003776_DKT0491.txt"
+    },
+    "held_by_station": true,
+    "gap": false
+  },
+  "pdf_conflict": null,
+  "flags": [],
+  "links": {
+    "register": "https://the95xrecord.vercel.app/register#dkt-491",
+    "register_json": "https://the95xrecord.vercel.app/api/v1/case/1RC191003776/dkt/491.json",
+    "ssot": "https://the95xrecord.vercel.app/ssot.json",
+    "crossref": "https://the95xrecord.vercel.app/data/crossref.json"
+  }
+}

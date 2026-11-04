@@ -1,0 +1,11 @@
+{
+  "schema": "ssot/api-hash@1",
+  "sha256": "ea06a8cbeddd14a00a18261cf78e2684d1570c6113125f3ee2c31148b117ef15",
+  "kind": "trial_text",
+  "case": "1RC191003776",
+  "docket": 136,
+  "file": "2020-11-18__Dkt136__1RC191003776__notice-of-entry-of-final-judgment.ocr.txt",
+  "published_url": "https://the95xrecord.vercel.app/COURT_DOCKET/LISTINGS/1RC191003776/04_TEXT/ocr/2020-11-18__Dkt136__1RC191003776__notice-of-entry-of-final-judgment.ocr.txt",
+  "lookup": "https://the95xrecord.vercel.app/api/v1/hash/ea06a8cbeddd14a00a18261cf78e2684d1570c6113125f3ee2c31148b117ef15.json",
+  "ssot": "https://the95xrecord.vercel.app/ssot.json"
+}

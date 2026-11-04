@@ -1,0 +1,11 @@
+{
+  "schema": "ssot/api-hash@1",
+  "sha256": "26b1e846329dcbf65efc66cff759c50fa0f1e025814b4661de17049e137e2087",
+  "kind": "document_page",
+  "case": "1RC191003776",
+  "docket": 92,
+  "file": "2020-06-29__Dkt92__1RC191003776__order-granting-defendant-and-counterclaim-third-pa.pdf",
+  "published_url": "https://the95xrecord.vercel.app/docs/b2920ab37a",
+  "lookup": "https://the95xrecord.vercel.app/api/v1/hash/26b1e846329dcbf65efc66cff759c50fa0f1e025814b4661de17049e137e2087.json",
+  "ssot": "https://the95xrecord.vercel.app/ssot.json"
+}

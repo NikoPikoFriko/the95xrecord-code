@@ -1,0 +1,11 @@
+{
+  "schema": "ssot/api-hash@1",
+  "sha256": "74c6236eea8df5814546de2857631a286cdcb53a6c37989057eda3ce6870d0f7",
+  "kind": "document_page",
+  "case": "1RC191003776",
+  "docket": 482,
+  "file": "2026-09-30__1RC191003776__DKT0482__dkt0482-0483-fsc-proposed-order-grtg-mtn-to.pdf",
+  "published_url": "https://the95xrecord.vercel.app/docs/ce43790a0d",
+  "lookup": "https://the95xrecord.vercel.app/api/v1/hash/74c6236eea8df5814546de2857631a286cdcb53a6c37989057eda3ce6870d0f7.json",
+  "ssot": "https://the95xrecord.vercel.app/ssot.json"
+}

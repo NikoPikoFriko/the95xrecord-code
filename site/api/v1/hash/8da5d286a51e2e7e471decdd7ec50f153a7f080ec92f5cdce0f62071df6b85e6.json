@@ -1,0 +1,11 @@
+{
+  "schema": "ssot/api-hash@1",
+  "sha256": "8da5d286a51e2e7e471decdd7ec50f153a7f080ec92f5cdce0f62071df6b85e6",
+  "kind": "document_page",
+  "case": "1RC191003776",
+  "docket": 109,
+  "file": "2020-07-16__1RC191003776__DKT0109__1c-soh-receipt-demand-200-00-h8da5d2.pdf",
+  "published_url": "https://the95xrecord.vercel.app/docs/9fd6e5e982",
+  "lookup": "https://the95xrecord.vercel.app/api/v1/hash/8da5d286a51e2e7e471decdd7ec50f153a7f080ec92f5cdce0f62071df6b85e6.json",
+  "ssot": "https://the95xrecord.vercel.app/ssot.json"
+}

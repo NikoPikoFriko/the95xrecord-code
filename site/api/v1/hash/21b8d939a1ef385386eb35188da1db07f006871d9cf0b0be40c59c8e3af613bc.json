@@ -1,0 +1,11 @@
+{
+  "schema": "ssot/api-hash@1",
+  "sha256": "21b8d939a1ef385386eb35188da1db07f006871d9cf0b0be40c59c8e3af613bc",
+  "kind": "document_page",
+  "case": "1RC191003776",
+  "docket": 299,
+  "file": "2022-03-30__Dkt299__1RC191003776__proposed-order-granting-in-part-and-denying-in-par.pdf",
+  "published_url": "https://the95xrecord.vercel.app/docs/6a46240409",
+  "lookup": "https://the95xrecord.vercel.app/api/v1/hash/21b8d939a1ef385386eb35188da1db07f006871d9cf0b0be40c59c8e3af613bc.json",
+  "ssot": "https://the95xrecord.vercel.app/ssot.json"
+}

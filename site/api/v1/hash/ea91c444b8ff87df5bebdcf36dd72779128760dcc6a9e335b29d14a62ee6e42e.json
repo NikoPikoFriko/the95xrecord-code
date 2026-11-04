@@ -1,0 +1,11 @@
+{
+  "schema": "ssot/api-hash@1",
+  "sha256": "ea91c444b8ff87df5bebdcf36dd72779128760dcc6a9e335b29d14a62ee6e42e",
+  "kind": "document_page",
+  "case": "1RC191003776",
+  "docket": 32,
+  "file": "2021-06-09__CAAP-20-0000764__DKT0032__order-dismissing-appeal.pdf",
+  "published_url": "https://the95xrecord.vercel.app/docs/55f784a064",
+  "lookup": "https://the95xrecord.vercel.app/api/v1/hash/ea91c444b8ff87df5bebdcf36dd72779128760dcc6a9e335b29d14a62ee6e42e.json",
+  "ssot": "https://the95xrecord.vercel.app/ssot.json"
+}

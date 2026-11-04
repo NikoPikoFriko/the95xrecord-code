@@ -1,0 +1,26 @@
+{
+  "schema": "ssot/api-docket@1",
+  "case": "CAAP-26-0000625",
+  "docket": 11,
+  "code": "AMNI",
+  "title": "Appellate Mediation not Includ - Excluded from appellate mediation.",
+  "filed": "07-OCT-2026",
+  "filed_iso": "2026-10-07",
+  "time": "08:08:00",
+  "grade": "OBS",
+  "for_counsel": false,
+  "evidence": {
+    "held_by_station": true,
+    "file": "APPEALS/CAAP-26-0000625/DOCKET/2026-10-07__CAAP-26-0000625__DKT__DKT0011-AMNI__appellate-mediation-excluded__SRC__hcb14cad03b35.pdf",
+    "sha256": "cb14cad03b35951aae8d034576607073130ec6dc11b1eaceca811f40ba17db77",
+    "pages": 1,
+    "form": "src",
+    "gap": false
+  },
+  "flags": [],
+  "links": {
+    "appeal": "https://the95xrecord.vercel.app/appeal#dkt-11",
+    "appeal_json": "https://the95xrecord.vercel.app/api/v1/case/CAAP-26-0000625/dkt/11.json",
+    "ssot": "https://the95xrecord.vercel.app/ssot.json"
+  }
+}

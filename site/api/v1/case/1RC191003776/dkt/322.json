@@ -1,0 +1,33 @@
+{
+  "schema": "ssot/api-docket@1",
+  "case": "1RC191003776",
+  "docket": 322,
+  "code": "NOCDA",
+  "filed": "26-MAY-2022",
+  "filed_iso": "2022-05-26",
+  "time": "16:03:19",
+  "ra_pdf_page": 110,
+  "grade": "PARTIAL",
+  "for_counsel": false,
+  "evidence": {
+    "renditions": [],
+    "text": {
+      "file": "COURT_DOCKET/LISTINGS/1RC191003776/04_TEXT/ocr/2022-05-26__Dkt322__1RC191003776__other.ocr.txt",
+      "sha256": "4a51253ac13188a9733e5f6d62732093af925b54ec71b926c33ca3a76e238914",
+      "location": "court_docket_listings_ocr",
+      "published_url": "https://the95xrecord.vercel.app/COURT_DOCKET/LISTINGS/1RC191003776/04_TEXT/ocr/2022-05-26__Dkt322__1RC191003776__other.ocr.txt"
+    },
+    "held_by_station": true,
+    "gap": false
+  },
+  "pdf_conflict": null,
+  "flags": [
+    "text_only_no_pdf_of_document"
+  ],
+  "links": {
+    "register": "https://the95xrecord.vercel.app/register#dkt-322",
+    "register_json": "https://the95xrecord.vercel.app/api/v1/case/1RC191003776/dkt/322.json",
+    "ssot": "https://the95xrecord.vercel.app/ssot.json",
+    "crossref": "https://the95xrecord.vercel.app/data/crossref.json"
+  }
+}

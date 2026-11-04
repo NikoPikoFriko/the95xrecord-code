@@ -1,0 +1,33 @@
+{
+  "schema": "ssot/api-docket@1",
+  "case": "1RC191003776",
+  "docket": 494,
+  "code": "PROP",
+  "filed": "23-OCT-2026",
+  "filed_iso": "2026-10-23",
+  "time": "11:34:15",
+  "ra_pdf_page": 195,
+  "grade": "OBS",
+  "for_counsel": false,
+  "evidence": {
+    "renditions": [
+      {
+        "file": "COURT_DOCKET/REGULAR/2026-10-23__1RC191003776__DKT__DKT0494-PROP__proposed-order-extend-time-dkt442-exhibits__SRC__h7e6ca77920bf.pdf",
+        "sha256": "7e6ca77920bfae393fe666cf1dda023ef3e10ba835adfbb92859ea5341ab52d0",
+        "location": "canonical_library",
+        "published_url": null
+      }
+    ],
+    "text": null,
+    "held_by_station": true,
+    "gap": false
+  },
+  "pdf_conflict": null,
+  "flags": [],
+  "links": {
+    "register": "https://the95xrecord.vercel.app/register#dkt-494",
+    "register_json": "https://the95xrecord.vercel.app/api/v1/case/1RC191003776/dkt/494.json",
+    "ssot": "https://the95xrecord.vercel.app/ssot.json",
+    "crossref": "https://the95xrecord.vercel.app/data/crossref.json"
+  }
+}

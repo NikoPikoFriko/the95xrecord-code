@@ -1,0 +1,11 @@
+{
+  "schema": "ssot/api-hash@1",
+  "sha256": "bdb4892770e6b9c7ffc6e8fed5b7189ae79539fc85578a5f47a47dcb4c4b7357",
+  "kind": "trial_text",
+  "case": "1RC191003776",
+  "docket": 58,
+  "file": "2020-02-06__Dkt058__1RC191003776__thyssenkrupp-elevator-corporation-s-non-hearing-motion-attor.ocr.txt",
+  "published_url": "https://the95xrecord.vercel.app/COURT_DOCKET/LISTINGS/1RC191003776/04_TEXT/ocr/2020-02-06__Dkt058__1RC191003776__thyssenkrupp-elevator-corporation-s-non-hearing-motion-attor.ocr.txt",
+  "lookup": "https://the95xrecord.vercel.app/api/v1/hash/bdb4892770e6b9c7ffc6e8fed5b7189ae79539fc85578a5f47a47dcb4c4b7357.json",
+  "ssot": "https://the95xrecord.vercel.app/ssot.json"
+}

@@ -1,0 +1,11 @@
+{
+  "schema": "ssot/api-hash@1",
+  "sha256": "df1f300e837b1853d21e441c61679fc1869d2b3a013898200a94a39f10bf1377",
+  "kind": "document_page",
+  "case": "1RC191003776",
+  "docket": 57,
+  "file": "2020-02-03__1RC191003776__DKT0057__nef-re-ord-grant-3rd-pty-def-thyssenkrupps-msj-on-3rd-pty-cmplt.pdf",
+  "published_url": "https://the95xrecord.vercel.app/docs/b6e1945cba",
+  "lookup": "https://the95xrecord.vercel.app/api/v1/hash/df1f300e837b1853d21e441c61679fc1869d2b3a013898200a94a39f10bf1377.json",
+  "ssot": "https://the95xrecord.vercel.app/ssot.json"
+}

@@ -1,0 +1,11 @@
+{
+  "schema": "ssot/api-hash@1",
+  "sha256": "5dc145739ff3f97a13c15693943f02e2605f33e1933ad3bade2c8d178ba7bb88",
+  "kind": "document_page",
+  "case": "1RC191003776",
+  "docket": 190,
+  "file": "2021-03-17__Dkt190__1RC191003776__return-of-service-acknowledgment-of-service-first-.pdf",
+  "published_url": "https://the95xrecord.vercel.app/docs/af42df3db0",
+  "lookup": "https://the95xrecord.vercel.app/api/v1/hash/5dc145739ff3f97a13c15693943f02e2605f33e1933ad3bade2c8d178ba7bb88.json",
+  "ssot": "https://the95xrecord.vercel.app/ssot.json"
+}

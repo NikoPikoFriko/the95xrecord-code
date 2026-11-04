@@ -1,0 +1,33 @@
+{
+  "schema": "ssot/api-docket@1",
+  "case": "1RC191003776",
+  "docket": 30,
+  "code": "PSTMT",
+  "filed": "13-JAN-2020",
+  "filed_iso": "2020-01-13",
+  "time": "16:25:46",
+  "ra_pdf_page": 12,
+  "grade": "PARTIAL",
+  "for_counsel": false,
+  "evidence": {
+    "renditions": [],
+    "text": {
+      "file": "COURT_DOCKET/LISTINGS/1RC191003776/04_TEXT/ocr/2020-01-13__Dkt030__1RC191003776__plaintiff-association-of-apartment-owners-of-marine-surf-wai.ocr.txt",
+      "sha256": "4ac96dda2e4746c4eba56d9fda9afc84b44f41ba207730f9be22be5f6382d85d",
+      "location": "court_docket_listings_ocr",
+      "published_url": "https://the95xrecord.vercel.app/COURT_DOCKET/LISTINGS/1RC191003776/04_TEXT/ocr/2020-01-13__Dkt030__1RC191003776__plaintiff-association-of-apartment-owners-of-marine-surf-wai.ocr.txt"
+    },
+    "held_by_station": true,
+    "gap": false
+  },
+  "pdf_conflict": null,
+  "flags": [
+    "text_only_no_pdf_of_document"
+  ],
+  "links": {
+    "register": "https://the95xrecord.vercel.app/register#dkt-30",
+    "register_json": "https://the95xrecord.vercel.app/api/v1/case/1RC191003776/dkt/30.json",
+    "ssot": "https://the95xrecord.vercel.app/ssot.json",
+    "crossref": "https://the95xrecord.vercel.app/data/crossref.json"
+  }
+}

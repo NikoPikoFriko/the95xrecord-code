@@ -1,0 +1,11 @@
+{
+  "schema": "ssot/api-hash@1",
+  "sha256": "a29d151dad4b146838ac3746e9904f0f8441b9a7f8ef3ed6751d88fab1302df3",
+  "kind": "document_page",
+  "case": "1RC191003776",
+  "docket": 152,
+  "file": "2021-01-22__1RC191003776__DKT0152__expm-exam-judgment-debtor.pdf",
+  "published_url": "https://the95xrecord.vercel.app/docs/14f2729e12",
+  "lookup": "https://the95xrecord.vercel.app/api/v1/hash/a29d151dad4b146838ac3746e9904f0f8441b9a7f8ef3ed6751d88fab1302df3.json",
+  "ssot": "https://the95xrecord.vercel.app/ssot.json"
+}

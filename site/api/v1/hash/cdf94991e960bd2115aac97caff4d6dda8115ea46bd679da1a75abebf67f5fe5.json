@@ -1,0 +1,11 @@
+{
+  "schema": "ssot/api-hash@1",
+  "sha256": "cdf94991e960bd2115aac97caff4d6dda8115ea46bd679da1a75abebf67f5fe5",
+  "kind": "document_page",
+  "case": "1RC191003776",
+  "docket": 463,
+  "file": "2026-09-15__Dkt463__1RC191003776__notice-of-court-date-hearing-on-motion-2026-09-28.pdf",
+  "published_url": "https://the95xrecord.vercel.app/docs/0787b7ece0",
+  "lookup": "https://the95xrecord.vercel.app/api/v1/hash/cdf94991e960bd2115aac97caff4d6dda8115ea46bd679da1a75abebf67f5fe5.json",
+  "ssot": "https://the95xrecord.vercel.app/ssot.json"
+}

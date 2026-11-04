@@ -1,0 +1,11 @@
+{
+  "schema": "ssot/api-hash@1",
+  "sha256": "4fcf036afe9cdf721d0b2f01f2e3336343abb98df15f8f22777dac4d935c057e",
+  "kind": "document_page",
+  "case": "1RC191003776",
+  "docket": null,
+  "file": "1RC_HIOSH_FORENSIC_DOSSIER_2026-10-24.pdf",
+  "published_url": "https://the95xrecord.vercel.app/docs/8ecc0eff5a",
+  "lookup": "https://the95xrecord.vercel.app/api/v1/hash/4fcf036afe9cdf721d0b2f01f2e3336343abb98df15f8f22777dac4d935c057e.json",
+  "ssot": "https://the95xrecord.vercel.app/ssot.json"
+}

@@ -1,0 +1,11 @@
+{
+  "schema": "ssot/api-hash@1",
+  "sha256": "7b4ac2303e45801e32ed7da2516aa850f4f2682b144ec32685ce411744638fa3",
+  "kind": "document_page",
+  "case": "1RC191003776",
+  "docket": 101,
+  "file": "2020-07-09__1RC191003776__DKT0101__ntc-sub-prop-ord-grant-3pdef-thyssenkrupp-elevator-mtn-final.pdf",
+  "published_url": "https://the95xrecord.vercel.app/docs/3afeeb5bcb",
+  "lookup": "https://the95xrecord.vercel.app/api/v1/hash/7b4ac2303e45801e32ed7da2516aa850f4f2682b144ec32685ce411744638fa3.json",
+  "ssot": "https://the95xrecord.vercel.app/ssot.json"
+}

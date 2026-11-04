@@ -1,0 +1,11 @@
+{
+  "schema": "ssot/api-hash@1",
+  "sha256": "6414271ea07708269e6d09ab9952a78b00f34f664a5eae103bf392353f286797",
+  "kind": "trial_text",
+  "case": "1RC191003776",
+  "docket": 34,
+  "file": "2020-01-14__Dkt034__1RC191003776__response-and-memorandum-in-opposition-to-motion-for-summary.ocr.txt",
+  "published_url": "https://the95xrecord.vercel.app/COURT_DOCKET/LISTINGS/1RC191003776/04_TEXT/ocr/2020-01-14__Dkt034__1RC191003776__response-and-memorandum-in-opposition-to-motion-for-summary.ocr.txt",
+  "lookup": "https://the95xrecord.vercel.app/api/v1/hash/6414271ea07708269e6d09ab9952a78b00f34f664a5eae103bf392353f286797.json",
+  "ssot": "https://the95xrecord.vercel.app/ssot.json"
+}

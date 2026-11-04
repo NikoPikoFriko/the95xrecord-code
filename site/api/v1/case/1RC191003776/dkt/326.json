@@ -1,0 +1,33 @@
+{
+  "schema": "ssot/api-docket@1",
+  "case": "1RC191003776",
+  "docket": 326,
+  "code": "OT",
+  "filed": "13-JUL-2022",
+  "filed_iso": "2022-07-13",
+  "time": "17:49:25",
+  "ra_pdf_page": 112,
+  "grade": "PARTIAL",
+  "for_counsel": false,
+  "evidence": {
+    "renditions": [],
+    "text": {
+      "file": "COURT_DOCKET/LISTINGS/1RC191003776/04_TEXT/ocr/2022-07-13__Dkt326__1RC191003776__plaintiff-and-couterclaim-defendant-association-of-apartment.ocr.txt",
+      "sha256": "7ffec0128163c5007f6ab1d2934c1e41552d69a7750501d23aeb88c763521e3e",
+      "location": "court_docket_listings_ocr",
+      "published_url": "https://the95xrecord.vercel.app/COURT_DOCKET/LISTINGS/1RC191003776/04_TEXT/ocr/2022-07-13__Dkt326__1RC191003776__plaintiff-and-couterclaim-defendant-association-of-apartment.ocr.txt"
+    },
+    "held_by_station": true,
+    "gap": false
+  },
+  "pdf_conflict": null,
+  "flags": [
+    "text_only_no_pdf_of_document"
+  ],
+  "links": {
+    "register": "https://the95xrecord.vercel.app/register#dkt-326",
+    "register_json": "https://the95xrecord.vercel.app/api/v1/case/1RC191003776/dkt/326.json",
+    "ssot": "https://the95xrecord.vercel.app/ssot.json",
+    "crossref": "https://the95xrecord.vercel.app/data/crossref.json"
+  }
+}

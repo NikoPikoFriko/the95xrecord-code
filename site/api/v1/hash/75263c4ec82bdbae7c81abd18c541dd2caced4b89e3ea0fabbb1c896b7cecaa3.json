@@ -1,0 +1,11 @@
+{
+  "schema": "ssot/api-hash@1",
+  "sha256": "75263c4ec82bdbae7c81abd18c541dd2caced4b89e3ea0fabbb1c896b7cecaa3",
+  "kind": "document_page",
+  "case": "1RC191003776",
+  "docket": null,
+  "file": "2022-01-20__1RC191003776__NONE__nef-ros-served-thyssenkrupp.pdf",
+  "published_url": "https://the95xrecord.vercel.app/docs/534249da13",
+  "lookup": "https://the95xrecord.vercel.app/api/v1/hash/75263c4ec82bdbae7c81abd18c541dd2caced4b89e3ea0fabbb1c896b7cecaa3.json",
+  "ssot": "https://the95xrecord.vercel.app/ssot.json"
+}

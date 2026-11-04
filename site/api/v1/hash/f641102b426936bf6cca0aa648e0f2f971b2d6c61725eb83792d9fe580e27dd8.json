@@ -1,0 +1,11 @@
+{
+  "schema": "ssot/api-hash@1",
+  "sha256": "f641102b426936bf6cca0aa648e0f2f971b2d6c61725eb83792d9fe580e27dd8",
+  "kind": "document_page",
+  "case": "1RC191003776",
+  "docket": 78,
+  "file": "2020-06-02__1RC191003776__DKT0078__amended-notice-of-court-date-re-motion-jun29-830.pdf",
+  "published_url": "https://the95xrecord.vercel.app/docs/d41e10cf92",
+  "lookup": "https://the95xrecord.vercel.app/api/v1/hash/f641102b426936bf6cca0aa648e0f2f971b2d6c61725eb83792d9fe580e27dd8.json",
+  "ssot": "https://the95xrecord.vercel.app/ssot.json"
+}

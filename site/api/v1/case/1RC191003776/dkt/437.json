@@ -1,0 +1,40 @@
+{
+  "schema": "ssot/api-docket@1",
+  "case": "1RC191003776",
+  "docket": 437,
+  "code": "DOC",
+  "filed": "20-AUG-2026",
+  "filed_iso": "2026-08-20",
+  "time": "11:53:23",
+  "ra_pdf_page": 163,
+  "grade": "PARTIAL",
+  "for_counsel": false,
+  "evidence": {
+    "renditions": [
+      {
+        "file": "EMAILS/_blindness/PACK_DOCKET_2026-08-21/comm/cases/2026-08-17-amanda-letter-improve/jefs/filed_20260820/Dkt437_ExtendStricken_5877396538.pdf",
+        "sha256": "602a3e102b18447df8617721baea40252168a707a44177e40dd37540b1285fea",
+        "location": "email_pack",
+        "published_url": null
+      }
+    ],
+    "text": {
+      "file": "COURT_DOCKET/LISTINGS/1RC191003776/04_TEXT/ocr/2026-08-20__Dkt437__1RC191003776__defendant-counterclaim-plaintiff-nikodem-pikor-s-motion-to-e.ocr.txt",
+      "sha256": "b8aadad85edb96f7596f193d11e76e36ea320078522ed91f51e4ba0ce96fb61e",
+      "location": "court_docket_listings_ocr",
+      "published_url": "https://the95xrecord.vercel.app/COURT_DOCKET/LISTINGS/1RC191003776/04_TEXT/ocr/2026-08-20__Dkt437__1RC191003776__defendant-counterclaim-plaintiff-nikodem-pikor-s-motion-to-e.ocr.txt"
+    },
+    "held_by_station": true,
+    "gap": false
+  },
+  "pdf_conflict": null,
+  "flags": [
+    "pdf_outside_canonical_library"
+  ],
+  "links": {
+    "register": "https://the95xrecord.vercel.app/register#dkt-437",
+    "register_json": "https://the95xrecord.vercel.app/api/v1/case/1RC191003776/dkt/437.json",
+    "ssot": "https://the95xrecord.vercel.app/ssot.json",
+    "crossref": "https://the95xrecord.vercel.app/data/crossref.json"
+  }
+}

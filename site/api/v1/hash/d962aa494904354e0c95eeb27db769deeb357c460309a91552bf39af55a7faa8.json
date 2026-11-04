@@ -1,0 +1,11 @@
+{
+  "schema": "ssot/api-hash@1",
+  "sha256": "d962aa494904354e0c95eeb27db769deeb357c460309a91552bf39af55a7faa8",
+  "kind": "document_page",
+  "case": "1RC191003776",
+  "docket": 197,
+  "file": "2021-03-22__1RC191003776__DKT0197__disclosure-fhb.pdf",
+  "published_url": "https://the95xrecord.vercel.app/docs/75eb5b3034",
+  "lookup": "https://the95xrecord.vercel.app/api/v1/hash/d962aa494904354e0c95eeb27db769deeb357c460309a91552bf39af55a7faa8.json",
+  "ssot": "https://the95xrecord.vercel.app/ssot.json"
+}

@@ -1,0 +1,11 @@
+{
+  "schema": "ssot/api-hash@1",
+  "sha256": "080b7bfde42b1f4b87ef9b9bc40d51def599592359bc7ef3347400bad9fb59c2",
+  "kind": "appeal_pdf",
+  "case": "CAAP-26-0000625",
+  "docket": 10,
+  "file": "2026-09-16__CAAP-26-0000625__DKT__DKT0010-PY__payment-285-receipt-609983__SRC__h080b7bfde42b.pdf",
+  "published_url": null,
+  "lookup": "https://the95xrecord.vercel.app/api/v1/hash/080b7bfde42b1f4b87ef9b9bc40d51def599592359bc7ef3347400bad9fb59c2.json",
+  "ssot": "https://the95xrecord.vercel.app/ssot.json"
+}

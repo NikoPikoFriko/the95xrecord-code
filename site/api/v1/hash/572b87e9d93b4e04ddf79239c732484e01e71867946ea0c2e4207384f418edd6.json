@@ -1,0 +1,11 @@
+{
+  "schema": "ssot/api-hash@1",
+  "sha256": "572b87e9d93b4e04ddf79239c732484e01e71867946ea0c2e4207384f418edd6",
+  "kind": "document_page",
+  "case": "1RC191003776",
+  "docket": 69,
+  "file": "2020-04-07__1RC191003776__DKT0069__nef-re-3rd-pty-def-thyssenkrupps-mtn-for-certification-pursuant.pdf",
+  "published_url": "https://the95xrecord.vercel.app/docs/3426baae70",
+  "lookup": "https://the95xrecord.vercel.app/api/v1/hash/572b87e9d93b4e04ddf79239c732484e01e71867946ea0c2e4207384f418edd6.json",
+  "ssot": "https://the95xrecord.vercel.app/ssot.json"
+}

@@ -1,0 +1,11 @@
+{
+  "schema": "ssot/api-hash@1",
+  "sha256": "33881d3de6ac3f8a19f936c412267f7793dd3281aba447f639ee1b4163a4502c",
+  "kind": "document_page",
+  "case": "1RC191003776",
+  "docket": null,
+  "file": "2018-05-09__1RC191003776__NONE__exh4-thyssenkrupp-service-request-200114resp-miotomsj.pdf",
+  "published_url": "https://the95xrecord.vercel.app/docs/330617ba75",
+  "lookup": "https://the95xrecord.vercel.app/api/v1/hash/33881d3de6ac3f8a19f936c412267f7793dd3281aba447f639ee1b4163a4502c.json",
+  "ssot": "https://the95xrecord.vercel.app/ssot.json"
+}

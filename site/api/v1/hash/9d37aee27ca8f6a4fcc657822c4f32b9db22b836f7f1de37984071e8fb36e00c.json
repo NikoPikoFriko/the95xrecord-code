@@ -1,0 +1,11 @@
+{
+  "schema": "ssot/api-hash@1",
+  "sha256": "9d37aee27ca8f6a4fcc657822c4f32b9db22b836f7f1de37984071e8fb36e00c",
+  "kind": "document_page",
+  "case": "1RC191003776",
+  "docket": 21,
+  "file": "2020-01-08__1RC191003776__DKT0021__notice-of-court-date.pdf",
+  "published_url": "https://the95xrecord.vercel.app/docs/fa0b415092",
+  "lookup": "https://the95xrecord.vercel.app/api/v1/hash/9d37aee27ca8f6a4fcc657822c4f32b9db22b836f7f1de37984071e8fb36e00c.json",
+  "ssot": "https://the95xrecord.vercel.app/ssot.json"
+}

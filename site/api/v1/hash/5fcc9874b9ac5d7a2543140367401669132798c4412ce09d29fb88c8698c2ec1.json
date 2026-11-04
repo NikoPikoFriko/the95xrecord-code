@@ -1,0 +1,11 @@
+{
+  "schema": "ssot/api-hash@1",
+  "sha256": "5fcc9874b9ac5d7a2543140367401669132798c4412ce09d29fb88c8698c2ec1",
+  "kind": "document_page",
+  "case": "1RC191003776",
+  "docket": 242,
+  "file": "2021-12-29__Dkt242__1RC191003776__stricken-counterclaim-defendant-association-of-apa.pdf",
+  "published_url": "https://the95xrecord.vercel.app/docs/513c5f9cc4",
+  "lookup": "https://the95xrecord.vercel.app/api/v1/hash/5fcc9874b9ac5d7a2543140367401669132798c4412ce09d29fb88c8698c2ec1.json",
+  "ssot": "https://the95xrecord.vercel.app/ssot.json"
+}

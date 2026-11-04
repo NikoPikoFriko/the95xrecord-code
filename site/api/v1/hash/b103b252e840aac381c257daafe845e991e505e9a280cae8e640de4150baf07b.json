@@ -1,0 +1,11 @@
+{
+  "schema": "ssot/api-hash@1",
+  "sha256": "b103b252e840aac381c257daafe845e991e505e9a280cae8e640de4150baf07b",
+  "kind": "document_page",
+  "case": "1RC191003776",
+  "docket": 470,
+  "file": "2026-09-16__Dkt470__1RC191003776__amended-notice-of-invitation-remote-hearing-mot.pdf",
+  "published_url": "https://the95xrecord.vercel.app/docs/3094ae1f68",
+  "lookup": "https://the95xrecord.vercel.app/api/v1/hash/b103b252e840aac381c257daafe845e991e505e9a280cae8e640de4150baf07b.json",
+  "ssot": "https://the95xrecord.vercel.app/ssot.json"
+}

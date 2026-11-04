@@ -1,0 +1,11 @@
+{
+  "schema": "ssot/api-hash@1",
+  "sha256": "f702b1c3d370a180b4843af3ab381c91772db63b1b974b5a964c8423c34380b6",
+  "kind": "trial_text",
+  "case": "1RC191003776",
+  "docket": 195,
+  "file": "2021-03-22__Dkt195__1RC191003776__garnishee-re-central-pacific-bank-indebted.ocr.txt",
+  "published_url": "https://the95xrecord.vercel.app/COURT_DOCKET/LISTINGS/1RC191003776/04_TEXT/ocr/2021-03-22__Dkt195__1RC191003776__garnishee-re-central-pacific-bank-indebted.ocr.txt",
+  "lookup": "https://the95xrecord.vercel.app/api/v1/hash/f702b1c3d370a180b4843af3ab381c91772db63b1b974b5a964c8423c34380b6.json",
+  "ssot": "https://the95xrecord.vercel.app/ssot.json"
+}

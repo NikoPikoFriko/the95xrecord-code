@@ -1,0 +1,11 @@
+{
+  "schema": "ssot/api-hash@1",
+  "sha256": "c8fead280a3ecd20fa18b3f220d0a43a88f57c2c05c355fc432453e3d8603cc5",
+  "kind": "document_page",
+  "case": "1RC191003776",
+  "docket": 449,
+  "file": "2026-08-31__1RC191003776__DKT0449__dkt0449-0450-ntc-remote-hrg-1-30pm.pdf",
+  "published_url": "https://the95xrecord.vercel.app/docs/bf07063936",
+  "lookup": "https://the95xrecord.vercel.app/api/v1/hash/c8fead280a3ecd20fa18b3f220d0a43a88f57c2c05c355fc432453e3d8603cc5.json",
+  "ssot": "https://the95xrecord.vercel.app/ssot.json"
+}

@@ -1,0 +1,11 @@
+{
+  "schema": "ssot/api-hash@1",
+  "sha256": "540b9a1b0e20decfa4c42bb77b4248a50e7fca615b1780c8ebf071e12747a3c3",
+  "kind": "document_page",
+  "case": "1RC191003776",
+  "docket": 398,
+  "file": "2024-06-27__Dkt398__1RC191003776__plaintiff-and-counterclaim-defendant-association-o.pdf",
+  "published_url": "https://the95xrecord.vercel.app/docs/eb0dced588",
+  "lookup": "https://the95xrecord.vercel.app/api/v1/hash/540b9a1b0e20decfa4c42bb77b4248a50e7fca615b1780c8ebf071e12747a3c3.json",
+  "ssot": "https://the95xrecord.vercel.app/ssot.json"
+}

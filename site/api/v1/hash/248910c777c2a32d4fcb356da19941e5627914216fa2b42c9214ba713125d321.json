@@ -1,0 +1,11 @@
+{
+  "schema": "ssot/api-hash@1",
+  "sha256": "248910c777c2a32d4fcb356da19941e5627914216fa2b42c9214ba713125d321",
+  "kind": "trial_text",
+  "case": "1RC191003776",
+  "docket": 346,
+  "file": "2022-10-13__Dkt346__1RC191003776__plaintiff-s-exhibits-j19-j20-j21-j22-j23-j24-j25-j26-j27-j28.ocr.txt",
+  "published_url": "https://the95xrecord.vercel.app/COURT_DOCKET/LISTINGS/1RC191003776/04_TEXT/ocr/2022-10-13__Dkt346__1RC191003776__plaintiff-s-exhibits-j19-j20-j21-j22-j23-j24-j25-j26-j27-j28.ocr.txt",
+  "lookup": "https://the95xrecord.vercel.app/api/v1/hash/248910c777c2a32d4fcb356da19941e5627914216fa2b42c9214ba713125d321.json",
+  "ssot": "https://the95xrecord.vercel.app/ssot.json"
+}

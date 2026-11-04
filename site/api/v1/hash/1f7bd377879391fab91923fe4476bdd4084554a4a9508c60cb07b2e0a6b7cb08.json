@@ -1,0 +1,11 @@
+{
+  "schema": "ssot/api-hash@1",
+  "sha256": "1f7bd377879391fab91923fe4476bdd4084554a4a9508c60cb07b2e0a6b7cb08",
+  "kind": "document_page",
+  "case": "1RC191003776",
+  "docket": 44,
+  "file": "2020-01-15__1RC191003776__DKT0044__amended-notice-of-court-date.pdf",
+  "published_url": "https://the95xrecord.vercel.app/docs/b628ada210",
+  "lookup": "https://the95xrecord.vercel.app/api/v1/hash/1f7bd377879391fab91923fe4476bdd4084554a4a9508c60cb07b2e0a6b7cb08.json",
+  "ssot": "https://the95xrecord.vercel.app/ssot.json"
+}

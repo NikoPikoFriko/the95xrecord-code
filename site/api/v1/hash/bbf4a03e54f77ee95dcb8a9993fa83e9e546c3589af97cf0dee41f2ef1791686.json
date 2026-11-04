@@ -1,0 +1,11 @@
+{
+  "schema": "ssot/api-hash@1",
+  "sha256": "bbf4a03e54f77ee95dcb8a9993fa83e9e546c3589af97cf0dee41f2ef1791686",
+  "kind": "document_page",
+  "case": "1RC191003776",
+  "docket": 10,
+  "file": "2026-09-16__CAAP-26-0000625__DKT0010__caap-625-receipt.pdf",
+  "published_url": "https://the95xrecord.vercel.app/docs/74c5365703",
+  "lookup": "https://the95xrecord.vercel.app/api/v1/hash/bbf4a03e54f77ee95dcb8a9993fa83e9e546c3589af97cf0dee41f2ef1791686.json",
+  "ssot": "https://the95xrecord.vercel.app/ssot.json"
+}

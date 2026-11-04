@@ -1,0 +1,157 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1"><title>Certified-first — capture policy and telemetry</title>
+<style>
+:root{--ink:#111;--muted:#666;--line:#e5e5e5;--bg:#faf9f7;--accent:#7a1f1f;--ok:#1f5f3a}
+*{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--ink);font:16px/1.55 Georgia,serif}
+header{padding:52px 24px 26px;border-bottom:1px solid var(--line)}main,footer{max-width:920px;margin:0 auto;padding:24px}
+h1{font-size:2.05rem;line-height:1.15;margin:0 0 8px}h2{margin:2.1em 0 .5em;font-size:1.22rem}
+.muted{color:var(--muted)}a{color:var(--accent)}table{border-collapse:collapse;width:100%;font-size:.88rem}
+th,td{border-bottom:1px solid var(--line);padding:7px 8px;text-align:left;vertical-align:top}
+code{font:12px/1.4 ui-monospace,Menlo,monospace;background:#f0eee9;padding:1px 4px;border-radius:3px}
+.grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(150px,1fr));gap:12px;margin:26px 0}
+.card{border:1px solid var(--line);padding:14px;background:#fff}.n{font-size:1.85rem;display:block;font-variant-numeric:tabular-nums}
+.gap{border-left:3px solid var(--accent);padding-left:14px;margin:18px 0}
+.ok{border-left:3px solid var(--ok);padding-left:14px;margin:18px 0}
+</style>
+<meta property="og:title" content="Certified-first — capture policy and telemetry">
+<meta property="og:description" content="The 95× Record — verified record of 1RC191003776 and CAAP-26-0000625.">
+<meta property="og:url" content="https://the95xrecord.vercel.app/certified">
+<meta property="og:type" content="article">
+<meta property="og:image" content="https://the95xrecord.vercel.app/media/og-1200x630.png">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="Certified-first — capture policy and telemetry">
+<meta name="twitter:description" content="The 95× Record — verified record of 1RC191003776 and CAAP-26-0000625.">
+<meta name="twitter:image" content="https://the95xrecord.vercel.app/media/og-1200x630.png">
+<link rel="icon" href="assets/brand/favicon.svg" type="image/svg+xml"><link rel="alternate icon" href="assets/brand/favicon-32.png" sizes="32x32"><link rel="apple-touch-icon" href="assets/brand/favicon-180.png"></head><body><header><div style="border-bottom:1px solid #e5e5e5;padding:6px 0 10px;margin-bottom:6px;font:12px ui-monospace,Menlo,monospace;letter-spacing:.14em;color:#7a1f1f">THE 95&times; RECORD &middot; CIVIL NO. 1RC19-1-003776</div><h1>Certified-first — the capture rule, and how a capture is proven</h1>
+<p class="muted">AOAO Marine Surf Waikiki v. Nikodem Pikor · 1RC191003776 · Circuit Court of the First Circuit, Hawaii · appeal CAAP-26-0000625</p>
+<p class="muted"><a href="index.html">record</a> · <a href="appeal.html">appeal</a> · <a href="register.html">register docket</a> · <a href="access.html">access</a> · <a href="texts.html">texts</a> · <a href="provenance.html">provenance</a> · <a href="versions.html">versions</a> · <a href="x.html">x</a> · <a href="snapshots.html">snapshots</a> · <a href="query.html">query</a> · <a href="reasoning/index.html">reasoning</a> · <a href="certified.html">certified</a> · <a href="nef.html">nef</a> · <a href="hook.html">the 95× record</a> · <a href="launch.html">launch plan</a> · <a href="decisions.html">decisions</a> · <a href="read.html">start here</a> · <a href="search.html">search</a> · <a href="docs.html">documents</a> · <a href="coverage.html">coverage</a> · <a href="drive.html">drive vs record</a> · <a href="census.html">census</a> · <a href="numbers.html">numbers</a> · <a href="fees.html">fees</a> · <a href="hinge.html">hinge</a> · <a href="gate.html">gate</a> · <a href="findings.html">findings</a> · <a href="emails.html">email exhibits</a> · <a href="errata.html">errata</a> · <a href="appendix.html">appendix</a> · <a href="people.html">people</a> · <a href="candidates.html">candidates</a> · <a href="leads.html">open leads</a> · <a href="pl.html">PL</a></p>
+</header><main>
+
+<p><strong>The strongest copy obtainable is the certified one, and it can only be taken once.</strong>
+JIMS offers a <em>Download Certified Copy</em> button only while a certified copy is still available — once
+taken (by anyone), it is gone; a regular copy can be downloaded any number of times. So the capture rule is
+mechanical, and it is applied to every document in the library:</p>
+<table><thead><tr><th>certified button</th><th>action</th><th>recorded grade</th></tr></thead><tbody>
+<tr><td><strong>enabled</strong> (never downloaded)</td><td>take the <strong>certified</strong> copy first, then
+verify the Clerk’s certification sentence on page 1</td><td><code>CERT</code> — OBS when the hash and
+the stamp are verified</td></tr>
+<tr><td><strong>disabled / absent</strong></td><td>fall back to the regular copy</td><td><code>SRC</code>, and
+record <code>certified_available: false</code> (already taken, or not offered)</td></tr>
+</tbody></table>
+
+<h2 id="three-tiers">The three tiers — and what each may claim</h2>
+<p>The hierarchy is <strong>CERTIFIED / BEST AVAILABLE / TEXT-GAP</strong>. Tier 2 exists because the operator
+amended the capture rule on 2026-11-03:</p>
+<blockquote><p>IF NO CERTIFIED AVAILABLE — GRAB CURRENT UNCERTIFIED COPY AND USE AS 'BEST AVAILABLE'.</p>
+<p class="muted">— operator instruction, recorded verbatim in <code>tools/ssot/certified_first.md</code>
+(2026-11-03 amendment).</p></blockquote>
+<table><thead><tr><th>tier</th><th>when it is used</th><th>label on a row</th><th>grade rule</th><th>may claim</th><th>may not claim</th></tr></thead><tbody>
+<tr><td>1. CERTIFIED</td><td>the certified button was ENABLED (never downloaded before)</td><td><code>certified copy</code></td><td>OBS once the Clerk sentence on page 1 and the hash are verified</td><td>that this file is a court-certified copy of the record</td><td>any badge the library does not hold; certification of any other row</td></tr>
+<tr><td>2. BEST AVAILABLE</td><td>the certified button was DISABLED or absent, and a regular copy was downloadable now</td><td><code>best available copy</code></td><td>OBS for the bytes; the absence of certification is stated, never implied</td><td>that the file is the current copy the court served, at the recorded capture time, hash-verified</td><td>that it is certified, or that it is the best possible quality — it is the best <em>obtainable</em> one</td></tr>
+<tr><td>3. TEXT / GAP</td><td>no document is downloadable at all</td><td><code>text rendition</code> or an explicit <code>GAP</code></td><td>PARTIAL for text; GAP where nothing is held</td><td>that a text rendition exists where one does, and that a gap is a gap</td><td>that a document was read, quoted or certified from text alone</td></tr></tbody></table>
+<p class="muted">Counts on the library as of this build: <strong>certified 10</strong> ·
+<strong>best available 40</strong> · <strong>text 454</strong> ·
+<strong>GAP 0</strong> — 504 labelled rows (495 register + 9 tail).
+Derived from <code>data/tier_map.json</code> and the rendered register, not typed here.</p>
+<p><strong>Why it matters:</strong> taking a regular copy while the certified button is enabled is a one-way loss
+of the strongest form of that document — the certified download cannot be re-obtained. A regular copy can
+never be turned into a certified one. That is why the policy is "certified first", and why
+<a href="register.html">/register</a> and <a href="access.html">/access</a> state each file's form
+(<code>CERT</code> / <code>SRC</code> / <code>TEXT</code> / <code>PACK</code>).</p>
+
+<h2>How each capture is traced through Windows telemetry</h2>
+<p>A file is evidence only if we can say <em>when</em> and <em>from where</em> it came. The station records this
+from evidence the operating system keeps independently of our notes:</p>
+<ol>
+<li><strong>The bytes</strong> — SHA-256, size, and the NTFS <code>CreationTime</code> /
+<code>LastWriteTime</code>.</li>
+<li><strong>Zone.Identifier</strong> — the NTFS alternate data stream Chrome writes on download. It carries the
+source URL and referrer, and is the closest thing to a receipt that the file came from
+<code>jimspss1.courts.state.hi.us</code>.</li>
+<li><strong>Chrome downloads history</strong> — the live <code>History</code> SQLite database, queried for the
+file name (target path, start time, URL, referrer, received bytes, state).</li>
+<li><strong>USN journal</strong> (where available) — survives browser-history clearing.</li>
+</ol>
+<p class="muted">The record binds <strong>file → docket → JIMS URL → download time → browser
+row → hash</strong>, and is appended to <code>TELEMETRY.jsonl</code> by
+<code>tools/ssot/download_telemetry.ps1</code>. A capture without telemetry is still evidence of the file, but it
+cannot prove when it was taken — and "already downloaded" is exactly the state the certified button encodes.</p>
+
+<p class="muted"><strong>Correction (2026-11-03):</strong> an earlier telemetry table on this page attributed a capture-test file to Docket 496 and showed docket-less <code>ICA</code> rows. The table above is rebuilt from the corrected telemetry file (14 records, 11 unique files: 1 trial + 13 appeal, 7 from the certified servlet); each row carries its own correction note. The earlier misattribution was an operator-side labelling error and is recorded here rather than hidden.</p>
+
+<h2 id="trial-channel">Trial case 1RC191003776 — the free-certified channel is consumed</h2>
+<div class="gap"><p><strong>Certified button DISABLED on all nine sampled trial dockets</strong> — 488, 490,
+492, 496, 497, 498, 499, 500, 502 (seven of them substantive documents). A disabled certified button means JIMS no
+longer offers a certified copy of that document: the one-time free certified download has already been taken.
+<strong>Zero downloads were made in this pass and nothing was intaken</strong>, because there was nothing to take.</p>
+<p class="muted">The ten certified trial files already in the library — <strong>423, 434–438, 479, 492,
+493, 496</strong> — all carry the Clerk’s certification sentence on page 1, auditor-verified:
+<code>/s/ Lori Ann Okita, Clerk of the First Circuit</code>. That is why this page adds
+<strong>no new certified badge</strong>: the badges mark certified copies, and no new certified copy was obtained.</p>
+<p class="muted">The finding is recorded in <code>/ssot.json → trial_certified_channel</code> so it can be
+recorded with its evidence and its limits.</p></div>
+<p class="muted"><strong>Caveat:</strong> observed in the JIMS session on 2026-11-03; a disabled button is not byte-verifiable — what is verifiable is its consequence: zero downloads, no library change, empty intake with a stated reason, ten certified files untouched.</p>
+
+<h2 id="best-available-capture">Trial best-available capture — 2026-11-03</h2>
+<p>On 2026-11-03 the trial court's document modals were re-opened and, wherever the certified button was disabled
+or absent, the <strong>current regular copy was downloaded now</strong> and compared byte-for-byte with the file
+already held. <strong>9 of 9 captured files are byte-identical to the held file; 0
+differ.</strong> Consequence: <strong>no new rendition, no superseded file, no library change</strong> — the
+capture converts "we hold a file" into "we hold the file the court served, as of a timestamped capture".</p>
+<table><thead><tr><th>docket</th><th>code</th><th>captured file</th><th>bytes</th><th>pages</th><th>sha256 (12)</th>
+<th>captured at</th><th>outcome</th></tr></thead><tbody>
+<tr><td><code>488</code></td><td><code>PROP</code></td><td><code>2507365982.pdf</code></td><td>380,102</td><td>8</td><td><code>5ed5e1968bcf—</code></td><td><code>2026-11-03 20:00:04</code></td><td>already current, hash identical</td></tr>
+<tr><td><code>496</code></td><td><code>NA</code></td><td><code>0544253430.pdf</code></td><td>133,136</td><td>5</td><td><code>afda0dbbbd37—</code></td><td><code>2026-11-03 19:53:45</code></td><td>already current, hash identical</td></tr>
+<tr><td><code>497</code></td><td><code>NEF</code></td><td><code>6445304612.pdf</code></td><td>6,639</td><td>2</td><td><code>ffaecdd198f2—</code></td><td><code>2026-11-03 19:53:46</code></td><td>already current, hash identical</td></tr>
+<tr><td><code>498</code></td><td><code>RA</code></td><td><code>8778296279.pdf</code></td><td>548,768</td><td>198</td><td><code>65100c89cd2b—</code></td><td><code>2026-11-03 19:53:47</code></td><td>already current, hash identical</td></tr>
+<tr><td><code>499</code></td><td><code>NEF</code></td><td><code>8844346862.pdf</code></td><td>6,645</td><td>2</td><td><code>751646b64c6a—</code></td><td><code>2026-11-03 19:53:48</code></td><td>already current, hash identical</td></tr>
+<tr><td><code>500</code></td><td><code>ORD</code></td><td><code>4731879134.pdf</code></td><td>1,339,227</td><td>6</td><td><code>72bb68d9ebd2—</code></td><td><code>2026-11-03 19:53:49</code></td><td>already current, hash identical</td></tr>
+<tr><td><code>501</code></td><td><code>NEF</code></td><td><code>7451236901.pdf</code></td><td>6,808</td><td>2</td><td><code>937ceb5dfc24—</code></td><td><code>2026-11-03 20:00:01</code></td><td>already current, hash identical</td></tr>
+<tr><td><code>502</code></td><td><code>RA</code></td><td><code>6284199418.pdf</code></td><td>195,500</td><td>6</td><td><code>7c7978910396—</code></td><td><code>2026-11-03 20:00:02</code></td><td>already current, hash identical</td></tr>
+<tr><td><code>503</code></td><td><code>NEF</code></td><td><code>7191067518.pdf</code></td><td>6,637</td><td>2</td><td><code>c38308661b3e—</code></td><td><code>2026-11-03 20:00:03</code></td><td>already current, hash identical</td></tr>
+</tbody></table>
+<p class="muted">Also in this capture run: <strong>NO-PDF 4</strong> (480, 481, 486, 487 — <code>*MINH</code>
+minute entries with no document row in the JIMS Documents table); <strong>NOT-CHECKED 15</strong>
+(476, 477, 478, 479, 482, 483, 484, 485, 489, 490, 491, 492, 493, 494, 495 — session degraded; held files unchanged, resume at Dkt 489); <strong>CERTIFIED offered
+0</strong> (13 sampled modals, never an enabled certified button) — the channel is consumed on this case.
+Every captured file carries a telemetry record binding file &#8594; docket &#8594; JIMS URL &#8594; download time
+&#8594; hash; a best-available capture without telemetry is a file, not a capture.</p>
+<h2>Capture log — the appeal docket day</h2>
+<div class="ok"><p><strong>6 certified / 4 regular / 10 already held.</strong> On 2026-11-03 the appeal docket was
+captured certified-first: <strong>six</strong> dockets (15, 16, 17, 18, 19, 20) were taken as
+<strong>certified</strong> copies because their JIMS certified button was enabled; <strong>four</strong> (7, 9, 12, 14)
+had it disabled, so they were taken as <strong>regular</strong> copies and recorded as such; <strong>ten</strong>
+further appeal dockets were already held. Evidence that the certified ones are certified downloads: their
+<code>Zone.Identifier</code> URL is <code>CertifiedDocumentRetrievalServlet</code> (regular copies come from
+<code>DocumentRetrievalServlet</code>) — 7 of 14 telemetry records on this build carry the
+certified servlet.</p></div>
+<h2>Capture log (23 records)</h2>
+<table><thead><tr><th>case</th><th>docket</th><th>file</th><th>bytes</th><th>sha256</th><th>kind</th><th>correction applied</th></tr></thead><tbody>
+<tr><td><code>1RC191003776</code></td><td>488</td><td><code>1467407110.pdf</code></td><td>380,102</td><td><code>5ed5e1968bcfcf28—</code></td><td>regular</td><td>capture test run used -Docket 496 by mistake; sha256 5ed5e196… is the canonical Dkt 488 PROP file</td></tr>
+<tr><td><code>CAAP-26-0000625</code></td><td>12</td><td><code>3633425159.pdf</code></td><td>6,034</td><td><code>27369ac930c946fe—</code></td><td>regular</td><td>captured during the appeal run; sha256 27369ac9… is appeal Dkt 12 NEF paid twice under two Chrome names</td></tr>
+<tr><td><code>CAAP-26-0000625</code></td><td>20</td><td><code>9291312932.pdf</code></td><td>27,362</td><td><code>267462accd55e8f6—</code></td><td>certified</td><td>captured during the appeal run; sha256 267462ac… is appeal Dkt 20 NEF certified</td></tr>
+<tr><td><code>CAAP-26-0000625</code></td><td>7</td><td><code>5062423165.pdf</code></td><td>6,527</td><td><code>4a74160df75c3cd1—</code></td><td>regular</td><td></td></tr>
+<tr><td><code>CAAP-26-0000625</code></td><td>9</td><td><code>8943211287.pdf</code></td><td>6,031</td><td><code>ad3ebc5c1054421a—</code></td><td>regular</td><td></td></tr>
+<tr><td><code>CAAP-26-0000625</code></td><td>12</td><td><code>2336113480.pdf</code></td><td>6,034</td><td><code>27369ac930c946fe—</code></td><td>regular</td><td></td></tr>
+<tr><td><code>CAAP-26-0000625</code></td><td>12</td><td><code>3633425159.pdf</code></td><td>6,034</td><td><code>27369ac930c946fe—</code></td><td>regular</td><td>captured during the appeal run; sha256 27369ac9… is appeal Dkt 12 NEF paid twice under two Chrome names</td></tr>
+<tr><td><code>CAAP-26-0000625</code></td><td>14</td><td><code>3062223939.pdf</code></td><td>6,023</td><td><code>04950d932731a1f9—</code></td><td>regular</td><td></td></tr>
+<tr><td><code>CAAP-26-0000625</code></td><td>15</td><td><code>7177765457.pdf</code></td><td>525,504</td><td><code>d89cf0acf0bd7e8c—</code></td><td>certified</td><td></td></tr>
+<tr><td><code>CAAP-26-0000625</code></td><td>16</td><td><code>4852390986.pdf</code></td><td>26,757</td><td><code>40ca44e68ef32dc0—</code></td><td>certified</td><td></td></tr>
+<tr><td><code>CAAP-26-0000625</code></td><td>17</td><td><code>9245354012.pdf</code></td><td>152,372</td><td><code>66751c57d1a44719—</code></td><td>certified</td><td></td></tr>
+<tr><td><code>CAAP-26-0000625</code></td><td>18</td><td><code>4667174597.pdf</code></td><td>27,363</td><td><code>b7c272005399c569—</code></td><td>certified</td><td></td></tr>
+<tr><td><code>CAAP-26-0000625</code></td><td>19</td><td><code>1918442393.pdf</code></td><td>174,774</td><td><code>87f5b65e406ef146—</code></td><td>certified</td><td></td></tr>
+<tr><td><code>CAAP-26-0000625</code></td><td>20</td><td><code>9291312932.pdf</code></td><td>27,362</td><td><code>267462accd55e8f6—</code></td><td>certified</td><td>captured during the appeal run; sha256 267462ac… is appeal Dkt 20 NEF certified</td></tr>
+<tr><td><code>1RC191003776</code></td><td>496</td><td><code>0544253430.pdf</code></td><td>133,136</td><td><code>afda0dbbbd371f6e—</code></td><td>regular</td><td></td></tr>
+<tr><td><code>1RC191003776</code></td><td>497</td><td><code>6445304612.pdf</code></td><td>6,639</td><td><code>ffaecdd198f2f473—</code></td><td>regular</td><td></td></tr>
+<tr><td><code>1RC191003776</code></td><td>498</td><td><code>8778296279.pdf</code></td><td>548,768</td><td><code>65100c89cd2be4e5—</code></td><td>regular</td><td></td></tr>
+<tr><td><code>1RC191003776</code></td><td>499</td><td><code>8844346862.pdf</code></td><td>6,645</td><td><code>751646b64c6aeb24—</code></td><td>regular</td><td></td></tr>
+<tr><td><code>1RC191003776</code></td><td>500</td><td><code>4731879134.pdf</code></td><td>1,339,227</td><td><code>72bb68d9ebd2c570—</code></td><td>regular</td><td></td></tr>
+<tr><td><code>1RC191003776</code></td><td>501</td><td><code>7451236901.pdf</code></td><td>6,808</td><td><code>937ceb5dfc2465cb—</code></td><td>regular</td><td></td></tr>
+<tr><td><code>1RC191003776</code></td><td>502</td><td><code>6284199418.pdf</code></td><td>195,500</td><td><code>7c7978910396cbbd—</code></td><td>regular</td><td></td></tr>
+<tr><td><code>1RC191003776</code></td><td>503</td><td><code>7191067518.pdf</code></td><td>6,637</td><td><code>c38308661b3eb31e—</code></td><td>regular</td><td></td></tr>
+<tr><td><code>1RC191003776</code></td><td>488</td><td><code>2507365982.pdf</code></td><td>380,102</td><td><code>5ed5e1968bcfcf28—</code></td><td>regular</td><td></td></tr></tbody></table>
+<p class="muted">Policy document: <code>tools/ssot/certified_first.md</code> · telemetry script:
+<code>tools/ssot/download_telemetry.ps1</code> · snapshots: <a href="snapshots.html">/snapshots</a> ·
+mail cross-reference: <a href="nef.html">/nef</a>. Built 2026-11-03T20:05:13-10:00.</p>
+</main><footer class="muted"><p>States the record's contents; concludes nothing about the merits. Gaps are published on purpose.</p>
+<p>Generated by build2.py from register/*.json — every number computed, none typed.</p></footer></body></html>

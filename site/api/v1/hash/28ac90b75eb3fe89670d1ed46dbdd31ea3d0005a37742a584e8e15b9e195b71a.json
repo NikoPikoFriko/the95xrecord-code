@@ -1,0 +1,11 @@
+{
+  "schema": "ssot/api-hash@1",
+  "sha256": "28ac90b75eb3fe89670d1ed46dbdd31ea3d0005a37742a584e8e15b9e195b71a",
+  "kind": "document_page",
+  "case": "1RC191003776",
+  "docket": 342,
+  "file": "2022-10-13__Dkt342__1RC191003776__plaintiff-s-joint-exhibit-list.pdf",
+  "published_url": "https://the95xrecord.vercel.app/docs/e8588b475f",
+  "lookup": "https://the95xrecord.vercel.app/api/v1/hash/28ac90b75eb3fe89670d1ed46dbdd31ea3d0005a37742a584e8e15b9e195b71a.json",
+  "ssot": "https://the95xrecord.vercel.app/ssot.json"
+}

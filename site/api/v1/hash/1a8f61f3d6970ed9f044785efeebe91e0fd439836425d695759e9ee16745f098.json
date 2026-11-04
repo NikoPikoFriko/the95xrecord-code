@@ -1,0 +1,11 @@
+{
+  "schema": "ssot/api-hash@1",
+  "sha256": "1a8f61f3d6970ed9f044785efeebe91e0fd439836425d695759e9ee16745f098",
+  "kind": "document_page",
+  "case": "1RC191003776",
+  "docket": 336,
+  "file": "2022-08-05__1RC191003776__DKT0336__stip-for-continuance.pdf",
+  "published_url": "https://the95xrecord.vercel.app/docs/91c3f5f3fb",
+  "lookup": "https://the95xrecord.vercel.app/api/v1/hash/1a8f61f3d6970ed9f044785efeebe91e0fd439836425d695759e9ee16745f098.json",
+  "ssot": "https://the95xrecord.vercel.app/ssot.json"
+}

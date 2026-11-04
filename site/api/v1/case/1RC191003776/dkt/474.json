@@ -1,0 +1,40 @@
+{
+  "schema": "ssot/api-docket@1",
+  "case": "1RC191003776",
+  "docket": 474,
+  "code": "MEO",
+  "filed": "21-SEP-2026",
+  "filed_iso": "2026-09-21",
+  "time": "13:10:46",
+  "ra_pdf_page": 186,
+  "grade": "PARTIAL",
+  "for_counsel": false,
+  "evidence": {
+    "renditions": [
+      {
+        "file": "07_AGENT_WORK_REVIEW/FROM_AI_WORKSPACES_2026-10-23/CURSOR/.cursor/worktrees/AOAO_Marine_Surf_1RC191003776/ddym/99_INBOX/infranodus_judicial_audit_2026-10-03/judicial-audit-2026-10-03/evidence/docket/Dkt474.pdf",
+        "sha256": "8274872a883717f0f3d03fc5db926e34bd5872b31d283fddfb3ebae363468b47",
+        "location": "agent_worktree",
+        "published_url": null
+      }
+    ],
+    "text": {
+      "file": "06_EXTRACT/MAGIC_06_MATERIALS/DESK MAGIC FILES/2026-09-21__1RC191003776__DKT__DKT0474-MEO__plaintiff-opposition__EDIT__hf1146ebbc185.txt",
+      "sha256": "f1146ebbc185ce59abbc8af220f205cfd82e99d81a5c2252f37df30ea074fb41",
+      "location": "extract_materials_text",
+      "published_url": "https://the95xrecord.vercel.app/06_EXTRACT/MAGIC_06_MATERIALS/DESK MAGIC FILES/2026-09-21__1RC191003776__DKT__DKT0474-MEO__plaintiff-opposition__EDIT__hf1146ebbc185.txt"
+    },
+    "held_by_station": true,
+    "gap": false
+  },
+  "pdf_conflict": null,
+  "flags": [
+    "pdf_outside_canonical_library"
+  ],
+  "links": {
+    "register": "https://the95xrecord.vercel.app/register#dkt-474",
+    "register_json": "https://the95xrecord.vercel.app/api/v1/case/1RC191003776/dkt/474.json",
+    "ssot": "https://the95xrecord.vercel.app/ssot.json",
+    "crossref": "https://the95xrecord.vercel.app/data/crossref.json"
+  }
+}

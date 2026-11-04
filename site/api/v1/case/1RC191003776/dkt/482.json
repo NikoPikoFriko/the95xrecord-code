@@ -1,0 +1,40 @@
+{
+  "schema": "ssot/api-docket@1",
+  "case": "1RC191003776",
+  "docket": 482,
+  "code": "MTWC",
+  "filed": "30-SEP-2026",
+  "filed_iso": "2026-09-30",
+  "time": "14:51:20",
+  "ra_pdf_page": 190,
+  "grade": "PARTIAL",
+  "for_counsel": false,
+  "evidence": {
+    "renditions": [
+      {
+        "file": "07_AGENT_WORK_REVIEW/FROM_AI_WORKSPACES_2026-10-23/CURSOR/.cursor/worktrees/AOAO_Marine_Surf_1RC191003776/ddym/99_INBOX/infranodus_judicial_audit_2026-10-03/judicial-audit-2026-10-03/evidence/docket/Dkt482.pdf",
+        "sha256": "031de4cadb30cbb466e8bbb99f285b8e28aea701a18a035f99ee88599a73c0f3",
+        "location": "agent_worktree",
+        "published_url": null
+      }
+    ],
+    "text": {
+      "file": "06_EXTRACT/MAGIC_06_MATERIALS/DESK MAGIC FILES/1RC191003776__Dkt482__MTWC-proposed-orde.txt",
+      "sha256": "15fbbca0c0c5369e0fea95c22069f87c24610f22e38a3d09d33e47adce29024a",
+      "location": "extract_materials_text",
+      "published_url": "https://the95xrecord.vercel.app/06_EXTRACT/MAGIC_06_MATERIALS/DESK MAGIC FILES/1RC191003776__Dkt482__MTWC-proposed-orde.txt"
+    },
+    "held_by_station": true,
+    "gap": false
+  },
+  "pdf_conflict": null,
+  "flags": [
+    "pdf_outside_canonical_library"
+  ],
+  "links": {
+    "register": "https://the95xrecord.vercel.app/register#dkt-482",
+    "register_json": "https://the95xrecord.vercel.app/api/v1/case/1RC191003776/dkt/482.json",
+    "ssot": "https://the95xrecord.vercel.app/ssot.json",
+    "crossref": "https://the95xrecord.vercel.app/data/crossref.json"
+  }
+}

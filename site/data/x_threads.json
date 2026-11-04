@@ -1,0 +1,183 @@
+{
+  "schema": "ssot/x-threads@1",
+  "generated": "2026-11-03T17:56:52-10:00",
+  "generator": "gen_argon.py (T19 build+deploy, DSH) — version 1",
+  "note": "Bilingual EN/PL thread payloads. Every post links a #dkt-N anchor on this site and /ssot.json. Facts only: numbers are the published ones; legal boundaries stay for counsel.",
+  "site": "https://the95xrecord.vercel.app",
+  "threads": {
+    "en": [
+      {
+        "n": 1,
+        "text": "The 95× Record: every number on the site is computed from the record's own datasets, and every row carries case, docket, evidence and grade. 495 trial docket rows, 20 appeal docket rows. Nothing hidden, nothing invented.",
+        "anchors": [
+          "register.html#dkt-1",
+          "appeal.html#dkt-1"
+        ],
+        "links": [
+          "https://the95xrecord.vercel.app/register.html#dkt-1",
+          "https://the95xrecord.vercel.app/appeal.html#dkt-1",
+          "https://the95xrecord.vercel.app/ssot.json"
+        ]
+      },
+      {
+        "n": 2,
+        "text": "The judgment appealed is trial Dkt 427 (filed 23-JUN-2026). Its row names the held file and its SHA-256 — check the bytes, not the claim.",
+        "anchors": [
+          "register.html#dkt-427"
+        ],
+        "links": [
+          "https://the95xrecord.vercel.app/register.html#dkt-427",
+          "https://the95xrecord.vercel.app/ssot.json"
+        ]
+      },
+      {
+        "n": 3,
+        "text": "Record on Appeal: ICA Dkt 15, register pages 5–195, 495 entries. The register's own header says \"495 record(s) total\".",
+        "anchors": [
+          "register.html#dkt-495"
+        ],
+        "links": [
+          "https://the95xrecord.vercel.app/register.html#dkt-495",
+          "https://the95xrecord.vercel.app/ssot.json"
+        ]
+      },
+      {
+        "n": 4,
+        "text": "454 dockets live only as text. They are published as text with provenance: source file, source SHA-256, method (OCR · native), grade, and the published file's own hash.",
+        "anchors": [
+          "texts.html#dkt-12"
+        ],
+        "links": [
+          "https://the95xrecord.vercel.app/texts.html#dkt-12",
+          "https://the95xrecord.vercel.app/ssot.json"
+        ]
+      },
+      {
+        "n": 5,
+        "text": "Certified copies matter: trial Dkt 492 (order), Dkt 493 (NEF) and Dkt 496 (notice of appeal) are Clerk-certified 03-NOV-2026 and are in the public export — 80 documents, 50,453,826 bytes.",
+        "anchors": [
+          "register.html#dkt-492",
+          "register.html#dkt-496"
+        ],
+        "links": [
+          "https://the95xrecord.vercel.app/register.html#dkt-492",
+          "https://the95xrecord.vercel.app/register.html#dkt-496",
+          "https://the95xrecord.vercel.app/ssot.json"
+        ]
+      },
+      {
+        "n": 6,
+        "text": "Appeal: 20 ICA docket rows. The calendar notice (ICA Dkt 17 p.1) states the jurisdictional statement 9-NOV-2026 and the opening brief 7-DEC-2026 — quoted verbatim, and marked for counsel: whether they bind is a legal question, not ours.",
+        "anchors": [
+          "appeal.html#dkt-17"
+        ],
+        "links": [
+          "https://the95xrecord.vercel.app/appeal.html#dkt-17",
+          "https://the95xrecord.vercel.app/ssot.json"
+        ]
+      },
+      {
+        "n": 7,
+        "text": "Machine-readable everything: /ssot.json, /data/ssot.sqlite, JSONL, CSV, and a static lookup API at /api/v1/case/<case>/dkt/<n>.json and /api/v1/hash/<sha256>.json. Verify one row in seconds — e.g. certified Dkt 496 (notice of appeal).",
+        "anchors": [
+          "register.html#dkt-496",
+          "ssot.json",
+          "api/v1/index.json"
+        ],
+        "links": [
+          "https://the95xrecord.vercel.app/register.html#dkt-496",
+          "https://the95xrecord.vercel.app/ssot.json",
+          "https://the95xrecord.vercel.app/api/v1/index.json",
+          "https://the95xrecord.vercel.app/ssot.json"
+        ]
+      }
+    ],
+    "pl": [
+      {
+        "n": 1,
+        "text": "The 95× Record: każda liczba na stronie jest wyliczona ze zbiorów akt, a każdy wiersz ma sprawę, docket, dowód i ocenę. 495 wierszy rejestru I instancji, 20 wierszy apelacji. Nic nie jest ukryte i nic nie jest wymyślone.",
+        "anchors": [
+          "register.html#dkt-1",
+          "appeal.html#dkt-1"
+        ],
+        "links": [
+          "https://the95xrecord.vercel.app/register.html#dkt-1",
+          "https://the95xrecord.vercel.app/appeal.html#dkt-1",
+          "https://the95xrecord.vercel.app/ssot.json"
+        ]
+      },
+      {
+        "n": 2,
+        "text": "Zaskarżony wyrok to Dkt 427 (złożony 23-CZE-2026). Wiersz wskazuje trzymany plik i jego SHA-256 — weryfikuj bajty, nie twierdzenie.",
+        "anchors": [
+          "register.html#dkt-427"
+        ],
+        "links": [
+          "https://the95xrecord.vercel.app/register.html#dkt-427",
+          "https://the95xrecord.vercel.app/ssot.json"
+        ]
+      },
+      {
+        "n": 3,
+        "text": "Record on Appeal: ICA Dkt 15, strony rejestru 5–195, 495 pozycji. Nagłówek rejestru mówi: \"495 record(s) total\".",
+        "anchors": [
+          "register.html#dkt-495"
+        ],
+        "links": [
+          "https://the95xrecord.vercel.app/register.html#dkt-495",
+          "https://the95xrecord.vercel.app/ssot.json"
+        ]
+      },
+      {
+        "n": 4,
+        "text": "454 docketów istnieje tylko jako tekst. Publikujemy je z proweniencją: plik źródłowy, SHA-256 źródła, metoda (OCR · natywny), ocena i hash opublikowanego pliku.",
+        "anchors": [
+          "texts.html#dkt-12"
+        ],
+        "links": [
+          "https://the95xrecord.vercel.app/texts.html#dkt-12",
+          "https://the95xrecord.vercel.app/ssot.json"
+        ]
+      },
+      {
+        "n": 5,
+        "text": "Kopie certyfikowane: Dkt 492 (postanowienie), Dkt 493 (NEF) i Dkt 496 (notice of appeal) — poświadczone przez Sekretarza 03-LIS-2026, w publicznym eksporcie: 80 dokumentów, 50,453,826 bajtów.",
+        "anchors": [
+          "register.html#dkt-492",
+          "register.html#dkt-496"
+        ],
+        "links": [
+          "https://the95xrecord.vercel.app/register.html#dkt-492",
+          "https://the95xrecord.vercel.app/register.html#dkt-496",
+          "https://the95xrecord.vercel.app/ssot.json"
+        ]
+      },
+      {
+        "n": 6,
+        "text": "Apelacja: 20 wierszy ICA. Nota kalendarzowa (ICA Dkt 17 s.1) wskazuje: statement 9-LIS-2026 i opening brief 7-GRU-2026 — cytat dosłowny, oznaczone for counsel: czy wiążą, to pytanie prawne, nie nasze.",
+        "anchors": [
+          "appeal.html#dkt-17"
+        ],
+        "links": [
+          "https://the95xrecord.vercel.app/appeal.html#dkt-17",
+          "https://the95xrecord.vercel.app/ssot.json"
+        ]
+      },
+      {
+        "n": 7,
+        "text": "Wszystko maszynowo: /ssot.json, /data/ssot.sqlite, JSONL, CSV oraz statyczne API /api/v1/case/<case>/dkt/<n>.json i /api/v1/hash/<sha256>.json. Weryfikacja wiersza w sekundach — np. certyfikowany Dkt 496 (notice of appeal).",
+        "anchors": [
+          "register.html#dkt-496",
+          "ssot.json",
+          "api/v1/index.json"
+        ],
+        "links": [
+          "https://the95xrecord.vercel.app/register.html#dkt-496",
+          "https://the95xrecord.vercel.app/ssot.json",
+          "https://the95xrecord.vercel.app/api/v1/index.json",
+          "https://the95xrecord.vercel.app/ssot.json"
+        ]
+      }
+    ]
+  }
+}

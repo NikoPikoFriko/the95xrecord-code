@@ -1,0 +1,11 @@
+{
+  "schema": "ssot/api-hash@1",
+  "sha256": "4ccfc45cd28a72fc70e4e40f79225f262a07b3dd27b2d2387af503dbf9c6fd6a",
+  "kind": "document_page",
+  "case": "1RC191003776",
+  "docket": 427,
+  "file": "2026-06-23__1RC191003776__DKT0427__ex7-judgment.pdf",
+  "published_url": "https://the95xrecord.vercel.app/docs/9a6dca0a87",
+  "lookup": "https://the95xrecord.vercel.app/api/v1/hash/4ccfc45cd28a72fc70e4e40f79225f262a07b3dd27b2d2387af503dbf9c6fd6a.json",
+  "ssot": "https://the95xrecord.vercel.app/ssot.json"
+}

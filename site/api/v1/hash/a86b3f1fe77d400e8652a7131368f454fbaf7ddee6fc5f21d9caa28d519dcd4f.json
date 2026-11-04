@@ -1,0 +1,11 @@
+{
+  "schema": "ssot/api-hash@1",
+  "sha256": "a86b3f1fe77d400e8652a7131368f454fbaf7ddee6fc5f21d9caa28d519dcd4f",
+  "kind": "trial_text",
+  "case": "1RC191003776",
+  "docket": 251,
+  "file": "2022-01-06__Dkt251__1RC191003776__proposed-subpoena-witness-chuck-decoito.ocr.txt",
+  "published_url": "https://the95xrecord.vercel.app/COURT_DOCKET/LISTINGS/1RC191003776/04_TEXT/ocr/2022-01-06__Dkt251__1RC191003776__proposed-subpoena-witness-chuck-decoito.ocr.txt",
+  "lookup": "https://the95xrecord.vercel.app/api/v1/hash/a86b3f1fe77d400e8652a7131368f454fbaf7ddee6fc5f21d9caa28d519dcd4f.json",
+  "ssot": "https://the95xrecord.vercel.app/ssot.json"
+}

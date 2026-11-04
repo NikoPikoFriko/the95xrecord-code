@@ -1,0 +1,11 @@
+{
+  "schema": "ssot/api-hash@1",
+  "sha256": "69b3f960a229597d5ee4dbdf87a94311a28174d13ef4b921bd6afdd2d3db70d1",
+  "kind": "document_page",
+  "case": "1RC191003776",
+  "docket": 346,
+  "file": "2021-07-15__1RC191003776__DKT0346__decoito-email-2018-07-03.pdf",
+  "published_url": "https://the95xrecord.vercel.app/docs/e6edde1128",
+  "lookup": "https://the95xrecord.vercel.app/api/v1/hash/69b3f960a229597d5ee4dbdf87a94311a28174d13ef4b921bd6afdd2d3db70d1.json",
+  "ssot": "https://the95xrecord.vercel.app/ssot.json"
+}

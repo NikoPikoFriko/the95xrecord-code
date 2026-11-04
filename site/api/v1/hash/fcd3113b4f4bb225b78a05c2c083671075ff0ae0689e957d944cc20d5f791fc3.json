@@ -1,0 +1,11 @@
+{
+  "schema": "ssot/api-hash@1",
+  "sha256": "fcd3113b4f4bb225b78a05c2c083671075ff0ae0689e957d944cc20d5f791fc3",
+  "kind": "document_page",
+  "case": "1RC191003776",
+  "docket": 195,
+  "file": "2021-03-22__Dkt195__1RC191003776__garnishee-re-central-pacific-bank-indebted.pdf",
+  "published_url": "https://the95xrecord.vercel.app/docs/052e9a1d96",
+  "lookup": "https://the95xrecord.vercel.app/api/v1/hash/fcd3113b4f4bb225b78a05c2c083671075ff0ae0689e957d944cc20d5f791fc3.json",
+  "ssot": "https://the95xrecord.vercel.app/ssot.json"
+}

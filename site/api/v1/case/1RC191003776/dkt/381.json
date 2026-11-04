@@ -1,0 +1,33 @@
+{
+  "schema": "ssot/api-docket@1",
+  "case": "1RC191003776",
+  "docket": 381,
+  "code": "RAV",
+  "filed": "30-MAR-2023",
+  "filed_iso": "2023-03-30",
+  "time": "09:33:32",
+  "ra_pdf_page": 133,
+  "grade": "PARTIAL",
+  "for_counsel": false,
+  "evidence": {
+    "renditions": [],
+    "text": {
+      "file": "COURT_DOCKET/LISTINGS/1RC191003776/04_TEXT/ocr/2023-03-30__Dkt381__1RC191003776__request-for-audio-recording-trial-01-11-23-01-12-23-04-03-20.ocr.txt",
+      "sha256": "59aed00dcb7d5b5313e4750a856e6472e65b3a11d205bd9857b268c7e28279a8",
+      "location": "court_docket_listings_ocr",
+      "published_url": "https://the95xrecord.vercel.app/COURT_DOCKET/LISTINGS/1RC191003776/04_TEXT/ocr/2023-03-30__Dkt381__1RC191003776__request-for-audio-recording-trial-01-11-23-01-12-23-04-03-20.ocr.txt"
+    },
+    "held_by_station": true,
+    "gap": false
+  },
+  "pdf_conflict": null,
+  "flags": [
+    "text_only_no_pdf_of_document"
+  ],
+  "links": {
+    "register": "https://the95xrecord.vercel.app/register#dkt-381",
+    "register_json": "https://the95xrecord.vercel.app/api/v1/case/1RC191003776/dkt/381.json",
+    "ssot": "https://the95xrecord.vercel.app/ssot.json",
+    "crossref": "https://the95xrecord.vercel.app/data/crossref.json"
+  }
+}

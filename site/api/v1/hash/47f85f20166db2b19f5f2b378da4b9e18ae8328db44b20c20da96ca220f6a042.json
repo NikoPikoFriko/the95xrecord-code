@@ -1,0 +1,11 @@
+{
+  "schema": "ssot/api-hash@1",
+  "sha256": "47f85f20166db2b19f5f2b378da4b9e18ae8328db44b20c20da96ca220f6a042",
+  "kind": "document_page",
+  "case": "1RC191003776",
+  "docket": 197,
+  "file": "2021-03-22__Dkt197__1RC191003776__garnishee-re-first-hawaiian-bank-not-indebted.pdf",
+  "published_url": "https://the95xrecord.vercel.app/docs/e0e65aff54",
+  "lookup": "https://the95xrecord.vercel.app/api/v1/hash/47f85f20166db2b19f5f2b378da4b9e18ae8328db44b20c20da96ca220f6a042.json",
+  "ssot": "https://the95xrecord.vercel.app/ssot.json"
+}

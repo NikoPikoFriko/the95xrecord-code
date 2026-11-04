@@ -1,0 +1,11 @@
+{
+  "schema": "ssot/api-hash@1",
+  "sha256": "85de7182702be642396561077616ab6daf63cdd9730fa7f2334245a581ffc98e",
+  "kind": "trial_text",
+  "case": "1RC191003776",
+  "docket": 8,
+  "file": "2019-07-18__Dkt008__1RC191003776__amended-return-of-service-re-answer-and-counterclaim-served.ocr.txt",
+  "published_url": "https://the95xrecord.vercel.app/COURT_DOCKET/LISTINGS/1RC191003776/04_TEXT/ocr/2019-07-18__Dkt008__1RC191003776__amended-return-of-service-re-answer-and-counterclaim-served.ocr.txt",
+  "lookup": "https://the95xrecord.vercel.app/api/v1/hash/85de7182702be642396561077616ab6daf63cdd9730fa7f2334245a581ffc98e.json",
+  "ssot": "https://the95xrecord.vercel.app/ssot.json"
+}

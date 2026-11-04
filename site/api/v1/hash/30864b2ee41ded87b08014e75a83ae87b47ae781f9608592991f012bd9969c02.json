@@ -1,0 +1,11 @@
+{
+  "schema": "ssot/api-hash@1",
+  "sha256": "30864b2ee41ded87b08014e75a83ae87b47ae781f9608592991f012bd9969c02",
+  "kind": "document_page",
+  "case": "1RC191003776",
+  "docket": 23,
+  "file": "2020-01-08__1RC191003776__DKT0023__nef-re-subpoena-for-w-denison.pdf",
+  "published_url": "https://the95xrecord.vercel.app/docs/93663ddbb1",
+  "lookup": "https://the95xrecord.vercel.app/api/v1/hash/30864b2ee41ded87b08014e75a83ae87b47ae781f9608592991f012bd9969c02.json",
+  "ssot": "https://the95xrecord.vercel.app/ssot.json"
+}

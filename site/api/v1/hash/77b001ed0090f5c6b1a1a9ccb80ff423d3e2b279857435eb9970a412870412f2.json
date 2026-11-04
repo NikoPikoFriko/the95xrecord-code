@@ -1,0 +1,11 @@
+{
+  "schema": "ssot/api-hash@1",
+  "sha256": "77b001ed0090f5c6b1a1a9ccb80ff423d3e2b279857435eb9970a412870412f2",
+  "kind": "document_page",
+  "case": "1RC191003776",
+  "docket": 154,
+  "file": "2021-01-25__1RC191003776__DKT0154__errata-re-thyssenkrupp-xpm-exam-judgment-debtor.pdf",
+  "published_url": "https://the95xrecord.vercel.app/docs/dc91a60f45",
+  "lookup": "https://the95xrecord.vercel.app/api/v1/hash/77b001ed0090f5c6b1a1a9ccb80ff423d3e2b279857435eb9970a412870412f2.json",
+  "ssot": "https://the95xrecord.vercel.app/ssot.json"
+}

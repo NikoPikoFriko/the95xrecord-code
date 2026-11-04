@@ -1,0 +1,11 @@
+{
+  "schema": "ssot/api-hash@1",
+  "sha256": "0a271ef8de4a296bfc420ef5c0c9ce4e1c0c7091048655b0b81448913e8e21c0",
+  "kind": "document_page",
+  "case": "1RC191003776",
+  "docket": 123,
+  "file": "2020-10-16__1RC191003776__DKT0123__ntc-court-date-8-35am-hrg-on-motions-h0a271e.pdf",
+  "published_url": "https://the95xrecord.vercel.app/docs/3b33722078",
+  "lookup": "https://the95xrecord.vercel.app/api/v1/hash/0a271ef8de4a296bfc420ef5c0c9ce4e1c0c7091048655b0b81448913e8e21c0.json",
+  "ssot": "https://the95xrecord.vercel.app/ssot.json"
+}

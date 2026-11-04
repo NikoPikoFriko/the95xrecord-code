@@ -1,0 +1,11 @@
+{
+  "schema": "ssot/api-hash@1",
+  "sha256": "205d89c5c0571d6152193a5e483413511d577d4584026fb4a1b95652657bb784",
+  "kind": "trial_text",
+  "case": "1RC191003776",
+  "docket": 294,
+  "file": "2022-02-22__1RC191003776__DKT__DKT0294-MINH__minute-entry-saved-docket__OCR__h205d89c5c057.txt",
+  "published_url": "https://the95xrecord.vercel.app/06_EXTRACT/MAGIC_06_MATERIALS/DESK MAGIC FILES/2022-02-22__1RC191003776__DKT__DKT0294-MINH__minute-entry-saved-docket__OCR__h205d89c5c057.txt",
+  "lookup": "https://the95xrecord.vercel.app/api/v1/hash/205d89c5c0571d6152193a5e483413511d577d4584026fb4a1b95652657bb784.json",
+  "ssot": "https://the95xrecord.vercel.app/ssot.json"
+}

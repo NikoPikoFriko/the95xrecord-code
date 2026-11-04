@@ -1,0 +1,33 @@
+{
+  "schema": "ssot/api-docket@1",
+  "case": "1RC191003776",
+  "docket": 163,
+  "code": "NTCE",
+  "filed": "18-FEB-2021",
+  "filed_iso": "2021-02-18",
+  "time": "08:37:39",
+  "ra_pdf_page": 54,
+  "grade": "PARTIAL",
+  "for_counsel": false,
+  "evidence": {
+    "renditions": [],
+    "text": {
+      "file": "COURT_DOCKET/LISTINGS/1RC191003776/04_TEXT/ocr/2021-02-18__Dkt163__1RC191003776__notice-of-invitation-and-option-to-participate-in-alternativ.ocr.txt",
+      "sha256": "343890f7bd0d87ce6701f36b4d8a4196ce9bdac7b6fbcd62bdf1dab66c3381c0",
+      "location": "court_docket_listings_ocr",
+      "published_url": "https://the95xrecord.vercel.app/COURT_DOCKET/LISTINGS/1RC191003776/04_TEXT/ocr/2021-02-18__Dkt163__1RC191003776__notice-of-invitation-and-option-to-participate-in-alternativ.ocr.txt"
+    },
+    "held_by_station": true,
+    "gap": false
+  },
+  "pdf_conflict": null,
+  "flags": [
+    "text_only_no_pdf_of_document"
+  ],
+  "links": {
+    "register": "https://the95xrecord.vercel.app/register#dkt-163",
+    "register_json": "https://the95xrecord.vercel.app/api/v1/case/1RC191003776/dkt/163.json",
+    "ssot": "https://the95xrecord.vercel.app/ssot.json",
+    "crossref": "https://the95xrecord.vercel.app/data/crossref.json"
+  }
+}

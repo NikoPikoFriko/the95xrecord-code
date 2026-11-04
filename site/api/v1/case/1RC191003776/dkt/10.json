@@ -1,0 +1,41 @@
+{
+  "schema": "ssot/api-docket@1",
+  "case": "1RC191003776",
+  "docket": 10,
+  "code": "CS",
+  "filed": "23-AUG-2019",
+  "filed_iso": "2019-08-23",
+  "time": "13:51:00",
+  "ra_pdf_page": 8,
+  "grade": "PARTIAL",
+  "for_counsel": false,
+  "evidence": {
+    "renditions": [],
+    "text": {
+      "file": "COURT_DOCKET/LISTINGS/1RC191003776/04_TEXT/ocr/2019-08-23__Dkt010__1RC191003776__certificate-of-service-re-counterclaim-defendantassociation.ocr.txt",
+      "sha256": "6dad7ffd5aadf65d51ff135889eb643ac89c9c873d097a04e62bc8d78165b24c",
+      "location": "court_docket_listings_ocr",
+      "published_url": "https://the95xrecord.vercel.app/COURT_DOCKET/LISTINGS/1RC191003776/04_TEXT/ocr/2019-08-23__Dkt010__1RC191003776__certificate-of-service-re-counterclaim-defendantassociation.ocr.txt"
+    },
+    "held_by_station": true,
+    "gap": false
+  },
+  "pdf_conflict": {
+    "kind": "same_number_file_appeal_series",
+    "file": "APPEALS/CAAP-26-0000625/09_INTAKE/jefs_2026-10-04/2026-09-16__CAAP-26-0000625__DKT__DKT0010-PY__payment-receipt__CERT__h68e64e550d82.pdf",
+    "sha256": "68e64e550d82830987ac1c651601886c21d99561e4ded18a0bc3719db4184800",
+    "belongs_to_case": "CAAP-26-0000625",
+    "appeal_dkt": 10,
+    "reason": "file is an appeal-docket document (CAAP-26-0000625) whose number equals this trial docket number; the register row describes a different document"
+  },
+  "flags": [
+    "same_number_file_appeal_series",
+    "text_only_no_pdf_of_document"
+  ],
+  "links": {
+    "register": "https://the95xrecord.vercel.app/register#dkt-10",
+    "register_json": "https://the95xrecord.vercel.app/api/v1/case/1RC191003776/dkt/10.json",
+    "ssot": "https://the95xrecord.vercel.app/ssot.json",
+    "crossref": "https://the95xrecord.vercel.app/data/crossref.json"
+  }
+}

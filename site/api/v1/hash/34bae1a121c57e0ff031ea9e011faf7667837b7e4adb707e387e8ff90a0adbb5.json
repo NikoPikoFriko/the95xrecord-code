@@ -1,0 +1,11 @@
+{
+  "schema": "ssot/api-hash@1",
+  "sha256": "34bae1a121c57e0ff031ea9e011faf7667837b7e4adb707e387e8ff90a0adbb5",
+  "kind": "document_page",
+  "case": "1RC191003776",
+  "docket": 4,
+  "file": "2019-07-08__1RC191003776__DKT0004__third-party-complaint-declaration-summons-filed.pdf",
+  "published_url": "https://the95xrecord.vercel.app/docs/1c2c8c25f2",
+  "lookup": "https://the95xrecord.vercel.app/api/v1/hash/34bae1a121c57e0ff031ea9e011faf7667837b7e4adb707e387e8ff90a0adbb5.json",
+  "ssot": "https://the95xrecord.vercel.app/ssot.json"
+}

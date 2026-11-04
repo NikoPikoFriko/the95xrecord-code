@@ -1,0 +1,11 @@
+{
+  "schema": "ssot/api-hash@1",
+  "sha256": "3d3759c65a0355822d5889c834cb5b6ec7c6a72df73c25e85c2d5aa16080495f",
+  "kind": "document_page",
+  "case": "1RC191003776",
+  "docket": 251,
+  "file": "2022-01-06__1RC191003776__DKT0251__proposed-subpoena-c-decoito.pdf",
+  "published_url": "https://the95xrecord.vercel.app/docs/cf01d5996d",
+  "lookup": "https://the95xrecord.vercel.app/api/v1/hash/3d3759c65a0355822d5889c834cb5b6ec7c6a72df73c25e85c2d5aa16080495f.json",
+  "ssot": "https://the95xrecord.vercel.app/ssot.json"
+}

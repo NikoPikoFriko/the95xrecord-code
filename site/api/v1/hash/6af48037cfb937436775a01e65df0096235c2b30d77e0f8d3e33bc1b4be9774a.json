@@ -1,0 +1,11 @@
+{
+  "schema": "ssot/api-hash@1",
+  "sha256": "6af48037cfb937436775a01e65df0096235c2b30d77e0f8d3e33bc1b4be9774a",
+  "kind": "document_page",
+  "case": "1RC191003776",
+  "docket": 166,
+  "file": "2021-02-18__1RC191003776__DKT0166__remote-hrg-invite.pdf",
+  "published_url": "https://the95xrecord.vercel.app/docs/b9eb89378f",
+  "lookup": "https://the95xrecord.vercel.app/api/v1/hash/6af48037cfb937436775a01e65df0096235c2b30d77e0f8d3e33bc1b4be9774a.json",
+  "ssot": "https://the95xrecord.vercel.app/ssot.json"
+}

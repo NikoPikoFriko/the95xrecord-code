@@ -1,0 +1,11 @@
+{
+  "schema": "ssot/api-hash@1",
+  "sha256": "c9be2ff4e320d2445177f183d4f1e4415841a0ca804ff5be3b79ff3201378b1a",
+  "kind": "trial_text",
+  "case": "1RC191003776",
+  "docket": 160,
+  "file": "2021-02-17__Dkt160__1RC191003776__return-of-service-acknowledgment-of-service.ocr.txt",
+  "published_url": "https://the95xrecord.vercel.app/COURT_DOCKET/LISTINGS/1RC191003776/04_TEXT/ocr/2021-02-17__Dkt160__1RC191003776__return-of-service-acknowledgment-of-service.ocr.txt",
+  "lookup": "https://the95xrecord.vercel.app/api/v1/hash/c9be2ff4e320d2445177f183d4f1e4415841a0ca804ff5be3b79ff3201378b1a.json",
+  "ssot": "https://the95xrecord.vercel.app/ssot.json"
+}

@@ -1,0 +1,11 @@
+{
+  "schema": "ssot/api-hash@1",
+  "sha256": "5648c6396e813abff179e454295712ec38a27e1a29e86d2784b778cfcaffad71",
+  "kind": "document_page",
+  "case": "1RC191003776",
+  "docket": 208,
+  "file": "2021-04-22__Dkt208__1RC191003776__certificate-of-service-1-counterclaim-defendant-as.pdf",
+  "published_url": "https://the95xrecord.vercel.app/docs/4965ca1a7d",
+  "lookup": "https://the95xrecord.vercel.app/api/v1/hash/5648c6396e813abff179e454295712ec38a27e1a29e86d2784b778cfcaffad71.json",
+  "ssot": "https://the95xrecord.vercel.app/ssot.json"
+}

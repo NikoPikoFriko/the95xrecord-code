@@ -1,0 +1,11 @@
+{
+  "schema": "ssot/api-hash@1",
+  "sha256": "35d861b5f161423e6d23fed7361bf0a1d18ef921d105df9447792546ae9c77ac",
+  "kind": "document_page",
+  "case": "1RC191003776",
+  "docket": 176,
+  "file": "2021-03-04__Dkt176__1RC191003776__motion-for-issuance-of-garnishee-summons-after-jud.pdf",
+  "published_url": "https://the95xrecord.vercel.app/docs/238add0df2",
+  "lookup": "https://the95xrecord.vercel.app/api/v1/hash/35d861b5f161423e6d23fed7361bf0a1d18ef921d105df9447792546ae9c77ac.json",
+  "ssot": "https://the95xrecord.vercel.app/ssot.json"
+}

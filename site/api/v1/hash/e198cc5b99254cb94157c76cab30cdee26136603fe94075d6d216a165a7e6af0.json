@@ -1,0 +1,11 @@
+{
+  "schema": "ssot/api-hash@1",
+  "sha256": "e198cc5b99254cb94157c76cab30cdee26136603fe94075d6d216a165a7e6af0",
+  "kind": "trial_text",
+  "case": "1RC191003776",
+  "docket": 28,
+  "file": "2020-01-13__Dkt028__1RC191003776__notice-of-change-of-firm-name-of-counsel-for-plaintiff-count.ocr.txt",
+  "published_url": "https://the95xrecord.vercel.app/COURT_DOCKET/LISTINGS/1RC191003776/04_TEXT/ocr/2020-01-13__Dkt028__1RC191003776__notice-of-change-of-firm-name-of-counsel-for-plaintiff-count.ocr.txt",
+  "lookup": "https://the95xrecord.vercel.app/api/v1/hash/e198cc5b99254cb94157c76cab30cdee26136603fe94075d6d216a165a7e6af0.json",
+  "ssot": "https://the95xrecord.vercel.app/ssot.json"
+}

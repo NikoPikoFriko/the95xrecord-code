@@ -1,0 +1,11 @@
+{
+  "schema": "ssot/api-hash@1",
+  "sha256": "2462d983e8506e2aca20352d711bb91063784eb716ddfe88fa9a1d6c30f530ad",
+  "kind": "trial_text",
+  "case": "1RC191003776",
+  "docket": 186,
+  "file": "2021-03-16__Dkt186__1RC191003776__bank-of-hawaii-garnishee-answer-disclosure-not-indebted.ocr.txt",
+  "published_url": "https://the95xrecord.vercel.app/COURT_DOCKET/LISTINGS/1RC191003776/04_TEXT/ocr/2021-03-16__Dkt186__1RC191003776__bank-of-hawaii-garnishee-answer-disclosure-not-indebted.ocr.txt",
+  "lookup": "https://the95xrecord.vercel.app/api/v1/hash/2462d983e8506e2aca20352d711bb91063784eb716ddfe88fa9a1d6c30f530ad.json",
+  "ssot": "https://the95xrecord.vercel.app/ssot.json"
+}

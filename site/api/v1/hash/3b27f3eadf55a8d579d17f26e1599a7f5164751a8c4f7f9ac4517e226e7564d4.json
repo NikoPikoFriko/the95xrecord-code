@@ -1,0 +1,11 @@
+{
+  "schema": "ssot/api-hash@1",
+  "sha256": "3b27f3eadf55a8d579d17f26e1599a7f5164751a8c4f7f9ac4517e226e7564d4",
+  "kind": "trial_pdf",
+  "case": "1RC191003776",
+  "docket": 432,
+  "file": "Dkt432_Stay_1121865524.pdf",
+  "published_url": null,
+  "lookup": "https://the95xrecord.vercel.app/api/v1/hash/3b27f3eadf55a8d579d17f26e1599a7f5164751a8c4f7f9ac4517e226e7564d4.json",
+  "ssot": "https://the95xrecord.vercel.app/ssot.json"
+}

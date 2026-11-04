@@ -1,0 +1,33 @@
+{
+  "schema": "ssot/api-docket@1",
+  "case": "1RC191003776",
+  "docket": 461,
+  "code": "MTWC",
+  "filed": "11-SEP-2026",
+  "filed_iso": "2026-09-11",
+  "time": "17:13:35",
+  "ra_pdf_page": 177,
+  "grade": "PARTIAL",
+  "for_counsel": false,
+  "evidence": {
+    "renditions": [],
+    "text": {
+      "file": "06_EXTRACT/MAGIC_06_MATERIALS/DESK MAGIC FILES/2026-09-11__1RC191003776__DKT__DKT0461-MTWC__docket-text__OCR__h7e3ac498ffcd.txt",
+      "sha256": "7e3ac498ffcd1df7616c6cf81067861d045db97d74b789a3a56c51861ffe9bb2",
+      "location": "extract_materials_text",
+      "published_url": "https://the95xrecord.vercel.app/06_EXTRACT/MAGIC_06_MATERIALS/DESK MAGIC FILES/2026-09-11__1RC191003776__DKT__DKT0461-MTWC__docket-text__OCR__h7e3ac498ffcd.txt"
+    },
+    "held_by_station": true,
+    "gap": false
+  },
+  "pdf_conflict": null,
+  "flags": [
+    "text_only_no_pdf_of_document"
+  ],
+  "links": {
+    "register": "https://the95xrecord.vercel.app/register#dkt-461",
+    "register_json": "https://the95xrecord.vercel.app/api/v1/case/1RC191003776/dkt/461.json",
+    "ssot": "https://the95xrecord.vercel.app/ssot.json",
+    "crossref": "https://the95xrecord.vercel.app/data/crossref.json"
+  }
+}

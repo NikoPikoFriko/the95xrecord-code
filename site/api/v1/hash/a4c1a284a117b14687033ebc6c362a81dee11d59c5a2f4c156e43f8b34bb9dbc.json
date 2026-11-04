@@ -1,0 +1,11 @@
+{
+  "schema": "ssot/api-hash@1",
+  "sha256": "a4c1a284a117b14687033ebc6c362a81dee11d59c5a2f4c156e43f8b34bb9dbc",
+  "kind": "document_page",
+  "case": "1RC191003776",
+  "docket": 417,
+  "file": "2024-11-12__Dkt417__1RC191003776__amended-notice-of-hearing-certificate-of-service.pdf",
+  "published_url": "https://the95xrecord.vercel.app/docs/17cf404016",
+  "lookup": "https://the95xrecord.vercel.app/api/v1/hash/a4c1a284a117b14687033ebc6c362a81dee11d59c5a2f4c156e43f8b34bb9dbc.json",
+  "ssot": "https://the95xrecord.vercel.app/ssot.json"
+}

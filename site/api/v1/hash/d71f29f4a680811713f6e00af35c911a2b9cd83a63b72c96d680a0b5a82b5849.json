@@ -1,0 +1,11 @@
+{
+  "schema": "ssot/api-hash@1",
+  "sha256": "d71f29f4a680811713f6e00af35c911a2b9cd83a63b72c96d680a0b5a82b5849",
+  "kind": "document_page",
+  "case": "1RC191003776",
+  "docket": null,
+  "file": "01_PRINT_OBJECTION_18_PAGES.pdf",
+  "published_url": "https://the95xrecord.vercel.app/docs/512bd59f87",
+  "lookup": "https://the95xrecord.vercel.app/api/v1/hash/d71f29f4a680811713f6e00af35c911a2b9cd83a63b72c96d680a0b5a82b5849.json",
+  "ssot": "https://the95xrecord.vercel.app/ssot.json"
+}

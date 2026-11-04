@@ -1,0 +1,11 @@
+{
+  "schema": "ssot/api-hash@1",
+  "sha256": "fc0a7d12b8385922042adb10c3ff9c889da365b6b6bb7d3f9bb7590269cf2b50",
+  "kind": "document_page",
+  "case": "1RC191003776",
+  "docket": 451,
+  "file": "2026-08-31__1RC191003776__DKT0451__dkt0451-0452-fsc-aoao-memo-in-opp-to-mtn-for.pdf",
+  "published_url": "https://the95xrecord.vercel.app/docs/49d328225e",
+  "lookup": "https://the95xrecord.vercel.app/api/v1/hash/fc0a7d12b8385922042adb10c3ff9c889da365b6b6bb7d3f9bb7590269cf2b50.json",
+  "ssot": "https://the95xrecord.vercel.app/ssot.json"
+}

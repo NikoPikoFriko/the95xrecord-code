@@ -1,0 +1,26 @@
+{
+  "schema": "ssot/api-docket@1",
+  "case": "CAAP-26-0000625",
+  "docket": 3,
+  "code": "EXH",
+  "title": "Exhibit",
+  "filed": "04-SEP-2026",
+  "filed_iso": "2026-09-04",
+  "time": "16:22:21",
+  "grade": "OBS",
+  "for_counsel": false,
+  "evidence": {
+    "held_by_station": true,
+    "file": "APPEALS/CAAP-26-0000625/DOCKET/2026-09-04__CAAP-26-0000625__DKT__DKT0003-EXH__exhibit-fees-order-dkt423__SRC__h7f5d56031086.pdf",
+    "sha256": "7f5d560310861beab347cbe827934863d3788b9e31039b3eae41e987c0b19710",
+    "pages": 15,
+    "form": "src",
+    "gap": false
+  },
+  "flags": [],
+  "links": {
+    "appeal": "https://the95xrecord.vercel.app/appeal#dkt-3",
+    "appeal_json": "https://the95xrecord.vercel.app/api/v1/case/CAAP-26-0000625/dkt/3.json",
+    "ssot": "https://the95xrecord.vercel.app/ssot.json"
+  }
+}

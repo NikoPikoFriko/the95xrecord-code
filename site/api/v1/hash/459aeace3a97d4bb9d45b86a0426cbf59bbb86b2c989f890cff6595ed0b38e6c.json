@@ -1,0 +1,11 @@
+{
+  "schema": "ssot/api-hash@1",
+  "sha256": "459aeace3a97d4bb9d45b86a0426cbf59bbb86b2c989f890cff6595ed0b38e6c",
+  "kind": "document_page",
+  "case": "1RC191003776",
+  "docket": 264,
+  "file": "2022-01-13__Dkt264__1RC191003776__subpoena-duces-tecum-re-rule-30-b-6-representative.pdf",
+  "published_url": "https://the95xrecord.vercel.app/docs/f1ade0ebe2",
+  "lookup": "https://the95xrecord.vercel.app/api/v1/hash/459aeace3a97d4bb9d45b86a0426cbf59bbb86b2c989f890cff6595ed0b38e6c.json",
+  "ssot": "https://the95xrecord.vercel.app/ssot.json"
+}

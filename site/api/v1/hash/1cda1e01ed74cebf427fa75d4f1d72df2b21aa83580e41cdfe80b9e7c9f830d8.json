@@ -1,0 +1,11 @@
+{
+  "schema": "ssot/api-hash@1",
+  "sha256": "1cda1e01ed74cebf427fa75d4f1d72df2b21aa83580e41cdfe80b9e7c9f830d8",
+  "kind": "document_page",
+  "case": "1RC191003776",
+  "docket": 328,
+  "file": "2022-07-20__1RC191003776__DKT0328__minutes-hrg-sched-of-witnesses-on-further-trial-dates-case.pdf",
+  "published_url": "https://the95xrecord.vercel.app/docs/63c2db3c5a",
+  "lookup": "https://the95xrecord.vercel.app/api/v1/hash/1cda1e01ed74cebf427fa75d4f1d72df2b21aa83580e41cdfe80b9e7c9f830d8.json",
+  "ssot": "https://the95xrecord.vercel.app/ssot.json"
+}

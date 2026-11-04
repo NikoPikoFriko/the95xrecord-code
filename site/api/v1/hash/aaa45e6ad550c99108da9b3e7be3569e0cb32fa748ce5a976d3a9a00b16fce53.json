@@ -1,0 +1,11 @@
+{
+  "schema": "ssot/api-hash@1",
+  "sha256": "aaa45e6ad550c99108da9b3e7be3569e0cb32fa748ce5a976d3a9a00b16fce53",
+  "kind": "document_page",
+  "case": "1RC191003776",
+  "docket": 240,
+  "file": "2021-12-29__Dkt240__1RC191003776__revised-ex-parte-motion-to-shorten-time-to-hear-co.pdf",
+  "published_url": "https://the95xrecord.vercel.app/docs/f7e274dfe9",
+  "lookup": "https://the95xrecord.vercel.app/api/v1/hash/aaa45e6ad550c99108da9b3e7be3569e0cb32fa748ce5a976d3a9a00b16fce53.json",
+  "ssot": "https://the95xrecord.vercel.app/ssot.json"
+}

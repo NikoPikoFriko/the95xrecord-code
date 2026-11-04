@@ -1,0 +1,11 @@
+{
+  "schema": "ssot/api-hash@1",
+  "sha256": "5d25cc2898807f28e6087191ec0efc8723442d841c9ff295c4510a36317dd643",
+  "kind": "trial_text",
+  "case": "1RC191003776",
+  "docket": 400,
+  "file": "2024-06-28__Dkt400__1RC191003776__notice-of-hearing.ocr.txt",
+  "published_url": "https://the95xrecord.vercel.app/COURT_DOCKET/LISTINGS/1RC191003776/04_TEXT/ocr/2024-06-28__Dkt400__1RC191003776__notice-of-hearing.ocr.txt",
+  "lookup": "https://the95xrecord.vercel.app/api/v1/hash/5d25cc2898807f28e6087191ec0efc8723442d841c9ff295c4510a36317dd643.json",
+  "ssot": "https://the95xrecord.vercel.app/ssot.json"
+}

@@ -1,0 +1,11 @@
+{
+  "schema": "ssot/api-hash@1",
+  "sha256": "ffaecdd198f2f4735814eb1a1d214be03995e5708b1579f66a4c4a6e89f4a8f5",
+  "kind": "evidence_export",
+  "case": "1RC191003776",
+  "docket": 497,
+  "file": "2026-09-04__1RC191003776__DKT__DKT0497-NEF__nef-for-notice-of-appeal-dkt496__NEF__hffaecdd198f2.pdf",
+  "published_url": null,
+  "lookup": "https://the95xrecord.vercel.app/api/v1/hash/ffaecdd198f2f4735814eb1a1d214be03995e5708b1579f66a4c4a6e89f4a8f5.json",
+  "ssot": "https://the95xrecord.vercel.app/ssot.json"
+}

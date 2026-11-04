@@ -1,0 +1,11 @@
+{
+  "schema": "ssot/api-hash@1",
+  "sha256": "9362a15d6d758ca37d57c2e18ed3f652cce816c6ca00f91de56ae6469189444e",
+  "kind": "document_page",
+  "case": "1RC191003776",
+  "docket": 18,
+  "file": "2019-12-02__1RC191003776__DKT0018__nef-re-cos-re-3rd-pty-def-thyssenkrupp-elevator-corps-1st-amend.pdf",
+  "published_url": "https://the95xrecord.vercel.app/docs/4f7a207d82",
+  "lookup": "https://the95xrecord.vercel.app/api/v1/hash/9362a15d6d758ca37d57c2e18ed3f652cce816c6ca00f91de56ae6469189444e.json",
+  "ssot": "https://the95xrecord.vercel.app/ssot.json"
+}

@@ -1,0 +1,11 @@
+{
+ "schema": "ssot/api-hash-404@1",
+ "status": 404,
+ "error": "unknown_sha256",
+ "message": "That sha256 is not held by this record. The full hash map is at /api/v1/hashes.json; the lookup endpoint is /api/v1/hash/<sha256>.json for any hash in that map.",
+ "known_hashes": 1655,
+ "hash_map": "https://the95xrecord.vercel.app/api/v1/hashes.json",
+ "api_index": "https://the95xrecord.vercel.app/api/v1/index.json",
+ "ssot": "https://the95xrecord.vercel.app/ssot.json",
+ "note": "static hosting: a missing path returns the platform's 404 status; this document is the canonical machine-readable body and /404.html embeds the same object for clients that follow HTML"
+}

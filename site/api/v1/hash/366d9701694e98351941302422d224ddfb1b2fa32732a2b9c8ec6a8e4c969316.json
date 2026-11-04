@@ -1,0 +1,11 @@
+{
+  "schema": "ssot/api-hash@1",
+  "sha256": "366d9701694e98351941302422d224ddfb1b2fa32732a2b9c8ec6a8e4c969316",
+  "kind": "document_page",
+  "case": "1RC191003776",
+  "docket": 253,
+  "file": "2022-01-06__1RC191003776__DKT0253__proposed-subpoena-s-uchida.pdf",
+  "published_url": "https://the95xrecord.vercel.app/docs/1dca04f938",
+  "lookup": "https://the95xrecord.vercel.app/api/v1/hash/366d9701694e98351941302422d224ddfb1b2fa32732a2b9c8ec6a8e4c969316.json",
+  "ssot": "https://the95xrecord.vercel.app/ssot.json"
+}

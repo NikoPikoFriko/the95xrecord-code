@@ -1,0 +1,11 @@
+{
+  "schema": "ssot/api-hash@1",
+  "sha256": "2de0749805ed57e290ae3737cd01e1c5074318ca9a3d7d88054a394740ca0a37",
+  "kind": "document_page",
+  "case": "1RC191003776",
+  "docket": 180,
+  "file": "2021-03-08__1RC191003776__DKT0180__ord-grant-mtn-issuance-garnishee-summons-after-judgment-boh.pdf",
+  "published_url": "https://the95xrecord.vercel.app/docs/f6624068ce",
+  "lookup": "https://the95xrecord.vercel.app/api/v1/hash/2de0749805ed57e290ae3737cd01e1c5074318ca9a3d7d88054a394740ca0a37.json",
+  "ssot": "https://the95xrecord.vercel.app/ssot.json"
+}

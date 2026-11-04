@@ -1,0 +1,11 @@
+{
+  "schema": "ssot/api-hash@1",
+  "sha256": "522a58dc8cf8fefc95b21d2a9653f13ff05f579f09e5865862be4a8ac06fa845",
+  "kind": "document_page",
+  "case": "1RC191003776",
+  "docket": 19,
+  "file": "2020-01-06__Dkt19__1RC191003776__thyssenkrupp-elevator-corporation-s-motion-for-sum.pdf",
+  "published_url": "https://the95xrecord.vercel.app/docs/c07304c4c5",
+  "lookup": "https://the95xrecord.vercel.app/api/v1/hash/522a58dc8cf8fefc95b21d2a9653f13ff05f579f09e5865862be4a8ac06fa845.json",
+  "ssot": "https://the95xrecord.vercel.app/ssot.json"
+}

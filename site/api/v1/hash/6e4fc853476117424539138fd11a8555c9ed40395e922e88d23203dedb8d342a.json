@@ -1,0 +1,11 @@
+{
+  "schema": "ssot/api-hash@1",
+  "sha256": "6e4fc853476117424539138fd11a8555c9ed40395e922e88d23203dedb8d342a",
+  "kind": "document_page",
+  "case": "1RC191003776",
+  "docket": 419,
+  "file": "2024-11-11__1RC191003776__DKT0419__amend-ntc-hrg-on-mtn-8-30am.pdf",
+  "published_url": "https://the95xrecord.vercel.app/docs/af022b9da4",
+  "lookup": "https://the95xrecord.vercel.app/api/v1/hash/6e4fc853476117424539138fd11a8555c9ed40395e922e88d23203dedb8d342a.json",
+  "ssot": "https://the95xrecord.vercel.app/ssot.json"
+}

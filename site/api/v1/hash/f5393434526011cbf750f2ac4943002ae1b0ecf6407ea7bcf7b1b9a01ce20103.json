@@ -1,0 +1,11 @@
+{
+  "schema": "ssot/api-hash@1",
+  "sha256": "f5393434526011cbf750f2ac4943002ae1b0ecf6407ea7bcf7b1b9a01ce20103",
+  "kind": "document_page",
+  "case": "1RC191003776",
+  "docket": 417,
+  "file": "2024-11-11__1RC191003776__DKT0417__amend-noh-8-30am.pdf",
+  "published_url": "https://the95xrecord.vercel.app/docs/96e15b020f",
+  "lookup": "https://the95xrecord.vercel.app/api/v1/hash/f5393434526011cbf750f2ac4943002ae1b0ecf6407ea7bcf7b1b9a01ce20103.json",
+  "ssot": "https://the95xrecord.vercel.app/ssot.json"
+}

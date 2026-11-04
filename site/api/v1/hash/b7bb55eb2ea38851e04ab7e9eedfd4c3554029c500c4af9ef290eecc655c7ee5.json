@@ -1,0 +1,11 @@
+{
+  "schema": "ssot/api-hash@1",
+  "sha256": "b7bb55eb2ea38851e04ab7e9eedfd4c3554029c500c4af9ef290eecc655c7ee5",
+  "kind": "trial_text",
+  "case": "1RC191003776",
+  "docket": 427,
+  "file": "2026-06-23__Dkt427__1RC191003776__judgment-granted-by-judge-c-thomas-pm.ocr.txt",
+  "published_url": "https://the95xrecord.vercel.app/COURT_DOCKET/LISTINGS/1RC191003776/04_TEXT/ocr/2026-06-23__Dkt427__1RC191003776__judgment-granted-by-judge-c-thomas-pm.ocr.txt",
+  "lookup": "https://the95xrecord.vercel.app/api/v1/hash/b7bb55eb2ea38851e04ab7e9eedfd4c3554029c500c4af9ef290eecc655c7ee5.json",
+  "ssot": "https://the95xrecord.vercel.app/ssot.json"
+}

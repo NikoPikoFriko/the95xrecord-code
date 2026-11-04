@@ -1,0 +1,11 @@
+{
+  "schema": "ssot/api-hash@1",
+  "sha256": "3772462808f809c114dc744ec5952610b6f6de0ad3eda26a25a6208d92bd8d64",
+  "kind": "document_page",
+  "case": "1RC191003776",
+  "docket": 230,
+  "file": "2021-11-18__Dkt230__1RC191003776__certificate-of-service-re-defendant-and-countercla.pdf",
+  "published_url": "https://the95xrecord.vercel.app/docs/0df9a911d9",
+  "lookup": "https://the95xrecord.vercel.app/api/v1/hash/3772462808f809c114dc744ec5952610b6f6de0ad3eda26a25a6208d92bd8d64.json",
+  "ssot": "https://the95xrecord.vercel.app/ssot.json"
+}

@@ -1,0 +1,11 @@
+{
+  "schema": "ssot/api-hash@1",
+  "sha256": "57f2f16b2e71347e770379cba24a2b64c184de5b1ff98010d04a468b542106d8",
+  "kind": "document_page",
+  "case": "1RC191003776",
+  "docket": 396,
+  "file": "2026-09-14__1RC191003776__DKT0396__technical-code-evidence-and-trial-ruling-analysis-copy.pdf",
+  "published_url": "https://the95xrecord.vercel.app/docs/5dc4280ef9",
+  "lookup": "https://the95xrecord.vercel.app/api/v1/hash/57f2f16b2e71347e770379cba24a2b64c184de5b1ff98010d04a468b542106d8.json",
+  "ssot": "https://the95xrecord.vercel.app/ssot.json"
+}

@@ -1,0 +1,11 @@
+{
+  "schema": "ssot/api-hash@1",
+  "sha256": "dabc86c15fd79f8194698f95238ea843238dc4988f8dac6ae8cd341f993a0bd8",
+  "kind": "document_page",
+  "case": "1RC191003776",
+  "docket": null,
+  "file": "UNDATED__UNASSIGNED__NONE__doc061319.pdf",
+  "published_url": "https://the95xrecord.vercel.app/docs/d3a287d4d6",
+  "lookup": "https://the95xrecord.vercel.app/api/v1/hash/dabc86c15fd79f8194698f95238ea843238dc4988f8dac6ae8cd341f993a0bd8.json",
+  "ssot": "https://the95xrecord.vercel.app/ssot.json"
+}

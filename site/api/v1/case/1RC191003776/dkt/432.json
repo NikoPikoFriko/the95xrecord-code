@@ -1,0 +1,40 @@
+{
+  "schema": "ssot/api-docket@1",
+  "case": "1RC191003776",
+  "docket": 432,
+  "code": "MOT",
+  "filed": "19-AUG-2026",
+  "filed_iso": "2026-08-19",
+  "time": "20:34:32",
+  "ra_pdf_page": 160,
+  "grade": "PARTIAL",
+  "for_counsel": false,
+  "evidence": {
+    "renditions": [
+      {
+        "file": "EMAILS/_blindness/PACK_DOCKET_2026-08-21/comm/cases/2026-08-17-amanda-letter-improve/jefs/filed_20260820/Dkt432_Stay_1121865524.pdf",
+        "sha256": "3b27f3eadf55a8d579d17f26e1599a7f5164751a8c4f7f9ac4517e226e7564d4",
+        "location": "email_pack",
+        "published_url": null
+      }
+    ],
+    "text": {
+      "file": "COURT_DOCKET/LISTINGS/1RC191003776/04_TEXT/ocr/2026-08-19__Dkt432__1RC191003776__defendant-counterclaim-plaintiff-nikodem-pikor-motion-to-sta.ocr.txt",
+      "sha256": "849f1cb0d688d8b8d052625a9af37061ff3738de2b78fcea00443bf3397abd6e",
+      "location": "court_docket_listings_ocr",
+      "published_url": "https://the95xrecord.vercel.app/COURT_DOCKET/LISTINGS/1RC191003776/04_TEXT/ocr/2026-08-19__Dkt432__1RC191003776__defendant-counterclaim-plaintiff-nikodem-pikor-motion-to-sta.ocr.txt"
+    },
+    "held_by_station": true,
+    "gap": false
+  },
+  "pdf_conflict": null,
+  "flags": [
+    "pdf_outside_canonical_library"
+  ],
+  "links": {
+    "register": "https://the95xrecord.vercel.app/register#dkt-432",
+    "register_json": "https://the95xrecord.vercel.app/api/v1/case/1RC191003776/dkt/432.json",
+    "ssot": "https://the95xrecord.vercel.app/ssot.json",
+    "crossref": "https://the95xrecord.vercel.app/data/crossref.json"
+  }
+}

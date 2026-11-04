@@ -1,0 +1,11 @@
+{
+  "schema": "ssot/api-hash@1",
+  "sha256": "6eb13c0babda996fe7309eaff8cdf28a05756cbe0c562b452ed6782f14741e54",
+  "kind": "document_page",
+  "case": "1RC191003776",
+  "docket": 346,
+  "file": "2021-07-15__1RC191003776__DKT0346__house-rules-2015-10-27.pdf",
+  "published_url": "https://the95xrecord.vercel.app/docs/2f6514d8ec",
+  "lookup": "https://the95xrecord.vercel.app/api/v1/hash/6eb13c0babda996fe7309eaff8cdf28a05756cbe0c562b452ed6782f14741e54.json",
+  "ssot": "https://the95xrecord.vercel.app/ssot.json"
+}

@@ -1,0 +1,11 @@
+{
+  "schema": "ssot/api-hash@1",
+  "sha256": "68e64e550d82830987ac1c651601886c21d99561e4ded18a0bc3719db4184800",
+  "kind": "document_page",
+  "case": "1RC191003776",
+  "docket": 10,
+  "file": "2026-09-16__CAAP-26-0000625__DKT0010__payment-receipt.pdf",
+  "published_url": "https://the95xrecord.vercel.app/docs/6df2f31264",
+  "lookup": "https://the95xrecord.vercel.app/api/v1/hash/68e64e550d82830987ac1c651601886c21d99561e4ded18a0bc3719db4184800.json",
+  "ssot": "https://the95xrecord.vercel.app/ssot.json"
+}

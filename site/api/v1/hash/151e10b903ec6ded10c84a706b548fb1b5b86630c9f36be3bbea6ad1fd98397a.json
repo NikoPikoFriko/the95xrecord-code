@@ -1,0 +1,11 @@
+{
+  "schema": "ssot/api-hash@1",
+  "sha256": "151e10b903ec6ded10c84a706b548fb1b5b86630c9f36be3bbea6ad1fd98397a",
+  "kind": "document_page",
+  "case": "1RC191003776",
+  "docket": 80,
+  "file": "2020-06-02__1RC191003776__DKT0080__nef-def-cntrclaim-3ppltf-n-mtn-lv-amend-answe-and-to-add.pdf",
+  "published_url": "https://the95xrecord.vercel.app/docs/4584273cae",
+  "lookup": "https://the95xrecord.vercel.app/api/v1/hash/151e10b903ec6ded10c84a706b548fb1b5b86630c9f36be3bbea6ad1fd98397a.json",
+  "ssot": "https://the95xrecord.vercel.app/ssot.json"
+}

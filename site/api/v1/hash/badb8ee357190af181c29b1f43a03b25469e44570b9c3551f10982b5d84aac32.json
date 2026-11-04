@@ -1,0 +1,11 @@
+{
+  "schema": "ssot/api-hash@1",
+  "sha256": "badb8ee357190af181c29b1f43a03b25469e44570b9c3551f10982b5d84aac32",
+  "kind": "trial_text",
+  "case": "1RC191003776",
+  "docket": 392,
+  "file": "2023-06-01__Dkt392__1RC191003776__proposed-findings-of-fact-and-conclusions-of-law-and-order.ocr.txt",
+  "published_url": "https://the95xrecord.vercel.app/COURT_DOCKET/LISTINGS/1RC191003776/04_TEXT/ocr/2023-06-01__Dkt392__1RC191003776__proposed-findings-of-fact-and-conclusions-of-law-and-order.ocr.txt",
+  "lookup": "https://the95xrecord.vercel.app/api/v1/hash/badb8ee357190af181c29b1f43a03b25469e44570b9c3551f10982b5d84aac32.json",
+  "ssot": "https://the95xrecord.vercel.app/ssot.json"
+}

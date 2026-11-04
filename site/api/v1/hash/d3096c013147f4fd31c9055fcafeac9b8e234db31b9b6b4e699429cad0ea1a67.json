@@ -1,0 +1,11 @@
+{
+  "schema": "ssot/api-hash@1",
+  "sha256": "d3096c013147f4fd31c9055fcafeac9b8e234db31b9b6b4e699429cad0ea1a67",
+  "kind": "evidence_export",
+  "case": "CAAP-26-0000625",
+  "docket": null,
+  "file": "CITATIONS.md",
+  "published_url": null,
+  "lookup": "https://the95xrecord.vercel.app/api/v1/hash/d3096c013147f4fd31c9055fcafeac9b8e234db31b9b6b4e699429cad0ea1a67.json",
+  "ssot": "https://the95xrecord.vercel.app/ssot.json"
+}

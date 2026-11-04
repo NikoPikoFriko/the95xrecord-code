@@ -1,0 +1,11 @@
+{
+  "schema": "ssot/api-hash@1",
+  "sha256": "c0d342bbaf58f6fbc238ad3a55c9dfea18f5c09f006db659c0fa3cb6e07d060d",
+  "kind": "trial_text",
+  "case": "1RC191003776",
+  "docket": 283,
+  "file": "2022-02-17__Dkt283__1RC191003776__defendant-third-party-plaintiff-nikodem-pikor-s-memorandum-i.ocr.txt",
+  "published_url": "https://the95xrecord.vercel.app/COURT_DOCKET/LISTINGS/1RC191003776/04_TEXT/ocr/2022-02-17__Dkt283__1RC191003776__defendant-third-party-plaintiff-nikodem-pikor-s-memorandum-i.ocr.txt",
+  "lookup": "https://the95xrecord.vercel.app/api/v1/hash/c0d342bbaf58f6fbc238ad3a55c9dfea18f5c09f006db659c0fa3cb6e07d060d.json",
+  "ssot": "https://the95xrecord.vercel.app/ssot.json"
+}

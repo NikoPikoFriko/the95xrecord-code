@@ -1,0 +1,11 @@
+{
+  "schema": "ssot/api-hash@1",
+  "sha256": "2911e4ff558b40923e7254528bef8c59f4ff5c3b3e147f52039f0e1165d0dea3",
+  "kind": "document_page",
+  "case": "1RC191003776",
+  "docket": 63,
+  "file": "2020-02-13__1RC191003776__DKT0063__nef-re-odepo-notice-of-n.pdf",
+  "published_url": "https://the95xrecord.vercel.app/docs/b4be56fe75",
+  "lookup": "https://the95xrecord.vercel.app/api/v1/hash/2911e4ff558b40923e7254528bef8c59f4ff5c3b3e147f52039f0e1165d0dea3.json",
+  "ssot": "https://the95xrecord.vercel.app/ssot.json"
+}

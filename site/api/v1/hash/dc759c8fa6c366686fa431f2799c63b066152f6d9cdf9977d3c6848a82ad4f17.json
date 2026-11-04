@@ -1,0 +1,11 @@
+{
+  "schema": "ssot/api-hash@1",
+  "sha256": "dc759c8fa6c366686fa431f2799c63b066152f6d9cdf9977d3c6848a82ad4f17",
+  "kind": "document_page",
+  "case": "1RC191003776",
+  "docket": 114,
+  "file": "2020-09-25__1RC191003776__DKT0114__ord-grant-deny-parts-aoao-non-hrg-mtn-recon.pdf",
+  "published_url": "https://the95xrecord.vercel.app/docs/13d968b018",
+  "lookup": "https://the95xrecord.vercel.app/api/v1/hash/dc759c8fa6c366686fa431f2799c63b066152f6d9cdf9977d3c6848a82ad4f17.json",
+  "ssot": "https://the95xrecord.vercel.app/ssot.json"
+}

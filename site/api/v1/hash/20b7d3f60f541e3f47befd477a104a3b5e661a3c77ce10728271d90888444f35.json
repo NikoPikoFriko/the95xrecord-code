@@ -1,0 +1,11 @@
+{
+  "schema": "ssot/api-hash@1",
+  "sha256": "20b7d3f60f541e3f47befd477a104a3b5e661a3c77ce10728271d90888444f35",
+  "kind": "trial_text",
+  "case": "1RC191003776",
+  "docket": 148,
+  "file": "2021-01-08__Dkt148__1RC191003776__stipulation-for-partial-dismissal-with-prejudice-as-to-count.ocr.txt",
+  "published_url": "https://the95xrecord.vercel.app/COURT_DOCKET/LISTINGS/1RC191003776/04_TEXT/ocr/2021-01-08__Dkt148__1RC191003776__stipulation-for-partial-dismissal-with-prejudice-as-to-count.ocr.txt",
+  "lookup": "https://the95xrecord.vercel.app/api/v1/hash/20b7d3f60f541e3f47befd477a104a3b5e661a3c77ce10728271d90888444f35.json",
+  "ssot": "https://the95xrecord.vercel.app/ssot.json"
+}

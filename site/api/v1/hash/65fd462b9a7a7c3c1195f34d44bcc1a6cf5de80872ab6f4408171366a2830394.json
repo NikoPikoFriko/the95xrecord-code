@@ -1,0 +1,11 @@
+{
+  "schema": "ssot/api-hash@1",
+  "sha256": "65fd462b9a7a7c3c1195f34d44bcc1a6cf5de80872ab6f4408171366a2830394",
+  "kind": "trial_text",
+  "case": "1RC191003776",
+  "docket": 2,
+  "file": "2019-06-28__Dkt002__1RC191003776__return-of-service-re-complaint-summons-served-by-stacey-came.ocr.txt",
+  "published_url": "https://the95xrecord.vercel.app/COURT_DOCKET/LISTINGS/1RC191003776/04_TEXT/ocr/2019-06-28__Dkt002__1RC191003776__return-of-service-re-complaint-summons-served-by-stacey-came.ocr.txt",
+  "lookup": "https://the95xrecord.vercel.app/api/v1/hash/65fd462b9a7a7c3c1195f34d44bcc1a6cf5de80872ab6f4408171366a2830394.json",
+  "ssot": "https://the95xrecord.vercel.app/ssot.json"
+}

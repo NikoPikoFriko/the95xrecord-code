@@ -1,0 +1,1657 @@
+===== PAGE 001 / 42 =====
+                                                                                                                              Electronically Filed
+                                                                                                                              FIRST CIRCUIT
+                                                                                                                              1RC191003776
+                                                                                                                              06-JAN-2020
+                                                                                                                              03:12 PM
+
+
+
+
+I do hereby certify that the foregoing is a full, true and correct copy of the official court record of the Courts of the State of Hawai`i.
+Dated at: Honolulu, Hawai`i 02-SEP-2026, /s/ Lori Ann Okita, Clerk of the First Judicial Circuit, State of Hawai`i
+
+===== PAGE 002 / 42 =====
+HEARING:
+Date: January 21, 2020
+Time: 8:30 a.m.
+Judge: Presiding
+(No trial date set).
+NIKODEM PIKOR,
+Third-Party Plaintiff,
+Vv.
+THYSSENKRUPP ELEVATOR
+CORPORATION, Foreign Profit Corporation,
+Third-Party Defendant.
+THYSSENKRUPP ELEVATOR CORPORATION'S MOTION TO FOR
+SUMMARY JUDGMENT ON THE
+THIRD-PARTY COMPLAINT FILED JULY 8, 2019
+
+Third-Party Defendant THYSSENKRUPP ELEVATOR CORPORATION
+(“TKE”) moves for summary judgment on Defendant NIKODEM PIKOR’S Third-
+Party Complaint filed July 8, 2019 (‘Third-Party Complaint’).
+
+The claim in Count One of Pikor’s Third-Party Complaint rests on the allegation that he is a third-party beneficiary of the elevator maintenance contract
+between TKE and the managing agent of Plaintiff ASSOCIATION OF
+APARTMENT OWNERS OF MARINE SURF WAIKIKI, INC. The indisputable
+material facts and setiled Hawai'i law confirm that Pikor is neither a party to the
+elevator maintenance agreement nor a third-party beneficiary of the agreement.
+Because Pikor is not a party to, or a third-party beneficiary of, the elevator mainte-
+
+-2-
+
+===== PAGE 003 / 42 =====
+nance agreement, he lacks standing to aassert.a hraach of the agreement. The claims
+in Count Two fail as a matter of law because Pikor seeks damages under Hawai'i :
+Revised Statutes (“HRS”) section 481A-3 but the statute does not authorize damag- |
+es, pursues a claim under the Penal Code but there is no private right of action |
+under the Code and seeks damages under HRS chapter 480 as a “consumer” but
+|
+Pikor is not a “consumer” for purposes of the chapter. The dispute is between Pikor
+and the AOAO. TKE should not have been made a party to it. Summary judgment /
+should be granted. /
+This motion is made pursuant to Rules 7 and 56 of the Hawai‘i District Court
+Rules of Civil Procedure and Rule 7 of the Rules of the District Courts of the State
+of Hawai‘i and is supported by the attached memorandum, Declaration of Chuck
+i
+DeCoito, Declaration of Counsel, and exhibits. ;
+i
+DATED: Honolulu, Hawaii, January 6, 2020.
+'
+CADES SCHUTTE
+A Limited Liability Law Partnership :
+‘si Jarrett A, Dempsey
+CALVERT G, CHIPCHASE IV }
+JARRETT A. DEMPSEY i
+Attorneys for Third-Party Defendant :
+THYSSENKRUPP ELEVATOR :
+CORPORATION
+4
+|
+i
+;
+t
+ig
+|
+[
+I
+-3- |
+if
+i
+
+===== PAGE 004 / 42 =====
+IN THE DISTRICT COURT OF THE FIRST CIRCUIT |
+
+HONOLULU DIVISION |
+
+STATE OF HAWAIT |
+
+ASSOCIATION OF APARTMENT CIVIL NO. 1RC19-1-0003776 |
+OWNERS OF MARINE SURF |
+WAIKIKI, INC., a Hawai’i nonprofit MEMORANDUM IN SUPPORT OF |
+corporation, by its Board of Directors, MOTION i
+Plaintiff,
+
+NIKODEM PIKOR,
+Defendant. |
+
+NIKODEM PIKOR,
+|
+
+Third-Party Plaintiff, i
+
+i
+
+THYSSENKRUPP ELEVATOR
+CORPORATION, Foreign Profit Corpo- ‘
+ration, :
+Third-Party Defendant.
+
+|
+
+MEMORANDUM IN SUPPORT OF MOTION :
+
+I, INTRODUCTION |
+
+|
+
+Third-Party Defendant Thyssenkrupp Elevator Corporation (“TKE”) has a
+contract with Plaintiff Association Of Apartment Owners Of Marine Surf Waikiki,
+Inc. (the “AOAO”) for elevator maintenance. On May 9, 2018, TKE dispatched two |
+technicians in response to a call from an agent of the AOAO indicating that one of |
+[
+
+i
+
+i
+
+i
+
+i
+
+===== PAGE 005 / 42 =====
+the elevators located at the Marine Surf Condominium Project, 364 Seaside Ave.,
+Honolulu, Hawai'i 96815 (the “Marine Surf Condominium’), was unresponsive.
+The agent told the technicians that the elevator had become unresponsive after a
+resident left a large plastic storage container in the doorway. After inspecting the |
+elevator, the TKE technicians determined that the elevator had been rendered |
+inoperable due to misuse. The TKE technicians repaired the elevator and returned |
+it to service. Because repairs for elevator issues caused by misuse are not covered by |
+the elevator maintenance agreement, TKE billed the AOAO $2,260.15 for the re- |
+pairs. The AOAO paid the bill.
+The AOAO subsequently sought reimbursement for those costs from Defendant. Nikadem Pikar hecanse the ANAO helieves that Pikor left. the nlastie container
+in the elevator doorway. Pikor failed to reimburse the AOAO. The AOAO responded
+hy filing the Complaint. in this action. Pikar filed a Counterclaim against the AOAQ
+and a Third-Party Complaint (the “Third-Party Complaint”) against TKE.
+The Third-Party Complaint asserts two claims against TKE. First, Count
+i
+One alleges breach of contract. Exhibit A (Third-Party Complaint) 6. In making |
+this claim, Pikor attempts to enforce the elevator maintenance agreement between
+the managing agent of the AOAO and TKE. Pikor is not a party to the agreement,
+he is not mentioned in the agreement and there is no evidence that the contracting |
+parties intended for Pikor to be a beneficiary of the agreement. On these indisputable facts, Pikor does not have standing to assert any right under the agreement.
+‘
+:
+-2- '
+
+===== PAGE 006 / 42 =====
+Because Pikor lacks standing to sue for breach of the elevator maintenance agreement, Count One fails as a matter of law.
+
+Second, Count Two alleges a claim for unfair and deceptive trade practices allegedly arising out of TKE’s decision to bill the AOAO for the repair services
+provided. Id. 77. In support of this claim, Pikor cites Hawai'i Revised Statutes
+(CHRS”) sections 481A-3, 708-870 and 480-2. Id. Pikor does not have a cause of
+action under any of those provisions: (1) The sole remedy under HRS section 481A-3
+is injunctive relief, which Pikor does not seek; (2) HRS section 708-870 is a provi-
+
+sion of the penal code, and there is no civil private right of action; and (8) Pikor is
+
+not a “consumer” pursuant to HRS section 480-2 because TKE did not solicit or
+
+provide services to Pikor and did not bill Pikor for the services that were provided to |
+
+the AOAO. Accordingly, Count Two fails as a matter of law. |
+
+Summary judgment should enter in favor of TKE and against Pikor. |
+
+Il. BACKGROUND |
+
+A, The Elevator Maintenance Contract Is Between the Managing
+
+Agent of the AOAO and TKE. i
+
+On or about June 14, 2010, the AOAO, by and through its managing agent, |
+
+W.E. Denison Corporation, entered into an automatically renewing contract for |
+
+elevator maintenance and callback services (“the “Elevator Maintenance Agree- |
+
+ment”) for the two elevators located at the Marine Surf Condominium Project, 364 |
+
+Seaside Ave., Honolulu, Hawai‘i 96815 (the “Marine Surf’). See Exhibit B (Eleva- |
+
+tor Maintenance Agreement). The only parties to the agreement are TKE and W.E.
+
+|
+
+-3- :
+
+===== PAGE 007 / 42 =====
+Denison Corporation, as agent for the AOAO. Jd. Neither Pikor nor any other member of the AOAO is mentioned in the Agreement. See id.
+
+Under the Elevator Maintenance Agreement, TKE agreed to perform
+
+maintenance and callback services for the elevators at the Marine Surf in exchange
+for a set monthly fee. Covered maintenance services include regular examination
+and adjustment of the elevator components. Id. at 2. Covered callback services
+include on-demand service visits from a TKE technician for “minor adjustments and
+response to emergency entrapments that can be accomplished in two hours or less
+(excluding travel time) and do not include regularly scheduled maintenance visits.”
+Id. Other services may be performed by a TKE technician but are not included in
+the monthly fee and are billed separately. The Elevator Maintenance Agreement
+expressly exempts from coverage service, renewal, replacement or repair of the
+elevator equipment
+
+due to any one or more of the following: anyone's abuse, misuse
+
+and/or vandalism of the equipment; anyone's negligence in
+
+connection with the use or operation of the equipment; ... or
+
+any other reason or cause beyond our control that affects the
+
+use or operation of the equipment.
+
+Id. at 3 (emphasis added).
+
+B. TKE Repaired Damage to an Elevator.
+
+On May 9, 2018, an agent of the AOAO called the TKE office to inform TKE |
+that an elevator had become unresponsive. Exhibit C at 1 (TKE service tickets for |
+work performed on 05/09/18 and 05/10/18). In response, TKE dispatched two techni- |
+cians who examined the elevator and determined that the danrs had heen knocked |
+off the tracks due to misuse of the elevator. Jd. at 1. The technicians repaired the
+
+|
+
+===== PAGE 008 / 42 =====
+elevator over the next two days. Jd. at 1-3. Because damage caused by misuse is not
+covered under the Elevator Maintenance Agreement, TKE billed the AOAO
+$2,260.15 for the repair of the elevator. Exhibit D (Invoice to AOAO). At no time did
+TKE bill Pikor for the repair of the damage or otherwise seek compensation from
+Pikor. Declaration of Chuck DeCoito 48. Indeed, TKE did not communicate with
+Pikor at all prior to the commencement of this litigation and all communication
+since has been through counsel. Jd. at ]9.
+Ill. LEGAL STANDARD
+Pursuant to Rule 56(c), summary judgment “shall be rendered forthwith if
+the pleadings, depositions, answers to interrogatories, and admissions on file,
+together with the affidavits, if any, show that there is no genuine issue as to any
+material fact and that the moving party is entitled to judgment as a matter of law.”
+The “district court must grant a motion for summary judgment when the moving
+party: (1) has shown that there is no genuine issue regarding any material fact, and
+(2) is entitled to judgment as a matter of law.” Citibank, N.A. v. Freitas, 133 Hawai'i
+447, 329 P.3d 352 (Table), 2014 WL 2440137, Case No. CAAP-13-0000208, at *1
+(Haw. Ct. App. May 29, 2014) (unpublished disposition). “A fact is material if proof |
+of that fact would have the effect of establishing or refuting one of the essential
+elements of a cause of action or defense asserted by the parties.” Id. (quoting |
+Kamaka v. Goodsill Anderson Quinn & Stifel, 117 Hawai'i 92, 104, 176 P.3d 91, 103
+(2008)). If the movant “meets its burden of production, the non-moving party must
+present admissible evidence showing a genuine issue of material fact about an |
+5. |
+
+===== PAGE 009 / 42 =====
+essential element to avoid summary judgment.” Id. (citing Celotex Corp. v. Catrett,
+477 U.S. 317, 322-23 (1986)).
+Iv. ARGUMENT |
+A, Pikor’s Breach of Contract Claim Fails as a Matter of Law.
+Pikor’s first claim for breach of contract fails as a matter of law because he is |
+not. a party to the Blevator Maintenance Agreament. and has no standing to assert.
+rights under the contract. The Elevator Maintenance Agreement is between the |
+managing agent. of the AOAO and TRE. Neither Pikor nor any individual member |
+of the AOAO is mentioned in the agreement. There is no evidence that. TKE and the
+AOAO intended to confar a direct henefit on Pikor hy entering into the agreement.
+Generally, a person who is not a party to a contract has no standing to enforce the contract. Ass'n of Apartment Owners of Newtown Meadows ex rel. its Bd. of
+Directors v. Venture 15, Inc., 115 Hawaii 232, 269, 167 P.38d 225, 262 (2007). Indeed, when parties enter into a contract, there is a “presumption that the parties |
+contracted only for themselves.” Id. at 272, 167 P.3d at 265. Accordingly, “third
+parties do not have enforceable contract rights.” Jd. at 270, 167 P.3d at 262. |
+There is a narrow exception to this rule for intended third-party beneficiaries. |
+id., 167 P.3d at 262. “[A] prime requisite to the status of ‘third party beneficiary’
+under a contract is that the parties to the contract must have intended to benefit |
+the third party, who must be something more than a mere incidental beneficiary.” |
+Id. at 270, 167 P.3d at 263 (quoting Pancakes of Hawai‘, Inc. v. Pomare Props. |
+Corp., 85 Hawai'i 300, 309, 944 P.2d 97, 106 (App.1997) (emphasis added). To
+qualify for this exception, “it is not enough that the parties know, expect[,] or even |
+I
+
+===== PAGE 010 / 42 =====
+intend that such people may benefit or that they are referred to in the contract.” fd. |
+at 272, 167 P.3d at 265 (internal quotation marks and citations omitted) (alteration |
+in original). Rather, there must be evidence that the contracting parties intended to
+confer a direct benefit on the third party. Jd., 167 P.3d at 265. Where a written |
+instrument governs the parties agreement, “Hawai‘i courts are loathe to |
+find intended third-party beneficiary status absent a clear recognition of
+the third party and the conferred benefit.” Brewer Enutl. Indus., LLC v. Mat- ‘
+son Terminals, Inc., No. CIV. 10-00221 LEK-KS, 2011 WL 1637323, at *7 (D. Haw.
+Apr. 28, 2011) (emphasis added). Thus, Hawai'i law requires a purported thirdparty beneficiary to identify a “virtual express declaration to overcome the |
+presumption that the parties contracted only for themselves.” Newtown
+i
+
+Meadows, 115 Hawai'i at 272, 167 P.3d at 265 (emphasis added).
+i
+
+Here, the Elevator Maintenance Agreement does not contain a “virtual ex- |
+
+press declaration” indicating the contracting parties’ intent to confer a direct benefit
+on Pikor. See generally Exhibit B. On the contrary, the contract is clearly between |
+two parties: TKE and W.E. Denison Corporation acting as managing agent for the |
+AOAO. Id. at 5. The provisions of the contract that Pikor attempts to invoke in the |
+Third-Party Complaint provide:
+We will service your equipment described in this agreement on a regu- |
+
+larly scheduled basis. . . . ThyssenKrupp Elevator will perform the |
+following services:
+Examine your elevator equipment for optimum operation. Our examination, lubrication and adjustment will cover the following components i
+
+of your elevator system: '
+
+i
+
+|
+
+===== PAGE 011 / 42 =====
+Car and hoistway door operating devices and door protection equipment
+id. at 2 (emphasis added). The term “your” is clearly defined in the Elevator
+Maintenance Agreement to mean “W.E. Denison Corporation.” Id. at 1. Not only is /
+there neither an express nor virtual declaration indicating that Pikor or any other
+individual member of the AOAO is intended to receive a direct benefit under the |
+agreement, the Elevator Maintenance Agreement does not contain a single refer- |
+ence to Pikor or any other individual member of the AOAO in their individual |
+capacity. See generally id. On these indisputable facts, Pikor lacks standing to
+assert a breach of contract claim. Newtown Meadows, 115 Hawai'i at 272, 167 P.8d
+at 265; see also Lawry v. Pecan Plantation Owners Ass'n, Inc., No. 02-15-00079-CV,
+|
+2016 WL 4895777, at “5 (Tex. App. Aug. 18, 2016) (“a party’s status as a member of
+a nonprofit corporation does not automatically confer standing on that party to
+enforce an agreement between the nonprofit corporation and a third party”); Barger |
+v. Elite Mgmt. Services, Inc., 2018-Ohio-3755, 119 N.E.3d 953 (individual AOAO
+member was not a third party beneficiary to contract between AOAO and property
+management company); Greenacre Properties, Inc. v. Rao, 938 So.2d 19, 23 (Fla.
+Dist. Ct. App. 2006) (same). TKE is entitled to summary judgment on Count One as
+i
+a matter of law. |
+B. Pikor’s Unfair and Deceptive Trade Practices Claim Fails as a |
+Matter of Law.
+Count Two of the Third-Party Complaint for unfair and deceptive trade praci
+tices fails as a matter of law. In asserting this claim, Pikor relies on HRS sections
+|
+i
+
+===== PAGE 012 / 42 =====
+481A-3(a)(5) and (a)(12), 708-870(b), and 480-2. Pikor’s reliance on these statutes is
+misplaced for several reasons.
+First, Pikor may not maintain a claim under HRS section 481A-3 because he
+is not seeking injunctive relief. The remedies for an unfair and deceptive trade
+practice claim under section 481A-3 are outlined in section 481A-4. Under section
+481A-4, remedies for a violation of section 481A-3 are limited to injunctive relief
+and a potential award of attorneys’ fees. Chapter 481A does not provide for the
+recovery damages. Bill Darrah Builders, Inc. v. Hall at Makena Place, LLC, No. CV
+15-00518 JMS-KSC, 2018 WL 650195, at *9 (D. Haw. Jan. 31, 2018). Pikor does not
+seek injunctive relief against TKE, and such relief would not make sense in this
+case. Thus, Pikor’s claims under section 481A-4 fail. |
+Second, insofar as Pikor attempts to rely on HRS section “708-870(b)” no such |
+provision exists. Assuming that Pikor means section 708-870(1)(b) or any of the |
+other subsections of section 708-870, the cited provisions are sections of the penal |
+code and do not create a private right of action. See e.g., Franklin v. Atello, No. 03- |
+11-00497-CV, 2012 WL 4466515, at *2 (Tex. App. Sept. 26, 2012) (‘the penal code |
+does not create a private right of action”). Indeed, HRS section 708-870(5) specifical- |
+ly provides, “[t]his section does not apply to deceptive business practices, as defined |
+in subsection (1), for which a specific penalty is provided by a statute other than |
+this [Penal] Code.” Accordingly, Pikor’s claims under HRS section 708-870 fail.
+Finally, Pikor's claim under HRS section 480-2 fails because he is not a “consumer” within the definition of the statute. HRS section 480-2(d) provides that |
+-9- :
+
+===== PAGE 013 / 42 =====
+“[n]o person other than a consumer, the attorney general or the director of the
+office of consumer protection may bring an action based upon unfair or deceptive acts or practices declared unlawful by this section.” (emphasis added).
+Section 480-1 defines the term “consumer” as “a natural person who, primarily for
+personal, family, or household purposes, purchases, attempts to purchase, or is
+solicited to purchase goods or services or who commits money, property, or
+services in a personal investment.” The Hawai'i Supreme Court has held that
+individuals who are alleged to be third-party beneficiaries of a contract are not
+“consumers” under chapter 480 because third-party beneficiaries do not purchase or
+attempt to purchase and are not solicited to purchase the goods or services that are
+the subject of the contract. Hough v. Pac. Ins. Co., Lid., 83 Hawai'i 457, 470, 927
+P.2d 858, 871 (1996), as amended (Dec. 4, 1996) (holding that a plaintiff was not a
+“consumer” for the purposes of chapter 480 where the plaintiff relied on third party
+beneficiary theory to seek enforcement of purchase contracts but did not personally
+make the purchases); see also Hunt v. First Ins. Co. of Hawaii, Ltd., 82 Hawai‘i 3638,
+373, 922 P.2d 976, 986 (Ct. App. 1996) (holding that customer of grocery store, who
+
+was injured by slip and fall at store, could not bring HRS chapter 480 claim against
+
+store’s insurance company which had refused payment of medical claims, because
+
+customer, not having made any purchase from the insurance company, was not a |
+
+“consumer” who could bring suit). |
+
+Here, the Third-Party Complaint does not allege that Pikor purchased, at- |
+
+tempted to purchase or was solicited to purchase any goods or services. On the |
+
+|
+
+|
+
+|
+
+|
+
+|
+
+===== PAGE 014 / 42 =====
+contrary, the Elevator Maintenance Agreement is between TKE and the managing
+agent for the AOAO and all repair services were billed directly to the AOAO. Exhibit D. Therefore, Pikor is not a “consumer” for the purposes chapter 480 and cannot
+maintain an unfair and deceptive trade practices claim. See Hough, 83 Hawai‘i at
+470, 927 P.2d at 871; Hunt, 82 Hawai'i at 373, 922 P.2d at 986.
+Accordingly, because there is no genuine issue of material fact that Pikor’s
+unfair and deceptive acts claim fails as a matter of law, summary judgment is
+appropriate on Count II of the Third-Party Complaint.
+Vv. CONCLUSION
+For the reasons discussed herein, TKE respectfully requests that summary
+judgment be entered on the Third-Party Complaint.
+DATED: Honolulu, Hawaii, January 6, 2020.
+CADES SCHUTTE
+A Limited Liability Law Partnership
+|
+|
+‘si Jarrett A. Dempsey |
+CALVERT G. CHIPCHASE IV |
+JARRETT A. DEMPSEY !
+Attorneys for Third-Party Defendant |
+THYSSENKRUPP ELEVATOR /
+CORPORATION '
+i
+i
+-Il- :
+
+===== PAGE 015 / 42 =====
+IN THE DISTRICT COURT OF THE FIRST CIRCUIT |
+HONOLULU DIVISION
+STATE OF HAWAII
+ASSOCIATION OF APARTMENT CIVIL NO. 1RC19-1-0003776
+OWNERS OF MARINE SURF :
+WAIKIKI, INC., a Hawai'i nonprofit DECLARATION OF CHUCK |
+corporation, by its Board of Directors, DECOITO '
+Plaintiff, |
+NIKODEM PIKOR, |
+Defendant. |
+i
+|
+NIKODEM PIKOR, :
+:
+Third-Party Plaintiff, :
+THYSSENKRUPP ELEVATOR :
+CORPORATION, Foreign Profit Corpo- :
+ration, i
+:
+Third-Party Defendant. |
+i
+DECLARATION OF CHUCK DECOITO i
+t
+I, CHUCK DECOITO, hereby declare as follows:
+
+1. At all times relevant to this lawsuit, I was employed by the Honolulu
+branch of Defendant THYSSENKRUPP ELEVATOR CORPORATION (“TKE”) as
+its Service and Repair Operations Manager. I have continuously held this position |
+i
+from 2002 to the present. |
+|
+
+===== PAGE 016 / 42 =====
+2. I make this declaration based on personal knowledge unless otherwise /
+stated. |
+3. Iam competent and authorized to testify as to the matters stated here- |
+
+4, The records of TKE’s operations in Honolulu, including elevator service
+records, invoices, and contracts, are compiled and made in the course of regularly /
+conducted business activity. The aforementioned records are securely maintained |
+and kept in the normal course of TKE’s business under my custody and control
+5. Attached hereto as Exhibit “B” is a true and correct copy of the Platinum Premier Maintenance Agreement dated June 11, 2010 between W.E. Denison
+Corporation as managing agent for the AOAO Marine Surf Waikiki, Inc. and TKE. |
+6. Attached hereto as Exhibit “C” are true and correct copies of service |
+tickets documenting services performed on the elevator bearing the serial number
+US 183680 located at the Marine Surf Waikiki, 364 Seaside Ave., Honolulu, HI,
+96815-2532 from May 9, 2018 to May 10, 2018.
+7. Attached hereto as Exhibit “D” is a true and correct copy of an invoice |
+dated May 16, 2018, addressed to the Accounts Payable department of the AOAO |
+Marine Surf Waikiki, Inc., for the services performed on the elevator bearing the
+serial number US 133680 located at the Marine Surf Waikiki, 364 Seaside Ave.,
+Honolulu, HI, 96815-2532 from May 9, 2018 to May 10, 2018.
+I
+
+i
+
+|
+
+if
+
+===== PAGE 017 / 42 =====
+8. At no time did TKE bill Third-Party Plaintiff NIKODEM PIKOR for
+the repair of the damage to the elevator located at Marine Surf Waikiki, 364
+Seaside Ave., Honolulu, HI, 96815-2532
+9. At no time prior to the commencement of this lawsuit did TKE
+cammunirate with Third-Party Plaintiff NIKODEM PFKOR. All enmmimicatian !
+since the commencement of this lawsuit has been through counsel,
+I declare under penalty of law that the foregoing is true and accurate. i
+- (]
+Dated, Honolulu, Hawaii, AUN = 6 2007 |
+| |
+CHUCK DECOITO
+I
+i
+|
+i
+i
+i
+|
+a
+|
+i
+
+===== PAGE 018 / 42 =====
+IN THE DISTRICT COURT OF THE FIRST CIRCUIT
+HONOLULU DIVISION
+STATE OF HAWAII
+ASSOCIATION OF APARTMENT CIVIL NO. 1RC19-1-0003776
+OWNERS OF MARINE SURF
+WAIKIKI, INC., a Hawai’i nonprofit DECLARATION OF COUNSEL
+corporation, by its Board of Directors,
+Plaintiff,
+v.
+NIKODEM PIKOR,
+Defendant.
+NIKODEM PIKOR,
+Third-Party Plaintiff,
+v.
+THYSSENKRUPP ELEVATOR
+CORPORATION, Foreign Profit Corporation,
+Third-Party Defendant.
+DECLARATION OF COUNSEL /
+I, JARRETT A. DEMPSEY, hereby declare as follows: |
+I am attorney with Cades Schutte, LLP, counsel for Third-Party Defendant |
+THYSSENKRUPP ELEVATOR CORPORATION and am duly authorized to make |
+this declaration and do so based upon my personal knowledge unless otherwise |
+indicated. |
+|
+|
+
+===== PAGE 019 / 42 =====
+1. Attached hereto as Exhibit “A” is a true and correct copy of the Third-
+Party Complaint filed in this action by Third-Party Plaintiff NIKODEM PIKOR on
+duly 8, 2019.
+I declare under penalty of law that the foregoing is true and accurate.
+Dated, Honolulu, Hawai'i, January 6, 2020
+‘si Jarrett A. Dempsey
+JARRETT A. DEMPSEY
+!
+i
+|
+|
+|
+|
+|
+-2- !
+
+===== PAGE 020 / 42 =====
+Joseph Ryan, Jr. ID 8607 oa
+Joseph Ryan, Jr, AAL LLLC FILED .
+41-430 Waikupanaha St. DISTRICT COURT OF-
+P. O, Box 562 THE FIRST CIRCUIT ¢
+Waimanalo, HI 96795
+Phone/Fax (808) 259-6870 2g JUL -8 A 4 Su
+jryan808@JosephRyanJrAALLLLC. onmicrosoft.com
+Attorney for Defendant/Third Party Plaintiff LEGAL DECURENTS
+ne Hi. RAUWELOA
+IN THE DISTRICT COURT OF THE FIRST CIRCUIT
+HONOLULU DIVISION
+STATE OF HAWAIL
+ASSOCIATION OF APARTMENT OWNERS) CIVIL No. 1RC19-1-0003776
+OF MARINE SURF WAIKIKI, INC., a }
+Hawai‘i rofit co: tion, by its Board of
+Dietoe THIRD PARTY COMPLAINT;
+' )} DECLARATION; SUMMONS
+‘Plaintiff }
+NIKODEM PIKOR }
+)
+Defendant. )
+: )
+)
+NIKODEM PIKOR } .
+‘Third Party Plaintiff, }
+)
+“ )
+)
+THYSSENKRUPP ELEVATOR }
+CORPORATION, Foreign Profit Corporation ) ‘
+Third Party Defendant, ) .
+. ) { do hereby certify that this is a full true, |
+: ) and.correct copy of the original on file in. - i
+a Wis offce, fe
+; Glerk, District Court of the First Crook
+State of Hawaii i
+EXHIBIT A
+— if
+|
+
+===== PAGE 021 / 42 =====
+| ; THIRD PARTY COMPLAINT AND SUMMONS ;
+
+1 Third Party Plaintiff NIKODEM PIKOR is a natural person a part-owner of apartment
+
+Lo
+
+unit No. 906 of the Marine Surf Waikiki Condominium Project located at 364 Seaside Ave,
+
+Honolulu, Hawai‘i 96815; Mr, Pikor is also a resident of the Marine Surf Waikiki Condominium |
+
+. Project and is an intended beneficiary of an elevator maintenance contract between Plaintiff , |
+
+ASSOCIATION OF APARTMENT OWNERS MARINE SURF WAIKIKI, INC., (hereinafter |
+
+“AOAO Marine Surf”) and Third Party Defendant THYSSENKRUPP ELEVATOR |
+
+CORPORATION. . , |
+
+2. THYSSENKRUPP ELEVATOR CORPORATION (hereinafter “TEC”) is a Foreign For- , |
+
+Profit Corporation (Delaware), utilizing a registered Hawai‘i agent: PHCS HAWAII, INC; |
+
+located at 1600 Pauahi Tower, 1003 Bishop St., Honolulu, Hawaii 96813. , }
+
+3. On diligent investigation and information and belief, two (2) elevators were permitted .
+
+" and installed in the Marine Surf Condominium Project, 364 Seaside Ave, Honolulu, Hawai'i r
+
+96815 during or about 1967 and subject to the State of Hawai‘i Elevator Code A17.1(1965) in
+
+effect at the time of installation. , |
+
+: 4, On or about June 14, 2010, AOAO Marine Surf, by and through its managing agent, W. |
+
+E. Denison Corporation, agreed to an automatically renewing contract for elevator maintenance 4
+
+services for the two elevators at the Marine Swf Condominium Project, 364 Seaside Ave, |
+Honolulu, Hawai‘i 96815 with Third Party Defendant TEC.
+
+5. On or about May 9, 2018, Third Party Plaintiff PIKOR used one of the two elevators and
+
+inadvertently left a storage container in a position where automatically closing, bi-parting,
+
+. ; |
+
+-
+
+i
+
+H
+
+===== PAGE 022 / 42 =====
+i
+
+|
+
+|
+
+\
+
+elevator doors (which consist of elevator car doors and hoistway (landing) doors) impacted the |
+storage container as the doors closed; the elevator doors, instead of stopping or re-opening, the
+hoistway (landing) door uncoupled from the elevator car door clutch and the hoistway (landing) /
+doors were subsequently pushed off their tracks as the elevator car door automatically reopened.
+
+|
+
+COUNTI: BREACH OF CONTRACT i
+6. TEC’s contract, titled as a “PLATINUM PREMIER MAINTENANCE AGREEMENT”
+
+| signed by the AOAO Marine Surf's managing agent, promised that: : /
+ThyssenKrupp Elevator will perform the following services:
+
+o Examine your elevator equipment for optimum operation. Our examination, \
+lubrication and adjustment will cover the following components of your :
+
+elevator system: . i
+
+0 Control and landing positioning systems i
+
+: o Signal fixtures :
+o Machines, drives, motors, governors, sheaves, and wire ropes :
+
+o Power units, pumps, valves, and jacks i
+
+o Car and hoistway door operating devices and door protection equipment :
+
+o loadweighers, car frames and platforms, and counterweights H
+
+o Safety mechanisms :
+
+o Lubricate equipment for smooth and efficient performance ci
+
+o Adjust elevator parts and components to maximize performance and safe . :
+operation (emphasis added). |
+
+Defendant and Third Party Plaintiff PIKOR claims TEC failed to examine and/or adjust “Car and i
+hoistway door operating devices and door protection equipment” designed to prevent the
+hoistway (landing) doors from uncoupling from the elevator car doors and failed to “adjust
+i
+
+elevator parts and components to maximize .. . safe operation” and as a result PIKOR was :
+i
+
+victimized by one or more concealed defects, including but not limited to worn, misaligned, or
+misadjusted parts, that threatened the safety of the residents and guests of AOAO Marine Surf
+and violated the State of Hawai‘i Elevator Code which require, among other rules, that:
+i
+
+|
+
+t
+
+3 :
+
+H
+
+i
+
+===== PAGE 023 / 42 =====
+i
+
+Hangers for horizontally sliding doors shall be provided with means to prevent the i
+
+doors from jumping the tracks, Stops shall be provided to prevent the hanger |
+
+from leaving the end of the tracks or suitable stops may be provided on the door !
+
+only. (American Standard Safety Code for Elevators... .. A17.1-1965, Rule i
+
+110.10c). ;
+
+,
+
+COUNT II: UNFAIR AND/OR DECEPTIVE TRADE PRACTICES HRS 480-2 and/or
+
+481A-3(a)(5) and (a)(12) or HRS § 708-870(b)
+
+7. Defendant and Third Party Plaintiff PIKOR claims that TEC unfairly and deceptively.
+
+attributed the defective operation of the particular elevator as a “misuse” on its invoice to AOAO
+
+i
+
+Marine Surf for repair services while admitting, on the’same invoice, that the elevator doors '
+
+|
+
+“interlock and hangers” were “adjusted” for proper operation; the classification of the elevator |
+
+. |
+
+defect as “misuse” allows TEC to collect employee overtime reimbursement over and above the |
+
+|
+
+money paid by AOAO Marine Surf for contracted maintenance and repair and constitutes an , f
+
+i
+
+unfair and deceptive practice in violation of Hawai‘i Revised Statues (HRS) § 480-2 and/or §
+
+481A-3 or § 708-870(b).
+
+|
+
+{continued on next page] :
+
+'
+
+. i
+
+. i
+
+|
+
+|
+
+i
+
+\
+
+i
+
+. }
+
+i
+
+H
+
+j
+
+I
+
+===== PAGE 024 / 42 =====
+PRAYER
+Defendant prays for relief as follows: .
+1. Reimbursement for all fees and costs of investigation incurred since the date of
+the incident in an amount to be determined at trial as compensatory damages on which an award
+: of treble damages be awarded.
+2. The award of a reasonable attorney fee and costs of defense.
+3. all other just and reasonable relief.
+Datéd} Waimanale, Hawai ‘i, July 3, 2019.
+fospeh N.A. Ryan} Jr. 8607
+Attomey for Defendant/Third-Party Plaintiff
+DECLARATION
+I, NIKODEM PIKOR, have read this Complaint, know the contents, and verify the /
+statements above are true and correct in my personal knowledge and belief. 1 DECLARE UNDER /
+PENALTY OF LAW THAT THE ABOVE IS TRUE AND CORRECT.
+Honolulu, Hawaii, July 4, 2019
+N fm Pik6r |
+i
+i
+‘ |
+!
+|
+|
+|
+|
+|
+
+===== PAGE 025 / 42 =====
+. SUMMONS Form #1DC50
+IN THE DISTRICT COURT OF THE FIRST CIRCUIT
+: HONOLULU DIVISION
+STATE OF HAWAI'I
+Plaintiff
+THIRO- PARTY PLAINTIFF
+NIKODEM PIKOR .
+Reserved for Court Use
+MINS. 4RC19-1-0003776
+| Defendant . | Filing Party/Attorney Name, Attorney Number, Firm Name (if
+THIRD-PARTY DEFENDANT applicable), Address, and Telephone Number
+Joseph Ryan, Jr. 8607
+THYSSENKRUPP ELEVATOR CORPORATION, Josph Ryan Jr. AAL, LLLe .
+Foreign Profit Corporation 41-430 Waikupanaha St.
+Waimanalo, HI 96795
+. ph/fax 808 259 6870
+. SUMMONS ,
+THE STATE OF HAWAI'I:
+TO: The Director of Public Safety of the State of Hawai‘i, the Director’s deputy, or any police officer or other person
+authorized by the laws of the State of Hawai‘i:
+This Summons shall not be personally delivered between 10:00 p.m. and 6:00 a.m. on premises not open to the public,
+unless a Judge permits, in writing on this Summons, personal delivery during those hours.
+TO THE DEFENDANT: ;
+
+You are required to file a written answer or appear before the District Judge of this Court, in the Judge’s Courtroom, on the
+day and at the time designated by the checked box on page 2. If the Defendant is a corporation or limited liability company,
+Hawai'i law requires it to be represented by an attorney licensed to practice in the State of Hawai‘i.
+
+If YUU UK YOUR ALVTURNEY FAIL TU ATTEND THE COURT HEARING AY LHE TIME AND PLACE
+DESIGNATED OR FILE A WRITTEN ANSWER A DEFAULT JUDGMENT WILL BE TAKEN AGAINST YOU
+FOR THE RELIEF DEMANDED IN THE COMPLAINT.
+
+NOTICE TO PARTIES: (Honolulu Division onty): If this case involves a residential lease and if the Defendant(s) disagrees
+
+with the statements in the Complaint, the Court may require the parties to submit their dispute to mediation at the Pre-Trial
+
+conference that will be scheduled on the Monday, not a holiday, following the court date specified above. If the Monday
+
+following your court date is a holiday, the Pre-Trial conference will occur on the next business day. If the parties are not able
+
+to resolve the dispute within 20 minutes of mediation, the Cout will set a trial date.
+
+JUL - 8 2019 MM. KAUWELOA ( SEAL }.
+Date: Clerk : .
+_ ~ . SEE PAGE 2
+
+BRG-AC-508 (3/18) , : ear”
+(Rev. 1/23/2018) Page 1 of 2 Form#1DC5C
+
+===== PAGE 026 / 42 =====
+I. ee
+‘ COURT ADDRESSES AND RETURNABLE DAYS: |
+@ Honolulu Division, 1111 Alakea Street, 10" floor Courtroom 10A or 10B, Honolulu, Hawai‘i !
+i
+0 at 8:30 a.m. on the fifth day following date of service, excluding Saturdays, Sundays, legal holidays
+for summary possession. :
+or
+@ at 1:30 p.m. on the second Monday following date of service, and should that Monday be a legal
+holiday then upon the next business day.
+O ‘Ewa Division, 870 Fourth Street, Pearl City, Hawai‘i
+| © at 9:00 a.m. on the second Thursday following date of service, and should that Thursday be a legal
+| holiday then upon the next Thursday.
+ Ko‘olaupoko OR Ko‘olauloa Division, 45-939 Po‘okela Street, Kane‘ohe, Hawai‘i :
+0 at 9:00 a.m. on the second Friday following date of service, and should that Friday be a legal holiday
+then upon the next Friday.
+O Wahiawa OR Waialua Division, 1034 Kilani Avenue, Wahiawa, Hawai‘i
+© at 9:00 a.m. on the second Wednesday following date of service, and should that Wednesday be a legal
+holiday then upon the next Wednesday. ,
+- |) Wai‘anae Division, 4675 Kapolei Parkway, Kapotei, Hawai‘i ,
+© at 9:00 a.m. on the second Tuesday following date of service, and should that Tuesday be a legal
+holiday then upon the next Tuesday. :
+Mailing address for the Courts: 1111 Alakea Street, Civil Division, Third floor, Honolulu, Hawai‘
+96813
+| rm Inaccordance with the Americans with Dissbilities Act and other applicable state and federal laws, if you require an accommodation
+| PHONE NO, 538-5121, FAX 538-5233, or TTY 539-4853 af leat ten (10) working days before your proceeding, bearing, o
+| —— pine te Fon Civ reais micas ponne eat 338-5525 on init die Disnict Coase Genie Contes of 2422 Abies
+. re
+(Rev, 1/23/2018) . Page 2 of 2 Form#1DCSt:
+
+===== PAGE 027 / 42 =====
+| Platinum Premier Maintenance Agreement |
+W.E. DENISON doe Podmen) TK-119-0606
+Purchaser: —BitBenises for:
+Marine Surf
+364 Seaside Ave
+Honolulu, Hl 96815
+Hereinafter referred to as “Purchaser, "you’, and “your”.
+Location: — AQAO Marine Surf
+364 Seaside Ave f
+Honolulu, Ht 96815 i
+By: Thyssenkrupp Elevator Corporation '
+2880 Ualena St '
+Honolulu, Ht 96819 !
+Telephone: (808)839-8139
+Fax: (866)251-5478
+E-Mail; susanne.fernald@thyssenkrupp.com
+Internet: www.thyssenkruppelevator.com
+Hereinafter referred to as “ThyssenKrupp Elevator Corporation”, “ThyssenKrupp Elevator’, “we, “us” and “our”,
+PLATINUM PREMIER MAINTENANCE AGREEMENT
+Thyssenkrupp Elevator agrees to maintain Purchaser's etevator equipment described below in accordance with this agreement.
+fe will endeavor to provide a comprehensive maintenance program designed to protect your Investment and maximize the
+performance, safety, and life span of the elevator equipment to be maintained.
+Equipment To Be Maintained |
+|
+Building Name Unit Quantity == Manufacturer ‘Type of Unk. Application of Unit Unit ID or Serial # |
+i
+Marine Surf 1 ThyssenKrupp Geared Traction Passenger BH3317 |
+Marine Surf 1 ThyssenKrupp Geared Traction Passenger BH3318. |
+|
+Thyssenkrupp Elevator (x
+Americas Business Unit N @,
+ThyssenKrupp’
+EXHIBIT “B”
+···························································
+
+===== PAGE 028 / 42 =====
+i
+Platinum Premier Maintenance Agreement
+Preventative Maintenance Program :
+We will service your equipment described in this agreement on a regularly scheduled basis. These service visits will be performed during normal i
+business working days and hours, which are defined as Monday through Friday, 8:00 AM to 4:30 PM (except scheduted holidays). Alt work |
+performed before or alter normal business working days and hours shall be considered “Overtime™. i
+ThyssenKrupp Elevator will perform the following services:
+» — Examine your elevator equipment for optimum operation. Our examination, lubrication and adjustment will cover the following :
+components of your elevator system: i
+© — Control and landing positioning systems :
+© Signal fixtures H
+o Machines, drives, motors, governors, sheaves, and wire ropes H
+© Pawer units, pumps, valves, and jacks i
+© Car and holstway door operating devices and door protection equipment ‘
+© Loadweighers, car frames and platforms, and counterweights i
+© Safety mechanisms
+Lubricate equipment for smooth and ecient performance
+«Adjust elevator parts and components to maximize performance and safe operation |
+Full Coverage Parts Repair and Replacement |
+ThyssenKrupp Elevator will provide full coverage parts repair and/or replacement for all components worn due to normal wear, unless specifically |
+excluded in the “Items Not Covered” or “Other Conditions” provisions herein. We maintain a comprehensive parts inventory to support our Geld
+eperations: All replacement parts used in your equipment wilt be new or refurbished to meet the quality standards of ThyssenKrupp Elevator. |
+lost speciatized parts are available within 24 hours, seven days a week. We will retamp alll signals as required (during regularly scheduled visits), i
+i
+a i
+Maintenance Control Program }
+ThyssenKrupp Elevator performs service in accordance with our written Maintenance Control Program. This program meets or exceeds any and !
+all requirements of ASME A 17.1-2007 Code, Section 8.6. The Maintenance Control Program includes Thyssenkrupp Elevator's Maintenance Hi
+Tasks & Records documentation which shall be used to record all work performed on the equipment and is provided with each controller. We do I
+not perform any tests unless such tests are specifically listed as included etsewhere in this agreement. i
+Quality Assurance : |
+To help increase elevator performance and decrease downtime, our technicians utilize the latest industry methods and technology available to us 3
+for vo Specific brand of elevator. They will be equipped with our tools, documentation and knowledge to troubleshoot your unique system, as t
+well as access to a comprehensive parts replacement inventory system. i
+Behind our technicians is a team devoted to elevator excellence. Technicians are supported around the clock by a team of engineers and field :
+support experts. Our North American technical support facilities continuously research advancements in the industry and in your equipment. {
+Also, our internat quality control program ensures optimum and reliable operation of yaur elevator equipment. i
+To assure that quality standards are being maintained, we may conduct perlodic field quality audit surveys. Your dedicated ThyssenKrupp :
+Elevator representative will be available to discuss your elevator needs with nou in all aspects of service and modernization, In addition, you may if
+receive tecommendations for upgrades that will also provide you with budget options designed to enhance the appearance, performance and i
+safety of or meet Code requirements for your equipment over time. |
+Service Requests during Normal Working Days and Hours |
+Service requests are defined as any request for dispatch of our technician to the location of the equipment covered in this agreement from one or
+more of the following: you or your representative, the building or building's representative, emergency personnel, passengers through the
+elevators communication device and/or from VISTA Remote Monitoring through the elevator's communication line. Service requests inclide
+minor adjustments and response to emergency entrapments that can be accomplished in two hours or less (excluding travel time} and do not
+include regutarly scheduled maintenance visits.
+f
+We will respond to service requests during normal business working days and hours, as defined above, at no additional charge. i
+Overtime Service Requests I
+‘On all overtime service requests, we will absorb straight time and overtime premium expenses. Overtime service requests are performed before I
+or after normal business working days and hours. i
+i
+vIEW® !
+. VIEW is ThyssenKrupp Elevator’s customer oriented, online service activity reporting system. VIEW allows building owners and managers to '
+monitor our maintenance and service call activity. VIEW can be accessed via the Internet any time, day or night. You can "VIEW" service tickets i
+associated with a single elevator serviced under this agreement, for all the elevators at the location serviced under this agreement, or across an i
+entire portfolio of elevator equipment that is serviced by Thyssenkrupp Elevator. Special considerations regarding VIEW are included herein. i
+Elevator Maintenance Agreement TH-119-0606 !
+TKPPA 03/09 Page 20f7 :
+i
+i
+i
+|
+i
+
+===== PAGE 029 / 42 =====
+i
+i
+|
+| Platinum Premier Maintenance Agreement | |
+|
+(1 VISTA® (Check box if included) !
+VISTA Remote Monitoring is ThyssenKrupp Etevator's exclusive service for monitoring the status and performance of your elevator(s}. VISTA H
+monitors compatible equipment 24 hours per day, 7 days per week, and 365 days per year. Constantly monitoring performance data on your H
+equipment provides ThyssenKrupp Elevator the ability to respond to operational irregularities quickly and more efficiently. With VISTA, we can i
+often dispatch a service technician to your location before any interruption in elevator service occurs. Service visits based on VISTA data will be :
+made during normal business hours on normal business days. !
+SoundNet® (Check box if included) i
+SoundNet is ThyssenKrupp Elevator's 24-hour telephone monitoring and emergency call service. Our representatives are wained to handle i
+elevator calls and they can assess the situation and quickly dispatch a technician when necessary. If needed, they can stay on the line to reassure H
+a stranded passenger that help is on the wey. 'Soundtiet Maintains digital recordings and computerized records of the time, date, and location of i
+calls received and action taken for the benefit of passengers and building owners. Special considerations regarding SoundNet are set forth below, !
+& Periodic Safety Testing (Check box if included)
+Thyssenkrupp Elevator will test your equipment in accordance with those 5 year full foad test, annuat periodic testing requirements as outlined in |
+the American National Safety Code for Elevators and Escalators, ANSI A 17.1, which are in effect at the time this agreement is executed. In the H
+event that the state, city or local governing authority in which the equipment is located has adopted different requirements, Thyssenkrupp i
+Elevator will test your equipment in accordance with those 5 year full load test, annual periodic testing requirements in effect at the time this :
+agreements exezuted, You agree to pay for any costs of the inspector and/or inspection fees. Special considerations regarding Periodic Safety :
+Testing are set forth below. i
+Product Information. You agree to provide ThyssenKrupp Elevator with current wiring Siagrans that reflect all changes, parts catalogs, and |
+maintenance instructions for the equipment covered by this agreement (exception: we will supply all of the above for new Thyssenkrupp elevators
+at no additional cost), You agree to autharize us to produce single copies of any programmable device(s) used in the equipment for the purpose :
+of archival back-up of the software embodied therein. These items will remain your property.
+Safety. You agree to instruct or warn passengers in the proper use of the exuipment and to keep the equipment under continued surveillance
+by competent personnel to detect irregularities between elevator examinations. You agree to immediately report any condition that may indicate |
+the need for correction before the next regular examination. You agree to immediately shut down the equipment upon manifestation of any
+irreguiarities in either the operation or the appearance of ihe equipment, to immediately notify us, and to keep the equipment shut down until the
+completion of ay repairs. You agree to give us immediate verbal notice and written notice within ten (10) days after any occurrence or accident i
+in or about the efevator. You agree to provide our personnel with a safe place to work. You agree to provide a suitable machine room, including i
+secured doors, waterproofing, lighting, ventilation, and appropriate air temperature control to maintain that oom at a temperature between 50° i
+and 90°F. You also agree to maintain the elevator pit in a dry condition at all times. Should water or other jiquids become present, you will :
+contract with others for removal and the proper handling of such liquids. We reserve the right to discontinue work in the building whenever, In our
+sole opinion, our personnel do not have a safe place to work, You also agree that if ThyssenKrupp Elevator’s inspection of a piece of equipment
+serviced under this agreement reveats an operational problem which, in ThyssenKrupp Elevator’s sole judgment, jeopardizes the safety of the :
+riding public, Thyssenkrupp Elevator may shut down the equipment unti) Such time as the operational problem Is resolved. In that event, H
+Thyssenkrupp Efevator will immediately advise you in writing of such action, the reason for such action, and whether any proposed solution is b
+covered by the terms of this agreement. i
+Other. You agree not to Pernt others to make alterations, additions, adjustments, or repairs or replace any component or part of the i
+equipment during the term of this agreement. You agree to accept our, Judgment as to the means and methods employed by us for any corrective i
+work under this agreement. Since ThyssenKrupp Elevator's top priority is the satisfaction of its customers, If you should have any concern(s) with Hl
+the means and methods used to maintain or repair the equipment covered under this agreement, you agree to provide us with written notice of i
+that concern and give us thirty (30) days to respond either in writing or commence action to appropriately resolve it. i
+In the event of the sale, lease or other transfer of the ownership or management of the premises in which the elevator(s) or equipment described |
+herein are located, you agree to see that such transferee is made aware of this agreement and agrees to assume and/or be bound by the i
+conditions hereof for the balance of the unexpired term of this agreement. Should the transferee fail to assume this agreement, you shall remain |
+liable for all unpaid amounts, including those owed for the balance of the current unexpired term of this agreement. '
+|
+Items Not Covered. We do not cover cosmetic, construction, or ancillary components of the elevator system, including the finishing, i
+repairing, or replacement of the cab enclosure, ceiling frames, panels, and/or fixtures, hoistway door panels, door frames, swing door hinges and i
+losing devices, silts, car flooring, floor covering, lighting fixtures, celling light bulbs and tubes, main fine power switches, breaker{s), feeders to :
+controller, below ground er unexposed hydraulic elevator system, including but not limited to, Jack cylinder, piston, PVC or other protective i
+material; below ground or unexposed piping, alignment of elevator guide rails, smoke and fire sensors, fire service reports, all communication H
+and entertainment devices, security systems not installed by us, batteries for emergency lighting and emergency lowering, alr conditioners, i
+healers, ventilation fans, pit pumps and all other items as set forth and excluded in this agreement. |
+j
+VIEW®, Thyssenkrupp Elevator agrees to provide a user name and password to Purchaser via ThyssenKrupp Elevator’s internet website, H
+www.tke-view.com, for your access to maintenance and service call activity. Purchaser's Intemet availability equipment (including hardware and Hf
+software) and Internet connection shall be provided by others. You acknowledge that data reported prior to January 1, 2004 may nat be all- i
+inclusive of work actually performed. Additionally, you acknowledge that_any work performed by repair, modemization, and/or construction i
+personnel may rot be inclided or accessible in VIEW unt Thyssenkrupp Elevator's PDA system for time reporting is fly deployed to al fed :
+employees. Requests for additional information and maintenance and service calf sexily fickets which are hot generated by electronic means H
+shall be made to your locat Thyssenkrupp Etevator branch office as shown on page 1 of this agreement. Thyssenkrupp Elevator reserves the i
+tight to restrict access to this Information if Purchaser's account has an outstanding unpaid balance greater than 30 days and/or if you have i
+provided written notification of your intent to cancel our agreement and/or in the event of anticipated, pending or instigated litigation ‘by either H
+party. i
+Elevator Maintenance Agreement TKe1 19-0605 :
+TK PPA 03/09 Page 3 af 7
+i
+i
+:
+
+===== PAGE 030 / 42 =====
+| Platinum Premier Maintenance Agreement |
+Other Conditions, with the passage of time, equipment technology and designs will change. If any part or component of your equipment
+covered under this agreement cannot, in our sole opinion, be safely repaired and is no longer stocked and readily available from elther the
+original equipment manufacturer or an aftermarket source, that part or companent shall be considered obsolete, You will be responsible for all
+charges associated with replacing that obsolete part or component as well as all charges required to ensure that the remainder of the equipment
+is functionally compatible with that replacement part or component. In addition, we will not be required to make any changes or
+recommendations in the existing design or function of the unit(s) nar will we be obligated to install new attachments or parts upon the equipment :
+as recommended or directed by insurance companies, governmental agencies or authorities, or any other third party. Moreover, we shall not be |
+obligated to service, renew, replace and/or repair the equipment due to any one or more of the following: anyone's abuse, misuse and/or
+vandalism of the equipment; anyone's negligence in connection with the Use or operation of the equipment, any loss of power, power i
+fluctuations, power failure, or power surgas that in any way affect the operation of the equipment; fire, smoke, explosions, water, storms, wind, i
+lightening, acts of civil or military authorities, strikes, lockouts, other labor disputes, theft, riot, civil commotion, war, malicious mischief, acts of i
+God, or any other reason or cause beyond our contro! that affects the use or operation of the equipment. You expressly agree to release and H
+discharge us and our employees for any and all claims and/or losses {including personal injury, death and property damage Specifically including !
+damage to the property which is the subject matter of this agreement) associated therewith or caused thereby. Thyssenkrupp Elevator shall also i
+automatically receive an extension of time cornmensurate with any delay in performance caused by or related to the aforementioned and you i
+expressly agree to release and discharge ThyssenKrupp Elevator from any and all claims for consequentiat, special or indirect damages arising |
+out of the performance of this agreement. In no event shall ThyssenKrupp Elevator's tiability for damages arising out of this agreement exceed i
+the remaining unpaid installments of the current, unexpired term of this agreement. i
+Should your system require any of the safety tests on the commencement date of this agreement, ThyssenKrupp Elevator assumes no {
+responsibility for the day-to-day operation of the governor or safeties on traction elevators, or the hydraulic system on hydraulic elevators under i
+the terms of this agreement unté the test has been completed and the equipment passed. Should the respective system fail any of those tests, it |
+shal be your sole responsibilty to make necessary repairs and place the equipment in a condition that we deem acceptable for further coverage |
+under the terms of this agreement. We shall not be liable for any damage tothe bulking structure or the elevator resulting from the performance |
+of any safety tests we perform at any time under this agreement. [f during the initial firefighter’s service test, that feature is found to be H
+inoperable, you shall be responsible for all costs associated with necessary repair(s) to bring the elevator(s} into compliance with the appticable |
+elevator codes in your local yurisaletion, :
+In the event a third party is retained to enforce, construe or defend any of the terms and conditions of this agreement or to collect any monies due |
+hereunder, either with or without litigation, the prevailing party shall be entitled to recover all costs and reasonable attorney's fees, |
+You hereby waive triat by jury, You agree that this agreement shall be construed and enforced in accordance with the laws of the state where the |
+equipment Is located, You consent to jurisdiction of the courts, both state and Federal, of the state in which the equipment is located as to all
+matters and disputes arising out of this agreement. |
+i
+tn the event any portion of this agreement is deemed invalid of unenforceable by a court of law, public policy or statute, such finding shall not |
+affect the validity or enforceability of any other portion of this agreement, i
+Our rights under this agreement shall be cumulative and our failure to exercise any rights given hereunder shall not operate, to forfeit or waive any i
+of sai fights and any extension, indulgence or change by us in the method, mode or manner of payment or any of its other rights shall not be i
+construed as a waiver of any of its rights under this agreement, |
+Price. The price for the services as stated in this agreement shall be One Thousand One Hundred Sixty-One dotlars ($ 1,161.00) per
+month, excluding taxes, payable monthly in advance, !
+Term, This agreement Is effective for five (5) yore starting May 01, 2010 and is non-cancelable. To ensure continuous service, this agreement i
+will be automatically renewed for successive five (6) year periods, unless either party timely serves written notice upon the other party of its
+intention to cancel at feast ninety (90) days but not more than 120 oays before the end of the initial five (6) year period, or at least ninety (90)
+days but not more than 120 days before the end of any subsequent five (5) year renewat period. Notice shall be sent by certified mail, return Hy
+receipt requested to the address set forth an page 1 of this agreement. Time is of the essence. i
+i
+Annual Price Adjustments. Since our costs to provide you with the service set forth in this agreement may increase, we reserve the right to. 1
+adjust the price of our service under this agreement accordingly. Inthe event this occurs, we will adjust your monthly price based on the |
+percentage change in the average rate paid to elevator examiners. This rate patd to elevator examiners consists of the hourly rate paid to :
+examiners plus fringe benefits and union welfare granted in place of or in addition ta the hourly rate. Fringe benefits include pensions, vacations, :
+paid holidays, group insurance, sickness and accident insurance, and hospital insurance. We also reserve the right to make additional |
+adjustment to the pee of our service under this agreement and/or enact surcharges as needed to account for increased fuel prices when such
+increases exceed the Consumer Price index (CPl} current rate. We also reserve the exciusive right to make additional adjustment to the price of
+our service under this agreement in the event that the equipment covered by this agreement is modified from its present state, j
+Early Payment Discount. You may efect to pay in advance for twelve (12) months of service described in this agreement. Such a pre- 4
+Payment entitles you to a 3% discount from the annual price In effect at the time of payment. |
+1
+1
+Overdue Invoices. A service charge of 1%% per month, or the highest legal rate, whichever is more, shall apply to all overdue accounts you j
+have with ThyssenKrupp Elevator that are in any way related to your equipment described in this agreement. If you do not pay any sum due to 4
+‘Thyssenkrupp Elevator related to your equipment described in this agreement, regardiess of whether it is billed purstiant to this agreement or any i
+other with us, within sixty (60) days from the billing date, we may also choose to do one or more of the following: 1) suspend all service until all i
+amounts due have been paid in full, and/or 2) declare all sums for the unexpired term of this agreement due immediately as liquidated damages i
+and terminate aur obligations under this agreement. If ThyssenKrupp Etevator elects to suspend service, we shalt not be responsible for personal |
+injury, death, damage to property (including damage to the equipment that is the subject matter of this agreement) or losses of any other ‘ype or i
+kind’ that is in any way related the ThyssenKrupp Elevator’s suspension of service, Upon resumption of service, you will be responsible for :
+Elevator Maintenance Agreement TK119-0606 i
+TK PPA 03/08 Page 4 of 7
+|
+|
+{
+
+===== PAGE 031 / 42 =====
+| Platinum Premier Maintenance Agreement |
+payment to Thyssenkrupp Elevator for all costs we incur that restilt from our suspension of service and to remedy any damage caused to your
+equipment during that time, Time is of the essence.
+Acceptance. Your acceptance of this agreement and its approvat by an authored manager of ThyssenKrupp Elevator will constitute
+exclusively and entirely the agreement for the services herein described. Ali other prior representations or agreements, whether written or verbal,
+will be deemed to be merged herein and no other changes in or additions to this agreement will be recognized unless made in writing and
+properly executed by both parties. Should your acceptance be in the form of a purchase order or other similar document, the provisions of this
+agreement will govern, even in the event of a conflict. This proposal fs hereby accepted i its entirety and shall constitute the entire agreement as
+contemplated ty you and us. This proposal is submitted for acceptance within one-hundred twenty (120) days from the Date Submitted by the
+Thyssenkrupp Elevator representative indicated below,
+No agent or employee shall have the authority to waive or modify any of the terms of this agreement without the prior written approval of an
+authorized Thyssenkrupp Elevator manager.
+WE, DENSON Col PRETO)
+| ThyssenKrupp Elevator Corporation: ies RigeadearerattCeRefor: | ThyssenKrupp Elevator Corporation Approval: |
+__ ABAD MEINE SUS WALKER ites coe be OD
+|. Keel, AL LUG |
+(Signature of Thyssenkrupp Elevator Representative) ‘ignathrevf Authorized Individual} (Signature of Authorized Individual)
+Wie 4M & DEWA Se, f Landon deVille
+Wynton Pascual {Print or Type Name) (Print or Type Name)
+Branch Manager
+(808) 834-6300 __ FKBIDENT _—
+(Print or Type Title) Print oF Type Tite)
+dune 11, 2010 B-/€~ 70 _ bet
+(Date Submitted) (Date of Approval) ______ Wate of Approval)
+Special Considerations
+SoundNet®
+Through its SoundNet communication center, ThyssenKrupp Elevator will provide 24-hour telephone monitoring on all elevator(s) maintained
+under the monitoring agreement, provided such elevators are equipped with operational telephone equipment capable of placing a call to
+SoundNet's call center.” SoundNet will receive incoming emergency telephone calls from the elevator(s) and forward same to Purchaser's
+designated emergency contacts. It shatl be Purchaser's responsibility to submit an executed Contact Data Sheet (atlached as Exhibit 1 hereto} to
+enable this service, and to advise ThyssenKrupp Elevator immediately in waiting of any changes to the emexgency contacts during the term of i
+service. Purchaser understands that no revision to emergency contacts will be made without ThyssenKrupp Elevator first receiving such request in i
+writing.
+SoundNet service does not include maintenance service for Customer's telephone equipment, Customer retains possession and control of its Hl
+telephone equipment andl is responsible for ensuring uninterrupted operation of the telephones so that they are copable of placing a call to i
+SoundNet's call center. SoundNet service cannot be pravided without a telephone tocated within the elevator(s) described in this agreement that
+has the calling capability described above.
+ThyssenKrupp Elevator shall not be held responsible or liable for any claim, injury, delay, death or detention of loss of life, or loss of property |
+resulting from telephone equipment failure, false alarms or interruption of telephone service or inaccurate data set forth in any related executed i
+Contact Data Sheet. We do not assume any duty or responsiblity to advise any caller to take or not take any specific action resulting from an |
+emergency, perceived emergency or any other situatlon including, but not limited to, entrapment of persons, evacuation, repair or return to service |
+of any equipment. |
+Hf SoundNet is unable to reach Customer's designated emergency contacts, a service technician may be dispatched to the site at Purchaser's H
+expense in accordance with Thyssenkrupp Etevator's applicable billing rates. Purchaser agrees that it is within the reasonable discretion of |
+SoundNet service call representatives to dispatch a mechanic of contact emergency personnel if Customer's designated emergency contacts are
+unavailable. Customer agrees to pay all charges for services provided by any person, organization or municipality contacted as a result of any
+emergency or perceived emergency call. |
+Elevator Maintenance Agreement 1K199-0606 . |
+TK PPA 03/09 Page § of 7 '
+|
+i
+i
+
+===== PAGE 032 / 42 =====
+Platinum Premier Maintenance Agreement |
+i
+
+Elevator Maintenance Agreement TK-119-0608 i
+
+TK PPA 03/09 Page Gof 7 |
+|
+|
+|
+\
+if
+if
+\
+
+===== PAGE 033 / 42 =====
+Platinum Premier Maintenance Agreement
+Exhibit 1 ~ Contact Data Sheet
+Complete Building tnformation Gomplete Billing Information ravTERNAL USE OMY
+This , Company BiITo E WALEIKL :
+contact | AOAO Marve Sut WAIWKa ENG. | | Pane: | ARP MARINE SURF WANK
+ae . D 7 Dal CORPOREVT
+forthe | 364 Seaside Ave Biting Address: | 7 Wh Se ee ao. Branch: .
+nuicng cay, State, Zo: | WPonotuy 1 46h | Service: :
+toceted | Honolulu, HI 96845 [_amre} CS Nobu stl 46 L_Conrect: [7
+Total No of Elevators in Building: i
+[Etevator # | Elevator Telephone Numbar Including Area Code [ étevator# | Elevator Telephone Number including Area Code:
+Cd i
+|
+|
+‘| to] | |
+| | | | |
+|
+i
+tn the event of an emergency, or perceived emergency, one or more of the following are to be primary Purchaser contacts: _ :
+_ Contact Name | Title | Primary Telephone # | Secondary Telephone# | :
+VL ft Harris | Building Maneaer | 390- fo8e | ‘| i
+2 Tedew Moerke | Mawtenance’ Siehtlor 93/-RLSE | | /
+3. Tim dAvency | seurity chet | 93¢-Rars* | |
+4, a, | | i
+df unable to reach anyone at the above listed numbers, SoundNet has the express permission of Purchaser to contact the elevator service }
+company listed below. j
+w Elevator Service Company: ThyssenKrupp Elevator Phone Number: ‘
+In the event of an Emergency or perceived emergency, SoundNet has the express permission to contact one or more of the following (911 is not )
+sufficient, local phone numbers are required):
+Police Department: Se . :
+Fire Department: c } : i
+Special instructions/remarks: a i
+It is the responsibility of Purchaser to immediately advise SoundNet in writing of any changes to the contacts or numbers listed on this Contact Data Sheet. i
+Purchaser agrees to pay all charges for services incurred by any person, organization or municipality as a result of any emergency or perceived emergency call, [t |
+Is also expressly understoad that SoundNet does not have and does not assume any duty or responsibility for any person or entity that fails ta respond to any H
+emergency or perceived emergency situation. |
+7
+Thyssenkrupp Elevator Corporation: Aging for: ‘ThyssenKrupp Elevator Corporation Approval: |
+Marine Surf Wait Fic. -_ 4474) |
+y 6
+Gignature of Thyssenkrupp Elevator Representative) (Sign east adhnoteee i oieioade (Signature of Authorized Individual)
+Wee1a E. devin Landon deVilte :
+Wynton Pascual (Print or Type Name) (Print or Type Name)
+Branch Manager
+(ABIOENT a
+(808) 834-6300 Pencor Type Tas Puntocype TD |
+SO peat 6-29-10 |
+ine 11, 201 aSf-0 i i
+(Date Submitted) (ate of Approval) (Date of Approval) i
+” i
+Elevator Meintenance Agreement TK-119-0606 i
+TK PPA 03/09 Page 7 of 7
+5
+i
+
+===== PAGE 034 / 42 =====
+1 K | ree:
+¢:) thyssenkrupp
+HII I uest lt ort 334092
+iil | Fyues H umber: 33409266
+| ber: 1fp263 07, TKE Callback
+MMB hsh9-MAy-20)8 03-24-00 PM
+Tavis en Address Route No.: P*006
+Dae: ob. #128300 Mechanic: KERFOOT, SHAWN
+HD UALSNA S$" BET, ‘Dontract No.: US52787
+oe ee lumber: Unit Serial No.: US133680
+. " S16: xo “lumiber: Unit Nick Name: 1
+, ” ‘Customer PO:
+(un ome: No. ‘Caller Name:
+vie HAROLD HITCHCOCK.
+(CU ones
+11! OMARINE SURF WAIKIKI INC ‘Caller Phone No.:
+‘hu: tion: 8087548559
+ilé | INE SURF W'AIK-KI
+« EaSloB AVE,
+2+ OULU, HI, 68151-2532
+Hid! Il |
+B Riga fT
++21 RSPL, DRS YCL, STK IN BSMNT, UNOC, NO IJ, SVC TODAY OTOK 7
+He
+ie
+tj. A'-13: Bassmen: doors knocked off track, need two guys for repairs, per mgr Harold shutdown for am sve
++ A-13: Worsed on interlock run and monitor elevator back in service
+= AYO13: Adj.sted door hangers, back in sve -
+| | Labor Time ayd Expenses
+id | Labor Type Date Start Time End Time Expense Status
+ne 1a) 1.72.0 Amount
+‘OR 5 09-MAY-2018 04:00:00 PM | 04:30:00PM | __ [P|
+[ol oR [3s | | 09-MAY-2018 04:30:00 PM | 05:00:00 PM | [Pf
+Juul OR {.75 | | 09-MAY-2018 05:00:00 PM | 05:45:00 PM P
+| | | aboll mary
+Aneel ype | Hours
+Le eae
+A er
+| | | Per I | Mechanic
+Ss peure \w Signature
+li Cdl Y) - abi
+BIL | SUES MY Herota |
+T iis} ¢:meat cont: ns p:eliminary information regarding t1e work performed, and the time allotted for such work.
+Uy evew. final a:ljustnents may be made consistent witl: customer's service agreement.
+EXHIBIT “Cc”
+············································
+························································
+···························································
+···································································
+········
+···········
+········
+
+===== PAGE 035 / 42 =====
+hat Isc
+C2) thyssenkrupp
+H li a | Humber: 33409266
+| il Npnpber: | 633426, TKE Callback
+HE bt 09-MAB-20]18 03:24:00 PM.
+Tins: ch Addres: : TRoute No: P*006
+Tug: ch #108300 Mechanic: KERFOOT, SHAWN
+1. LIAL3NA S”°REET, (Contract No.: US52787
+I. wet ath her: Unit Serial No.: 08133680
+eee pone Ciumiber: ‘Unit Nick Name: |
+& +1 34-6500 oa
+‘Customer PO:
+Cu coraer No,: ‘Caller Name:
+wd HAROLD HITCHCOCK
+Cu coraers
+12.0 MARINE { URF WAIKIKI INC (Caller Phone No.:
+Tin tom: 8087548559
+lé ONE SURF Wy AIK KT
+4 VEASIDE AV 1,
+ZT IOLULU, HI, '6815-2532
+ai t
+Lp Rfmarld ee
+» IL 23PD, DRS YCI., STK IN BSMNT, UNOC, NO IINJ, SVC TODAY OTOK
+Ta
+eatin oT TE
+uw \LX'%*18 > Basi men: doors knocked off track, need tvo guys for repairs, per mgr Harold shutdown for am svc
+& LA'Y-18 > Wer ced on interlock run and monitor elevator back in service
+“LNY+18: Adi sted door hangers, back in sve coe
+| | hij Expenses
+ry Lah Start Time [End Time Expense Status
+I H 15 Amount
+Td aR 25 10-MAY-2018 07:30:00 AM | 07:45:00 AM P
+rR | | | | 10-MAY-2018 07:45:00 AM | 08:45:00 AM | __ [pp |
+| | HS pmary
+eae | Ly | Hours
+see
+sr
+i istomer Mechanic |
+hignature h \Wy le Signature
+/
+LU biened Byles | |
+T is {ncument conti ns p:eliminary information regarding the work performed, and the time allotted for such work.
+Us ieview, final a |justnents may be made consistent w th, customer's service agreement.
+············································
+························································
+···························································
+···································································
+········
+···········
+········
+
+===== PAGE 036 / 42 =====
+* ren |
+(2) thyssenkrupp
+q il celRequest H w H ert 33409266 Billable : Yes
+IN inpber: 1 534706, TKE Callback Work Complete
+! | ted: 09-MAl “alhs 03:24:00 PM
+1 4: ch Addres i: Route No.: P*006
+T <¢1.ch #108300 Mechanic: UCHIDA, STUART
+£) UALZNA S" EET, Contract No.: US52787
+race turaber: Unit Serial No.: US133680
+Sieve caeuaauaell Unit Nick Name: 1
+an Customer PO:
+( 1comes No.: Caller Name:
+ab HAROLD HITCHCOCK
+( reomer:
+24.0 MARINE S'URF WAIKIKI INC Caller Phone No.:
+1 » ition: 8087548559
+4 HINE SURF Wi ATRCKI
+« (BASIDE AV '!,
+2 OLUIU, HI, :'68°.5-2532
+K YS a
+2] RSPD, DRS CYCL, STK IN BSMNT, UNOC, NO INJ, SVC TODAY OTOK __
+\
+Ye |
+' +/AY-18: Bas:me1: doors knocked off track, need tvo guys for repairs, per mgr Harold shutdown for am sve |
++ A‘-18: Werced on interlock run and monitor elevator back in service i
+= \IAY-18; Ad". sted door hangers, back in svc . |
+| | | Labor Time and Expenses |
+La for Type Date Start Time End Time Expense Status
+} | tH oL7 20 Amount |
+Tor [1 10-MAY-2018] 07:30:00 AM 08:30:00AM [sd P. :
+|
+I LabowSukimary |
+per [Type | Hours
+Pe |
+i Sp De |
+“gas¢omer Mechanic : |
+Signature Ze qv Signature
+( ( we |
+LB iisifened By] || ic
+F 3 :veument cont:. ns ‘9-eliminary information regarding the work performed, and the time allotted for such work,
+U 14 leview, final ailjustnents may be made consistent w ith customer's service agreement.
+················································
+························································
+···························································
+···································································
+········
+···········
+········
+
+===== PAGE 037 / 42 =====
+Page 1 of t
+& thyssenkru
+¥ PP INVOICE
+thyssenkrupp Elevator Corporation INVOICE DATE: 05/16/2018
+Attn: Accounts Receivable Dept CUSTOMER #: = 73744
+1265 E FORT UNION BLVO ,SUITE 350 SRE 33409266
+COTTONWOOD HEIGHTS, UT 84047 INVOICE #: 5000875502
+POR
+TERMS: IMMEDIATE
+TOTAL DUE: $2,260.15
+BILL TO:
+ATTN: ACCOUNTS PAYABLE SHIP TO:
+AQAG MARINE SURF WAIKIKI ING
+364 SEASIDE AVE MARINE SURF WAIKIKI
+HONOLULU, Hi 96815-2532 364 SEASIDE AVE
+HONOLULU, HI 96815-2532
+Reported By: HAROLD HITCHCOCK, 808-754-8559 on 09-May-2018 15:24:00
+Resolution Summary: CUSTOMER REPORTED: ELEVATOR NOT RESPONDING, OT OK. TECH (2): FOUND DOORS KNOCKED OFF TRACK. WILL
+RETURN TO FIX, 5/10 ADJUSTED DOOR HANGERS AND INTERLOCK, TESTED AND RETURNED TO SERVICE. BILLING DUE TO MISUSE NOT COVERED
+BY CONTRACT.
+| pate | DESCRIPTION | ary | uom| = price =| amount |
+HONOLULU BRANCH Hl
+Unit: 1 Serlal #: 08133680 il
+Contract #: US52787 if
+Piatinum Premiere - Full Maintenance, 24 Hour Callbacks Included - Elevator ~ i
+With Phone Monitoring i
+05/10/2018 Labor Callback Daylime 1 HR $477.00 $477.00 !
+i
+05/10/2018 ‘Travel Daytime 28 HR $477.00 $419.25 |
+05/10/2018 Labor Callback Daylime 1 HR $477.00 $477.00 t
+05/08/2018 Travel Extra Work Outside the Contract Daytime: 5 HR $477.00 $238.50 i
+05/09/2018 Labor Extra Work Outside Contract Daytime 5 HR $477.00 $238.50 i
+05/08/2018 ‘Travel Extra Work Outside the Contract Overtime 75 HR $810.90 $608,138 |
+|
+AMOUNT SALES TAX PLEASE PAY THIS AMOUNT i
+i
+$2,158.43 $101.72 $2,260.15 |
+This charge was created because service was not covered by maintenance contracts you may have with thyssenkrupp Elevator. |
+For Service Related or General Questions, please call 808-834-6300 . For Billing or Payment Questions, please call 770-261-0019 . |
+|
+|
+DETACH AND RETURN WITH YOUR PAYMENT |
+|
+INVOICE DATE: 08/16/2018 |
+& thyssenkrupp CUSTOMER #: 73744 |
+SRE 33409266 |
+thyssenkrupp Elevator Corporation INVOICE #: 5000875502 |
+Aitn: Accounts Receivable Dept PO#: |
+1265 E FORT UNION BLVO ,SUITE 350 ¥ |
+COTTONWOOD HEIGHTS, UT 84047 TERMS: IMMEDIATE |
+TOTAL DUE: 2,260.15,
+i
+Amount Enclosed: §, REMIT PAYMENT TO: |
+| Payment Method | |
+thyssenkrupp Elevator Corporation i
+1 Personal check enclosed o Money order enclosed a Cashier’s check PO Box 3796 i
+Please Make Check Payment To: Carol Stream, IL 60132-3796 i
+thyssenkrupp Elevator Corporation |
+i
+|
+EXHIBIT “D”
+
+===== PAGE 038 / 42 =====
+IN THE DISTRICT COURT OF THE FIRST CIRCUIT
+HONOLULU DIVISION
+STATE OF HAWAII
+ASSOCIATION OF APARTMENT CIVIL NO. 1RC19-1-0003776
+OWNERS OF MARINE SURF
+WAIKIKI, INC., a Hawai'i nonprofit NOTICE OF HEARING OF
+corporation, by its Board of Directors, MOTION
+Plaintiff,
+v.
+NIKODEM PIKOR,
+Defendant.
+NIKODEM PIKOR,
+Third-Party Plaintiff,
+v.
+THYSSENKRUPP ELEVATOR
+CORPORATION, Foreign Profit Corporation,
+Third-Party Defendant.
+NOTICE OF HEARING OF MOTION
+TO: JOSEPH RYAN, JR., ESQ.
+Joseph Ryan, Jr. AAL LLLC
+41-430 Waikupanaha Street
+Waimanalo, HI 96795
+Attorneys for Defendant/Third-Party Plaintiff
+NIKODEM PIKOR
+
+===== PAGE 039 / 42 =====
+PHILIP L. LAHNE, ESQ.
+
+GLENN S. HORIO, ESQ.
+
+Anderson Lahne & Fujisaki LLP
+
+733 Bishop Street, Suite 2301
+
+Honolulu, HI 96813
+
+Attorneys for Plaintiff
+
+ASSOCIATION OF APARTMENT OWNERS OF
+MARINE SURF WAIKIKI, INC.
+
+APRIL LURIA, ESQ.
+
+Roeca, Luria & Shinn LLP
+
+841 Bishop Street, Suite 900
+
+Honolulu, HI 96813
+
+Attorneys for Counterclaim Defendant
+ASSOCIATION OF APARTMENT OWNERS OF
+MARINE SURF WAIKIKI, INC.
+
+PLEASE TAKE NOTICE that the foregoing motion shall come on for
+hearing before the presiding judge in his/her courtroom in the Honolulu District
+Court, Honolulu Division, 1111 Alakea Street, 10% floor, Courtroom B, Honolulu,
+Hawai'i 96813, on Tuesday, January 21, 2020 at 8:30 a.m., or as soon thereafter
+as counsel may be heard.
+
+-2-
+
+===== PAGE 040 / 42 =====
+DATED: Honolulu, Hawai'i, January 6, 2020.
+CADES SCHUTTE |
+A Limited Liability Law Partnership |
+‘si Jarrett A. Dempsey |
+CALVERT G. CHIPCHASE IV |
+JARRETT A. DEMPSEY i
+Attorneys for Third-Party Defendant i
+THYSSENKRUPP ELEVATOR :
+CORPORATION /
+
+:
+i
+|
+|
+/
+i
+i
+|
+i
+i
+|
+|
+\
+
+===== PAGE 041 / 42 =====
+IN THE DISTRICT COURT OF THE FIRST CIRCUIT
+
+HONOLULU DIVISION
+
+STATE OF HAWAII
+
+ASSOCIATION OF APARTMENT CIVIL NO. 1RC19-1-0003776
+OWNERS OF MARINE SURF \
+WAIKIKI, INC., a Hawai’i nonprofit CERTIFICATE OF SERVICE
+corporation, by its Board of Directors,, |
+Plaintiff,
+
+NIKODEM PIKOR,
+Defendant.
+
+NIKODEM PIKOR,,
+Third-Party Plaintiff, |
+THYSSENKRUPP ELEVATOR |
+CORPORATION, Foreign Profit Corporation,, |
+Third-Party Defendant.
+CERTIFICATE OF SERVICE |
+
+The undersigned hereby certifies that a true and correct copy of the foregoing
+document was served on this date via JEFS and/or via U.S. Mail, postage prepaid, |
+or hand delivery as indicated below: |
+|
+
+|
+
+L
+
+===== PAGE 042 / 42 =====
+PHILIP L. LAHNE, ESQ. via JEFS
+GLENN S. HORIO, ESQ. EM: plahne@alf-hawaii.com i
+Anderson Lahne & Fujisaki LLP EM: ghorio@alf-hawaii.com |
+733 Bishop Street, Suite 2301 |
+Honolulu, HI 96813 |
+Attorneys for Plaintiff |
+ASSOCIATION OF APARTMENT OWNERS OF |
+MARINE SURF WAIKIKI, INC. i
+|
+JOSEPH RYAN, JR., ESQ. via JEFS and U.S. Mail |
+Joseph Ryan, Jr. AAL LLLC i
+EM: irvan808@JosephRvanJrAALLLLC.onmicrosoft.com l
+41-430 Waikupanaha Street i
+P.O. Box 562 :
+Waimanalo, HI 96795 /
+Attorneys for Defendant/Third-Party Plaintiff :
+NIKODEM PIKOR
+APRIL LURIA, ESQ. via JEFs :
+Roeca, Luria & Shinn LLP EM: aluria@lhlaw.com '
+841 Bishop Street, Suite 900 i
+Honolulu, HI 96813 i
+Attorneys for Counterclaim Defendant :
+ASSOCIATION OF APARTMENT OWNERS OF :
+MARINE SURF WAIKIKI, INC. :
+DATED: Honolulu, Hawai'i, January 6, 2020 |
+CADES SCHUTTE
+A Limited Liability Law Partnership :
+‘s/ Jarrett A. Dempsey :
+CALVERT G, CHIPCHASE :
+JARRETT A. DEMPSEY :
+Attorneys for Third-Party Defendant :
+THYSSENKRUPP ELEVATOR i
+CORPORATION i
+-2-

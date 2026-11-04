@@ -1,0 +1,11 @@
+{
+  "schema": "ssot/api-hash@1",
+  "sha256": "c3c0ac3f1bfd9b5280c215c8722a01580d9dd1b22ee909602a723677a022a3af",
+  "kind": "document_page",
+  "case": "1RC191003776",
+  "docket": 275,
+  "file": "2022-01-18__1RC191003776__DKT0275__ntc-court-date-8-30am-hrg-on-motion.pdf",
+  "published_url": "https://the95xrecord.vercel.app/docs/f00c9f7f14",
+  "lookup": "https://the95xrecord.vercel.app/api/v1/hash/c3c0ac3f1bfd9b5280c215c8722a01580d9dd1b22ee909602a723677a022a3af.json",
+  "ssot": "https://the95xrecord.vercel.app/ssot.json"
+}

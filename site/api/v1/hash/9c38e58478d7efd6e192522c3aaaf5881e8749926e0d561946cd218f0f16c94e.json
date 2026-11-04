@@ -1,0 +1,11 @@
+{
+  "schema": "ssot/api-hash@1",
+  "sha256": "9c38e58478d7efd6e192522c3aaaf5881e8749926e0d561946cd218f0f16c94e",
+  "kind": "document_page",
+  "case": "1RC191003776",
+  "docket": 178,
+  "file": "2021-03-05__1RC191003776__DKT0178__nocd-pretrial-conf-9-00am.pdf",
+  "published_url": "https://the95xrecord.vercel.app/docs/184ab2dfb7",
+  "lookup": "https://the95xrecord.vercel.app/api/v1/hash/9c38e58478d7efd6e192522c3aaaf5881e8749926e0d561946cd218f0f16c94e.json",
+  "ssot": "https://the95xrecord.vercel.app/ssot.json"
+}

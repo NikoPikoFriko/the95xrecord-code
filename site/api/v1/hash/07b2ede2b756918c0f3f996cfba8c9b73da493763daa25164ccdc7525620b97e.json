@@ -1,0 +1,11 @@
+{
+  "schema": "ssot/api-hash@1",
+  "sha256": "07b2ede2b756918c0f3f996cfba8c9b73da493763daa25164ccdc7525620b97e",
+  "kind": "document_page",
+  "case": "1RC191003776",
+  "docket": 447,
+  "file": "2026-08-24__1RC191003776__DKT0447__nef.pdf",
+  "published_url": "https://the95xrecord.vercel.app/docs/9e5cc97aad",
+  "lookup": "https://the95xrecord.vercel.app/api/v1/hash/07b2ede2b756918c0f3f996cfba8c9b73da493763daa25164ccdc7525620b97e.json",
+  "ssot": "https://the95xrecord.vercel.app/ssot.json"
+}

@@ -1,0 +1,26 @@
+{
+  "schema": "ssot/api-docket@1",
+  "case": "CAAP-26-0000625",
+  "docket": 13,
+  "code": "MOT",
+  "title": "Motion for ___________ (with attached findings/orders)",
+  "filed": "09-OCT-2026",
+  "filed_iso": "2026-10-09",
+  "time": "16:27:00",
+  "grade": "OBS",
+  "for_counsel": false,
+  "evidence": {
+    "held_by_station": true,
+    "file": "APPEALS/CAAP-26-0000625/DOCKET/2026-10-09__CAAP-26-0000625__DKT__DKT0013-MOT__motion-leave-to-withdraw-counsel__SRC__h7897051d8f6a.pdf",
+    "sha256": "7897051d8f6a7897675c363b1b35e30c59456abde7db7f47052c4a3e180f4fa0",
+    "pages": 17,
+    "form": "src",
+    "gap": false
+  },
+  "flags": [],
+  "links": {
+    "appeal": "https://the95xrecord.vercel.app/appeal#dkt-13",
+    "appeal_json": "https://the95xrecord.vercel.app/api/v1/case/CAAP-26-0000625/dkt/13.json",
+    "ssot": "https://the95xrecord.vercel.app/ssot.json"
+  }
+}

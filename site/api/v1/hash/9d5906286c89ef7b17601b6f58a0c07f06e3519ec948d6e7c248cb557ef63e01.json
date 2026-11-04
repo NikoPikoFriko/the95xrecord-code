@@ -1,0 +1,11 @@
+{
+  "schema": "ssot/api-hash@1",
+  "sha256": "9d5906286c89ef7b17601b6f58a0c07f06e3519ec948d6e7c248cb557ef63e01",
+  "kind": "document_page",
+  "case": "1RC191003776",
+  "docket": 308,
+  "file": "2022-05-05__1RC191003776__DKT0308__pltf-aoao-witness-list.pdf",
+  "published_url": "https://the95xrecord.vercel.app/docs/46d2f6ca99",
+  "lookup": "https://the95xrecord.vercel.app/api/v1/hash/9d5906286c89ef7b17601b6f58a0c07f06e3519ec948d6e7c248cb557ef63e01.json",
+  "ssot": "https://the95xrecord.vercel.app/ssot.json"
+}

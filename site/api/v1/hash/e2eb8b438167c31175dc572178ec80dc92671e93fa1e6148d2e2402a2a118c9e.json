@@ -1,0 +1,11 @@
+{
+  "schema": "ssot/api-hash@1",
+  "sha256": "e2eb8b438167c31175dc572178ec80dc92671e93fa1e6148d2e2402a2a118c9e",
+  "kind": "document_page",
+  "case": "1RC191003776",
+  "docket": 229,
+  "file": "2021-11-18__1RC191003776__DKT0229__cos-1st-rpod-aoao.pdf",
+  "published_url": "https://the95xrecord.vercel.app/docs/6f5aa2d30a",
+  "lookup": "https://the95xrecord.vercel.app/api/v1/hash/e2eb8b438167c31175dc572178ec80dc92671e93fa1e6148d2e2402a2a118c9e.json",
+  "ssot": "https://the95xrecord.vercel.app/ssot.json"
+}

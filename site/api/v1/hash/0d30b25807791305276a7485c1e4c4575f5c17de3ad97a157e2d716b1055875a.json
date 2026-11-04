@@ -1,0 +1,11 @@
+{
+  "schema": "ssot/api-hash@1",
+  "sha256": "0d30b25807791305276a7485c1e4c4575f5c17de3ad97a157e2d716b1055875a",
+  "kind": "document_page",
+  "case": "1RC191003776",
+  "docket": 266,
+  "file": "2022-01-13__Dkt266__1RC191003776__return-of-service-acknowledgment-of-service-re-sub.pdf",
+  "published_url": "https://the95xrecord.vercel.app/docs/1cf23620ce",
+  "lookup": "https://the95xrecord.vercel.app/api/v1/hash/0d30b25807791305276a7485c1e4c4575f5c17de3ad97a157e2d716b1055875a.json",
+  "ssot": "https://the95xrecord.vercel.app/ssot.json"
+}

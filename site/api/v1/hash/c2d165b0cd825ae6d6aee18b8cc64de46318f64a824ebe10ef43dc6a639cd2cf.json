@@ -1,0 +1,11 @@
+{
+  "schema": "ssot/api-hash@1",
+  "sha256": "c2d165b0cd825ae6d6aee18b8cc64de46318f64a824ebe10ef43dc6a639cd2cf",
+  "kind": "document_page",
+  "case": "1RC191003776",
+  "docket": 361,
+  "file": "2023-01-10__1RC191003776__DKT0361__ex8-second-interim-trial-brief-p1-3.pdf",
+  "published_url": "https://the95xrecord.vercel.app/docs/e6a731e92a",
+  "lookup": "https://the95xrecord.vercel.app/api/v1/hash/c2d165b0cd825ae6d6aee18b8cc64de46318f64a824ebe10ef43dc6a639cd2cf.json",
+  "ssot": "https://the95xrecord.vercel.app/ssot.json"
+}

@@ -1,0 +1,11 @@
+{
+  "schema": "ssot/api-hash@1",
+  "sha256": "31995cf83daf423ba60bfbca5602dff0974f93cfc2f3b15d9ff5001f424f4072",
+  "kind": "document_page",
+  "case": "1RC191003776",
+  "docket": 361,
+  "file": "2023-01-10__1RC191003776__DKT0361__aoao-2nd-interim-trial-brief-h31995c.pdf",
+  "published_url": "https://the95xrecord.vercel.app/docs/ce9a0e9b06",
+  "lookup": "https://the95xrecord.vercel.app/api/v1/hash/31995cf83daf423ba60bfbca5602dff0974f93cfc2f3b15d9ff5001f424f4072.json",
+  "ssot": "https://the95xrecord.vercel.app/ssot.json"
+}

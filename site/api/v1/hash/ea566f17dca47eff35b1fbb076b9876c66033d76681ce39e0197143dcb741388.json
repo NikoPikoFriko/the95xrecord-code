@@ -1,0 +1,11 @@
+{
+  "schema": "ssot/api-hash@1",
+  "sha256": "ea566f17dca47eff35b1fbb076b9876c66033d76681ce39e0197143dcb741388",
+  "kind": "document_page",
+  "case": "1RC191003776",
+  "docket": 128,
+  "file": "2020-11-17__Dkt128__1RC191003776__proposed-final-judgment-in-favor-of-thyssenkrupp-e.pdf",
+  "published_url": "https://the95xrecord.vercel.app/docs/2ff041689f",
+  "lookup": "https://the95xrecord.vercel.app/api/v1/hash/ea566f17dca47eff35b1fbb076b9876c66033d76681ce39e0197143dcb741388.json",
+  "ssot": "https://the95xrecord.vercel.app/ssot.json"
+}

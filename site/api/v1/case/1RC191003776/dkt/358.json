@@ -1,0 +1,33 @@
+{
+  "schema": "ssot/api-docket@1",
+  "case": "1RC191003776",
+  "docket": 358,
+  "code": "NEF",
+  "filed": "03-NOV-2022",
+  "filed_iso": "2022-11-03",
+  "time": "16:43:13",
+  "ra_pdf_page": 126,
+  "grade": "PARTIAL",
+  "for_counsel": false,
+  "evidence": {
+    "renditions": [],
+    "text": {
+      "file": "COURT_DOCKET/LISTINGS/1RC191003776/04_TEXT/ocr/2022-11-03__Dkt358__1RC191003776__other.ocr.txt",
+      "sha256": "021184a48025ae57796d8ba48e2db745248c1516d6e6e075afc21c624ec9f915",
+      "location": "court_docket_listings_ocr",
+      "published_url": "https://the95xrecord.vercel.app/COURT_DOCKET/LISTINGS/1RC191003776/04_TEXT/ocr/2022-11-03__Dkt358__1RC191003776__other.ocr.txt"
+    },
+    "held_by_station": true,
+    "gap": false
+  },
+  "pdf_conflict": null,
+  "flags": [
+    "text_only_no_pdf_of_document"
+  ],
+  "links": {
+    "register": "https://the95xrecord.vercel.app/register#dkt-358",
+    "register_json": "https://the95xrecord.vercel.app/api/v1/case/1RC191003776/dkt/358.json",
+    "ssot": "https://the95xrecord.vercel.app/ssot.json",
+    "crossref": "https://the95xrecord.vercel.app/data/crossref.json"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "schema": "ssot/api-hash@1",
+  "sha256": "ccf016b0d39d76343a6f80e7cf6d66f2ce5c4d165ef4bd99272451b95c0a81c4",
+  "kind": "document_page",
+  "case": "1RC191003776",
+  "docket": 346,
+  "file": "2022-10-13__1RC191003776__DKT0346__ex9b-p255-j-22-pikor000249.pdf",
+  "published_url": "https://the95xrecord.vercel.app/docs/63e544e38e",
+  "lookup": "https://the95xrecord.vercel.app/api/v1/hash/ccf016b0d39d76343a6f80e7cf6d66f2ce5c4d165ef4bd99272451b95c0a81c4.json",
+  "ssot": "https://the95xrecord.vercel.app/ssot.json"
+}

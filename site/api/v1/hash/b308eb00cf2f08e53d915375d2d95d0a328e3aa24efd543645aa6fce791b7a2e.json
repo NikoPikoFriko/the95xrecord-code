@@ -1,0 +1,11 @@
+{
+  "schema": "ssot/api-hash@1",
+  "sha256": "b308eb00cf2f08e53d915375d2d95d0a328e3aa24efd543645aa6fce791b7a2e",
+  "kind": "document_page",
+  "case": "1RC191003776",
+  "docket": 232,
+  "file": "2021-12-17__1RC191003776__DKT0232__cos-aoao-response-1st-rpod.pdf",
+  "published_url": "https://the95xrecord.vercel.app/docs/8e2b977413",
+  "lookup": "https://the95xrecord.vercel.app/api/v1/hash/b308eb00cf2f08e53d915375d2d95d0a328e3aa24efd543645aa6fce791b7a2e.json",
+  "ssot": "https://the95xrecord.vercel.app/ssot.json"
+}

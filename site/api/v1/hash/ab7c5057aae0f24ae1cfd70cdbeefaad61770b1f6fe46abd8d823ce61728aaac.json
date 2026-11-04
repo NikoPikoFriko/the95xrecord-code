@@ -1,0 +1,11 @@
+{
+  "schema": "ssot/api-hash@1",
+  "sha256": "ab7c5057aae0f24ae1cfd70cdbeefaad61770b1f6fe46abd8d823ce61728aaac",
+  "kind": "trial_text",
+  "case": "1RC191003776",
+  "docket": 73,
+  "file": "2020-04-15__Dkt073__1RC191003776__plaintiff-association-of-apartment-owners-of-marine-surf-wai.ocr.txt",
+  "published_url": "https://the95xrecord.vercel.app/COURT_DOCKET/LISTINGS/1RC191003776/04_TEXT/ocr/2020-04-15__Dkt073__1RC191003776__plaintiff-association-of-apartment-owners-of-marine-surf-wai.ocr.txt",
+  "lookup": "https://the95xrecord.vercel.app/api/v1/hash/ab7c5057aae0f24ae1cfd70cdbeefaad61770b1f6fe46abd8d823ce61728aaac.json",
+  "ssot": "https://the95xrecord.vercel.app/ssot.json"
+}

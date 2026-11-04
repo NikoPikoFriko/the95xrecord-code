@@ -1,0 +1,33 @@
+{
+  "schema": "ssot/api-docket@1",
+  "case": "1RC191003776",
+  "docket": 281,
+  "code": "NTCE",
+  "filed": "10-FEB-2022",
+  "filed_iso": "2022-02-10",
+  "time": "10:12:04",
+  "ra_pdf_page": 95,
+  "grade": "PARTIAL",
+  "for_counsel": false,
+  "evidence": {
+    "renditions": [],
+    "text": {
+      "file": "COURT_DOCKET/LISTINGS/1RC191003776/04_TEXT/ocr/2022-02-10__Dkt281__1RC191003776__notice-of-remote-hearing.ocr.txt",
+      "sha256": "c645d481e8325247a47dca7375efa888e68fdf2f00fb3596ca680b7fac19ee1f",
+      "location": "court_docket_listings_ocr",
+      "published_url": "https://the95xrecord.vercel.app/COURT_DOCKET/LISTINGS/1RC191003776/04_TEXT/ocr/2022-02-10__Dkt281__1RC191003776__notice-of-remote-hearing.ocr.txt"
+    },
+    "held_by_station": true,
+    "gap": false
+  },
+  "pdf_conflict": null,
+  "flags": [
+    "text_only_no_pdf_of_document"
+  ],
+  "links": {
+    "register": "https://the95xrecord.vercel.app/register#dkt-281",
+    "register_json": "https://the95xrecord.vercel.app/api/v1/case/1RC191003776/dkt/281.json",
+    "ssot": "https://the95xrecord.vercel.app/ssot.json",
+    "crossref": "https://the95xrecord.vercel.app/data/crossref.json"
+  }
+}

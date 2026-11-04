@@ -1,0 +1,41 @@
+{
+  "schema": "ssot/api-docket@1",
+  "case": "1RC191003776",
+  "docket": 19,
+  "code": "MDJ",
+  "filed": "06-JAN-2020",
+  "filed_iso": "2020-01-06",
+  "time": "15:12:51",
+  "ra_pdf_page": 10,
+  "grade": "PARTIAL",
+  "for_counsel": false,
+  "evidence": {
+    "renditions": [],
+    "text": {
+      "file": "COURT_DOCKET/LISTINGS/1RC191003776/04_TEXT/ocr/2020-01-06__Dkt019__1RC191003776__thyssenkrupp-elevator-corporation-s-motion-for-summary-judgm.ocr.txt",
+      "sha256": "7809cfbe18d43dcbac56519f0f23c0d0be9b56f99a2fd3c2481a17b6a21ba221",
+      "location": "court_docket_listings_ocr",
+      "published_url": "https://the95xrecord.vercel.app/COURT_DOCKET/LISTINGS/1RC191003776/04_TEXT/ocr/2020-01-06__Dkt019__1RC191003776__thyssenkrupp-elevator-corporation-s-motion-for-summary-judgm.ocr.txt"
+    },
+    "held_by_station": true,
+    "gap": false
+  },
+  "pdf_conflict": {
+    "kind": "same_number_file_appeal_series",
+    "file": "APPEALS/CAAP-26-0000625/DOCKET/2026-10-29__CAAP-26-0000625__DKT__DKT0019-AMRA__amended-record-on-appeal__SRC__h46429ea256f9.pdf",
+    "sha256": "46429ea256f90049b9083010fa08e7af116a9e9b4b6a8dd4bdf27ac1b0121e21",
+    "belongs_to_case": "CAAP-26-0000625",
+    "appeal_dkt": 19,
+    "reason": "file is an appeal-docket document (CAAP-26-0000625) whose number equals this trial docket number; the register row describes a different document"
+  },
+  "flags": [
+    "same_number_file_appeal_series",
+    "text_only_no_pdf_of_document"
+  ],
+  "links": {
+    "register": "https://the95xrecord.vercel.app/register#dkt-19",
+    "register_json": "https://the95xrecord.vercel.app/api/v1/case/1RC191003776/dkt/19.json",
+    "ssot": "https://the95xrecord.vercel.app/ssot.json",
+    "crossref": "https://the95xrecord.vercel.app/data/crossref.json"
+  }
+}

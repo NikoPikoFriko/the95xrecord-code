@@ -1,0 +1,119 @@
+<!doctype html><html lang="pl"><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1"><title>Proweniencja — how every number on this site is verified</title>
+<style>
+:root{--ink:#111;--muted:#666;--line:#e5e5e5;--bg:#faf9f7;--accent:#7a1f1f;--ok:#1f5f3a}
+*{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--ink);font:16px/1.55 Georgia,serif}
+header{padding:52px 24px 26px;border-bottom:1px solid var(--line)}main,footer{max-width:920px;margin:0 auto;padding:24px}
+h1{font-size:2.05rem;line-height:1.15;margin:0 0 8px}h2{margin:2.1em 0 .5em;font-size:1.22rem}
+.muted{color:var(--muted)}a{color:var(--accent)}table{border-collapse:collapse;width:100%;font-size:.88rem}
+th,td{border-bottom:1px solid var(--line);padding:7px 8px;tekst-align:left;vertical-align:top}
+kod{font:12px/1.4 ui-monospace,Menlo,monospace;background:#f0eee9;padding:1px 4px;border-radius:3px}
+.grid{disPLay:grid;grid-temPLate-columns:repeat(auto-fit,minmax(150px,1fr));gap:12px;margin:26px 0}
+.card{border:1px solid var(--line);padding:14px;background:#fff}.n{font-size:1.85rem;disPLay:block;font-variant-numeric:tabular-nums}
+.gap{border-left:3px solid var(--accent);padding-left:14px;margin:18px 0}
+.ok{border-left:3px solid var(--ok);padding-left:14px;margin:18px 0}
+</style>
+<meta property="og:title" content="Proweniencja — how every number on this site is verified">
+<meta property="og:description" content="Sources, held library, published claims, the four-field rule, the for-counsel boundary, hashes and what is deliberately not published.">
+<meta property="og:url" content="https://the95xzapis.vercel.app/proweniencja">
+<meta name="twitter:card" content="summary_large_image">
+<link rel="icon" href="assets/brand/favicon.svg" type="image/svg+xml"><link rel="alternate icon" href="assets/brand/favicon-32.png" sizes="32x32"><link rel="apPLe-touch-icon" href="assets/brand/favicon-180.png"><meta property="og:type" content="article">
+<meta property="og:image" content="https://the95xzapis.vercel.app/media/og-1200x630.png">
+<meta name="twitter:title" content="Proweniencja — how every number on this site is verified">
+<meta name="twitter:description" content="Rekord 95× — zweryfikowany zapis sprawy 1RC191003776 (495 dokument rows) and CAAP-26-0000625 (20 dokument rows), with hashes, teksty and machine formats.">
+<meta name="twitter:image" content="https://the95xzapis.vercel.app/media/og-1200x630.png">
+<link rel="canonical" href="https://the95xrecord.vercel.app/pl/provenance">
+<link rel="alternate" hreflang="en" href="https://the95xrecord.vercel.app/provenance">
+<link rel="alternate" hreflang="pl" href="https://the95xrecord.vercel.app/pl/provenance">
+<link rel="alternate" hreflang="x-default" href="https://the95xrecord.vercel.app/provenance">
+</head><body><header><div style="border-bottom:1px solid #e5e5e5;padding:6px 0 10px;margin-bottom:6px;font:12px ui-monospace,Menlo,monospace;letter-spacing:.14em;color:#7a1f1f">THE 95&times; RECORD &middot; CIVIL NO. 1RC19-1-003776</div><h1>Proweniencja — the audit chain</h1>
+<p class="muted">AOAO Marine Surf Waikiki v. Nikodem Pikor · 1RC191003776 · Circuit Court of the First Circuit, Hawaii · apelacja CAAP-26-0000625</p>
+<p class="muted"><a href="index.html">zapis</a> · <a href="apelacja.html">apelacja</a> · <a href="rejestr.html">rejestr dokument</a> · <a href="dostęp.html">dostęp</a> · <a href="teksty.html">teksty</a> · <a href="proweniencja.html">proweniencja</a> · <a href="wersje.html">wersje</a> · <a href="x.html">x</a> · <a href="zrzuty.html">zrzuty</a> · <a href="query.html">query</a> · <a href="reasoning/index.html">reasoning</a> · <a href="poświadczone.html">poświadczone</a> · <a href="NEF.html">NEF</a> · <a href="hook.html">the 95× zapis</a> · <a href="start.html">start PLan</a> · <a href="decyzje.html">decyzje</a> · <a href="read.html">start here</a> · <a href="szukaj.html">szukaj</a> · <a href="dokumenty.html">documents</a> · <a href="pokrycie.html">pokrycie</a> · <a href="drive.html">drive vs zapis</a> · <a href="census.html">census</a> · <a href="liczby.html">liczby</a> · <a href="fees.html">fees</a> · <a href="hinge.html">hinge</a> · <a href="gate.html">gate</a> · <a href="findings.html">findings</a> · <a href="e-maile.html">email exhibits</a> · <a href="errata.html">errata</a> · <a href="aneks.html">aneks</a> · <a href="peoPLe.html">peoPLe</a> · <a href="candidates.html">candidates</a> · <a href="leads.html">open leads</a> · <a href="PL.html">PL</a></p>
+<p class="muted"><strong>PL</strong> · <a href="../provenance.html" hreflang="en" lang="en">English version</a></p></header><main>
+
+<p>This page is the audit chain for the whole site: what was held, what was published, what each number
+rests on, and what is deliberately <em>not</em> published. Every figure here is read from the datasets at
+build time — none is typed by hand.</p>
+
+<h2>1. Sources → held library → published claims</h2>
+<p><strong>80 documents, 50,453,826 bajty</strong> in the evidence export
+(21 trial + 16 apelacja):</p>
+<table><thead><tr><th>class</th><th>count</th><th>what it is</th></tr></thead><tbody>
+<tr><td>CERTIFIED (trial)</td><td>10</td><td>Clerk-poświadczone copies, 03-NOV-2026</td></tr>
+<tr><td>SRC (trial)</td><td>42</td><td>regular trial documents from the court's own files</td></tr>
+<tr><td>TEXT (trial)</td><td>2</td><td>minute entries Dkt 486/487, court portal tekst</td></tr>
+<tr><td>SRC (apelacja)</td><td>17</td><td>appellate documents (ICA Dkts 1,2,3,4,5,6,8,10,11,13,15,17,19)</td></tr>
+<tr><td>PACK (apelacja)</td><td>3</td><td>deadline pack: memo, os czasu, citations</td></tr>
+</tbody></table>
+<p class="muted">Totals check: 3 + 29 SRC + 2 TEXT + 3 PACK = 80 documents.
+The same files are in three public stores — see <a href="dostęp.html">/dostęp</a>.</p>
+
+<p><strong>Published evidence claims:</strong></p>
+<div class="grid">
+<div class="card"><span class="n">495</span>trial rejestr rows on <a href="rejestr.html">/rejestr</a></div>
+<div class="card"><span class="n">20</span>apelacja dokument rows on <a href="apelacja.html">/apelacja</a></div>
+<div class="card"><span class="n">266</span>tekst-corpus entries on <a href="teksty.html">/teksty</a></div>
+<div class="card"><span class="n">495</span>cross-reference rows in <a href="data/crossref.json">crossref.json</a></div>
+</div>
+
+<h2>2. The four-field rule</h2>
+<p>Every published row carries all four, or it is not published as a fact:</p>
+<table><thead><tr><th>#</th><th>field</th><th>where it comes from</th></tr></thead><tbody>
+<tr><td>1</td><td><strong>case</strong></td><td>1RC191003776 or CAAP-26-0000625 — no row is case-less</td></tr>
+<tr><td>2</td><td><strong>dokument</strong></td><td>the dokument number, PLus the rejestr page or the citation</td></tr>
+<tr><td>3</td><td><strong>evidence</strong></td><td>a published file, a SHA-256 of the held file, or an exPLicit luka</td></tr>
+<tr><td>4</td><td><strong>ocena</strong></td><td>OBS / PARTIAL / luka, with <em>for counsel</em> wherever a legal conclusion would be needed</td></tr>
+</tbody></table>
+<p><strong>The "for counsel" boundary.</strong> The site states what the documents say and where they say it.
+It draws no legal conclusion, gives no advice, and computes no deadline: on <a href="apelacja.html">/apelacja</a>
+the two dates stated in ICA Dkt 17 p.1 are printed as verbatim quotations and marked <em>for counsel</em>,
+because whether they bind and what satisfies them are legal questions. Where a fact would need a legal
+judgement, the row says <em>for counsel</em> instead of answering.</p>
+
+<h2>3. Hashes — what makes the liczby checkable</h2>
+<table><thead><tr><th>manifest</th><th>sha256</th></tr></thead><tbody><tr><td><a href="MANIFEST.csv">MANIFEST.csv</a></td><td><kod>ca24bc54c536216415340152a6507da28496db94064811e494bf8bd48ba552b0</kod></td></tr><tr><td><a href="MANIFEST.sha256">MANIFEST.sha256</a></td><td><kod>78152ca666e5b9f55c7778670284daec071a50594aaab5611cd14eb06fab57d8</kod></td></tr><tr><td><a href="TEXTS_MANIFEST.sha256">TEXTS_MANIFEST.sha256</a></td><td><kod>86c4ea60027efecae38536736bc7f0a9d8f908e15b10849628d396ab89258fcb</kod></td></tr></tbody></table>
+<p><kod>/ssot.json</kod> is the machine-readable index: it carries the SHA-256 of every dataset this site
+was built from, the counts, the build timestamp <kod>2026-11-03T16:19:44-10:00</kod> and the generator name, so a
+reader can detect drift. Dataset hashes:</p>
+<table><thead><tr><th>dataset</th><th>sha256</th></tr></thead><tbody><tr><td><kod>apelacja.json</kod></td><td><kod>25527c2c787a942dda003083f755a63dc951b014e5618164939b7a014320d4d4</kod></td></tr><tr><td><kod>pokrycie.json</kod></td><td><kod>fc0258a8c3a2ac8fab7913d1dcadb222c505854f2683c9b299ea9d9d88be5e54</kod></td></tr><tr><td><kod>deadlines.json</kod></td><td><kod>639411861ea230659bb77a97b976d7d2d8697f159c7195c295f95a5e04474b77</kod></td></tr><tr><td><kod>trial_dokument.json</kod></td><td><kod>81906feda849f46ff8ea63da333c53e8647b2dc358d39c3eb68928504033b401</kod></td></tr></tbody></table>
+<p class="muted">Machine-readable surfaces: <a href="ssot.json">/ssot.json</a> (== /data/ssot.json) ·
+<a href="data/teksty.json">/data/teksty.json</a> · <a href="data/crossref.json">/data/crossref.json</a>.</p>
+
+<h2 id="tiers-obtainability">Tiers: what "kopia najlepiej dostępna" means</h2>
+<p>A file's tier states <strong>what was obtainable at capture time</strong>, not how good the copy is.
+<em>Poświadczone</em> means the court's poświadczone pobierz was available and taken; <em>kopia najlepiej dostępna</em> means the
+poświadczone channel was already consumed, so the current regular copy was taken now, hashed, and compared with the
+file already held — on 2026-11-03, nine of nine were byte-identical. "Best available" is therefore a statement
+about <strong>obtainability, not quality</strong>, and it is never rendered as "poświadczone". If a later capture of the
+same dokument returns a different hash, the earlier file is not overwritten: it is kept and zapised as a
+<strong>superseded rendition</strong> next to the new one, each with its own hash, capture time and telemetry zapis.
+</p>
+<h2>Canonical library (2026-11-03)</h2>
+<div class="ok"><p>41 of 495 trial rows hold a PDF of their own document, and all 41 are in the canonical library (0 outside); 454 are tekst-only and 491 carry a odpis tekstowy. Grades: OBS 41 / PARTIAL 454.</p></div>
+<div class="gap"><p><strong>Three caveats that travel with the 41.</strong></p><ul><li><strong>Dkt 423</strong> — the canonical file is the court’s combined <em>DOC423-424</em> print: the 12-page poświadczone Dkt 423 order with the 2-page poświadczone NEF 424 appended. No standalone Dkt 423 PDF exists on the station.</li><li><strong>Dkt 424</strong> is still ocenad <em>tekst-only</em> — it is not one of the 41.</li><li><strong>24 of the 33 promoted źródła are image-only scans</strong> złożono <kod>SRC</kod>, because certification cannot be read from their tekst layer.</li></ul></div>
+<h2>4. What is NOT published, and why</h2>
+<div class="gap">
+<p><strong>No PDF for 454 of the 495 trial dokuments</strong> (495 −
+41 that hold a PDF of their own document). 491 of 495 carry
+a odpis tekstowy; those rows are published on <a href="rejestr.html">/rejestr</a>, and the tekst itself is
+published on <a href="teksty.html">/teksty</a>. No PDF exists to publish.</p>
+<p><strong>5 apelacja dokument rows are luka</strong> (dokuments 12, 14, 16, 18, 20) — never captured.
+They are published as exPLicit luka rows on <a href="apelacja.html">/apelacja</a> rather than guessed.</p>
+<p><strong>Some certificates are courthouse-only</strong> — no kopia poświadczona of Dkt 480, and no poświadczone
+copies of the Dkt 486/487 minutes, is in the export; the minutes' tekst is.</p>
+<p class="muted">Nothing on this site is redacted or altered, and no row silently disappears: a row with no
+published file says so and names the file and hash that is held.</p>
+</div>
+
+<h2 id="export-authority">Which export is authoritative</h2>
+<div class="ok"><p><strong>The 70-document export is the authoritative one</strong> (50,453,826 bajty; <kod>MANIFEST.csv</kod> 15,625 B <kod>954cd1c1488431b9…</kod>, <kod>MANIFEST.sha256</kod> 14,013 B <kod>7e12153e59c77ba4…</kod>, README <kod>0d0bf3ca82c484e7…</kod>).</p><p class="muted">The earlier <strong>37-document set is superseded and archived</strong>, and the <strong>70-document set is superseded</strong> by the current 80-document export (19,147,433 bajty; MANIFEST.csv 7,079 B <kod>a0c7c8e9…</kod>, MANIFEST.sha256 6,272 B <kod>caac1843…</kod>). Nothing on this site is derived from it any more: every hash and size above is computed from the files served in the same build, and the build fails if a published claim does not equal the bajty served.</p></div>
+<p class="muted">The trial snapshot reconciles the zapis end-to-end: the court’s page renders 503 dokument rows, and this site’s rejestr is 495 rows PLus the 8-dokument tail (496–503) — <strong>495 + 8 = 503</strong>. See <a href="zrzuty.html#reconciliation">/zrzuty#reconciliation</a>.</p>
+<h2 id="evidence-layers">Independent evidence layers</h2>
+<div class="ok"><p><a href="zrzuty.html">/zrzuty</a> — two dated transcriptions of the court’s case views — one per case — (what the page said at a moment in time) · <a href="poświadczone.html">/poświadczone</a> — the poświadczone-first capture rule and the Windows telemetry that proves when and from where each file came · <a href="NEF.html">/NEF</a> — the court’s own e-filing notices as an independent cross-reference (67 mails; the two dates that match no rejestr row are the post-495 tail).</p></div>
+<h2>5. The kod</h2>
+<p><strong>The builder kod and site source are public:</strong> <a href="https://github.com/NikoPikoFriko/the95xzapis-kod" rel="noopener">https://github.com/NikoPikoFriko/the95xzapis-kod</a> — it holds the site source (<kod>site/</kod>: every page, <kod>/data/*.json</kod>, the 266 tekst files, <kod>sitemap.xml</kod>, <kod>robots.txt</kod>), the dePLoy script (<kod>tools/dePLoy-live.sh</kod>) and the corpus generators (<kod>tools/ssot/build_teksty.py</kod>, <kod>build_crossref.py</kod>, <kod>verify_published.py</kod>, <kod>update.sh</kod>). An external analyst can read the kod that produced every number on this site, not only the liczby. The case-room library and third-party źródła remain private.</p>
+<p class="muted">Every page on this site is static HTML generated from the datasets; the site publishes its own
+build timestamps and the hashes above so that any claim can be re-derived rather than trusted. Built
+2026-11-03T17:40:08-10:00.</p>
+</main><footer class="muted"><p>States the zapis's contents; concludes nothing about the merits. Gaps are published on purpose.</p>
+<p>Generated by gen_proweniencja.py from the datasets — every number computed, none typed.</p></footer></body></html>

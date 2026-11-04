@@ -1,0 +1,11 @@
+{
+  "schema": "ssot/api-hash@1",
+  "sha256": "4b8399d9556ba9b3ded98c7161fa5290f2eb8802cccae39eea641f1eeac398c4",
+  "kind": "document_page",
+  "case": "1RC191003776",
+  "docket": 448,
+  "file": "2026-08-31__1RC191003776__DKT0448__ntc-of-court-date-hrg-on-mtn-1-30pm.pdf",
+  "published_url": "https://the95xrecord.vercel.app/docs/37939197a6",
+  "lookup": "https://the95xrecord.vercel.app/api/v1/hash/4b8399d9556ba9b3ded98c7161fa5290f2eb8802cccae39eea641f1eeac398c4.json",
+  "ssot": "https://the95xrecord.vercel.app/ssot.json"
+}

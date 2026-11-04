@@ -1,0 +1,11 @@
+{
+  "schema": "ssot/api-hash@1",
+  "sha256": "6c6794fcfe46f4d8c657adeb65a244421160f2978af52e3cab239dc11cbbf6f0",
+  "kind": "document_page",
+  "case": "1RC191003776",
+  "docket": 257,
+  "file": "2022-01-07__Dkt257__1RC191003776__re-harold-hitchcock.pdf",
+  "published_url": "https://the95xrecord.vercel.app/docs/e16464f401",
+  "lookup": "https://the95xrecord.vercel.app/api/v1/hash/6c6794fcfe46f4d8c657adeb65a244421160f2978af52e3cab239dc11cbbf6f0.json",
+  "ssot": "https://the95xrecord.vercel.app/ssot.json"
+}

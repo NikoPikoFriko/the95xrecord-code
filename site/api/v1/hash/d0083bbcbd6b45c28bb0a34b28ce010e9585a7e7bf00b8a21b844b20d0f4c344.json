@@ -1,0 +1,11 @@
+{
+  "schema": "ssot/api-hash@1",
+  "sha256": "d0083bbcbd6b45c28bb0a34b28ce010e9585a7e7bf00b8a21b844b20d0f4c344",
+  "kind": "trial_text",
+  "case": "1RC191003776",
+  "docket": 4,
+  "file": "2019-07-08__Dkt004__1RC191003776__third-party-complaint-declaration-summons-filed-by-atty-for.ocr.txt",
+  "published_url": "https://the95xrecord.vercel.app/COURT_DOCKET/LISTINGS/1RC191003776/04_TEXT/ocr/2019-07-08__Dkt004__1RC191003776__third-party-complaint-declaration-summons-filed-by-atty-for.ocr.txt",
+  "lookup": "https://the95xrecord.vercel.app/api/v1/hash/d0083bbcbd6b45c28bb0a34b28ce010e9585a7e7bf00b8a21b844b20d0f4c344.json",
+  "ssot": "https://the95xrecord.vercel.app/ssot.json"
+}

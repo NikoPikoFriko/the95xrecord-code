@@ -1,0 +1,11 @@
+{
+  "schema": "ssot/api-hash@1",
+  "sha256": "99cd4975f55931dbd4a7435d729eed8b062a8b20bedbd0a57427ae25acaa2d7d",
+  "kind": "document_page",
+  "case": "1RC191003776",
+  "docket": 346,
+  "file": "2021-07-15__1RC191003776__DKT0346__cctv-still-15-11-22.pdf",
+  "published_url": "https://the95xrecord.vercel.app/docs/cbb8333fd1",
+  "lookup": "https://the95xrecord.vercel.app/api/v1/hash/99cd4975f55931dbd4a7435d729eed8b062a8b20bedbd0a57427ae25acaa2d7d.json",
+  "ssot": "https://the95xrecord.vercel.app/ssot.json"
+}

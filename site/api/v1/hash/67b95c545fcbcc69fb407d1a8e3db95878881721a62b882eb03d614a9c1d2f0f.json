@@ -1,0 +1,11 @@
+{
+  "schema": "ssot/api-hash@1",
+  "sha256": "67b95c545fcbcc69fb407d1a8e3db95878881721a62b882eb03d614a9c1d2f0f",
+  "kind": "trial_text",
+  "case": "1RC191003776",
+  "docket": 390,
+  "file": "2023-04-25__Dkt390__1RC191003776__request-for-transcript-audio-of-proceedings-april-5-2023-tri.ocr.txt",
+  "published_url": "https://the95xrecord.vercel.app/COURT_DOCKET/LISTINGS/1RC191003776/04_TEXT/ocr/2023-04-25__Dkt390__1RC191003776__request-for-transcript-audio-of-proceedings-april-5-2023-tri.ocr.txt",
+  "lookup": "https://the95xrecord.vercel.app/api/v1/hash/67b95c545fcbcc69fb407d1a8e3db95878881721a62b882eb03d614a9c1d2f0f.json",
+  "ssot": "https://the95xrecord.vercel.app/ssot.json"
+}

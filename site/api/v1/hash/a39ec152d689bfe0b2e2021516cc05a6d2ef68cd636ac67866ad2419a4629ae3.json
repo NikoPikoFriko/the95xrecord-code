@@ -1,0 +1,11 @@
+{
+  "schema": "ssot/api-hash@1",
+  "sha256": "a39ec152d689bfe0b2e2021516cc05a6d2ef68cd636ac67866ad2419a4629ae3",
+  "kind": "document_page",
+  "case": "1RC191003776",
+  "docket": 184,
+  "file": "2021-03-11__Dkt184__1RC191003776__granted-migs-re-central-pacific-bank.pdf",
+  "published_url": "https://the95xrecord.vercel.app/docs/9a5270ec86",
+  "lookup": "https://the95xrecord.vercel.app/api/v1/hash/a39ec152d689bfe0b2e2021516cc05a6d2ef68cd636ac67866ad2419a4629ae3.json",
+  "ssot": "https://the95xrecord.vercel.app/ssot.json"
+}

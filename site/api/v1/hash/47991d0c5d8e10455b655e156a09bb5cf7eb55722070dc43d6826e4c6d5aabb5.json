@@ -1,0 +1,11 @@
+{
+  "schema": "ssot/api-hash@1",
+  "sha256": "47991d0c5d8e10455b655e156a09bb5cf7eb55722070dc43d6826e4c6d5aabb5",
+  "kind": "document_page",
+  "case": "1RC191003776",
+  "docket": 66,
+  "file": "2020-03-06__Dkt66__1RC191003776__notice-appearance-counsel.pdf",
+  "published_url": "https://the95xrecord.vercel.app/docs/b65332fc74",
+  "lookup": "https://the95xrecord.vercel.app/api/v1/hash/47991d0c5d8e10455b655e156a09bb5cf7eb55722070dc43d6826e4c6d5aabb5.json",
+  "ssot": "https://the95xrecord.vercel.app/ssot.json"
+}

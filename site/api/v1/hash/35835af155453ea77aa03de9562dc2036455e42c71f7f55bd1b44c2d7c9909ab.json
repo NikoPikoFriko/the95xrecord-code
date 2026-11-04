@@ -1,0 +1,11 @@
+{
+  "schema": "ssot/api-hash@1",
+  "sha256": "35835af155453ea77aa03de9562dc2036455e42c71f7f55bd1b44c2d7c9909ab",
+  "kind": "document_page",
+  "case": "1RC191003776",
+  "docket": 12,
+  "file": "2019-09-03__Dkt12__1RC191003776__certificate-of-service-re-third-party-defendant-th.pdf",
+  "published_url": "https://the95xrecord.vercel.app/docs/2b1cb14628",
+  "lookup": "https://the95xrecord.vercel.app/api/v1/hash/35835af155453ea77aa03de9562dc2036455e42c71f7f55bd1b44c2d7c9909ab.json",
+  "ssot": "https://the95xrecord.vercel.app/ssot.json"
+}

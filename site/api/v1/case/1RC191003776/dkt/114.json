@@ -1,0 +1,40 @@
+{
+  "schema": "ssot/api-docket@1",
+  "case": "1RC191003776",
+  "docket": 114,
+  "code": "ORD",
+  "filed": "25-SEP-2020",
+  "filed_iso": "2020-09-25",
+  "time": "08:20:44",
+  "ra_pdf_page": 41,
+  "grade": "PARTIAL",
+  "for_counsel": false,
+  "evidence": {
+    "renditions": [
+      {
+        "file": "07_AGENT_WORK_REVIEW/FROM_AI_WORKSPACES_2026-10-23/CURSOR/.cursor/worktrees/AOAO_Marine_Surf_1RC191003776/ddym/99_INBOX/infranodus_judicial_audit_2026-10-03/judicial-audit-2026-10-03/evidence/docket/Dkt114.pdf",
+        "sha256": "a12173759fff3b987e41a8e1e28c9dcaa6f4d60dd9f56408fd3d3e25510f081d",
+        "location": "agent_worktree",
+        "published_url": null
+      }
+    ],
+    "text": {
+      "file": "COURT_DOCKET/LISTINGS/1RC191003776/04_TEXT/ocr/2020-09-25__Dkt114__1RC191003776__order-granting-in-part-and-denying-in-part-plaintiff-counter.ocr.txt",
+      "sha256": "0891b265f73055c1bbc1fd1d4f0e354f4f50bbb698d124835f7cb5108bbe4748",
+      "location": "court_docket_listings_ocr",
+      "published_url": "https://the95xrecord.vercel.app/COURT_DOCKET/LISTINGS/1RC191003776/04_TEXT/ocr/2020-09-25__Dkt114__1RC191003776__order-granting-in-part-and-denying-in-part-plaintiff-counter.ocr.txt"
+    },
+    "held_by_station": true,
+    "gap": false
+  },
+  "pdf_conflict": null,
+  "flags": [
+    "pdf_outside_canonical_library"
+  ],
+  "links": {
+    "register": "https://the95xrecord.vercel.app/register#dkt-114",
+    "register_json": "https://the95xrecord.vercel.app/api/v1/case/1RC191003776/dkt/114.json",
+    "ssot": "https://the95xrecord.vercel.app/ssot.json",
+    "crossref": "https://the95xrecord.vercel.app/data/crossref.json"
+  }
+}

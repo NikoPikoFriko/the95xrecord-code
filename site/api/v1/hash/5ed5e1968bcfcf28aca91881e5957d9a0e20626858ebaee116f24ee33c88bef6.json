@@ -1,0 +1,11 @@
+{
+  "schema": "ssot/api-hash@1",
+  "sha256": "5ed5e1968bcfcf28aca91881e5957d9a0e20626858ebaee116f24ee33c88bef6",
+  "kind": "trial_pdf",
+  "case": "1RC191003776",
+  "docket": 488,
+  "file": "2026-10-19__1RC191003776__DKT__DKT0488-PROP__proposed-order-reconsideration-fees-dkt431__SRC__h5ed5e1968bcf.pdf",
+  "published_url": null,
+  "lookup": "https://the95xrecord.vercel.app/api/v1/hash/5ed5e1968bcfcf28aca91881e5957d9a0e20626858ebaee116f24ee33c88bef6.json",
+  "ssot": "https://the95xrecord.vercel.app/ssot.json"
+}

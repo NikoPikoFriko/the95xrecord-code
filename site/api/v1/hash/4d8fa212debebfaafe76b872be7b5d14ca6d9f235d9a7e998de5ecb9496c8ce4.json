@@ -1,0 +1,11 @@
+{
+  "schema": "ssot/api-hash@1",
+  "sha256": "4d8fa212debebfaafe76b872be7b5d14ca6d9f235d9a7e998de5ecb9496c8ce4",
+  "kind": "document_page",
+  "case": "1RC191003776",
+  "docket": 154,
+  "file": "2021-01-25__Dkt154__1RC191003776__errata-re-thyssenkrupp-elevator-corporation-s-ex-p.pdf",
+  "published_url": "https://the95xrecord.vercel.app/docs/789a7ed968",
+  "lookup": "https://the95xrecord.vercel.app/api/v1/hash/4d8fa212debebfaafe76b872be7b5d14ca6d9f235d9a7e998de5ecb9496c8ce4.json",
+  "ssot": "https://the95xrecord.vercel.app/ssot.json"
+}

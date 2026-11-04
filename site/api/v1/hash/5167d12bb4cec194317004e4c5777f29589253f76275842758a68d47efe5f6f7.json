@@ -1,0 +1,11 @@
+{
+  "schema": "ssot/api-hash@1",
+  "sha256": "5167d12bb4cec194317004e4c5777f29589253f76275842758a68d47efe5f6f7",
+  "kind": "document_page",
+  "case": "1RC191003776",
+  "docket": 96,
+  "file": "2020-07-01__1RC191003776__DKT0096__nef-ntc-pretrial-conference-9-30am.pdf",
+  "published_url": "https://the95xrecord.vercel.app/docs/e836df6025",
+  "lookup": "https://the95xrecord.vercel.app/api/v1/hash/5167d12bb4cec194317004e4c5777f29589253f76275842758a68d47efe5f6f7.json",
+  "ssot": "https://the95xrecord.vercel.app/ssot.json"
+}

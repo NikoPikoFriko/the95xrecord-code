@@ -1,0 +1,11 @@
+{
+  "schema": "ssot/api-hash@1",
+  "sha256": "95fb6fd62d5d5e00a46171baf1030eae73cb784138b4d1492dd21ee527a7ac09",
+  "kind": "document_page",
+  "case": "1RC191003776",
+  "docket": 388,
+  "file": "2023-04-06__Dkt388__1RC191003776__request-for-transcripts-cd-audio-only-of-proceedin.pdf",
+  "published_url": "https://the95xrecord.vercel.app/docs/901497ec41",
+  "lookup": "https://the95xrecord.vercel.app/api/v1/hash/95fb6fd62d5d5e00a46171baf1030eae73cb784138b4d1492dd21ee527a7ac09.json",
+  "ssot": "https://the95xrecord.vercel.app/ssot.json"
+}

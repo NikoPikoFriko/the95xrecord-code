@@ -1,0 +1,11 @@
+{
+  "schema": "ssot/api-hash@1",
+  "sha256": "78a5b75dfa82b84211acb3f7b65b2fb2a317eb7c3ca7e30f9b9b963bf5e43b03",
+  "kind": "document_page",
+  "case": "1RC191003776",
+  "docket": 124,
+  "file": "2020-11-10__1RC191003776__DKT0124__pretrial-conference-10-00am.pdf",
+  "published_url": "https://the95xrecord.vercel.app/docs/0151de9fdd",
+  "lookup": "https://the95xrecord.vercel.app/api/v1/hash/78a5b75dfa82b84211acb3f7b65b2fb2a317eb7c3ca7e30f9b9b963bf5e43b03.json",
+  "ssot": "https://the95xrecord.vercel.app/ssot.json"
+}

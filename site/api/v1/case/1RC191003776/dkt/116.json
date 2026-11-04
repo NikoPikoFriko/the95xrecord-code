@@ -1,0 +1,33 @@
+{
+  "schema": "ssot/api-docket@1",
+  "case": "1RC191003776",
+  "docket": 116,
+  "code": "NOCDA",
+  "filed": "28-SEP-2020",
+  "filed_iso": "2020-09-28",
+  "time": "08:42:16",
+  "ra_pdf_page": 41,
+  "grade": "PARTIAL",
+  "for_counsel": false,
+  "evidence": {
+    "renditions": [],
+    "text": {
+      "file": "COURT_DOCKET/LISTINGS/1RC191003776/04_TEXT/ocr/2020-09-28__Dkt116__1RC191003776__other.ocr.txt",
+      "sha256": "24d04c13a59d883b45c8e1a4b0c47cb03c3209f3ed07edf33fd04cf33f6b48de",
+      "location": "court_docket_listings_ocr",
+      "published_url": "https://the95xrecord.vercel.app/COURT_DOCKET/LISTINGS/1RC191003776/04_TEXT/ocr/2020-09-28__Dkt116__1RC191003776__other.ocr.txt"
+    },
+    "held_by_station": true,
+    "gap": false
+  },
+  "pdf_conflict": null,
+  "flags": [
+    "text_only_no_pdf_of_document"
+  ],
+  "links": {
+    "register": "https://the95xrecord.vercel.app/register#dkt-116",
+    "register_json": "https://the95xrecord.vercel.app/api/v1/case/1RC191003776/dkt/116.json",
+    "ssot": "https://the95xrecord.vercel.app/ssot.json",
+    "crossref": "https://the95xrecord.vercel.app/data/crossref.json"
+  }
+}

@@ -1,0 +1,11 @@
+{
+ "schema": "ssot/api-hash@1",
+ "sha256": "3e2dd67f561a671ee6344bcb6760c755ababee825fe4112ebb69d23749c85766",
+ "kind": "snapshot_sidecar",
+ "case": null,
+ "docket": null,
+ "file": "data/snapshots/JIMS_1RC191003776_2026-11-03T1934.sha256",
+ "published_url": "https://the95xrecord.vercel.app/data/snapshots/JIMS_1RC191003776_2026-11-03T1934.sha256",
+ "lookup": "https://the95xrecord.vercel.app/api/v1/hash/3e2dd67f561a671ee6344bcb6760c755ababee825fe4112ebb69d23749c85766.json",
+ "ssot": "https://the95xrecord.vercel.app/ssot.json"
+}

@@ -1,0 +1,11 @@
+{
+  "schema": "ssot/api-hash@1",
+  "sha256": "b69ef1172242ca4d0a4e955d268a2e70f1a32e139085c72f1d24631d194c6521",
+  "kind": "document_page",
+  "case": "1RC191003776",
+  "docket": 110,
+  "file": "2020-07-20__1RC191003776__DKT0110__opp-aoao-marine-surf-mtn-recon-ord-grant-pik.pdf",
+  "published_url": "https://the95xrecord.vercel.app/docs/e31e84dee0",
+  "lookup": "https://the95xrecord.vercel.app/api/v1/hash/b69ef1172242ca4d0a4e955d268a2e70f1a32e139085c72f1d24631d194c6521.json",
+  "ssot": "https://the95xrecord.vercel.app/ssot.json"
+}

@@ -1,0 +1,11 @@
+{
+  "schema": "ssot/api-hash@1",
+  "sha256": "b995effe382f146a7a001f719634921a8023cb38fd9dc313212644ebbe227484",
+  "kind": "trial_pdf",
+  "case": "1RC191003776",
+  "docket": 441,
+  "file": "Dkt441.pdf",
+  "published_url": null,
+  "lookup": "https://the95xrecord.vercel.app/api/v1/hash/b995effe382f146a7a001f719634921a8023cb38fd9dc313212644ebbe227484.json",
+  "ssot": "https://the95xrecord.vercel.app/ssot.json"
+}

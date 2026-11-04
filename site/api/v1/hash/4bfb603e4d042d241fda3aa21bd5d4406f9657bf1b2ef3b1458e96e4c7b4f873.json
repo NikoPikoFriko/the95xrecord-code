@@ -1,0 +1,11 @@
+{
+  "schema": "ssot/api-hash@1",
+  "sha256": "4bfb603e4d042d241fda3aa21bd5d4406f9657bf1b2ef3b1458e96e4c7b4f873",
+  "kind": "trial_text",
+  "case": "1RC191003776",
+  "docket": 486,
+  "file": "2026-10-05__1RC191003776__DKT__DKT0486-MINH__minutes-portal-text__SRC__h754554257b32.txt",
+  "published_url": "https://the95xrecord.vercel.app/COURT_DOCKET/MINUTES/2026-10-05__1RC191003776__DKT__DKT0486-MINH__minutes-portal-text__SRC__h754554257b32.txt",
+  "lookup": "https://the95xrecord.vercel.app/api/v1/hash/4bfb603e4d042d241fda3aa21bd5d4406f9657bf1b2ef3b1458e96e4c7b4f873.json",
+  "ssot": "https://the95xrecord.vercel.app/ssot.json"
+}

@@ -1,0 +1,11 @@
+{
+  "schema": "ssot/api-hash@1",
+  "sha256": "4c7a15298332823d405a05f935fc63048e572729d376aab3a2980a9c51900778",
+  "kind": "document_page",
+  "case": "1RC191003776",
+  "docket": 22,
+  "file": "2020-01-08__1RC191003776__DKT0022__subpoena-for-w-denison.pdf",
+  "published_url": "https://the95xrecord.vercel.app/docs/6f21363f40",
+  "lookup": "https://the95xrecord.vercel.app/api/v1/hash/4c7a15298332823d405a05f935fc63048e572729d376aab3a2980a9c51900778.json",
+  "ssot": "https://the95xrecord.vercel.app/ssot.json"
+}

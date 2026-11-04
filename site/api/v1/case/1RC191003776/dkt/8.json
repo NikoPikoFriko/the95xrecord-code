@@ -1,0 +1,41 @@
+{
+  "schema": "ssot/api-docket@1",
+  "case": "1RC191003776",
+  "docket": 8,
+  "code": "ROS",
+  "filed": "18-JUL-2019",
+  "filed_iso": "2019-07-18",
+  "time": "08:23:00",
+  "ra_pdf_page": 7,
+  "grade": "PARTIAL",
+  "for_counsel": false,
+  "evidence": {
+    "renditions": [],
+    "text": {
+      "file": "COURT_DOCKET/LISTINGS/1RC191003776/04_TEXT/ocr/2019-07-18__Dkt008__1RC191003776__amended-return-of-service-re-answer-and-counterclaim-served.ocr.txt",
+      "sha256": "85de7182702be642396561077616ab6daf63cdd9730fa7f2334245a581ffc98e",
+      "location": "court_docket_listings_ocr",
+      "published_url": "https://the95xrecord.vercel.app/COURT_DOCKET/LISTINGS/1RC191003776/04_TEXT/ocr/2019-07-18__Dkt008__1RC191003776__amended-return-of-service-re-answer-and-counterclaim-served.ocr.txt"
+    },
+    "held_by_station": true,
+    "gap": false
+  },
+  "pdf_conflict": {
+    "kind": "same_number_file_appeal_series",
+    "file": "APPEALS/CAAP-26-0000625/09_INTAKE/jefs_2026-10-04/2026-09-15__CAAP-26-0000625__DKT__DKT0008-DOC1__notice-of-non-payment__CERT__hebac524667e1.pdf",
+    "sha256": "ebac524667e11d1053966aed957fd6bf7a6b24e93c3269e65b0a4feb57868a18",
+    "belongs_to_case": "CAAP-26-0000625",
+    "appeal_dkt": 8,
+    "reason": "file is an appeal-docket document (CAAP-26-0000625) whose number equals this trial docket number; the register row describes a different document"
+  },
+  "flags": [
+    "same_number_file_appeal_series",
+    "text_only_no_pdf_of_document"
+  ],
+  "links": {
+    "register": "https://the95xrecord.vercel.app/register#dkt-8",
+    "register_json": "https://the95xrecord.vercel.app/api/v1/case/1RC191003776/dkt/8.json",
+    "ssot": "https://the95xrecord.vercel.app/ssot.json",
+    "crossref": "https://the95xrecord.vercel.app/data/crossref.json"
+  }
+}

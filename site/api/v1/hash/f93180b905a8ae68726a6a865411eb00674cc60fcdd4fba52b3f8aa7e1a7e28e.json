@@ -1,0 +1,11 @@
+{
+  "schema": "ssot/api-hash@1",
+  "sha256": "f93180b905a8ae68726a6a865411eb00674cc60fcdd4fba52b3f8aa7e1a7e28e",
+  "kind": "document_page",
+  "case": "1RC191003776",
+  "docket": 323,
+  "file": "2022-05-26__1RC191003776__DKT0323__am-ntc-court-date-hrg-answer-return-9-00am.pdf",
+  "published_url": "https://the95xrecord.vercel.app/docs/89bf23d9fd",
+  "lookup": "https://the95xrecord.vercel.app/api/v1/hash/f93180b905a8ae68726a6a865411eb00674cc60fcdd4fba52b3f8aa7e1a7e28e.json",
+  "ssot": "https://the95xrecord.vercel.app/ssot.json"
+}

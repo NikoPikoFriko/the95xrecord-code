@@ -1,0 +1,157 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Query — the record, client-side</title>
+<style>
+:root{--ink:#111;--muted:#666;--line:#e5e5e5;--bg:#faf9f7;--accent:#7a1f1f;--ok:#1f5f3a}
+*{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--ink);font:16px/1.55 Georgia,serif}
+header{padding:52px 24px 26px;border-bottom:1px solid var(--line)}main,footer{max-width:1040px;margin:0 auto;padding:24px}
+h1{font-size:2.05rem;line-height:1.15;margin:0 0 8px}h2{margin:2em 0 .4em;font-size:1.22rem}
+.muted{color:var(--muted)}a{color:var(--accent)}table{border-collapse:collapse;width:100%;font-size:.84rem}
+th,td{border-bottom:1px solid var(--line);padding:6px 8px;text-align:left;vertical-align:top}
+code{font:12px/1.4 ui-monospace,Menlo,monospace;background:#f0eee9;padding:1px 4px;border-radius:3px}
+textarea{width:100%;min-height:92px;font:13px/1.5 ui-monospace,Menlo,monospace;padding:10px;border:1px solid var(--line);background:#fff}
+button{font:13px ui-monospace,Menlo,monospace;padding:6px 10px;margin:2px;border:1px solid var(--line);background:#fff;cursor:pointer}
+button:hover{border-color:var(--accent)}.card{border:1px solid var(--line);background:#fff;padding:14px;margin:12px 0}
+.gap{border-left:3px solid var(--accent);padding-left:14px;margin:18px 0}.ok{border-left:3px solid var(--ok);padding-left:14px;margin:18px 0}
+#status{font:13px ui-monospace,Menlo,monospace;color:var(--muted)}
+</style></head><body><header><h1>Query the record — in your browser</h1>
+<p class="muted">AOAO Marine Surf Waikiki v. Nikodem Pikor · 1RC191003776 · appeal CAAP-26-0000625</p>
+<p class="muted"><a href="index.html">record</a> · <a href="register.html">register</a> · <a href="appeal.html">appeal</a> ·
+<a href="certified.html">certified</a> · <a href="reasoning/index.html">reasoning</a> · <a href="ssot.json">/ssot.json</a></p>
+</header><main>
+<p><strong>Everything runs in this tab.</strong> The page downloads one SQLite file (<code>data/query.sqlite</code>,
+663,552 B) and a vendored SQLite engine (704,547 B), builds the database in
+WebAssembly memory, and answers your SQL. No database server, no cloud query, no request leaves the browser after
+those two static files. You can run it with the network disconnected once the page has loaded.</p>
+<p id="status">loading engine and database…</p>
+
+<h2>Schema explorer</h2>
+<div id="schema" class="card">…</div>
+
+<h2>Query box</h2>
+<p class="muted">Read-only by construction: the page opens the database read-only and refuses anything that is not a
+single <code>SELECT</code>/<code>WITH</code> statement.</p>
+<textarea id="sql">select case_number, docket, code, filed, tier, series from v_lookup where docket = 423 order by case_number;</textarea>
+<p><button onclick="runQuery()">Run query</button> <button onclick="resetQuery()">Reset</button>
+<span class="muted" id="timing"></span></p>
+<div id="result"></div>
+
+<h2>Five canned queries</h2>
+<div id="canned"></div>
+
+<h2>How the joins work</h2>
+<p>One row per docket entry, both cases, joined to its held file, its text rendition and its tier:
+<code>v_lookup</code> = <code>trial_dockets</code> (495) ∪ <code>appeal_dockets</code> (20) ∪ <code>register_tail</code> (9)
+= <strong>524</strong> rows. The lookup keys the task asks for all resolve:
+<code>case_number ↔ docket ↔ ra_pdf_page ↔ sha256 ↔ quote ↔ extraction_method ↔ tier</code>.
+<code>quotes</code> holds 9 verbatim sentences with their source file and sha256; <code>texts</code>
+holds 491 text renditions with <code>method</code>.</p>
+
+<h2>Memory and size limits — stated, not hidden</h2>
+<ul>
+<li><strong>What is downloaded:</strong> <code>data/query.sqlite</code> 663,552 B +
+<code>sql-wasm.wasm</code> 654,690 B + <code>sql-wasm.js</code> 49,857 B = 1,368,099 B
+(1.30 MiB), all from this site.</li>
+<li><strong>Memory:</strong> the whole database is materialised in WebAssembly memory, so the tab needs roughly
+3–5× the file size (≈3–4 MiB) plus results. A phone with a few hundred MB free runs it comfortably.</li>
+<li><strong>Results:</strong> the result table renders at most 500 rows; aggregate counts are printed in full. Add
+your own <code>LIMIT</code> for wide scans.</li>
+<li><strong>Not included:</strong> the PDF bytes (the site publishes none) and the 491 text bodies (they are on
+<a href="texts.html">/texts</a> and in <code>data/texts.json</code> — the database holds their paths and hashes).</li>
+<li><strong>Read-only:</strong> no writes, no server round-trip, no query logging.</li>
+</ul>
+<p class="muted">The canonical machine file remains <a href="data/ssot.sqlite">/data/ssot.sqlite</a>
+(696,320 B, sha256 <code>f28d4b6d24c6f861…</code>). <code>query.sqlite</code> is derived
+from it plus <code>data/tier_map.json</code> and the trace citations; it adds <code>tiers</code>, <code>quotes</code>
+and the <code>v_lookup</code> view and changes nothing it copies.</p>
+</main><footer class="muted"><p>States the record's contents; concludes nothing about the merits. Gaps are published on purpose.</p>
+<p>Client-side query engine · no cloud database in the read path.</p></footer>
+<script src="assets/vendor/sqljs/sql-wasm.js"></script>
+<script>
+const CANNED = [{"name": "Tier census", "sql": "select tier, count(*) as rows from tiers group by tier order by rows desc", "rows": 3}, {"name": "One docket number, both cases", "sql": "select case_number, docket, code, filed, tier, series from v_lookup where docket = 17 order by case_number", "rows": 2}, {"name": "Find a held file by sha256 prefix", "sql": "select case_number, docket, code, tier, sha256 from v_lookup where sha256 like '918d3d%'", "rows": 1}, {"name": "Register page 5", "sql": "select case_number, docket, code, filed, tier from v_lookup where ra_pdf_page = 5 order by docket", "rows": 3}, {"name": "Quotes on the calendar notice", "sql": "select id, case_number, docket, page, substr(quote,1,80) as quote from quotes where quote like '%JURISDICTIONAL STATEMENT%'", "rows": 1}];
+let db = null;
+const q = (id) => document.getElementById(id);
+
+function esc(s) {
+  return String(s === null ? "" : s).replace(/&/g,"&amp;").replace(/</g,"&lt;").replace(/>/g,"&gt;");
+}
+
+function tableFromResult(cols, rows) {
+  if (!cols.length) return "<p class='muted'>no columns</p>";
+  let h = "<table><thead><tr>" + cols.map(c => "<th>" + esc(c) + "</th>").join("") + "</tr></thead><tbody>";
+  for (const r of rows) {
+    h += "<tr>" + r.map(v => "<td>" + (v === null ? "<span class='muted'>null</span>" : "<code>" + esc(v) + "</code>") + "</td>").join("") + "</tr>";
+  }
+  return h + "</tbody></table>";
+}
+
+function runSql(sql) {
+  const t0 = performance.now();
+  const res = db.exec(sql);
+  const ms = (performance.now() - t0).toFixed(1);
+  const n = res.length ? res[0].values.length : 0;
+  const html = res.length ? "<p class='muted'>" + n + " row(s) in " + ms + " ms</p>" + tableFromResult(res[0].columns, res[0].values.slice(0, 500)) : "<p class='muted'>0 rows in " + ms + " ms</p>";
+  q("timing").textContent = n + " row(s) · " + ms + " ms";
+  return {html, n};
+}
+
+function runQuery() {
+  const sql = q("sql").value.trim();
+  q("result").innerHTML = "";
+  if (!/^(select|with)\b/i.test(sql) || /;\s*\S/.test(sql)) {
+    q("result").innerHTML = "<div class='gap'><strong>refused:</strong> this page runs one read-only SELECT/WITH statement at a time.</div>";
+    return;
+  }
+  try {
+    const r = runSql(sql);
+    q("result").innerHTML = r.html;
+    window.__lastQueryRows = r.n;
+  } catch (e) {
+    q("result").innerHTML = "<div class='gap'><strong>SQL error:</strong> " + esc(e.message) + "</div>";
+  }
+}
+
+function resetQuery() {
+  q("sql").value = CANNED[1].sql + ";";
+  q("result").innerHTML = ""; q("timing").textContent = "";
+}
+
+function renderSchema() {
+  const tabs = db.exec("select name, type from sqlite_master where type in ('table','view') and name not like 'sqlite_%' order by type desc, name");
+  let h = "<table><thead><tr><th>object</th><th>type</th><th>rows</th><th>columns</th></tr></thead><tbody>";
+  for (const [name, type] of tabs[0].values) {
+    let n = "";
+    try { n = db.exec("select count(*) from \"" + name + "\"")[0].values[0][0]; } catch (e) { n = "?"; }
+    const cols = db.exec("pragma table_info(\"" + name + "\")")[0].values.map(r => r[1]).join(", ");
+    h += "<tr><td><code>" + esc(name) + "</code></td><td>" + esc(type) + "</td><td>" + n + "</td><td class='muted'>" + esc(cols) + "</td></tr>";
+  }
+  q("schema").innerHTML = h + "</tbody></table>";
+}
+
+function renderCanned() {
+  let h = "";
+  CANNED.forEach(function (c, i) {
+    h += "<div class='card'><strong>" + (i + 1) + ". " + esc(c.name) + "</strong> " +
+         "<span class='muted'>" + c.rows + " row(s) on this build</span><br>" +
+         "<code>" + esc(c.sql) + "</code><br>" +
+         "<button onclick=\"q('sql').value = CANNED[" + i + "].sql + ';'; runQuery();\">run</button></div>";
+  });
+  q("canned").innerHTML = h;
+}
+
+(async function () {
+  try {
+    const SQL = await initSqlJs({ locateFile: f => "assets/vendor/sqljs/" + f });
+    const buf = await (await fetch("data/query.sqlite")).arrayBuffer();
+    db = new SQL.Database(new Uint8Array(buf));
+    q("status").textContent = "ready — database loaded from data/query.sqlite (" + (buf.byteLength).toLocaleString() + " B), engine in WebAssembly. Nothing is sent anywhere.";
+    renderSchema(); renderCanned();
+    const r = db.exec("select count(*) from v_lookup");
+    window.__vLookupRows = r[0].values[0][0];
+    q("sql").value = CANNED[1].sql + ";";
+    runQuery();
+  } catch (e) {
+    q("status").textContent = "failed to load: " + e.message;
+  }
+})();
+</script></body></html>

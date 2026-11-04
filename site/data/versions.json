@@ -1,0 +1,700 @@
+{
+  "schema": "ssot/versions@1",
+  "generated": "2026-11-04T09:08:01-10:00",
+  "generator": "render_versions.py (T46 build-time render)",
+  "live": {
+    "deployment_id": "dpl_2qH188i4t2qMoXhRFW6bFb4dwhaK",
+    "as_of": "2026-11-04T09:07:54-10:00",
+    "url": "https://the95xrecord.vercel.app",
+    "note": "same id and labels as ssot.json deployment: the newest deployment that was live when this build ran; the deployment serving this build is one newer and appears in Vercel's deployment list",
+    "deployment_url": "https://deploy-vercel-d6a5mx9sw-niko-1348s-projects.vercel.app",
+    "created_at": "2026-11-04T08:59:03-10:00",
+    "derivable": false,
+    "previous": true,
+    "describes": "the production deployment that was live when this build was generated (resolved from the Vercel CLI at build time). This is NOT the deployment that serves these bytes: a static file cannot carry the id of the deployment that uploads it, and the serving deployment is exactly one newer. Read `derivable:false` + `previous:true` as that statement, and check the id against Vercel's deployment list. /data/versions.json.live carries the same id and the same labels.",
+    "resolved_via": "vercel inspect <domain> --json",
+    "serving_deployment": {
+      "id": null,
+      "derivable": false,
+      "reason": "a static file cannot contain the id of the deployment that uploads it; the id named in this block is the deployment that was live when the build ran, and this build supersedes it. Ask Vercel's deployment list (or `vercel inspect the95xrecord.vercel.app`) which deployment is serving now — that answer is authoritative, this file is not."
+    }
+  },
+  "deployments": [
+    {
+      "version": "v1",
+      "deployment_id": "dpl_HWW1HuizzLbQqKN6ooEZrTrRGc7Y",
+      "git_commits": [
+        {
+          "commit": "29383fc",
+          "date": "",
+          "subject": ""
+        }
+      ],
+      "build_timestamp": null,
+      "dataset_sha256": {
+        "ssot_json": null,
+        "texts_json": null,
+        "crossref_json": null,
+        "sqlite": null,
+        "versions_json": null
+      },
+      "dataset_sha256_note": "asserted only for the current build; older dataset bytes are not recoverable",
+      "what_changed": "baseline",
+      "deployment_url": "deploy-vercel-pj7la4wdc-niko-1348s-projects.vercel.app",
+      "created_at": "2026-10-31T20:18:31-10:00",
+      "state": "READY",
+      "target": "production",
+      "change_recorded": true
+    },
+    {
+      "version": "v2",
+      "deployment_id": "dpl_BYJVoCULnMoA3X2izkxFS3UQRCEG",
+      "git_commits": [
+        {
+          "commit": "c1a896be",
+          "date": "",
+          "subject": ""
+        },
+        {
+          "commit": "ffa26118",
+          "date": "",
+          "subject": ""
+        }
+      ],
+      "build_timestamp": null,
+      "dataset_sha256": {
+        "ssot_json": null,
+        "texts_json": null,
+        "crossref_json": null,
+        "sqlite": null,
+        "versions_json": null
+      },
+      "dataset_sha256_note": "asserted only for the current build; older dataset bytes are not recoverable",
+      "what_changed": "T13: appeal surface + /ssot.json",
+      "deployment_url": "deploy-vercel-ctxoh6pct-niko-1348s-projects.vercel.app",
+      "created_at": "2026-11-03T16:21:03-10:00",
+      "state": "READY",
+      "target": "production",
+      "change_recorded": true
+    },
+    {
+      "version": "v3",
+      "deployment_id": "dpl_Eqfen6cDtQYDaXHYakqc2LH9aYuq",
+      "git_commits": [
+        {
+          "commit": "c906d20",
+          "date": "",
+          "subject": ""
+        },
+        {
+          "commit": "6055fc2",
+          "date": "",
+          "subject": ""
+        }
+      ],
+      "build_timestamp": null,
+      "dataset_sha256": {
+        "ssot_json": null,
+        "texts_json": null,
+        "crossref_json": null,
+        "sqlite": null,
+        "versions_json": null
+      },
+      "dataset_sha256_note": "asserted only for the current build; older dataset bytes are not recoverable",
+      "what_changed": "T15: sitemap + nav",
+      "deployment_url": "deploy-vercel-ejw9hpyf5-niko-1348s-projects.vercel.app",
+      "created_at": "2026-11-03T17:00:06-10:00",
+      "state": "READY",
+      "target": "production",
+      "change_recorded": true
+    },
+    {
+      "version": "v4",
+      "deployment_id": "dpl_65XXBHFjkom3G1Jk7dyQAmC6Q3iS",
+      "git_commits": [
+        {
+          "commit": "7b15a03",
+          "date": "",
+          "subject": ""
+        },
+        {
+          "commit": "85bbea2",
+          "date": "",
+          "subject": ""
+        }
+      ],
+      "build_timestamp": null,
+      "dataset_sha256": {
+        "ssot_json": null,
+        "texts_json": null,
+        "crossref_json": null,
+        "sqlite": null,
+        "versions_json": null
+      },
+      "dataset_sha256_note": "asserted only for the current build; older dataset bytes are not recoverable",
+      "what_changed": "T16: public /access",
+      "deployment_url": "deploy-vercel-2jsvf00cm-niko-1348s-projects.vercel.app",
+      "created_at": "2026-11-03T17:18:56-10:00",
+      "state": "READY",
+      "target": "production",
+      "change_recorded": true
+    },
+    {
+      "version": "v5",
+      "deployment_id": "dpl_7pnNUisJ8K7xQAJijkYPbA6UUFpC",
+      "git_commits": [
+        {
+          "commit": "04c31a1",
+          "date": "",
+          "subject": ""
+        },
+        {
+          "commit": "e25cf20",
+          "date": "",
+          "subject": ""
+        }
+      ],
+      "build_timestamp": null,
+      "dataset_sha256": {
+        "ssot_json": null,
+        "texts_json": null,
+        "crossref_json": null,
+        "sqlite": null,
+        "versions_json": null
+      },
+      "dataset_sha256_note": "asserted only for the current build; older dataset bytes are not recoverable",
+      "what_changed": "T17: 266 texts + crossref",
+      "deployment_url": "deploy-vercel-f7o5nnvcq-niko-1348s-projects.vercel.app",
+      "created_at": "2026-11-03T17:30:06-10:00",
+      "state": "READY",
+      "target": "production",
+      "change_recorded": true
+    },
+    {
+      "version": "v6",
+      "deployment_id": "dpl_BmLvWUPCNUXJJV9xKiFNgyR1HAb8",
+      "git_commits": [
+        {
+          "commit": "a9d54ec",
+          "date": "",
+          "subject": ""
+        },
+        {
+          "commit": "194d171",
+          "date": "",
+          "subject": ""
+        }
+      ],
+      "build_timestamp": null,
+      "dataset_sha256": {
+        "ssot_json": null,
+        "texts_json": null,
+        "crossref_json": null,
+        "sqlite": null,
+        "versions_json": null
+      },
+      "dataset_sha256_note": "asserted only for the current build; older dataset bytes are not recoverable",
+      "what_changed": "T18: full sitemap, /provenance",
+      "deployment_url": "deploy-vercel-cxih5aaru-niko-1348s-projects.vercel.app",
+      "created_at": "2026-11-03T17:40:28-10:00",
+      "state": "READY",
+      "target": "production",
+      "change_recorded": true
+    },
+    {
+      "version": "u1",
+      "what_changed": null,
+      "change_recorded": false,
+      "deployment_id": "dpl_8TEX4m5ozJjDhw7oRtSkxrQoNCZr",
+      "deployment_url": "deploy-vercel-j8fegqodq-niko-1348s-projects.vercel.app",
+      "created_at": "2026-11-03T17:57:54-10:00",
+      "state": "READY",
+      "target": "production"
+    },
+    {
+      "version": "u2",
+      "what_changed": null,
+      "change_recorded": false,
+      "deployment_id": "dpl_28qiWXciKkQAqfgac5Wqm9rVvMES",
+      "deployment_url": "deploy-vercel-81roffco5-niko-1348s-projects.vercel.app",
+      "created_at": "2026-11-03T18:12:04-10:00",
+      "state": "READY",
+      "target": "production"
+    },
+    {
+      "version": "v7",
+      "deployment_id": "dpl_Gc54q8MQE41PsxgsU3RbNoKEr3wg",
+      "git_commits": [
+        {
+          "commit": "769d43b",
+          "date": "",
+          "subject": ""
+        },
+        {
+          "commit": "a8b538e",
+          "date": "",
+          "subject": ""
+        }
+      ],
+      "build_timestamp": null,
+      "dataset_sha256": {
+        "ssot_json": null,
+        "texts_json": null,
+        "crossref_json": null,
+        "sqlite": null,
+        "versions_json": null
+      },
+      "dataset_sha256_note": "asserted only for the current build; older dataset bytes are not recoverable",
+      "what_changed": "T21: canonical promotion + tail 496-503 + 70-doc export",
+      "deployment_url": "deploy-vercel-2df9oonp8-niko-1348s-projects.vercel.app",
+      "created_at": "2026-11-03T18:13:48-10:00",
+      "state": "READY",
+      "target": "production",
+      "change_recorded": true
+    },
+    {
+      "version": "u3",
+      "what_changed": null,
+      "change_recorded": false,
+      "deployment_id": "dpl_G3jUqq9ZCXqdWgMy7evaK4RmSMos",
+      "deployment_url": "deploy-vercel-40jcrjvhm-niko-1348s-projects.vercel.app",
+      "created_at": "2026-11-03T18:18:26-10:00",
+      "state": "READY",
+      "target": "production"
+    },
+    {
+      "version": "u4",
+      "what_changed": null,
+      "change_recorded": false,
+      "deployment_id": "dpl_98PbPXTtMuXDXprVhfDYn6qYrued",
+      "deployment_url": "deploy-vercel-1qbt22wp2-niko-1348s-projects.vercel.app",
+      "created_at": "2026-11-03T18:20:23-10:00",
+      "state": "READY",
+      "target": "production"
+    },
+    {
+      "version": "v8",
+      "deployment_id": "dpl_GU7nbhJT99ipj13mCmHtFEEdSfwX",
+      "git_commits": [
+        {
+          "commit": "459af63",
+          "date": "",
+          "subject": ""
+        },
+        {
+          "commit": "6ea98ab",
+          "date": "",
+          "subject": ""
+        }
+      ],
+      "build_timestamp": null,
+      "dataset_sha256": {
+        "ssot_json": null,
+        "texts_json": null,
+        "crossref_json": null,
+        "sqlite": null,
+        "versions_json": null
+      },
+      "dataset_sha256_note": "asserted only for the current build; older dataset bytes are not recoverable",
+      "what_changed": "T22: machine layer refresh",
+      "deployment_url": "deploy-vercel-1yvhus8hw-niko-1348s-projects.vercel.app",
+      "created_at": "2026-11-03T18:22:04-10:00",
+      "state": "READY",
+      "target": "production",
+      "change_recorded": true
+    },
+    {
+      "version": "u5",
+      "what_changed": null,
+      "change_recorded": false,
+      "deployment_id": "dpl_DamAHfgr8TFGKHJbQM8EgnobrCRz",
+      "deployment_url": "deploy-vercel-pdka9l9u8-niko-1348s-projects.vercel.app",
+      "created_at": "2026-11-03T18:32:43-10:00",
+      "state": "READY",
+      "target": "production"
+    },
+    {
+      "version": "u6",
+      "what_changed": null,
+      "change_recorded": false,
+      "deployment_id": "dpl_B3JZXf8XHnRvk9MvGdutS1GbWtxH",
+      "deployment_url": "deploy-vercel-4jlp8uyac-niko-1348s-projects.vercel.app",
+      "created_at": "2026-11-03T18:34:37-10:00",
+      "state": "READY",
+      "target": "production"
+    },
+    {
+      "version": "u7",
+      "what_changed": null,
+      "change_recorded": false,
+      "deployment_id": "dpl_FLCFwZD46F1qzkP87eqjPyFqKHAt",
+      "deployment_url": "deploy-vercel-7slc3z6cv-niko-1348s-projects.vercel.app",
+      "created_at": "2026-11-03T18:36:02-10:00",
+      "state": "READY",
+      "target": "production"
+    },
+    {
+      "version": "v9",
+      "deployment_id": null,
+      "git_commits": [],
+      "build_timestamp": null,
+      "dataset_sha256": {
+        "ssot_json": null,
+        "texts_json": null,
+        "crossref_json": null,
+        "sqlite": null,
+        "versions_json": null
+      },
+      "dataset_sha256_note": "asserted only for the current build; older dataset bytes are not recoverable",
+      "what_changed": "T23: appeal capture (clerk) — no deployment",
+      "change_recorded": true
+    },
+    {
+      "version": "v10",
+      "deployment_id": "dpl_Af4HTXRAthSrkf9hpCnxCmxhGtXe",
+      "git_commits": [
+        {
+          "commit": "b6f35bd",
+          "date": "",
+          "subject": ""
+        },
+        {
+          "commit": "03ff279",
+          "date": "",
+          "subject": ""
+        }
+      ],
+      "build_timestamp": null,
+      "dataset_sha256": {
+        "ssot_json": null,
+        "texts_json": null,
+        "crossref_json": null,
+        "sqlite": null,
+        "versions_json": null
+      },
+      "dataset_sha256_note": "asserted only for the current build; older dataset bytes are not recoverable",
+      "what_changed": "T27: metadata truth (8 claim-vs-served mismatches)",
+      "deployment_url": "deploy-vercel-ia5t32f2g-niko-1348s-projects.vercel.app",
+      "created_at": "2026-11-03T18:53:12-10:00",
+      "state": "READY",
+      "target": "production",
+      "change_recorded": true
+    },
+    {
+      "version": "v12",
+      "deployment_id": "dpl_35cf6WZbiJVrSRTGMwBAh4cDcZdS",
+      "git_commits": [
+        {
+          "commit": "3f70a6b",
+          "date": "",
+          "subject": ""
+        },
+        {
+          "commit": "64bd097",
+          "date": "",
+          "subject": ""
+        }
+      ],
+      "build_timestamp": null,
+      "dataset_sha256": {
+        "ssot_json": null,
+        "texts_json": null,
+        "crossref_json": null,
+        "sqlite": null,
+        "versions_json": null
+      },
+      "dataset_sha256_note": "asserted only for the current build; older dataset bytes are not recoverable",
+      "what_changed": "T30: last audit FAIL closed, gate hardened (--site/--live/prose scanner)",
+      "deployment_url": "deploy-vercel-qq239mkk0-niko-1348s-projects.vercel.app",
+      "created_at": "2026-11-03T19:02:27-10:00",
+      "state": "READY",
+      "target": "production",
+      "change_recorded": true
+    },
+    {
+      "version": "v11",
+      "deployment_id": "dpl_5AUiZU94BnvZWUv2xU7AH5szXc7z",
+      "git_commits": [
+        {
+          "commit": "472d9fd",
+          "date": "",
+          "subject": ""
+        }
+      ],
+      "build_timestamp": null,
+      "dataset_sha256": {
+        "ssot_json": null,
+        "texts_json": null,
+        "crossref_json": null,
+        "sqlite": null,
+        "versions_json": null
+      },
+      "dataset_sha256_note": "asserted only for the current build; older dataset bytes are not recoverable",
+      "what_changed": "T31: appeal 20/20 held, 6 certified, export 80 docs",
+      "deployment_url": "deploy-vercel-2m4d76179-niko-1348s-projects.vercel.app",
+      "created_at": "2026-11-03T19:05:39-10:00",
+      "state": "READY",
+      "target": "production",
+      "change_recorded": true
+    },
+    {
+      "version": "u8",
+      "what_changed": null,
+      "change_recorded": false,
+      "deployment_id": "dpl_6sQQPvYtDgbp4ZcVDBFBHSuAGBtH",
+      "deployment_url": "deploy-vercel-1rhmq2zlm-niko-1348s-projects.vercel.app",
+      "created_at": "2026-11-03T19:07:32-10:00",
+      "state": "READY",
+      "target": "production"
+    },
+    {
+      "version": "v13",
+      "deployment_id": "dpl_2x68ogN9nDjs7afEtcgjMDqF7Sdz",
+      "git_commits": [
+        {
+          "commit": "1a9d0c8",
+          "date": "",
+          "subject": ""
+        }
+      ],
+      "build_timestamp": null,
+      "dataset_sha256": {
+        "ssot_json": null,
+        "texts_json": null,
+        "crossref_json": null,
+        "sqlite": null,
+        "versions_json": null
+      },
+      "dataset_sha256_note": "asserted only for the current build; older dataset bytes are not recoverable",
+      "what_changed": "T29: evidence layers — /snapshots, /certified, /nef",
+      "deployment_url": "deploy-vercel-k9yp0bo8u-niko-1348s-projects.vercel.app",
+      "created_at": "2026-11-03T19:08:41-10:00",
+      "state": "READY",
+      "target": "production",
+      "change_recorded": true
+    },
+    {
+      "version": "u9",
+      "what_changed": null,
+      "change_recorded": false,
+      "deployment_id": "dpl_4w58TwenBd1RW4iVjPWgEWumWTv3",
+      "deployment_url": "deploy-vercel-lkp9btwro-niko-1348s-projects.vercel.app",
+      "created_at": "2026-11-03T19:19:11-10:00",
+      "state": "READY",
+      "target": "production"
+    },
+    {
+      "version": "v14",
+      "deployment_id": "dpl_DhpnR4WDPyVGAVfgjyzun5NWtqba",
+      "git_commits": [],
+      "build_timestamp": null,
+      "dataset_sha256": {
+        "ssot_json": "6db69ae520c26028e97e6257995f005910852a00318dae66158116c80e1d6ce5",
+        "texts_json": "2f99a60637957704628fce44f2e25a78696b07009e80993a916255e7e1c02a91",
+        "crossref_json": "39c12b644653df55e05b2b329951534c27c2bb0841202c0aed7420fb6353a3a8",
+        "sqlite": "715b3f7a277ab735640eead1ce8ca2efe2cce04a637d3306280ffab446328bbd",
+        "versions_json": "62a2fed3d6e08c44835fce71f02210b1ddabfb066e39edf1e6c261988f824dd3"
+      },
+      "dataset_sha256_note": "asserted only for the current build; older dataset bytes are not recoverable",
+      "what_changed": "T36: F19 versions lineage, F5 page counts, /certified corrected telemetry",
+      "deployment_url": "deploy-vercel-ov55kq3lc-niko-1348s-projects.vercel.app",
+      "created_at": "2026-11-03T19:20:22-10:00",
+      "state": "READY",
+      "target": "production",
+      "change_recorded": true
+    },
+    {
+      "version": "u10",
+      "what_changed": null,
+      "change_recorded": false,
+      "deployment_id": "dpl_4zrXKkrrYNhmxQjtrGweo9vmkvow",
+      "deployment_url": "deploy-vercel-rep635xz7-niko-1348s-projects.vercel.app",
+      "created_at": "2026-11-03T19:23:40-10:00",
+      "state": "READY",
+      "target": "production"
+    },
+    {
+      "version": "v15",
+      "deployment_id": "dpl_9gJ45tppbNgYHdSq4EFpwkgNgJff",
+      "what_changed": "T37: page-completeness assertion added; /provenance completeness incident closed",
+      "git_commits": [],
+      "dataset_sha256": {
+        "ssot_json": null,
+        "texts_json": null,
+        "crossref_json": null,
+        "sqlite": null,
+        "versions_json": null
+      },
+      "build_timestamp": null,
+      "dataset_sha256_note": "asserted only for the current build",
+      "deployment_url": "deploy-vercel-guj7r56qw-niko-1348s-projects.vercel.app",
+      "created_at": "2026-11-03T19:26:22-10:00",
+      "state": "READY",
+      "target": "production",
+      "change_recorded": true
+    },
+    {
+      "version": "u11",
+      "what_changed": null,
+      "change_recorded": false,
+      "deployment_id": "dpl_Cd2yyY5c7r4fnrQSD7CMrETnViHT",
+      "deployment_url": "deploy-vercel-iqap7a61y-niko-1348s-projects.vercel.app",
+      "created_at": "2026-11-03T19:27:51-10:00",
+      "state": "READY",
+      "target": "production"
+    },
+    {
+      "version": "u12",
+      "what_changed": null,
+      "change_recorded": false,
+      "deployment_id": "dpl_DjXsa1m9NZagH8GukzLXAkDrJnaK",
+      "deployment_url": "deploy-vercel-p0j4xq125-niko-1348s-projects.vercel.app",
+      "created_at": "2026-11-03T19:36:31-10:00",
+      "state": "READY",
+      "target": "production"
+    },
+    {
+      "version": "u13",
+      "what_changed": null,
+      "change_recorded": false,
+      "deployment_id": "dpl_DeHBVD1r9bthseXssmg72s6fwtMN",
+      "deployment_url": "deploy-vercel-n7mwqnrmj-niko-1348s-projects.vercel.app",
+      "created_at": "2026-11-03T19:41:41-10:00",
+      "state": "READY",
+      "target": "production"
+    },
+    {
+      "version": "u14",
+      "what_changed": null,
+      "change_recorded": false,
+      "deployment_id": "dpl_GNasixSxvqyQeFH4pH7VCmTtoFLs",
+      "deployment_url": "deploy-vercel-b2pozx5k8-niko-1348s-projects.vercel.app",
+      "created_at": "2026-11-03T19:53:19-10:00",
+      "state": "READY",
+      "target": "production"
+    },
+    {
+      "version": "u15",
+      "what_changed": null,
+      "change_recorded": false,
+      "deployment_id": "dpl_crdivyXoiYj1e5WWN3KCo3gY785h",
+      "deployment_url": "deploy-vercel-ioayjp3sr-niko-1348s-projects.vercel.app",
+      "created_at": "2026-11-03T19:59:50-10:00",
+      "state": "READY",
+      "target": "production"
+    },
+    {
+      "version": "u16",
+      "what_changed": null,
+      "change_recorded": false,
+      "deployment_id": "dpl_2E82nzAcW4j4mWcPboq3YWF8RhL2",
+      "deployment_url": "deploy-vercel-d80x52er2-niko-1348s-projects.vercel.app",
+      "created_at": "2026-11-03T20:04:02-10:00",
+      "state": "READY",
+      "target": "production"
+    },
+    {
+      "version": "u17",
+      "what_changed": null,
+      "change_recorded": false,
+      "deployment_id": "dpl_Eh9pjwjPoMwwZP3SZ7kT9uTEaekn",
+      "deployment_url": "deploy-vercel-dq1h9wxy7-niko-1348s-projects.vercel.app",
+      "created_at": "2026-11-03T20:06:54-10:00",
+      "state": "READY",
+      "target": "production"
+    },
+    {
+      "version": "u18",
+      "what_changed": null,
+      "change_recorded": false,
+      "deployment_id": "dpl_3rv3Ez9CtcfTkmfq146LGKmAXfYQ",
+      "deployment_url": "deploy-vercel-ctz1gcs08-niko-1348s-projects.vercel.app",
+      "created_at": "2026-11-03T20:08:47-10:00",
+      "state": "READY",
+      "target": "production"
+    },
+    {
+      "version": "u19",
+      "what_changed": null,
+      "change_recorded": false,
+      "deployment_id": "dpl_UcRuRb9DVZC6UtzV6nLZUx91eBHJ",
+      "deployment_url": "deploy-vercel-mqo8u5wrb-niko-1348s-projects.vercel.app",
+      "created_at": "2026-11-03T20:22:30-10:00",
+      "state": "READY",
+      "target": "production"
+    },
+    {
+      "version": "u20",
+      "what_changed": null,
+      "change_recorded": false,
+      "deployment_id": "dpl_HmmgTHxVtD4CV4xUWG3ttv6i43Pi",
+      "deployment_url": "deploy-vercel-bwzkmgnrv-niko-1348s-projects.vercel.app",
+      "created_at": "2026-11-03T20:27:53-10:00",
+      "state": "READY",
+      "target": "production"
+    },
+    {
+      "version": "u21",
+      "what_changed": null,
+      "change_recorded": false,
+      "deployment_id": "dpl_BPnK7Tgsn567wNTZqBv3jf2yZ8bU",
+      "deployment_url": "deploy-vercel-59bdygi5z-niko-1348s-projects.vercel.app",
+      "created_at": "2026-11-03T20:35:06-10:00",
+      "state": "READY",
+      "target": "production"
+    },
+    {
+      "version": "u22",
+      "what_changed": null,
+      "change_recorded": false,
+      "deployment_id": "dpl_9JTgfp2eKUJ9J1MdRqFLtL7Q8422",
+      "deployment_url": "deploy-vercel-l5elzyq95-niko-1348s-projects.vercel.app",
+      "created_at": "2026-11-03T20:48:45-10:00",
+      "state": "READY",
+      "target": "production"
+    },
+    {
+      "version": "u23",
+      "what_changed": null,
+      "change_recorded": false,
+      "deployment_id": "dpl_6faWyTJbRK6j8DtUFGwKipLcvase",
+      "deployment_url": "deploy-vercel-w0cnm2cgv-niko-1348s-projects.vercel.app",
+      "created_at": "2026-11-03T21:09:11-10:00",
+      "state": "READY",
+      "target": "production"
+    },
+    {
+      "version": "u24",
+      "what_changed": null,
+      "change_recorded": false,
+      "deployment_id": "dpl_THziFtU8Atf1ms5PWbs1EdAHzc7X",
+      "deployment_url": "deploy-vercel-f9j6pkx7a-niko-1348s-projects.vercel.app",
+      "created_at": "2026-11-04T01:00:53-10:00",
+      "state": "READY",
+      "target": "production"
+    },
+    {
+      "version": "u25",
+      "what_changed": null,
+      "change_recorded": false,
+      "deployment_id": "dpl_3QXq8G9qnJKXoQtyAuQz1362GHaS",
+      "deployment_url": "deploy-vercel-oqpmwwo89-niko-1348s-projects.vercel.app",
+      "created_at": "2026-11-04T06:37:13-10:00",
+      "state": "READY",
+      "target": "production"
+    },
+    {
+      "version": "u26",
+      "what_changed": null,
+      "change_recorded": false,
+      "deployment_id": "dpl_2qH188i4t2qMoXhRFW6bFb4dwhaK",
+      "deployment_url": "deploy-vercel-d6a5mx9sw-niko-1348s-projects.vercel.app",
+      "created_at": "2026-11-04T08:59:03-10:00",
+      "state": "READY",
+      "target": "production"
+    }
+  ],
+  "deployment_row_source": "vercel ls deploy-vercel --json",
+  "deployment_id_source": "api /v6/deployments",
+  "change_policy": "what_changed is printed only where the repo records it; every other deployment prints 'change: not recorded in this build'"
+}

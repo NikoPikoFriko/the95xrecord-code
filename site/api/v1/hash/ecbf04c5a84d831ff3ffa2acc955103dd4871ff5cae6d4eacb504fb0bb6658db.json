@@ -1,0 +1,11 @@
+{
+  "schema": "ssot/api-hash@1",
+  "sha256": "ecbf04c5a84d831ff3ffa2acc955103dd4871ff5cae6d4eacb504fb0bb6658db",
+  "kind": "document_page",
+  "case": "1RC191003776",
+  "docket": 348,
+  "file": "2022-10-26__1RC191003776__DKT0348__minutes-trial-resumed.pdf",
+  "published_url": "https://the95xrecord.vercel.app/docs/363a722ef4",
+  "lookup": "https://the95xrecord.vercel.app/api/v1/hash/ecbf04c5a84d831ff3ffa2acc955103dd4871ff5cae6d4eacb504fb0bb6658db.json",
+  "ssot": "https://the95xrecord.vercel.app/ssot.json"
+}

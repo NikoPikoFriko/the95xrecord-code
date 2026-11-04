@@ -1,0 +1,11 @@
+{
+  "schema": "ssot/api-hash@1",
+  "sha256": "5372f8fafd85ef2943635143a89e362bdedb03b33552538da58ef8ee47b1654b",
+  "kind": "document_page",
+  "case": "1RC191003776",
+  "docket": 346,
+  "file": "2021-07-15__1RC191003776__DKT0346__horio-letter-2018-08-08.pdf",
+  "published_url": "https://the95xrecord.vercel.app/docs/334dd40df7",
+  "lookup": "https://the95xrecord.vercel.app/api/v1/hash/5372f8fafd85ef2943635143a89e362bdedb03b33552538da58ef8ee47b1654b.json",
+  "ssot": "https://the95xrecord.vercel.app/ssot.json"
+}

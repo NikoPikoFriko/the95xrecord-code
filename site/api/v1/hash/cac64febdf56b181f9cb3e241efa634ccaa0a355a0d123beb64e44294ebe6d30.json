@@ -1,0 +1,11 @@
+{
+  "schema": "ssot/api-hash@1",
+  "sha256": "cac64febdf56b181f9cb3e241efa634ccaa0a355a0d123beb64e44294ebe6d30",
+  "kind": "document_page",
+  "case": "1RC191003776",
+  "docket": 279,
+  "file": "2022-02-10__1RC191003776__DKT0279__ntc-remote-hrg-pretrial-conference-9-00am.pdf",
+  "published_url": "https://the95xrecord.vercel.app/docs/bba7c1ee12",
+  "lookup": "https://the95xrecord.vercel.app/api/v1/hash/cac64febdf56b181f9cb3e241efa634ccaa0a355a0d123beb64e44294ebe6d30.json",
+  "ssot": "https://the95xrecord.vercel.app/ssot.json"
+}

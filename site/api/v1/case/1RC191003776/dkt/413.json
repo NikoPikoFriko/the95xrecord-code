@@ -1,0 +1,40 @@
+{
+  "schema": "ssot/api-docket@1",
+  "case": "1RC191003776",
+  "docket": 413,
+  "code": "STIP",
+  "filed": "06-NOV-2024",
+  "filed_iso": "2024-11-06",
+  "time": "12:50:28",
+  "ra_pdf_page": 151,
+  "grade": "PARTIAL",
+  "for_counsel": false,
+  "evidence": {
+    "renditions": [
+      {
+        "file": "07_AGENT_WORK_REVIEW/FROM_AI_WORKSPACES_2026-10-23/CURSOR/.cursor/worktrees/AOAO_Marine_Surf_1RC191003776/ddym/99_INBOX/infranodus_judicial_audit_2026-10-03/judicial-audit-2026-10-03/evidence/docket/Dkt413.pdf",
+        "sha256": "f2ab1217077a85d6aa76a31744e38a94d76153626d71c157120431288a8b671e",
+        "location": "agent_worktree",
+        "published_url": null
+      }
+    ],
+    "text": {
+      "file": "COURT_DOCKET/LISTINGS/1RC191003776/04_TEXT/ocr/2024-11-06__Dkt413__1RC191003776__approved-and-so-ordered-stipulation-and-order-regarding-cont.ocr.txt",
+      "sha256": "ecccbf8fd1b647ff2f87c27a118d03448a42000d148bbc0ec81935d1af6051a9",
+      "location": "court_docket_listings_ocr",
+      "published_url": "https://the95xrecord.vercel.app/COURT_DOCKET/LISTINGS/1RC191003776/04_TEXT/ocr/2024-11-06__Dkt413__1RC191003776__approved-and-so-ordered-stipulation-and-order-regarding-cont.ocr.txt"
+    },
+    "held_by_station": true,
+    "gap": false
+  },
+  "pdf_conflict": null,
+  "flags": [
+    "pdf_outside_canonical_library"
+  ],
+  "links": {
+    "register": "https://the95xrecord.vercel.app/register#dkt-413",
+    "register_json": "https://the95xrecord.vercel.app/api/v1/case/1RC191003776/dkt/413.json",
+    "ssot": "https://the95xrecord.vercel.app/ssot.json",
+    "crossref": "https://the95xrecord.vercel.app/data/crossref.json"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "schema": "ssot/api-hash@1",
+  "sha256": "3725cfcdbfed8398d9af78186df346657fe9558221031260f038134811aa52fd",
+  "kind": "trial_text",
+  "case": "1RC191003776",
+  "docket": 140,
+  "file": "2020-12-18__Dkt140__1RC191003776__notice-of-appeal.ocr.txt",
+  "published_url": "https://the95xrecord.vercel.app/COURT_DOCKET/LISTINGS/1RC191003776/04_TEXT/ocr/2020-12-18__Dkt140__1RC191003776__notice-of-appeal.ocr.txt",
+  "lookup": "https://the95xrecord.vercel.app/api/v1/hash/3725cfcdbfed8398d9af78186df346657fe9558221031260f038134811aa52fd.json",
+  "ssot": "https://the95xrecord.vercel.app/ssot.json"
+}

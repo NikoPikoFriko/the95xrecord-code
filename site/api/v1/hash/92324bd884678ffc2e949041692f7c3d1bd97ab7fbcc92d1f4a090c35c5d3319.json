@@ -1,0 +1,11 @@
+{
+  "schema": "ssot/api-hash@1",
+  "sha256": "92324bd884678ffc2e949041692f7c3d1bd97ab7fbcc92d1f4a090c35c5d3319",
+  "kind": "document_page",
+  "case": "1RC191003776",
+  "docket": 45,
+  "file": "2020-01-15__1RC191003776__DKT0045__thyssenkrupps-reply-mis-of-msj-on-3rd-pty-cmplt.pdf",
+  "published_url": "https://the95xrecord.vercel.app/docs/e77f240126",
+  "lookup": "https://the95xrecord.vercel.app/api/v1/hash/92324bd884678ffc2e949041692f7c3d1bd97ab7fbcc92d1f4a090c35c5d3319.json",
+  "ssot": "https://the95xrecord.vercel.app/ssot.json"
+}

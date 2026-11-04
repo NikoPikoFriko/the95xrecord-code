@@ -1,0 +1,11 @@
+{
+  "schema": "ssot/api-hash@1",
+  "sha256": "7b06208f2d1a0f3678f106934d088d8b73d2124af6e3193b283510a95fb30532",
+  "kind": "document_page",
+  "case": "1RC191003776",
+  "docket": 303,
+  "file": "2022-04-05__Dkt303__1RC191003776__granted-in-part-and-denied-in-part-counterclaim-de.pdf",
+  "published_url": "https://the95xrecord.vercel.app/docs/72a5db522c",
+  "lookup": "https://the95xrecord.vercel.app/api/v1/hash/7b06208f2d1a0f3678f106934d088d8b73d2124af6e3193b283510a95fb30532.json",
+  "ssot": "https://the95xrecord.vercel.app/ssot.json"
+}

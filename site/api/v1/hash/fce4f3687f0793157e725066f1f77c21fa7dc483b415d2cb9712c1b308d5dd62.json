@@ -1,0 +1,11 @@
+{
+  "schema": "ssot/api-hash@1",
+  "sha256": "fce4f3687f0793157e725066f1f77c21fa7dc483b415d2cb9712c1b308d5dd62",
+  "kind": "document_page",
+  "case": "1RC191003776",
+  "docket": 76,
+  "file": "2020-04-29__Dkt76__1RC191003776__withdrawal-substitution-of-counsel.pdf",
+  "published_url": "https://the95xrecord.vercel.app/docs/b7f5a61bec",
+  "lookup": "https://the95xrecord.vercel.app/api/v1/hash/fce4f3687f0793157e725066f1f77c21fa7dc483b415d2cb9712c1b308d5dd62.json",
+  "ssot": "https://the95xrecord.vercel.app/ssot.json"
+}
