@@ -1,0 +1,1023 @@
+===== PAGE 001 / 25 =====
+                                                                                                                              Electronically Filed
+                                                                                                                              FIRST CIRCUIT
+                                                                                                                              1RC191003776
+                                                                                                                              14-JAN-2020
+                                                                                                                              09:00 PM
+
+
+
+
+I do hereby certify that the foregoing is a full, true and correct copy of the official court record of the Courts of the State of Hawai`i.
+Dated at: Honolulu, Hawai`i 02-SEP-2026, /s/ Lori Ann Okita, Clerk of the First Judicial Circuit, State of Hawai`i
+
+===== PAGE 002 / 25 =====
+       Defendant and Third-Party Plaintiff, Nikodem Pikor, replies to the motion for summary
+
+judgment filed and served by the Third-Party Defendant in this action and shows that
+
+Thyssenkrupp Elevator Corporation (hereinafter “TKE”) is not entitled to a summary judgment
+
+for all the following reasons:
+
+       Mr. Pikor does not agree with the Introduction to the motion which purports to factual. It
+
+is not. For instance, the introduction alleges the “elevator was rendered inoperable due to
+
+misuse. (TKE MSJ Memorandum in Support of Motion at Pg 2). It was not. The 53 year old
+
+elevator, first permitted in 1967, was rendered inoperable because:
+
+           [T]he hoistway doors prematurely disengage from the car
+       door clutch and stop at a distance approximately one (1) foot
+       from the edge of the entrance jam and approximately 2 feet
+       from fully closed. . .. This condition is the result of one or both of the
+       following:
+           1. A maladjustment of the trailing edge of the car door clutch allowing
+       premature disengagement of the doors.
+           2. The pickup rollers not being set for proper engagement with the clutch
+       which is usually, a minimum of ½ the width of the rollers, thus allowing the doors
+       to disengage.
+           With the doors disengaged, the car door fully closed and the
+       hatch door approximately one foot from the entrance frame,
+       the spirator which is a spring-loaded door closing device and
+       required by A17.1 1996 Rule 103 should have started the hatch
+       doors to move toward the closed position. Although the
+       spirator may not have had enough torque to fully close the
+       hatch doors, it never the less should have started the doors to
+       begin moving which indicates that it was not functional or
+       maladjusted. . .. In that the hatch doors were stopped approximately
+       one foot from the fully open position ,the car door clutch is on the
+       wrong side of the pickup rollers which caused the car door to
+       force the hatch doors off the back edge of the door track . . ..
+       This is direct violation of The Elevator Code A.17.1- 1996 . . .
+       rule 110.11d (2) which states “stops shall be provided in the
+       elevator entrance assembly to prevent hangers from
+       overrunning the end of the track”.
+        (See Exhibit 1) (Emphasis in original).
+
+
+
+                                                    2
+
+===== PAGE 003 / 25 =====
+       Further, the fact the repair technician noted on the “Service Request” (presented to the
+
+court by TKE as Exhibit “C” to the instant motion) that the technicians “Worked on interlock
+
+run” and “Adjusted door hangers” and on an invoice (presented as TKE’s Exhibit “D” to the
+
+motion) wherein the technician states “found doors knocked off track . . . Adjusted door hangers
+
+and interlock” is prima facie evidence of a defective or maladjustment of the elevators was in
+
+existence at the time Mr. Pikor’s action revealed the hidden elevator door defect(s). (See TKE’s
+
+exhibits C and D and attached as Exhibit “4”).
+
+       On their face, TKE’s exhibits “C” and “D”, the Service Request and Invoice, present
+
+sufficient conflicting material facts to deny the TKE Motion for Summary Judgment.
+
+I.     THE SHOWING ON THE MOTION IS INSUFFICIENT
+
+       In order to obtain summary judgment, TKE must establish both that there is no genuine
+
+issue as to any material fact and that TKE is entitled to judgment as a matter of law pursuant to
+
+the Hawaiʻi District Court Rules of Civil Procedure 56(c). TKE’s showing as to these matters is
+
+defective because:
+
+A.     THIRD-PARTY DEFENDANT’S MOTION PART IV ARGUMENT FAILS TO
+
+RECOGNIZE AGENCY LAW:
+
+       W.E. Dennison and/or his namesake corporation is the managing agent of the AOAO
+
+Marine Surf Waikiki, Inc. Mr. Denison signed the agreement and a “contact data sheet” with
+
+TKE as representing “W. E. Denison Corporation managing agent for AOAO Marine Surf
+
+Waikiki, Inc.” (See Exhibit 2) The Third-Party Defendant errs in the contention that “[t]he
+
+Elevator Maintenance Agreement is between the managing agent of the AOAO and TKE” and
+
+Mr. Pikor has no standing to enforce the contract. (TKE MSJ Memorandum in Support of
+
+
+
+
+                                                    3
+
+===== PAGE 004 / 25 =====
+Motion at Part IV (A), page 6) TKE also claims “The term ‘your’ is clearly defined in the
+
+Elevator Maintenance Agreement to mean “W. E. Denison Corporation.” (Id. at 8).
+
+       Mr. Denison gave clear and unequivocal notice and TKE accepted the notice given that
+
+the contract was not between the “managing agent” and TKE as claimed in TKE’s motion, but
+
+was made for the protection and servicing of common element equipment of a “disclosed
+
+principle” to wit: the AOA[artment] O[wners] Marine Surf Waikiki, Inc.
+
+       Restatement (Second) of Agency § 320 (1958): Unless otherwise agreed, a
+       person making or purporting to make a contract with another as agent for a
+       disclosed principal does not become a party to the contract. Corps Constr. v.
+       Hasegawa, 55 Haw. 474, 476, 522 P.2d 694, 695 (1974).
+
+       TKE’s representative signed the contract and TKE performed on the contract, including
+
+its response to the call for service on May 9, 2018 which is the subject of this suit.. TKE’s
+
+actions are “ratification” and “affirmation” that Mr. Denison through his namesake corporation is
+
+the agent of, and the contract was made for the benefit of, AO[Apartment Owners] Marine Surf
+
+Waikiki, Inc.
+
+       [T]his court adopted the Restatement of the Law of Agency's definitions for
+       "ratification" and "affirmance." Accordingly, in Hawai'i, "ratification" is defined
+       as "the affirmance by a person of a prior act which did not bind him but which
+       was done or professedly done on his account, whereby the act, as to some or all
+       persons, is given effect as if originally authorized by him." 34 Haw. at 230
+       (quoting Restatement of the Law of Agency § 82). "Affirmance" is defined as "a
+       manifestation of an election by the one on whose account an unauthorized act has
+       been performed to treat the act as authorized, or conduct by him justifiable only if
+       there is such an election." Id. (quoting Restatement of the Law of Agency § 83).
+
+Ass'n of Apartment Owners of Maalaea Kai, Inc. v. Stillson, 108 Hawai‘i 2, 13-14, 116 P.3d 644,
+
+655-56 (2005).
+
+               In Pancakes of Hawaii, Inc. v. Pomare Props. Corp., 85 Hawai'i 300,
+       944 P.2d 97 (App. 1997), the Intermediate Court of Appeals (ICA) explained that
+       the law regarding agents and the contracts entered into by their principals is "well
+       settled," and quoted comments from Restatement (Second) of Agency § 320
+
+
+                                                    4
+
+===== PAGE 005 / 25 =====
+       indicating that only an agent who explicitly manifests an intention to become a
+       party to a contract will be made a party.
+               Whether or not a person purporting to act as agent for another person
+       becomes a party to the contract depends upon the agreement between such person
+       and the other party. . . . [A] principal is disclosed if, at the time of making the
+       contract in question, the other party to it has notice that the agent is acting
+       for a principal and of the principal's identity. One who purports to contract on
+       behalf of a designated person does not manifest by this that he [or she] is making
+       a contract on his [or her] own account, and only where he [or she] so manifests
+       does the agent become a party to a contract [that] he [or she] makes for the
+       principal. In absence of other facts, the inference is that the parties have agreed
+       that the principal is, and the agent is not, a party. Id. at 308-09, 944 P.2d at
+       105-06 (App. 1997) (ellipses and brackets in original) (quoting Restatement
+       (Second) of Agency § 320 cmt. a, at 67)
+
+Laeroc Waikiki Parkside, Ltd. Liab. Co. v. K.S.K. (Oahu) Ltd. P’ship, 115 Hawai‘i 201, 213, 166
+
+P.3d 961, 973 (2007) (emphasis added).
+
+       In summary, the TKE maintenance contract was signed by an agent of the apartment
+
+owners and conferred a direct and/or third-party benefit on association members. The contract is
+
+not, as alleged by TKE, solely between itself and the W. E. Denison Corporation.
+
+
+B.   THE CASE LAW CITED BY TKE IS IRRELEVANT AND INAPPOSITE TO
+THIS CASE
+
+1.     None of the cases cited by TKE concern the direct line from an apartment owner, to wit:
+
+a share holder in and of association common elements, through the representative Association of
+
+Apartment Owners (AOAO) board of directors by its Managing Agent to the actual first line
+
+contractor. Factually, the “Marine Surf Waikiki Declaration of Horizontal Property Regime”
+
+(hereinafter “Declaration”), states, at Part “G” titled “Association of Apartment Owners” that:
+
+“Administration of the project shall be vested in its Association of Apartment Owners,
+
+herein called the “Association”, consisting of all apartment owners of the project. . ..”
+
+Exhibit 3 (Emphasis Added). Clearly, the Declaration designates the AOAO as an agent of the
+
+owners and Mr. Pikor is an owner (See Declaration of Pikor).
+
+                                                   5
+
+===== PAGE 006 / 25 =====
+2.     TKE’s primary reliance on Association of Apartment Owners of Newtown Meadows by its
+
+Board of Directors v. Venture 15, Inc., 115 Hawai‘i 232, 167 P.3d 225 (2007) (hereinafter
+
+“AOAO Newtown) and other case law is misplaced. AOAO Newtown sued a developer, a
+
+general contractor and a subcontractor among others. The court found the subcontractor’s
+
+allegiance was to the General Contractor whose allegiance, in turn, was to the developer,
+
+Venture 151. AOAO Newtown was a mere incidental beneficiary of the developer’s contracts
+
+with the general contractor and the general contractor’s contract with the subcontractor. The
+
+Court rightly found no third-party beneficiary status.
+
+       Both Barger v. Elite Mgmt. Servs., Inc., 2018 Ohio 3755, 119 N.E.3d 953 (Ohio App.
+
+2018) and in Greenacre Properties, Inc. v. Rao, 933 So.2d 19 (Fla. App. 2006) are cases
+
+concerning documents held by management companies where the court held the homeowners
+
+were mere incidental beneficiaries of the association contracts between the AOAO (or HOA as
+
+the case maybe) and the management companies. Neither case concerned common elements of
+
+the properties wherein AOAO members hold undivided shares in the common elements.
+
+Greenacres, however, provides persuasive analysis of what a third-party beneficiary is:
+
+       A third party must establish that the contract either expressly creates rights
+       for them as a third party or that the provisions of the contract
+       primarily and directly benefit the third party or a class of persons of
+       which the third party is a member.
+
+
+
+1. [The AOAO] “initiated the underlying action against several entities involved in the
+development and construction of Newtown Meadows, including defendants-appellees/crossappellees Venture 15, Inc. (Venture 15), the developer; Royal Contracting Co., Ltd. (Royal), the
+site development general contractor; R.H.S. Lee, Inc. (Lee), the soils compaction subcontractor;
+A.W. Associates, Inc. dba Geolabs Hawaii (Geolabs), the soils engineer; and defendantappellee/cross-appellant Liu Construction, Inc. (Liu), the masonry subcontractor [hereinafter,
+collectively, the Appellees]. The AOAO basically claims that, as a result of "severe ground
+settlement" and "defective concrete floor slabs," the buildings and foundations at Newtown
+Meadows have "shifted, settled, and cracked." Association of Apartment Owners of Newtown
+Meadows by its Board of Directors v. Venture 15, Inc., 115 Hawai‘i 232, 167 P.3d 225 (2007)
+                                                    6
+
+===== PAGE 007 / 25 =====
+Id. 933 So.2d at 23. Mr. Pikor is both a renter and an owner and by virtue of ownership holds a
+
+5% share in the elevator and other common elements. (See Declaration of Nikodem Pikor). He
+
+directly benefits from the proper performance of the TKE elevator maintenance contract. Pikor
+
+cannot, as an individual, contract for elevator inspection, repair or maintenance of the AOAO’s
+
+common element elevator(s).
+
+       The Lawry v. Pecan Plantation Owners Ass'n, Inc. , No. 02-15-00079-CV, 2016 WL
+
+4395777, (Tex. App. Aug. 18, 2016)2 case concerned fire protection services. The association
+
+was authorized by the Declaration to provide “other services” and contracted for ambulance and
+
+fire protection. The contract contained an indemnification provision. The court stated: “that the
+
+Fire Department agreed to indemnify "PPOA," defined as the Association, not any other parties
+
+or the Association's individual members” and “it was only intended to be enforceable by the
+
+Association itself.” Id. at 14. The case does not compare to a contract for maintenance of a
+
+common element wherein an association contracts to maintain an owner or renters’ personal
+
+investment in the property.
+
+3.     In Hawaiʻi case law:
+
+
+
+
+       2 This court has held that a party's status as a member of a nonprofit corporation does not
+automatically confer standing on that party to enforce an agreement between the nonprofit
+corporation and a third party. Instead, the member of that corporation must show that he or
+she qualifies as either a donee or creditor beneficiary of the contract rather than one who is
+benefitted only incidentally by performance of the contract. . . . a creditor beneficiary is
+one to whom the performance promised will come in satisfaction of a legal duty owed to
+him by the promise. This legal duty may include indebtedness, contractual obligations, or
+other legally enforceable commitments owed to the third party.
+         Nothing in the Agreement indicates that the indemnification provision was intended to
+inure to the benefit of individual members of the Association. The indemnification language
+itself indicates that the Fire Department agreed to indemnify "PPOA," defined as the
+Association, not any other parties or the Association's individual members. Lawry v. Pecan
+Plantation Owners Ass'n, Inc. (Tex. App. 2016) (Internal citations omitted).
+
+                                                    7
+
+===== PAGE 008 / 25 =====
+       “[t]he general rule [is] that third parties do not have enforceable contract
+      rights. The exception to the general rule involves intended third-party
+      beneficiaries. A third party beneficiary is "one for whose benefit a promise is
+      made in a contract but who is not a party to the contract." Black's Law
+      Dictionary 1480 (6th ed. 1990) (quoting Chitlik v. Allstate Ins. Co., 34 Ohio App.
+      2d 193, 299 N.E.2d 295, 297 (1973)). "The rights of the third [party
+      beneficiary] . . . must be limited to the terms of the promise[,]" and this
+      promise "may be express or it may be implied from the circumstances[.]"
+      Remington Typewriter Co., Inc. v. Kellogg, 19 Haw. 636, 640 (1909) (internal
+      quotation marks and citation omitted).
+      Furthermore, "[a] prime requisite to the status of 'third party beneficiary' under a
+      contract is that the parties to the contract must have intended to benefit the
+      third party, who must be something more than a mere incidental beneficiary."
+      Black's Law Dictionary at 1480 (quoting McKinney v. Davis, 84 N.M. 352, 353,
+      503 P.2d 332, 333 (1972)). For example, if contracting parties intend to confer
+      direct benefits on a third party, that third party will have generally an
+      enforceable contractual right. See Villa Sierra Condominium Ass'n v. Field
+      Corp., 878 P.2d 161, 166 (Colo. App. 1994) (recognizing the rights of third parties
+      who were not signatories to a construction contract); Seubert Excavators, Inc. v.
+      Eucon Corp., 125 Idaho 409, 417, 871 P.2d 826, 834 (1994) (concluding that nonparties to a contract bond were intended third party beneficiaries). Hunt v. First
+      Ins. Co. of Hawaii, 82 Haw. 363, 367, 922 P.2d 976, 980 (App.) (brackets in
+      original), cert. dismissed, 83 Haw. 204, 925 P.2d 374 (1996); see Restatement
+      (Second) of Contracts § 304, at 448 (1979) ("A promise in a contract creates a
+      duty in the promisor to any intended beneficiary to perform the promise, and
+      the intended beneficiary may enforce the duty."). (Emphasis added.)
+
+Pancakes of Haw. v. Pomare Props. Corp., 85 Hawai‘i 300, 309, 944 P.2d 97, 106 (App. 1997).
+
+        A third party who is not a signatory to an agreement may, nevertheless, have the
+       authority to enforce one or more of the obligations created by that agreement, if
+       the third party is intended by the other parties to be a direct beneficiary of that
+       agreement. And, such intent need not be expressed in the agreement itself; that
+       intent may be evidenced either from the terms of the agreement, the surrounding
+       circumstances, or both.
+                 ***
+             [The agreement] directly benefitted the association and each prospective
+       condominium unit owner in at least two ways.
+             First, to the extent that the agreement contemplated the construction of
+       improvements in the abutting street, such construction would increase the value of
+       each unit and of the related common areas.
+             Second, the agreement contemplated that the bestowal of such benefits
+       would not be paid for by the levy of special assessments . . .. Hence, the
+       agreement called not only for the bestowal of a benefit . . . but it was intended to
+       free . . . from a future levy of a special assessment. Villa Sierra Condominium
+       Ass'n v. Field Corp., 878 P.2d 161 (Colo. App. 1994)
+
+                                                    8
+
+===== PAGE 009 / 25 =====
+       Mr. Pikor rents a studio apartment with .385% share of the common elements. Mr.
+
+Pikor also owns several apartments and leases others with an aggregated share of 5% of the
+
+common elements of the apartment owners’ association. (See Declaration of Pikor). Mr. Pikor
+
+is a member of the class of apartment owners to which Mr. Denison committed to an
+
+automatically renewing elevator maintenance contract.
+
+
+2.  W. E. DENNISON’S SIGNATURE ON THE TKE CONTRACT IS THE “CLEAR
+RECOGNITION OF THE THIRD PARTY AND THE CONFERRED BENEFITS”
+
+       Although discussed above under the concept of agency law, Mr. Denison’s signature also
+
+implies contract law. The signature of W. E. Denison on Exhibit “2” hereto speaks for itself.
+
+Mr. Dennison signed as agent of the AOAO Marine Surf. TKE promised by contract to inspect,
+
+maintain, and repair common element elevators belonging to owners.
+
+       In summary, there is a distinction recognized in contract, agency, and common law
+
+between when an association contracts for services to the board, i.e., care custody and control of
+
+association records, and when the association contracts are intended to benefit actual owners,
+
+i.e., the owners shared interest in one or more common elements.
+
+
+3.   RES IPSA LOQUITOR APPLIES: TKE NEGLIGENTLY FAILED TO USE
+REASONABLE CARE TO DISCOVER AND CORRECT WORN OR OTHERWISE OUT
+OF ADJUSTMENT PARTS IN A VINTAGE 53 YEAR OLD ELEVATOR
+
+       The AOAO Marine Surf elevator permits, according to Oahu Elevator Inventory
+
+maintained on-line by the Hawaiʻi Department of Labor and Industrial Relations, Boiler and
+
+Elevator Section, were issued in 1967. These are vintage elevators in a class of equipment that
+
+has an expected lifespan of twenty-five years.
+
+       "An elevator company which agrees to maintain an elevator in safe operating
+       condition may be liable to a passenger for failure to correct conditions of which it
+
+                                                    9
+
+===== PAGE 010 / 25 =====
+       has knowledge or failure to use reasonable care to discover and correct a
+       condition which it ought to have found." Rogers v Dorchester Assoc., 32 NY2d
+       553, 559 (1973) (Emphasis added).
+
+       TKE had exclusive responsibility by contractual promise as stated in its contract:
+
+         ThyssenKrupp Elevator will perform the following services:
+       • Examine your elevator equipment for optimum operation. Our examination,
+       lubrication and adjustment will cover the following components of your elevator
+       system:
+             o Control and landing positioning systems
+             o Signal fixtures
+             o Machines, drives, motors, governors, sheaves, and wire ropes
+             o Power units, pumps, valves, and jacks
+             o Car and hoistway door operating devices and door protection
+             equipment
+             o Loadweighers, car frames and platforms, and counterweights
+             o Safety mechanisms
+       • Lubricate equipment for smooth and efficient performance
+       • Adjust elevator parts and components to maximize performance and safe
+       operation (See Exhibit 2).
+
+       The evidentiary doctrine of res ipsa loquitor applies in this case.
+
+           The doctrine of res ipsa loquitur provides that "whenever a thing that produced
+       an injury is shown to have been under the control and management of the
+       defendant and the occurrence is such as in the ordinary course of events does not
+       happen if due care has been exercised, the fact of the injury itself will be deemed
+       to afford sufficient evidence to support a recovery in the absence of any
+       explanation by the defendant tending to show that the injury was not due to his
+       want of care." . . . Under the res ipsa loquitur theory, then, "the fact of the casualty
+       and the attendant circumstances may themselves furnish all the proof of
+       negligence that the injured person is able to offer or that it is necessary to offer"
+       "without further proof . . . of the defendant's duty and of his negligence to perform
+       it." Carlos v. MTL, Inc., 77 Hawai‘i 269, 277, 883 P.2d 691, 699 (App. 1994).
+
+       When the elevator hoistway door contacted the storage bin, Pikor discovered the hidden
+
+defect in the elevator doors (See Exhibit 1). Elevator doors do not operate as they did on May 9,
+
+2018, without being out of some type of adjustment. Whatever the true primary defect was
+
+(premature clutch disengagement, non-operational spirator, etc.), that defect should have been
+
+                                                     10
+
+===== PAGE 011 / 25 =====
+revealed in TKE’s inspection and lubrication program at some time during the nearly ten (10)
+
+year duration of the contract and corrected.
+
+       Proof of the failure of the defendant to conform his conduct to standards
+       established by law for the protection of the class to which the injured party
+       belongs, when shown to have a legitimate connection to the issue, is admissible
+       as evidence of negligence. Michel v. Valdastri, Ltd., 59 Haw. 53, 55, 575 P.2d
+       1299, 1301 (1978) (Emphasis added)
+
+
+II.    PIKOR IS A CONSUMER AND HIS UDAP CLAIM CANNOT BE DISMISSED
+
+       As to the UDAP claims, Third-Party defendant misapprehends the Hough and Hunt cases
+
+(discussed below) and ignores the citation to Cieri contained in the Hough case which is directly
+
+on point as to Pikor being a “consumer” as defined by HRS § 480-1.
+
+A.     UDAP HRS § 481A et seq DISMISSAL IS PREMATURE
+
+       First, Third-Party Defendant erroneously claims:
+
+       “First, Pikor may not maintain a claim under HRS section 481A-3 because he is
+       not seeking injunctive relief. The remedies for an unfair and deceptive trade
+       practice claim under section 481A-3 are outlined in section 481A-4. Under section
+       481A-4, remedies for a violation of section 481A-3 are limited to injunctive relief
+       and a potential award of attorneys' fees.” (MSJ, pg 9).
+
+Pikor’s claims against TKE include a request for “all other just and reasonable relief” and Pikor
+
+may always ask that his claims be conformed to the evidence pursuant to the Hawaiʻi District
+
+Court Rules of Civil Procedure, Rule 15(c) or (d). It is premature to rule that Pikor does not
+
+have a claim for injunctive relief or awarded attorney fees because:
+
+       "The relief provided in this section [Section 481A-4] is in addition to
+       remedies otherwise available against the same conduct under the common
+       law or other statutes of this State." HRS § 481A-4(c). Bill Darrah Builders,
+       Inc. v. Hall at Makena Place, LLC, No. 15-00518 JMS-KSC, 2018 U.S. Dist.
+       LEXIS 15668, at *22-23 (D. Haw. Jan. 31, 2018) (Emphasis added).
+
+
+
+
+                                                   11
+
+===== PAGE 012 / 25 =====
+Unlike Mr. Pikor, who is a consumer: Hall in Hall at Makena Place, LLC was not a natural
+
+person and therefore not a UDAP § 480-1 “consumer” and therefore had no additional
+
+”remedies. . . under . . . other statutes of this State” such as UDAP, HRS § 480.
+
+B.     CASE LAW CITED BY TKE IS INAPPOSITE
+
+      The Hough case summary is as follows:
+
+          On March 13, 1985, Hough injured his back during the course and scope of his
+      employment with Ramco, Inc. (Ramco), a construction firm. Thereafter, Hough
+      continued to experience back pain and, on June 22, 1987, while working for Royal
+      Contracting Co., Ltd. (Royal), he suffered a recurrence of the March 13, 1985
+      injury, resulting in temporary total disability.
+          Hough timely filed a claim for workers' compensation benefits with both
+      Ramco and Royal. As the workers' compensation insurance carrier for both Ramco
+      and Royal, Pacific [Insurance] initially made payments, under protest. However,
+      on August 11, 1987, Pacific terminated all benefits. Hough v. Pac. Ins. Co., 83
+      Hawai‘i 457, 460, 927 P.2d 858, 861 (1996).
+
+       The “named insureds” in Hough were construction firms. Neither was a “natural
+
+person” onto which Hough could piggy-back his § 480 claim.
+
+       Although the ICA, in Hunt, did not address the argument raised by Hunt that, as a
+       third-party beneficiary to a contract of insurance, she had standing to assert all
+       contractual rights available to the named insured and, therefore, had standing to
+       maintain a private cause of action under HRS §§ 480-2 and -13, it held that,
+       notwithstanding her third-party status, the named insured was also not a
+       "consumer" because it was not a natural person. [Hunt v. First Ins. Co., 82
+       Hawai‘i 363, 373, 922 P.2d 976, 986 (App. 1996)]. The same situation obtains in
+       the instant case. As previously stated, Hough is not a consumer and therefore
+       lacks standing to maintain a private cause of action pursuant to HRS § 480-13.
+       Nor can he maintain an action based on his third-party beneficiary status, because
+       neither Royal nor Ramco is a "consumer" as defined by HRS § 480-1. We
+       therefore hold that Hough has no standing to bring an action based on an alleged
+       violation of HRS § 480-2. Hough v. Pac. Ins. Co., 83 Hawai‘i 457, 470-71, 927
+       P.2d 858, 871-72 (1996).
+
+       Third-Party Defendant’s reliance on Hunt, 82 Hawaiʻi at 373 is egregiously misleading
+
+because the court stated, as follows:
+
+       Because KTA [Super Stores] is not a "natural person," it is also not a "consumer"
+       as defined by HRS § 480-1 and, therefore, has no private cause of action pursuant
+
+                                                    12
+
+===== PAGE 013 / 25 =====
+       to HRS § 480-13. Accordingly, because KTA has no private cause of action
+       pursuant to HRS § 480-13, Hunt also has no derivative claim on this ground.
+       By the above holding, however, we do not address the issue of whether a
+       person has standing to maintain a cause of action under HRS §§ 480-2 and -
+       13 by virtue of the person's status as a third party beneficiary.
+       Hunt v. First Ins. Co., 82 Hawai‘i 363, 373, 922 P.2d 976, 986 (App. 1996).
+
+Hunt was a “slip and fall” case and inapplicable to the facts of this case.
+
+
+C.   PIKOR’S “PERSONAL INVESTMENT” BY VIRTUE OF SPENDING MONEY
+TO RENT AN APARTMENT RESIDENCE QUALIFIES HIM AS A CONSUMER
+
+       The part of HRS § 480-1 applicable to this case is: “a natural person who, primarily
+
+for personal, . . . or household purposes . . . commits money . . . in a personal investment.”
+
+It is not the part of HRS § 480-1 boldly emphasized by TKE on page 10 of the Memorandum in
+
+Support of Motion which reads “purchases, attempts to purchase, or is solicited to purchase
+
+goods and services”. TKE emphasizes the wrong part of the statute.
+
+       "the statutory structure of HRS chapter 480 does not require that one be a
+       'consumer' of the defendant's goods or services, but merely a 'consumer.'" A
+       plaintiff "establishes his standing as a consumer in terms of his relationship to a
+       transaction, not by a contractual relationship with the defendant." Therefore, the
+       "only requirement" is that the consumer's commitment of money, property,
+       or services in a personal investment forms the basis of his
+       complaint. Hungate v. Law Office of David B. Rosen, 139 Hawai‘i 394, 412,
+       391 P.3d 1, 19 (2017) (Emphasis Added).
+
+       The fact that Pikor has his residence in the Marine Surf, Waikiki, apartment 1107 is
+
+sufficient in and of itself to qualify him as a consumer (See Declaration of Pikor). As stated by
+
+the Court in Cieri:
+
+               The dispositive question, therefore, is whether real estate or residences
+       qualify as "personal investments" as the term is used in HRS § 480-1. Based on
+       a review of the statutory language and the legislative history, we answer in the
+       affirmative and hold that, by purchasing the home at issue in the present case, the
+       Cieris committed money in a personal investment, and accordingly have standing
+       as "consumers." Cieri v. Leticia Query Realty, 80 Hawai‘i 54, 67, 905 P.2d 29,
+       42 (1995) (Emphasis Added).
+
+
+                                                     13
+
+===== PAGE 014 / 25 =====
+As an 11th floor resident, Pikor had access and possessive user rights to the common
+
+elements of AOAO Marine Surf, Waikiki, Inc.
+
+         [I]n the context of consumer debt, the determination of whether the individual
+       seeking suit is a "consumer" should rest on whether the underlying transaction
+       which gave rise to the obligation was for a good or service that is "primarily for
+       personal, family, or household purposes," HRS § 480-1. This reading is supported
+       by the definition of "debt" in HRS § 443B-1, as well as the fact that the statutory
+       structure of HRS chapter 480 does not require that one be a "consumer" of the
+       defendant 's goods or services, but merely a "consumer." Cf. Flenniken v.
+       Longview Bank and Trust Co., 661 S.W.2d 705, 707 (Tex. 1983) ("Privity
+       between the plaintiff and defendant is not a consideration in deciding the
+       plaintiff's status as a consumer under the [Texas Deceptive Trade Practices Act].
+       A plaintiff establishes his standing as a consumer in terms of his relationship to a
+       transaction, not by a contractual relationship with the defendant. The only
+       requirement is that the goods or services sought or acquired by the consumer form
+       the basis of his complaint." (Citations omitted.)). Flores v. Rawlings Co., LLC,
+       117 Hawai‘i 153, 164-65, 177 P.3d 341, 352-53 (2008)
+
+D.   IN THIS CASE THE AOAO MARINE SURF WAIKIKI, INC. IS AN AGENT OF
+RESIDENTS
+
+       The DCCRs establish a structure for self-governance by Kalawahine Project
+       residents and create reciprocal rights and obligations shared by Kalawahine
+       Project residents for their mutual benefit. Hui Maka'ainana a Kalawahine v.
+       Hawaiian Homes Comm'n, 137 Hawai‘i 71, 82, 365 P.3d 1000, 1011 (App. 2015).
+
+       The implication is clear. When an association contracts for the day-to-day administrative
+
+work, i.e., retention of and owner access to documents, hiring and firing of management
+
+companies, resident managers, etc. , it creates no rights in association members (See HRS §
+
+514A-84(c), but when contracting for services that directly benefit association members it is an
+
+agent of the individual owners..
+
+
+II. THERE ARE GENUINE ISSUES OF MATERIAL FACT
+
+Summary judgment must be denied because of the following genuine issues of material fact:
+
+1.     PIKOR DISCOVERED ELEVATOR DEFECTS
+
+
+
+                                                   14
+
+===== PAGE 015 / 25 =====
+       Mr. Pikor’s declaration establishes that he inadvertently discovered one or more defects
+
+in the operation of an elevator door when the failed to retract after hitting Mr. Pikor’s storage
+
+bin. Pikor claim is further supported by the fact that TKE’s Exhibit “D” to the instant motion
+
+established that “door hangers and interlock” were “adjusted” Mr. Pikor’s position is also
+
+supported by the report of J W Elevator Consulting, LLC. which establishes that the “hoistway
+
+doors prematurely disengage from the car door clutch” [due to] 1. A maladjustment
+
+of the trailing edge of the car door clutch allowing premature disengagement of the
+
+doors [and] 2. The pickup rollers not being set for proper engagement with the
+
+clutch which is usually, a minimum of ½ the width of the rollers, thus allowing the
+
+doors to disengage.
+
+2.     W. E. DENISON IS AN AGENT OF ALL APARTMENT OWNERS.
+
+       Contrary to the contentions of the Third-Party Defendant, Mr. Denison signed the
+
+Contract with TKE as the “Managing Agent for AOAO Marine Surf Waikiki, Inc.” and the
+
+contract is for inspection, maintenance and repair of elevators belonging to AOAO Marine Surf
+
+Waikiki, Inc not for any elevators owned by Mr. Denison or his namesake corporation: “The
+
+term "your" is clearly defined in the Elevator Maintenance Agreement to mean "W. E. Denison
+
+Corporation." (TKE Motion, pg. 8). “[A] principal is disclosed if, at the time of making the
+
+contract in question, the other party to it has notice that the agent is acting for a principal
+
+and of the principal's identity.” Id. Laeroc 115 Hawai‘i 201 at 213,
+
+3.     THIRD-PARTY PLAINTIFF IS A THIRD-PARTY BENEFICIARY OF THE TKE
+
+CONTRACT
+
+       Mr. Pikor, through his declaration, establishes he is a resident of the Marine Surf Waikiki
+
+who directly benefits from properly operating elevators he is among the “class of persons” the
+
+
+                                                    15
+
+===== PAGE 016 / 25 =====
+TKE contract was meant to benefit: “A third party must establish that the contract either
+
+expressly creates rights for them as a third party or that the provisions of the contract
+
+primarily and directly benefit the third party or a class of persons of which the
+
+third party is a member. Id. Greenacres, 933 So.2d at 23, cited by TKE .
+
+4.     PIKOR IS A CONSUMER
+
+       Relevant Hawaiʻi precedent confirms that Mr. Pikor is a consumer. He commits money
+
+every month to secure his residence and have access to all the common elements of the
+
+condominium. (Declaration of Pikor). “[R]esidences qualify as "personal investments" Id.
+
+Cieri, 80 Hawai‘i at 67. Also, A plaintiff establishes his standing as a consumer in terms of
+
+his relationship to a transaction, not by a contractual relationship with the defendant. The
+
+only requirement is that the goods or services sought or acquired by the consumer form the basis
+
+of his complaint." Id. Flores, 117 Hawai‘i at 164-65.
+
+
+
+III.    THIRD-PARTY DEFENDANT IS NOT ENTITLED TO JUDGMENT AS A
+
+MATTER OF LAW
+
+       Summary judgment must be denied on the grounds that, even if the facts asserted
+
+by the Third-Party defendant were properly shown by the motion papers, and even if those facts
+
+were, as argued by the Third-Party Defendant, undisputed, the Third-Party Defendant is still not
+
+entitled to judgment because of flawed and inapplicable legal theories, to wit:
+
+       The FIRST legal theory behind the Third-Party Defendant’s motion is that the “Third-
+
+Party Complaint does not allege that Pikor purchased, attempted to purchase or was
+
+solicited to purchase any goods or services.” The legal theory is flawed. Hawaiʻi case law
+
+is: “[R]esidences qualify as "personal investments" Id. Cieri, 80 Hawai‘i at 67 and “A
+
+
+                                                   16
+
+===== PAGE 017 / 25 =====
+plaintiff establishes his standing as a consumer in terms of his relationship to a transaction,
+
+not by a contractual relationship with the defendant.” Id. Flores, 117 Hawai‘i at 164-65.
+
+        SECOND: Third Party Defendant’s legal theory that “the Elevator Maintenance
+
+Agreement is between TKE and the managing agent for the AOAO” is false. Third Party
+
+Plaintiff has shown that Hawaiʻi case law states: “Unless otherwise agreed, a person making or
+
+purporting to make a contract with another as agent for a disclosed principal does not become
+
+a party to the contract. Id, Corps Constr, 55 Hawaiʻi at 476. (quoting Restatement (Second) of
+
+Agency § 320 (1958) (Emphasis added).
+
+        THIRD:
+
+        “Summary judgment is a drastic remedy. To avoid improperly depriving a party
+        to a lawsuit of the right to a trial on disputed factual issues, summary judgment
+        must be "cautiously invoked." Summary judgment should only be granted if the
+        pleadings, depositions, answers to interrogatories, and admissions on file, together
+        with the affidavits, if any (hereinafter "relevant materials"), show that there is no
+        genuine issue as to any material fact and that the moving party is entitled to a
+        judgment as a matter of law. Hawai'i Rules of Civil Procedure (HRCP) Rule 56(c)
+        (1990).” GECC Fin. Corp. v. Jaffarian, 79 Hawai‘i 516, 521, 904 P.2d 530, 535
+        (App. 1995) (Internal citations omitted).
+
+        To oppose a Third Party Defendants motion “the [Third Party P]laintiff is
+
+required to either: (1) produce relevant materials that negate an element essential to the
+
+affirmative defense,; or (2) demonstrate that if the case went to trial, there would be no
+
+competent evidence to support a judgment for the defendant on the affirmative defense.
+
+Id. at 522.
+
+        Third Party Plaintiff has done both. Relevant case law has been cited and
+
+competent evidence has been presented, even the Third Party Defendant’s Exhibits “C”
+
+and “D” show adjustments were needed and that track stops failed to prevent the doors
+
+from running off track.
+
+
+                                                    17
+
+===== PAGE 018 / 25 =====
+CONCLUSION
+
+Pikor has shown that a “genuine issue as to any material fact” exists as o whether Pikor
+discovered or caused a malfunction of an elevator. Pikor’s evidence supports that he discovered
+a malfunctioning elevator. Relevant case law shows that Pikor is a consumer and a Third
+Party Beneficiary of elevator maintenance services.
+
+For all of the reasons set forth above, the Third Party Plaintiff Nikodem Pikor, requests
+that the Third Party Defendant’s motion for summary judgment be denied. The opposition is
+based on this decument and the additional declarations of counsel, James Whitmore and
+Nikodem Pikor, including the exhibits attached to those declarations, that are filed with this
+opposition/response and any witnesses that may be allowed at hearing.
+
+Dated: Waimanalo, Hawai‘i, January 14, 2020.
+{ -
+Jdsgph N. A. Ryati 8607
+Attomey for Defendant and
+Third Party Plaintiff
+18
+
+===== PAGE 019 / 25 =====
+IN THE DISTRICT COURT OF THE FIRST CIRCUIT
+HONOLULU DIVISION
+STATE OF HAWAII
+ASSOCIATION OF APARTMENT OWNERS) = CIVIL No. 1RC191003776
+OF MARINE SURF WAIKIKI, INC., a )
+Hawai‘i nonprofit corporation, by its Board of }
+Directors ) DECLARATION OF NIKODEM PIKOR
+)
+Plaintiff }
+)
+v- )
+)
+NIKODEM PIKOR )
+)
+Defendant. )
+a)
+)
+NIKODEM PIKOR ;
+‘Third Party Plaintiff, ,
+¥ )
+. )
+)
+THYSSENKRUPP ELEVATOR }
+CORPORATION, Foreign Profit Corporation }
+)
+Third Party Defendant. j
+a
+DECLARATION OF NIKODEM PIKOR
+I, Nikodem Tomasz Pikor, also known as Nikodem Pikor, make this declaration on
+personal knowledge of the facts or on information and belief where noted.
+1. Tam a resident of the State of Hawai‘i and over the age of eighteen years.
+2. My residence address is at the Marine Surf Waikiki, 364 Seaside Ave, apartment
+1107, Honolulu, HI 96815. I began residency on December of 2016.
+
+===== PAGE 020 / 25 =====
+3. Trent my residence apartment on a month-to-month rental agreement and true and
+correct copy of my rental agreement is attached hereto as Exhibit 5 for the period including May
+9, 2018.
+
+4. Exhibit 6 is a tue and correct record of my automatic rent payments made from
+my personal checking account.
+
+5. During the time I have lived at the Marine Surf Waikiki, I have seen hundreds of
+tourists and residents move items such as luggage, surfboards, bicyeles and other household
+goods into and out of the Marine Surf Waikiki elevators without using a key and without using
+elevator wall pads. I believe, that in actual practice, people visiting or living at the Marine Surf
+Waikiki only contact security or the resident manager when moving large furniture such as beds,
+bureaus, dressers, dining sets, couches, and chairs and similar large household objects and only
+then obtain elevator keys and moving pads.
+
+6. I believe I have used the elevators at the Marine Surf Waikiki thousands of times
+and except for May 9, 2018 I have never had a problem with the doors malfunctioning in this
+manner.
+
+7. have used dozens and maybe bundreds of elevators during my lifetime, I was
+using the Marine Surf Waikiki elevator in the same manner as I have used other elevators and
+seen other people use elevators in the same way. I have seen others block elevator doors and
+blocked doors before with my body or an object and no other elevator door failed to reopen when
+closing on an object. My reaction on May 9, 2018 was and still is that the doors were somehow
+defective.
+
+I, Nikodem TomasPikor, do declare under penalty of law that the foregoing is true and correct to
+the best of my knowledge and belief.
+2
+
+===== PAGE 021 / 25 =====
+Dated: Waikiki, Hawai‘i, January _/47 , 2020.
+Neodem T. Pikor
+3
+
+===== PAGE 022 / 25 =====
+IN THE DISTRICT COURT OF THE FIRST CIRCUIT-
+HONOLULU DIVISION
+STATE OF HAWAII
+ASSOCIATION OF APARTMENT OWNERS) CIVIL No. 1RC191003776
+OF MARINE SURF WAIKIKI, INC., a )
+Hawaii nonprofit corporation, by its Board of )
+Directors ) DECLARATION OF JAMES
+) WHITMORE
+Plaintiff }
+, )
+NIKODEM PIKOR j
+)
+Defendant. }
+a
+)
+NIKODEM PIKOR }
+Third Party Plaintiff, }
+¥ )
+: )
+)
+TIEYSSENKRUPP ELEVATOR }
+CORPORATION, Forvign Profit Corporation )
+Third Party Defendant }
+ee
+DECLARATION OF JAMES WHITMORE
+I, James Whitmore, make this declaration on personal knowledge.
+: 1. 1am a resident of the State of Hawai'i and over the age of [8 years.
+2. Tam now retired but was a past president and co/owner of Island Elevator. | sold that
+company in 1997 and continued on contract for three (3) years.
+3. Tam a State of Hawaii licensed elevator mechanic. My license number is EVM-101. |
+received my license on September 16, 1971. My license expires on May 20, 2020.
+
+===== PAGE 023 / 25 =====
+4. T have been a QEI Elevator Inspector for approximately ten (10) years and my
+certification number was E000838.
+5. Most recently 1 was self-employed as the managing member of J W ELEVATOR
+CONSULTING, LLC. I began that company in 2017.
+6. I expect to be called as a witness and qualified as an expett in elevator operations,
+inspections, and repairs.
+7. Thave viewed the video that was identified to me as being of an incident at the Marine
+Surf Waikiki. I viewed the security camera video of May 9, 2018 several times at the request of
+Attomey Joseph Ryan and I prepared a written report of my findings.
+1, James Whitmore, do declare under penalty of law that the foregoing is true and correct to the
+best of my knowledge and belief.
+Pied: Honolulu, Hawaii, January ___, 2020.
+f 5
+Fares Whitmore
+2
+
+===== PAGE 024 / 25 =====
+                        IN THE DISTRICT COURT OF THE FIRST CIRCUIT
+                                    HONOLULU DIVISION
+                                     STATE OF HAWAII
+
+ASSOCIATION OF APARTMENT OWNERS )                  CIVIL No. 1RC191003776
+OF MARINE SURF WAIKIKI, INC., a                )
+Hawaiʻi nonprofit corporation, by its Board of )
+Directors                                      )   DECLARATION OF COUNSEL
+                                               )
+                                               )
+               Plaintiff
+                                               )
+                                               )
+            v.                                 )
+                                               )
+NIKODEM PIKOR                                  )
+                                               )
+               Defendant.                      )
+ ____________________________________ )
+                                               )
+NIKODEM PIKOR                                  )
+                                               )
+               Third Party Plaintiff,          )
+                                               )
+                                               )
+           v.                                  )
+                                               )
+THYSSENKRUPP ELEVATOR                          )
+                                               )
+CORPORATION, Foreign Profit Corporation )
+                                               )
+                Third Party Defendant.         )
+                                               )
+
+
+                               DECLARATION OF COUNSEL
+
+
+       I, Joseph N. A. Ryan, Jr., make this declaration on personal knowledge of the facts or on
+
+information and belief formed after reasonable investigation into the facts where noted.
+
+       1.      I am a Hawaiʻi licensed attorney and represent Nikodem Pikor.
+
+       2.      Exhibit “1” is a true and correct copy of a report by J W Elevator Consulting,
+
+LLC. prepared at my request for this case. (See Declaration of James Whitmore).
+
+===== PAGE 025 / 25 =====
+3. Exhibit “2” is a true and correct copy of ThyssenKrupp Elevator Corporation's
+Exhibit “B” to the instant Motion for Summary Judgment submitted by the Declaration of Chuck
+Decoito.
+
+4, Exhibit “3” is a true and correct copy of the Marine Surf Waikiki Declaration of
+Horizontal Property Regime, executed November 3, 1965.
+
+5. Exhibit “4” are true and correct copies of Third Party Defendants Exhibits “C”
+and “D” attached to the instant Motion for Summary Judgment.
+
+6. Exhibit “5” and “6” are a true and correct copies of Nikodem Pikor’s Month-tomonth lease agreement for apartment 1107 at the Marine Surf Waikiki and payment ledger (See
+Declaration of Pikor).
+
+I, Joseph N. A. Ryan, Jr. , do declare under penalty of law that the foregoing is true and correct
+to the best of my knowledge and belief.
+
+plage alo
+Dated: WaikikiHawai‘i, January 14, 2020.
+
+i vn LN
+
+FM
+Josgp/N. A. Ryan, Jr. 8607
+Attorey for Defendant and
+Third-Party Plaintiff Pikor
+
+2

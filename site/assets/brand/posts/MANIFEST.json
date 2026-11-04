@@ -1,0 +1,96 @@
+{
+ "generated": "2026-10-31 19:39 Hawaiian Standard Time",
+ "generator": "src/build_cards.py",
+ "size": "1600x900",
+ "note": "One image per final post. Headline is 12 words or fewer (asserted at build time); every card carries exactly one [Dkt] cite and the bottom line the95xrecord.vercel.app.",
+ "cards": [
+  {
+   "n": 1,
+   "file": "posts/01.png",
+   "page": "index",
+   "url": "https://the95xrecord.vercel.app/",
+   "headline": "$214,890.23 for a $2,260.15 elevator repair.",
+   "words": 6,
+   "cite": "[Dkt 453 pp. 2, 15]",
+   "support": "1,121 documents online. Every SHA-256 matched before publication.",
+   "in_feed": "posts/FINAL/1-post.md"
+  },
+  {
+   "n": 2,
+   "file": "posts/02.png",
+   "page": "coverage",
+   "url": "https://the95xrecord.vercel.app/coverage",
+   "headline": "The record publishes its own gaps: 491 of 495.",
+   "words": 9,
+   "cite": "[Dkt 486]",
+   "support": "Dkt 484, 486, 487 and 493 are declared, with what is held and what is not.",
+   "in_feed": "posts/FINAL/2-post.md"
+  },
+  {
+   "n": 3,
+   "file": "posts/03.png",
+   "page": "numbers",
+   "url": "https://the95xrecord.vercel.app/numbers",
+   "headline": "$214,890.23 = 211,747.77 + 2,842.46 + 300.00",
+   "words": 7,
+   "cite": "[Dkt 453 p.15]",
+   "support": "Quoted from Dkt 453. The addition is the site’s, not the document’s.",
+   "in_feed": "posts/FINAL/3-post.md"
+  },
+  {
+   "n": 4,
+   "file": "posts/04.png",
+   "page": "hinge",
+   "url": "https://the95xrecord.vercel.app/hinge",
+   "headline": "The court: he did not intend the doors to decouple.",
+   "words": 10,
+   "cite": "[Dkt 396 p.16]",
+   "support": "COL 16, quoted with its page. No conclusion about the merits.",
+   "in_feed": "posts/FINAL/4-post.md"
+  },
+  {
+   "n": 5,
+   "file": "posts/05.png",
+   "page": "gate",
+   "url": "https://the95xrecord.vercel.app/gate",
+   "headline": "Two minute entries, one day: the gate before the merits.",
+   "words": 10,
+   "cite": "[Dkt 486]",
+   "support": "A clerk’s sheet of 20 Aug 2026, then two minute entries of 5 Oct 2026.",
+   "in_feed": "posts/FINAL/5-post.md"
+  },
+  {
+   "n": 6,
+   "file": "posts/06.png",
+   "page": "sources",
+   "url": "https://the95xrecord.vercel.app/sources",
+   "headline": "2,114 files measured. 1,121 documents hash-matched. 0 mismatches.",
+   "words": 8,
+   "cite": "[Dkt 453]",
+   "support": "42 folders, 6.29 GB, counted through the Drive API. Dkt 453 sha256 ebfa7e1e… matched.",
+   "in_feed": "posts/FINAL/6-post.md"
+  },
+  {
+   "n": 7,
+   "file": "posts/07.png",
+   "page": "maintenance",
+   "url": "https://the95xrecord.vercel.app/maintenance",
+   "headline": "Two statements about service records. Both are printed.",
+   "words": 8,
+   "cite": "[Dkt 291 p.27]",
+   "support": "The filing says records were produced. A case-room note says none were released.",
+   "in_feed": "posts/FINAL/7-post.md"
+  },
+  {
+   "n": 8,
+   "file": "posts/08.png",
+   "page": "process",
+   "url": "https://the95xrecord.vercel.app/process",
+   "headline": "The error is published. So is the correction.",
+   "words": 8,
+   "cite": "[Dkt 484]",
+   "support": "A gap claim was wrong. The file that forced the correction is on the record.",
+   "in_feed": "posts/FINAL/8-post.md"
+  }
+ ]
+}

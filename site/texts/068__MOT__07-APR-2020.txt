@@ -1,0 +1,2238 @@
+===== PAGE 001 / 53 =====
+     CADES SCHUTTE
+     A Limited Liability Law Partnership
+                                                                                                                              Electronically Filed
+     CALVERT G. CHIPCHASE            7757-0                                                                                   FIRST CIRCUIT
+     JARRETT A. DEMPSEY             10774-0                                                                                   1RC191003776
+     Cades Schutte Building                                                                                                   07-APR-2020
+     1000 Bishop Street, Suite 1200                                                                                           02:13 PM
+     Honolulu, HI 96813-4212
+     Telephone: (808) 521-9200
+     Email: cchipchase@cades.com
+     Email: jdempsey@cades.com
+
+     Attorneys for Third-Party Defendant
+     THYSSENKRUPP ELEVATOR
+     CORPORATION
+
+                               IN THE DISTRICT COURT OF THE FIRST CIRCUIT
+
+                                                          HONOLULU DIVISION
+
+                                                             STATE OF HAWAI‘I
+
+     ASSOCIATION OF APARTMENT                                                     CIVIL NO. 1RC19-1-003776
+     OWNERS OF MARINE SURF
+     WAIKIKI, INC., a Hawai’i nonprofit                                           THIRD-PARTY DEFENDANT
+     corporation, by its Board of Directors,                                      THYSSENKRUPP ELEVATOR
+                                                                                  CORPORATION’S MOTION FOR
+                            Plaintiff,                                            CERTIFICATION PURSUANT TO
+                                                                                  RULE 54(b) OF THE HAWAI‘I
+                v.                                                                DISTRICT COURT RULES OF
+                                                                                  CIVIL PROCEDURE
+     NIKODEM PIKOR,
+                                                                                  MEMORANDUM IN SUPPORT OF
+                            Defendant.                                            MOTION
+
+                                                                                  DECLARATION OF COUNSEL
+
+                                                                                  EXHIBITS “A” - “B”
+
+                                                                                  NOTICE OF HEARING OF MOTION
+
+                                                                                  CERTIFICATE OF SERVICE
+
+                                                                                  (caption continued on next page)
+
+
+
+
+I do hereby certify that the foregoing is a full, true and correct copy of the official court record of the Courts of the State of Hawai`i.
+Dated at: Honolulu, Hawai`i 02-SEP-2026, /s/ Lori Ann Okita, Clerk of the First Judicial Circuit, State of Hawai`i
+
+===== PAGE 002 / 53 =====
+                                             Hearing:
+
+                                             Date: June 8, 2020
+                                             Time: 8:30 a.m.
+                                             Judge: Presiding Judge
+
+                                             (No Trial Date Set).
+
+
+
+NIKODEM PIKOR,
+
+             Third-Party Plaintiff,
+
+      v.
+
+THYSSENKRUPP ELEVATOR
+CORPORATION, Foreign Profit
+Corporation,
+
+             Third-Party Defendant.
+
+
+       THIRD-PARTY DEFENDANT THYSSENKRUPP ELEVATOR
+ CORPORATION’S MOTION FOR CERTIFICATION PURSUANT TO RULE
+54(b) OF THE HAWAI‘I DISTRICT COURT RULES OF CIVIL PROCEDURE
+
+    Third-Party    Defendant    THYSSENKRUPP          ELEVATOR      CORPORATION
+
+(“TKE”) moves this Court for certification pursuant to Rule 54(b) of the Hawai‘i
+
+District Court Rules of Civil Procedure with respect to the following orders entered
+
+by the Court:
+
+     1.    Order   Granting    Third-Party    Defendant     Thyssenkrupp   Elevator
+
+           Corporation’s Motion for Summary Judgment on the Third-Party
+
+           Complaint Filed July 8, 2019 entered February 3, 2020 (the “Order
+
+           Granting Summary Judgment”); and
+
+
+
+
+                                         2
+
+===== PAGE 003 / 53 =====
+     2.   Order Granting Thyssenkrupp Elevator Corporation's Non-Hearing
+
+          Motion Attorneys' Fees and Costs entered February 18, 2020 (the “Order
+
+          Awarding Fees and Costs”).
+
+The Order Granting Summary Judgment and the Order Awarding Fees and Costs
+
+are attached hereto as Exhibits “A” and “B,” respectively.
+
+    By its Order Granting Summary Judgment, the Court entered summary
+
+judgment in TKE’s favor and against Defendant/Third-Party Plaintiff NIKODEM
+
+PIKOR (“Pikor”) with respect to all claims brought by Pikor against TKE in the
+
+above-captioned matter and dismissed Pikor’s Third-Party Complaint filed July 8,
+
+2019 with prejudice. By its Order Awarding Fees and Costs, the Court approved an
+
+award of $9,140.14 in attorneys’ fees and $57.27 in other costs in favor of TKE and
+
+against Pikor.   All claims brought by Pikor against TKE have been resolved.
+
+Having no just reason for delay, final judgment should be entered with respect to
+
+Pikor’s Third-Party Complaint against TKE and the award of fees and costs.
+
+    This Motion is made pursuant to Rules 7(b) and 54(b) of the Hawai‘i District
+
+Court Rules of Civil Procedure and is based on the attached memorandum in
+
+support, declaration and exhibits.
+
+
+
+
+                                          3
+
+===== PAGE 004 / 53 =====
+DATED: Honolulu, Hawai‘i, April 7, 2020.
+
+                                 CADES SCHUTTE
+                                 A Limited Liability Law Partnership
+
+
+
+                                 /s/ Jarrett A. Dempsey
+                                 CALVERT G. CHIPCHASE
+                                 JARRETT A. DEMPSEY
+                                 Attorneys for Third-Party Defendant
+                                 THYSSENKRUPP ELEVATOR
+                                 CORPORATION
+
+
+
+
+                                   4
+
+===== PAGE 005 / 53 =====
+               IN THE DISTRICT COURT OF THE FIRST CIRCUIT
+
+                               HONOLULU DIVISION
+
+                                   STATE OF HAWAI‘I
+
+ASSOCIATION OF APARTMENT                    CIVIL NO. 1RC19-1-003776
+OWNERS OF MARINE SURF
+WAIKIKI, INC., a Hawai’i nonprofit          MEMORANDUM IN SUPPORT OF
+corporation, by its Board of Directors,     MOTION
+
+             Plaintiff,
+
+      v.
+
+NIKODEM PIKOR,
+
+             Defendant.
+
+
+NIKODEM PIKOR,
+
+             Third-Party Plaintiff,
+
+      v.
+
+THYSSENKRUPP ELEVATOR
+CORPORATION, Foreign Profit
+Corporation,
+
+             Third-Party Defendant.
+
+
+                   MEMORANDUM IN SUPPORT OF MOTION
+
+                              I.      INTRODUCTION
+
+     Third-Party   Defendant       THYSSENKRUPP       ELEVATOR   CORPORATION
+
+(“TKE”) obtained summary judgment on and dismissal of the Third-Party
+
+Complaint filed by Defendant/Third-Party Plaintiff NIKODEM PIKOR (“Pikor”) on
+
+February 3, 2020. The Court granted TKE’s motion for attorneys’ fees and costs
+
+incurred in this action on February 18, 2020.     There are no remaining claims
+
+===== PAGE 006 / 53 =====
+against or by TKE in this action. TKE requests that the Court enter final judgment
+
+in favor of TKE with respect to Pikor’s claims against TKE and the award of fees
+
+and costs.
+
+        II.   BRIEF FACTUAL AND PROCEDURAL BACKGROUND
+
+     Pikor filed his Third-Party Complaint on July 8, 2019. He alleged two claims
+
+against TKE. TKE moved for summary judgment on both claims on January 6,
+
+2020. The Court entered its Order Granting Third-Party Defendant Thyssenkrupp
+
+Elevator Corporation’s Motion for Summary Judgment on the Third-Party
+
+Complaint Filed July 8, 2019 on February 3, 2020 (the “Order Granting
+
+Summary Judgment”). The Order Granting Summary Judgment provided that
+
+“summary judgment is entered in TKE’s favor and against Pikor on all claims set
+
+forth in Pikor’s Third-Party Complaint filed July 8, 2019; and [] Pikor’s Third-Party
+
+Complaint filed July 8, 2019 is dismissed with prejudice.” Exhibit A at 2–3.
+
+     TKE subsequently filed a motion for attorneys’ fees and costs.       The Court
+
+entered its Order Granting Thyssenkrupp Elevator Corporation's Non-Hearing
+
+Motion Attorneys' Fees and Costs on February 18, 2020 (the “Order Awarding
+
+Fees and Costs”). The Order Awarding Fees and Costs awarded $9,140.14 in
+
+attorneys’ fees and $57.27 in other costs in favor of TKE and against Pikor. Exhibit
+
+B.
+
+                                III.   ARGUMENT
+
+     Rule 54(b) of the Hawai‘i District Court Rules of Civil Procedure provides in
+
+pertinent part:
+
+
+
+
+                                         2
+
+===== PAGE 007 / 53 =====
+     When more than one claim for relief is presented in an action . . . or when
+     multiple parties are involved, the court may direct the entry of a final
+     judgment as to one or more but fewer than all of the claims or parties only
+     upon an express determination that there is no just reason for delay and
+     upon an express direction for the entry of judgment.
+
+     Rule 54(b) certification is appropriate when three prerequisites are satisfied.
+
+First, the action must involve either multiple claims for relief or multiple parties.
+
+Second, the decision involving one or more of the claims or affecting one or more of
+
+the parties must be “finally decided.” Third, there must be no just reason for
+
+delaying an appeal until all issues are adjudicated. See Int'l Sav. & LoanAss'n v.
+
+Woods, 68 Haw. 11, 731P.2d151 (1987); see also 10 C. Wright, A. Miller & M. Kane,
+
+Federal Practice and Procedure: Civil 2d § 2656 (1983).
+
+     1.   This Case Involves Multiple Parties and Multiple Claims for Relief.
+
+     As the record and the caption for this case indicate, this action involves
+
+multiple parties and multiple claims for relief. Thus, the first requirement for Rule
+
+54(b) certification is met.
+
+     2.   The Rights and Liabilities of Pikor as Against TKE Have Been “Finally
+          Decided”.
+
+     The second requirement for certification is that one or more claims must be
+
+“finally decided.” The United States Supreme Court has explained that “finally
+
+decided” is determined by “whether the . . . court intended the judgment to
+
+represent the final decision in the case.” Banker's Trust Co. v. Mallis, 435 U.S. 381,
+
+385 n.6 (1978). The Hawaii Intermediate Court of Appeals has elaborated on this
+
+requirement by holding that “at least one ‘claim’ or all of the rights and liabilities of
+
+
+
+
+                                           3
+
+===== PAGE 008 / 53 =====
+at least one party must be decided before the lower court can apply Rule 54(b).”
+
+FFG, Inc. v. Jones, 6 Haw. App. 35, 45, 708 P.2d 836, 844 (1985).
+
+     Here, the Order Granting Summary Judgment in favor of TKE and the Order
+
+Awarding Fees and Costs completely and finally resolved all rights and liabilities of
+
+Pikor with respect to TKE. All of Pikor’s claims against TKE have been dismissed.
+
+Because nothing further remains for litigation in this case with respect to TKE, the
+
+second requirement for certification is satisfied.
+
+     3.   There is No Just Reason for Delay.
+
+     Satisfaction of the final requirement that there be no just reason for delay is a
+
+question addressed to the sound discretion of this Court. “No precise test exists for
+
+determining whether there is a just reason to delay the entry of judgment that can
+
+be satisfactorily or easily applied in every case.” 10 C. Wright, A. Miller & M. Kane,
+
+Federal Practice and Procedure: Civil 3d § 2659, at 111 (1998). Rather, Rule 54(b)
+
+confers a wide range of discretion in making such a determination. Arimizu v.
+
+Financial Security Ins. Co. Inc., 5 Haw. App. 106, 114, 679 P.2d 627, 633-634 (Ct.
+
+App. 1984).
+
+     TKE submits that there is no just reason for delay here as Pikor’s claims have
+
+been dismissed in their entirety with prejudice.
+
+                                IV.    CONCLUSION
+
+     As TKE has satisfied all of the prerequisites for certification, TKE respectfully
+
+requests that the Court grant its request for certification pursuant to Rule 54(b) of
+
+the Hawai‘i District Court Rules of Civil Procedure and direct entry of final
+
+judgment in favor of TKE and against Pikor with respect to (1) the claims asserted
+
+
+
+                                           4
+
+===== PAGE 009 / 53 =====
+in the Third-Party Complaint and (2) the award of $9,140.14 in attorneys’ fees and
+
+$57.27 in other costs.
+
+   DATED: Honolulu, Hawai‘i, April 7, 2020.
+
+                                     CADES SCHUTTE
+                                     A Limited Liability Law Partnership
+
+
+
+                                     /s/ Jarrett A. Dempsey
+                                     CALVERT G. CHIPCHASE
+                                     JARRETT A. DEMPSEY
+                                     Attorneys for Third-Party Defendant
+                                     THYSSENKRUPP ELEVATOR
+                                     CORPORATION
+
+
+
+
+                                        5
+
+===== PAGE 010 / 53 =====
+               IN THE DISTRICT COURT OF THE FIRST CIRCUIT
+
+                              HONOLULU DIVISION
+
+                                STATE OF HAWAI‘I
+
+ASSOCIATION OF APARTMENT                  CIVIL NO. 1RC19-1-0003776
+OWNERS OF MARINE SURF
+WAIKIKI, INC., a Hawai’i nonprofit        DECLARATION OF COUNSEL
+corporation, by its Board of Directors,
+
+             Plaintiff,
+
+      v.
+
+NIKODEM PIKOR,
+
+             Defendant.
+
+
+NIKODEM PIKOR,
+
+             Third-Party Plaintiff,
+
+      v.
+
+THYSSENKRUPP ELEVATOR
+CORPORATION, Foreign Profit
+Corporation,
+
+             Third-Party Defendant.
+
+
+                          DECLARATION OF COUNSEL
+
+     I, JARRETT A. DEMPSEY, hereby declare as follows:
+
+     I am attorney with Cades Schutte, LLP, counsel for Third-Party Defendant
+
+THYSSENKRUPP ELEVATOR CORPORATION and am duly authorized to make
+
+this declaration and do so based upon my personal knowledge unless otherwise
+
+indicated.
+
+===== PAGE 011 / 53 =====
+      1.    Attached hereto as Exhibit “A” is a true and correct copy of the Court’s
+
+Order Granting Third-Party Defendant Thyssenkrupp Elevator Corporation’s
+
+Motion for Summary Judgment on the Third-Party Complaint Filed July 8, 2019
+
+entered February 3, 2020
+
+      2.    Attached hereto as Exhibit “B” is a true and correct copy of the Court’s
+
+Order Granting Thyssenkrupp Elevator Corporation's Non-Hearing Motion
+
+Attorneys' Fees and Costs entered February 18, 2020.
+
+      I declare under penalty of law that the foregoing is true and accurate.
+
+
+      Dated, Honolulu, Hawai‘i, April 7, 2020
+
+
+
+                                       /s/ Jarrett A. Dempsey
+                                       JARRETT A. DEMPSEY
+
+
+
+
+                                         2
+
+===== PAGE 012 / 53 =====
+CADES SC}ruT"TE
+A Limited Liability Law Partnership
+                                                                           Electronically Filed
+                                                                           FIRST CIRCUIT
+CAL\rERT G. CHIPCHASE 7757.0                                               1RC191003776
+JARRETT A. DEMPSEY TO774.O                                                 03-FEB-2020
+Cades Schutte Building                                                     10:13 AM
+1000 Bishop Str.eet, Suite 1200
+Honolulu, HI 96813.4212
+Telephone: (808) 621-9200
+
+Attorneys for Third-Party Defendant
+TTIYSSENKSUPP ELEVATOR
+CORPONATION
+
+               IN THE DISTRICT COURT OF THE FIRST CIRCUIT
+                                HONOLULU DIWSION .
+                                    STATE OF HAWAI'I
+
+AS SO CIATIO N O F APA.R,TMENT               cIuL NO. 1RC19-1.003776
+OWNERS OF I'IABINE SURF
+WAIIilKI, INC., a Hawai'i nonprofit          ORDER GRANTING THIBD.PARTY
+corporation, by its Board of Dilectors,      DEFENDANT TTffSSENI{RUPP
+                                             ELEVATOR CO RPORATION'S
+             Plaintiff,                      MOTION FOR SUMiVIARY
+                                             JUDGMEITr ON THE THIRD-PARIY
+      v                                      CO}IPLAINT trIILED JULY 8, 2019,
+                                             FILED JAI{UARY 6,2OZO
+NIKODEM PII(OR,
+
+             Defendant.
+                                             Hearing:
+
+                                             Date: January 2t,2O2O /
+                                             Time: 8:35 a.m.
+                                             Judge: Honorable Michael I(. Tanigawa
+MI(ODEM PII(OR,
+             Thir.d-P arty Plaintiff,
+
+      v
+
+                                             (caption continu,ed, on next page)
+TIIYSSENIffi                    R
+
+
+
+
+                                          EXHIBIT "A"
+
+===== PAGE 013 / 53 =====
+CORPORATION, Foreisp Profit
+Corporation,
+
+             Third-Party D efendant.
+
+     ORD ER GRANTING THIRD.PARTY DE FENDANT THYS S E NI{RUPP
+ELEVATOR CORPORATION'S MOTION FOR SUMIvIARY JUDGMENT oN THE
+ TIIRD-PARTY COtr4P.LAIN!-J'ILED ruLY 8. 2019. FILED JANUARY 6. 2020
+     Third-Party Defendant THYSSENKRUPP ELEVATOR CORPORATION's
+("TKE") Motion for Summary Judgment on the Third-Party Complaint, Iiled July 8,
+
+2019, fiied January 6, 2020 (the "Motion"), came on fou hearing on January 21,
+
+2020, at 8:35 a.m. before the Honorable Michael IL Tanigawa.
+
+     Calvert G. Chipchase, Esq. and Jaltett A. Dempsey, Esq. appeared on behalf of
+
+TI(E. Joseph Ryan, Jr., Esq. appeared on behalf of DefendantlThird-Party Plaintiff
+NII{ODEM PII{OR ('Pihor"). Glenu S, Horio, Esq. appeared on behalf of the
+
+ASSOCIATION OT APARTMENT OWNERS OF MARINE SURF WAIIfiIil, INC.
+
+(the "Marine Surf AOAO") in its capacity as Plaintiff. April Luria, Esq. appeared
+
+on behalf of the I\{ar{ne Surf AOAO in its capacity as Counterclaim-Defenclant.
+
+     The Court, having reviewed the Motion and having considered the supporting
+
+and opposing memoranda, declarations, exhibits, arguments of counsel, and reeords
+
+and flles herein, and good cause appearing therefor,
+
+     IT IS HEREBY ORDERED, ADJUDGED, AND DECREED as follows:
+
+        (1) the Motion, frled January 6, 2020 is GRANTED;
+
+        (2) summary judgment is entered in TI(E's favor and against Pikor on all
+
+           claims set forth in Pikor's Third-Party Complaint filed July 8, 2019; and
+
+        (3) Pikor's Third-Party Cornplaint filed July 8, 2019 is dismissed with
+
+
+
+                                          2
+
+===== PAGE 014 / 53 =====
+            prejudice.
+
+      This order may be signed in counterparts.
+                                              FEB 0 3 2020
+      DATED: Honolulu, Hawai'i
+
+
+
+                                          JUDGE OF THE ABOYE.ENTITLED
+                                          COURT
+                                            tt<frA-
+
+        VED AS           RM
+
+
+
+Philip L.
+Gienn S. Horio, Esq.
+Attorneys for Plaintiff
+ASSOCIATION OF APARTi\IE}i'T OWNERS
+OF IVIARINE SURF WAiKIIfl, INC.
+
+
+
+
+April Luria, Esq.
+Attorney for Counterclaim Defendant
+ASSOCIATION OF APARTMENT OWNERS
+OF il,IARINE SURF WAIIfiI(I, INC.
+
+
+
+
+Joseph Ryan, Jr'., Esq.
+Attorney for Defendant/Third-Pariy Plaiutiff
+NIKODEM PIKOR
+
+
+
+ASSOCIATION OF APARTMENT OWNERS OF IIL{RINE SURF WAIIflIfl, INC., a Hawai'i
+nonprofit corporation, by ils Board of Directors v. NIKODEM PII(O& Civil No, 1RC19-1-003776;
+ORDER GRANT1NG THIRD-PARTY DEFENDANT THYSSDNI(RUPP ELEVATOR
+CORPORATION'S MOTION FOR SUMIvIARY JUDGMENT oN THE THIRD-PABTY COMPL4INT
+rILED JULY 8, 2019, TILED JANUARY 6, 2O2O
+
+
+
+                                             3
+
+===== PAGE 015 / 53 =====
+             prejudice.
+
+        This order may be signed in counterpar.ts.
+
+        DATED: Honolulu, Harvai
+
+
+
+                                           JUDGE OF THE ABO\IE.ENTITLED
+                                           COURT
+
+
+
+APPBOVED AS TO FORM:
+
+
+
+Philip L. Lahne, Esq.
+Glenn S. Horio, Dsq.
+Attolneys for Plaintiff
+ASSOCIATION OF APARTMEI T OWNERS
+OF MARINE SURF WAIIfiIO, INC.
+
+
+
+
+April
+        for Counterclaim Defendant
+ASSOCIATION OF APARTMENT OWNERS
+OT IVIARINE SURF WAIIfiIil, INC.
+
+
+
+
+Joseph Ryan, Jr., Esq.
+Attoi'ney for Defe nda nt/Third-P arty Plaintiff
+NII(ODEM PIKOR
+
+
+
+ASSOCIATION OF APARTMDNT OWNERS OF MARINE SURF WAIIflIfl, INC., a Hawai'i
+nonprolit corporation, by its Board of Directorg v. NII(ODEM PIITOR Civit No. 1RC19-f-003??6;
+OBDER GRANTING THIND.PARTY DEFENDANT THYSSEM(RUPP ELEVATON,
+CORPORATION,S MOTION FOR SUM]VIARY JUDGMENT ON THE THiRD.PARTY COMPI.,AINT
+F]LED JULY 8, 2019, FTLED JANUARY 6,2O2O
+
+
+
+                                              3
+
+===== PAGE 016 / 53 =====
+           prejudice,
+
+      This ordel may be signed in counterparts.
+
+      DATED: Honolulu, Harvai'i,                                         .
+
+
+
+
+                                         JUDGE OF THE ABO\TE.ENITLED
+                                         COURT
+
+
+
+APPROVED AS TO FORI{:
+
+
+
+Philip L. Lahne, Esq.
+Glenn S. Horio, Esq.
+Attorneys for Plaintiff
+ASSOCIATION OF A?ARTME} T OWNERS
+OF IVIARINE SURF WAIIfiIil, INC.
+
+
+
+
+April Luria, Esq.
+Attorney for Counterclaim Defendant
+ASSOCIATION OF APARTMENT OWNERS
+OF            SURF WAIICIS, INC.
+
+
+
+
+J,     Ryan, Jr'.,
+Attorney for Defendant/Third-Party Plaintiff
+MI{ODEM PIKOA
+
+
+ASSOCIATION OT APANTMENT OWNEBS OF MARINE SURF WAIIilKt, INC., a Hawai'i
+uonprofit corporation, by its Board of Directors v. MKODEM PIKOR; Civil No. 1RC10'1'003776;
+ORDER G-NANTING THIRD.PABTY DEFENDANT THYSSENIffiUPP ELEVATOR
+CORPORATION'S MOTION FOR SUMI4ARY JUDGMENT ON THD THIBD'PARTY COMPLAINT
+FILED JULY 8, 2019, FILED JANUARY 6, 2O2O
+
+
+
+                                             3
+
+===== PAGE 017 / 53 =====
+CADES SC}ruT"TE
+A Limited Liability Law Partnership
+                                                                           Electronically Filed
+                                                                           FIRST CIRCUIT
+CAL\rERT G. CHIPCHASE 7757.0                                               1RC191003776
+JARRETT A. DEMPSEY TO774.O                                                 03-FEB-2020
+Cades Schutte Building                                                     10:13 AM
+1000 Bishop Str.eet, Suite 1200
+Honolulu, HI 96813.4212
+Telephone: (808) 621-9200
+
+Attorneys for Third-Party Defendant
+TTIYSSENKSUPP ELEVATOR
+CORPONATION
+
+               IN THE DISTRICT COURT OF THE FIRST CIRCUIT
+                                HONOLULU DIWSION .
+                                    STATE OF HAWAI'I
+
+AS SO CIATIO N O F APA.R,TMENT               cIuL NO. 1RC19-1.003776
+OWNERS OF I'IABINE SURF
+WAIIilKI, INC., a Hawai'i nonprofit          ORDER GRANTING THIBD.PARTY
+corporation, by its Board of Dilectors,      DEFENDANT TTffSSENI{RUPP
+                                             ELEVATOR CO RPORATION'S
+             Plaintiff,                      MOTION FOR SUMiVIARY
+                                             JUDGMEITr ON THE THIRD-PARIY
+      v                                      CO}IPLAINT trIILED JULY 8, 2019,
+                                             FILED JAI{UARY 6,2OZO
+NIKODEM PII(OR,
+
+             Defendant.
+                                             Hearing:
+
+                                             Date: January 2t,2O2O /
+                                             Time: 8:35 a.m.
+                                             Judge: Honorable Michael I(. Tanigawa
+MI(ODEM PII(OR,
+             Thir.d-P arty Plaintiff,
+
+      v
+
+                                             (caption continu,ed, on next page)
+TIIYSSENIffi                    R
+
+===== PAGE 018 / 53 =====
+CORPORATION, Foreisp Profit
+Corporation,
+
+             Third-Party D efendant.
+
+     ORD ER GRANTING THIRD.PARTY DE FENDANT THYS S E NI{RUPP
+ELEVATOR CORPORATION'S MOTION FOR SUMIvIARY JUDGMENT oN THE
+ TIIRD-PARTY COtr4P.LAIN!-J'ILED ruLY 8. 2019. FILED JANUARY 6. 2020
+     Third-Party Defendant THYSSENKRUPP ELEVATOR CORPORATION's
+("TKE") Motion for Summary Judgment on the Third-Party Complaint, Iiled July 8,
+
+2019, fiied January 6, 2020 (the "Motion"), came on fou hearing on January 21,
+
+2020, at 8:35 a.m. before the Honorable Michael IL Tanigawa.
+
+     Calvert G. Chipchase, Esq. and Jaltett A. Dempsey, Esq. appeared on behalf of
+
+TI(E. Joseph Ryan, Jr., Esq. appeared on behalf of DefendantlThird-Party Plaintiff
+NII{ODEM PII{OR ('Pihor"). Glenu S, Horio, Esq. appeared on behalf of the
+
+ASSOCIATION OT APARTMENT OWNERS OF MARINE SURF WAIIfiIil, INC.
+
+(the "Marine Surf AOAO") in its capacity as Plaintiff. April Luria, Esq. appeared
+
+on behalf of the I\{ar{ne Surf AOAO in its capacity as Counterclaim-Defenclant.
+
+     The Court, having reviewed the Motion and having considered the supporting
+
+and opposing memoranda, declarations, exhibits, arguments of counsel, and reeords
+
+and flles herein, and good cause appearing therefor,
+
+     IT IS HEREBY ORDERED, ADJUDGED, AND DECREED as follows:
+
+        (1) the Motion, frled January 6, 2020 is GRANTED;
+
+        (2) summary judgment is entered in TI(E's favor and against Pikor on all
+
+           claims set forth in Pikor's Third-Party Complaint filed July 8, 2019; and
+
+        (3) Pikor's Third-Party Cornplaint filed July 8, 2019 is dismissed with
+
+
+
+                                          2
+
+===== PAGE 019 / 53 =====
+            prejudice.
+
+      This order may be signed in counterparts.
+                                              FEB 0 3 2020
+      DATED: Honolulu, Hawai'i
+
+
+
+                                          JUDGE OF THE ABOYE.ENTITLED
+                                          COURT
+                                            tt<frA-
+
+        VED AS           RM
+
+
+
+Philip L.
+Gienn S. Horio, Esq.
+Attorneys for Plaintiff
+ASSOCIATION OF APARTi\IE}i'T OWNERS
+OF IVIARINE SURF WAiKIIfl, INC.
+
+
+
+
+April Luria, Esq.
+Attorney for Counterclaim Defendant
+ASSOCIATION OF APARTMENT OWNERS
+OF il,IARINE SURF WAIIfiI(I, INC.
+
+
+
+
+Joseph Ryan, Jr'., Esq.
+Attorney for Defendant/Third-Pariy Plaiutiff
+NIKODEM PIKOR
+
+
+
+ASSOCIATION OF APARTMENT OWNERS OF IIL{RINE SURF WAIIflIfl, INC., a Hawai'i
+nonprofit corporation, by ils Board of Directors v. NIKODEM PII(O& Civil No, 1RC19-1-003776;
+ORDER GRANT1NG THIRD-PARTY DEFENDANT THYSSDNI(RUPP ELEVATOR
+CORPORATION'S MOTION FOR SUMIvIARY JUDGMENT oN THE THIRD-PABTY COMPL4INT
+rILED JULY 8, 2019, TILED JANUARY 6, 2O2O
+
+
+
+                                             3
+
+===== PAGE 020 / 53 =====
+             prejudice.
+
+        This order may be signed in counterpar.ts.
+
+        DATED: Honolulu, Harvai
+
+
+
+                                           JUDGE OF THE ABO\IE.ENTITLED
+                                           COURT
+
+
+
+APPBOVED AS TO FORM:
+
+
+
+Philip L. Lahne, Esq.
+Glenn S. Horio, Dsq.
+Attolneys for Plaintiff
+ASSOCIATION OF APARTMEI T OWNERS
+OF MARINE SURF WAIIfiIO, INC.
+
+
+
+
+April
+        for Counterclaim Defendant
+ASSOCIATION OF APARTMENT OWNERS
+OT IVIARINE SURF WAIIfiIil, INC.
+
+
+
+
+Joseph Ryan, Jr., Esq.
+Attoi'ney for Defe nda nt/Third-P arty Plaintiff
+NII(ODEM PIKOR
+
+
+
+ASSOCIATION OF APARTMDNT OWNERS OF MARINE SURF WAIIflIfl, INC., a Hawai'i
+nonprolit corporation, by its Board of Directorg v. NII(ODEM PIITOR Civit No. 1RC19-f-003??6;
+OBDER GRANTING THIND.PARTY DEFENDANT THYSSEM(RUPP ELEVATON,
+CORPORATION,S MOTION FOR SUM]VIARY JUDGMENT ON THE THiRD.PARTY COMPI.,AINT
+F]LED JULY 8, 2019, FTLED JANUARY 6,2O2O
+
+
+
+                                              3
+
+===== PAGE 021 / 53 =====
+           prejudice,
+
+      This ordel may be signed in counterparts.
+
+      DATED: Honolulu, Harvai'i,                                         .
+
+
+
+
+                                         JUDGE OF THE ABO\TE.ENITLED
+                                         COURT
+
+
+
+APPROVED AS TO FORI{:
+
+
+
+Philip L. Lahne, Esq.
+Glenn S. Horio, Esq.
+Attorneys for Plaintiff
+ASSOCIATION OF A?ARTME} T OWNERS
+OF IVIARINE SURF WAIIfiIil, INC.
+
+
+
+
+April Luria, Esq.
+Attorney for Counterclaim Defendant
+ASSOCIATION OF APARTMENT OWNERS
+OF            SURF WAIICIS, INC.
+
+
+
+
+J,     Ryan, Jr'.,
+Attorney for Defendant/Third-Party Plaintiff
+MI{ODEM PIKOA
+
+
+ASSOCIATION OT APANTMENT OWNEBS OF MARINE SURF WAIIilKt, INC., a Hawai'i
+uonprofit corporation, by its Board of Directors v. MKODEM PIKOR; Civil No. 1RC10'1'003776;
+ORDER G-NANTING THIRD.PABTY DEFENDANT THYSSENIffiUPP ELEVATOR
+CORPORATION'S MOTION FOR SUMI4ARY JUDGMENT ON THD THIBD'PARTY COMPLAINT
+FILED JULY 8, 2019, FILED JANUARY 6, 2O2O
+
+
+
+                                             3
+
+===== PAGE 022 / 53 =====
+                                                     NOTICE OF ELECTRONIC FILING
+
+
+                                                                                                                                                     Electronically Filed
+                                                                                                                                                     FIRST CIRCUIT
+                                                                                                                                                     1RC191003776
+                                                                                                                                                     03-FEB-2020
+                                                                                                                                                     10:13 AM
+An electronic filing was submitted in Case Number 1RC191003776. You may review the filing through the Judiciary Electronic Filing System. Please monitor your email for
+future notifications.
+
+                                          Case ID: 1RC191003776
+                                             Title: ASSOCIATION OF APARTMENT ETC VS NIKODEM PIKOR
+                               Filing Date / Time: MONDAY, FEBRUARY 3, 2020 10:13:54 AM
+                                    Filing Parties:
+                                       Case Type: Regular Claim
+                               Lead Document(s):
+                          Supporting Document(s): 56-Order Granted
+                                 Document Name: 56-Order Granting Third-Party Defendant Thyssenkrup Elevator Corporation's Motion For Summary Judgment On The
+                                                    Third-Party Complaint
+
+
+If the filing noted above includes a document, this Notice of Electronic Filing is service of the document under the Hawai`i Electronic Filing and Service Rules.
+
+
+
+
+                                                      This notification is being electronically mailed to:
+                                                      Calvert Graham Chipchase ( cchipchase@cades.com )
+                                                      April Luria ( aluria@rlhlaw.com )
+                                                      Jarrett A Dempsey ( jdempsey@cades.com )
+                                                      Joseph Nolan Anthony Ryan ( jryan808@outlook.com )
+                                                      Glenn S. Horio ( ghorio@alf-hawaii.com )
+                                                      Philip L. Lahne ( plahne@alf-hawaii.com )
+                                                      The following parties need to be conventionally served:
+                                                      NIKODEM PIKOR
+
+
+
+                                                                                                1 of 2
+
+===== PAGE 023 / 53 =====
+2 of 2
+
+===== PAGE 024 / 53 =====
+CADES SCHUTTE
+A Limited Liability Law Partner ship                               Electronically Filed
+                                                                  Electronically
+                                                                   FIRST CIRCUIT Filed
+CALVERT G. CHIPCHASE            7757-0                            FIRST  CIRCUIT
+                                                                   1RC191003776
+JARRETT A. DEMPSEY             10774-0                            1RC191003776
+                                                                   18-FEB-2020
+Cades Schutte Building                                            06-FEB-2020
+                                                                   03:09 PM
+1000 Bishop Street, Suite 1200                                    03.22 PM
+Honolulu , HI 968 13-4212
+Telephone: (808) 521-9200
+
+Attorneys for Third-Party Defendant
+THYSSENKRUPP ELEVATOR
+CORPORATION
+
+
+               IN THE DISTRICT COURT OF THE FIRST CIRCUIT
+                               HONOLULU DIVISION      ,
+                                 STATE OF HAWAI'I
+
+ASSOCIATION OF APARTMENT                   CIVIL NO. 1RC19-l-0003776
+OWNERS OF MARINE SURF
+WAIKIKI, INC., a Hawai'i nonprofit         THYSSENKRUPP ELEVATOR
+corporation, by its Board of Director s,   CORPORATION'S NON-HEARING
+                                           MOTION ATTORNEYS' FEES
+             Plaintiff,                    AND COSTS; MEMORANDUM IN
+                                           SUPPORT OF MOTION;
+      V.                                   DECLARATION REGARDING
+                                           ATTORNEYS' FEES AND COSTS;
+NIKODEM PIKOR,                             CONTINUATION SHEET FOR
+                                           DECLARATION REGARDING
+             Defendant.                    ATTORNEYS' FEES AND COSTS;
+                                           EXHIBITS "A" - "D"; NOTICE OF
+                                           NON-HEARING MOTION;
+                                           CERTIFICATE OF SERVICE
+
+
+
+
+                                           (caption continued on next page)
+
+
+
+
+                                       EXHIBIT "B"
+
+===== PAGE 025 / 53 =====
+NIKODEM PIKOR,
+
+              Third-Pa rty Plaintiff, '
+
+       V.
+
+
+THYSSENKRUPP ELEVATOR
+CORPORATION, Foreign Profit Corporation,
+
+              Third-Party Defendan t.
+
+
+       THYSSENKRUPP ELEVATOR CORPORATION'S NON-HEARING
+               MOTION ATTORNEYS' FEES AND COSTS
+
+       Third-Party Defendant THYSSENKRUPP ELEVATOR CORPORATION
+
+("TKE") moves for an order awarding TKE its reasonable attorneys' fees and costs
+
+in t his matter.
+
+       TKE is the prevailing party in this lawsuit . TKE's attorneys' fees and costs
+
+were necessarily incurred because Defenda nt/Third-Party Pla intiff NIKODEM
+
+PIKOR ("Pikor") sued TKE to enforce an agreement between TKE a nd Plaintiff
+
+ASSOCIATION OF APARTMENT OWNERS OF MARINE SURF WAIKIKI, I NC.
+
+Pikor refused to r esolve the dispute. The Court granted TKE's Motion For Summary
+
+Judgment on Pikor's claims on February 3, 2020.
+
+       As explained in the attached memora ndum and as shown in the attached dec-
+
+lar ation, continuation sheet, and exhibits, TKE reasonably incurred attorneys' fees
+
+in the amount of $9140. 14 (including gener a l excise tax) and costs in t he a mount of
+
+$57.27 (including gener al excise tax).
+
+
+
+
+                                          -2-
+
+===== PAGE 026 / 53 =====
+      This Motion is made pursuant to Rules 7(b) and 54 of the Hawai'i District
+
+Court Rules of Civil Procedure and Hawai'i Revised Statutes §§ 607- 9 and 607-14
+
+a nd is based upon the attached memorandum in support, declaration, continuation
+
+sheet, a nd exhibits.
+
+       DATED: Honolulu, Hawai'i, F ebruary 6, 2020.
+
+                                     CADES SCHUTTE
+                                     A Limited Liability Law Partnership
+
+
+
+                                     Isl J arrett A. Dempsey
+                                     CALVERT G. CHIPCHASE IV
+                                     JARRETT A. DEMPSEY
+                                     Attorneys for Third-Party Defe ndant
+                                     THYSSENKRUPP ELEVATOR
+                                     CORPORATION
+
+
+
+
+                                       -3-
+
+===== PAGE 027 / 53 =====
+               IN THE DISTRICT COURT OF THE FIRST CIRCUIT
+                               HONOLULU DIVISION
+                                    STATE OF HAWAI'I
+
+ASSOCIATION OF APARTMENT                      CIVIL NO. 1RC19-l-0003776
+OWNERS OF MARINE SURF
+WAIKIKI, INC., a H awai'i nonprofit           MEMORANDUM IN SUPPORT OF
+corporation, by its Board of Director s,      MOTION
+
+             Plaint iff,
+
+      V.
+
+
+
+NIKODEM PIKOR,
+
+             Defendant.
+
+
+NIKODEM PIKOR,
+
+             Third-Par ty Plaintiff,
+
+       V.
+
+
+THYSSENKRUPPELEVATOR
+CORPORATION, Foreign Profit Corporation,
+
+              Thir d-Par ty Defenda nt.
+
+
+                   MEMORANDUM IN SUPPORT OF MOTION
+
+                               I.      INTRODUCTION
+
+       Third-Pa rty Defendant THYSSENKRUPP ELEVATOR CORPORATION
+
+("TKE") obtained summa ry judgme nt on a nd dismissal of the Third-Pa rty Com-
+
+plaint filed by Defenda nt/Third-Party Plaint iff NIKODEM PIKOR ("Pikor").
+
+Because it is t he prevailing party in this lawsuit, TKE asks the Court to award the
+
+===== PAGE 028 / 53 =====
+reasonable attorneys' fees and costs incurred in defending this action. TKE seeks an
+
+award of its attorn eys' fees purs uant to H awai'i Revised Statutes ("HRS") § 607-14
+
+because Pikor's lawsuit against TKE was in the nature of assumpsit. In addition,
+
+TKE asks the Court to award costs pursuant to HRS § 607-9 and Hawai'i District
+
+Court Rules of Civil Procedure ("HDCRCP") 54(d).
+
+                     II.    BRIEF PROCEDURAL HISTORY.
+
+      On May 31, 2019, Plaintiff ASSOCIATION OF APARTMENT OWNERS OF
+
+MARINE SURF WAIKIKI, INC. (th e "AOAO") filed a Complaint against Pikor. See
+
+Compl. The Complaint alleged that Pikor h ad da maged a n elevator at the M arine
+
+Surf Waikiki condominium a nd was liable to th e AOAO for t he repair cost of the
+
+elevator, fees and costs incurred in connection with the lawsuit and the AOAO's
+
+attempt to collect payment from Pikor, and interest. Id. , Ex. 1 iJil3- 12. Pikor subse-
+
+quently filed a Counterclaim against the AOAO and a Third-Party Complaint
+
+against TKE- the elevator mainten ance company that repaired the elevator.
+
+      The Third-Party Complaint alleged that Pikor was a n intended third-party
+
+ben eficiary of the elevator maintenance contract between TKE a nd the AOAO.
+
+Exhibit "A" at iu . The Third-Party Complaint further alleged in Count I, titled
+
+"BREACH OF CONTRACT," that TKE had breached that agreement a nd t h at
+
+TKE's breach caused Pikor damages. Id . at if6. The Third-P arty Complaint prayed
+
+for the following relief:
+
+              1. Reimburseme nt for a ll fees and costs of investigation
+              incurred since the date of the incident in an a mount to be
+              determined at trial as compensatory da mages on which
+              an award of treble damages be awarded.
+
+
+
+
+                                          -2-
+
+===== PAGE 029 / 53 =====
+             2. The award of a reasonable attorney fee and costs of defense.
+
+             3. all other just and reasonable relief.
+
+Id. at 5. No specific amount of damages was alleged.
+
+      On February 3, 2020, summary judgment was entered in favor of TKE and
+
+against Pikor on all claims asserted in the Third-Party Complaint. See Exhibit "B"
+
+(Order Granting TKE's Motion For Summary Judgment).
+
+                             Ill.   LEGAL STANDARD
+
+      HRS § 607- 14 provides that "[i]n all the courts, in all actions in the nature of
+
+assumpsit and in all actions on a promissory note or other contract in writing t hat
+
+provides for an attorney's fee , t here shall be taxed as attorn eys' fees, to be paid by
+
+the losing party a nd to be included in t he sum for which execution may issu e, a fee
+
+that the court determines to be reasonable." (Emphasis added.) HRS § 607- 14 caps
+
+recovery of attorneys' fees under the statute to twenty-five percent of the judgment
+
+or, if the defendant prevails "upon the amount sued for." Id.
+
+      HDCRCP 54(d) provides that "[e]xcept when express prov1s10n therefor is
+
+made either in a statute or in these rules, costs sh all be allowed as of course to the
+
+prevailing party unless the court otherwise directs ...." HRS section 607-9 further
+
+provides that
+
+             [a]ll actu al disbursements, including but not limited to,
+             intrastate travel expen ses for witnesses and counsel, expenses for deposition transcript originals and copies, and
+             other incidental expenses, including copying costs, intrastate long distance telephone charges, and postage, sworn
+             to by an attorney or a party, and deemed reasonable by
+             the court, may be allowed in taxation of costs.
+
+
+
+
+                                          -3-
+
+===== PAGE 030 / 53 =====
+                                  IV.    ARGUMENT
+
+      A.     This Action Is in the Nature of Assumpsit
+
+      Pikor's Third-Party Complaint asserted claims falling within t he ambit of
+
+HRS § 607-1 4. Specifically, Pikor a lleged that he was a third-party beneficia ry of
+
+t he eleva tor m aintena nce agreemen t a nd sough t compensatory da m ages as a result
+
+of TKE's a lleged breach . Exhibit "A" at ~ 1, 6 a nd p. 5. Those a llegations are in the
+
+n a ture of assumpsit. S ee S chulz v. Honsador, I nc., 67 H aw. 433, 435, 690 P .2d 279,
+
+28 1 (1984) ("Assumpsit is a common law form of action which allows for the recov-
+
+ery of da mages for the non-perform an ce of a contract, eith er express or implied,
+
+written or verbal, as well as quasi con tractua l obligations ."), overruled on other
+
+grounds by B lair v. Ing, 96 H awai'i 327, 31 P .3d 184 (200 1); Helfand v. Gerson, 105
+
+F .3d 530, 538 (9th Cir. 1997) (applying Hawai'i law a nd concluding t h at purpor ted
+
+third-party beneficiary status does not ch a nge th e n ature of a claim from one in
+
+assumpsit). Any doubt a bou t t he extent to which these cla ims a re in the n ature of
+
+a ssumpsit is to be decided in favor of finding th at they a re in the n ature of assump-
+
+sit. Leslie v. Estate of Ta uares, 93 H awai'i 1, 6, 994 P .2d 1047, 1052 (2000).
+
+      B.     TKE Is the Prevailing Party.
+
+      A defenda nt is t h e prevailing pa rty wit hin the meaning of HRS § 607- 14
+
+when a plaintiffs action is dis missed by summa ry judgment. Wong u. Tal?-euchi, 88
+
+H awai'i 46, 49, 961 P .2d 6 11, 614 (1998) (quoting 10 Wright , Miller & Ka ne, Feder al
+
+Practice a nd Procedure: Civil 2d § 2667 (1983)). As Court gr a nted TKE's Motion for
+
+Summa ry Judgment and dismissed a ll claims in the Third-Party Complaint on
+
+Febr u ary 3, 2020, TKE is the prevailing p arty.
+
+
+
+                                           -4-
+
+===== PAGE 031 / 53 =====
+       C.     The "Amount Sued for" Is Indiscernible.
+
+       HRS § 607- 14 limits a n award of attor neys' fees recoverable by a prevailing
+
+defenda nt to t wenty-five perce nt of "th e a mount sued for." Where a pla intiff does
+
+not allege sp ecific da m ages but instead prays for "dam ages in a n a mount proven at
+
+t rial," th e twenty-five perce nt cap sh ould be applied to the district court's jurisdic-
+
+t ion al limit. Pieduache u. Knabusch, 88 H awai'i 115, 119-20, 962 P .2d 374, 378-79
+
+(1998); Courter u. Karolle, No. CV 11-00736LEK-KSC, 20 13 WL 5532831, at *2 (D.
+
+H aw. Oct. 4, 20 13).
+
+       Here, Pikor sou gh t the following relief:
+
+              1. Reimbursement for a ll fees a nd costs of investigation
+              incurred since the date of the inciden t in an a mount to be
+              determined at tria l as compen satory da m ages on which
+              a n award of t reble da m ages be awarded.
+
+              2. The award of a reason able attorn ey fee and costs of defen se.
+
+              3. all oth er just and reasonable relief.
+
+       Pikor asserted that TKE's purported breach of con tract cau sed him to incur
+
+da mages rela ted to investigating a nd defending against the AOAO's attempts to
+
+collect paymen t from him, including fees a nd costs incurred with respect to defend-
+
+ing against th e AOAO's lawsuit against him. S ee E xhibit "A" at ,i,i 1, 6, and p. 5 .
+
+Because Pikor alleged n o specific monetary amount in the Thir d-Party Complaint
+
+and the da mages sou ght by Pikor are indiscernible from the face of t he Complaint,
+
+the twen ty-five per cent attorneys' fees cap shou ld be a pplied to the Dis trict Court's
+
+jurisdictiona l limits. See Pieduache, 88 H awai'i at 119-20, 962 P .2d at 378- 79
+
+(1998). U nder this rule, a n award of fees to TKE cannot exceed $10,000. See id.;
+
+
+
+
+                                           -5-
+
+===== PAGE 032 / 53 =====
+HRS § 604- 5(a) ("the district courts sh a ll have jurisdiction in all civil actions where
+
+the debt, amount, damages, or value of the property claimed does not exceed
+
+$40,000").
+
+      D.     TKE Reasonably Incurred $9140.14 in Attorneys' Fees Defend-
+             ing Against Pikor's Lawsuit.
+
+      The fees reasonably incurred by TKE in defending against Pikor's suit are set
+
+forth in Exhibit "C" hereto. E xhibit "C" identifies the work performed, the attorney
+
+who performed the work, and the amount of time spent on each particular matter. 1
+
+The fees were agreed to by TKE, are equal to or less than the fees charged to other
+
+clients for similar work, and a re re asonable given the experience of the attorneys
+
+involved in this matter. See Continuation Sheet For Declaration Regarding Attor-
+
+neys' Fees And Costs iliJ2-4, 8. Time is charged in increments of .1 hour. Id. 18.
+
+      TKE's request also properly includes the attorneys' fees incurred in preparing
+
+this submission, which fees are compensable. S ee, e.g., McCarthy v. Ameritech Pub.,
+
+Inc., 763 F.3d 488, 493-94 (6th Cir. Aug. 13, 2014) (holding that "reasonable attor-
+
+ney's fees a nd costs associated with the preparation and presentation of the fee
+
+application" were compen sable under Rule 37); Fisher Properties, Inc. v. Arden-
+
+Mayfair, Inc., 798 P .2d 799 (Wash. 1990); 7 James W. Moore, Moore's Federal
+
+Practice § 37.23[6] (3d ed. 2014) (explaining with respect to fees incurred with
+
+
+
+
+      Pikor's Third-Party Complaint alleged a second claim for unfair and deceptive practices. That claim is not in the nature of assumpsit. TKE only seek s an
+award of attorneys' fee s on Pikor's breach of contract claim a nd has removed from
+Exhibit "C" entries for work performed that were not related to Pikor's Breach of
+Contract claim.
+
+
+
+                                           -6-
+
+===== PAGE 033 / 53 =====
+respect to a motion to compel th at "[a]ttorney's fees incurred in preparing a request
+
+for expense shifting sanction s a re also recoverable").
+
+      Accordingly, TKE requests the amount of $9 140. 14 (including gen eral excise
+
+tax) be awa rded to TKE under HRS§ 607-14.
+
+      E.     TKE Is Also Entitled to Recover Its Costs.
+
+      Pursu ant to HRS § 607-9 a nd Rule 54(d), TKE is entitle d, as the prevailing
+
+p ar ty, to recover its costs incurred in defending this action . Recoverable costs in-
+
+clude "int rastate tr avel expenses for . . . counsel," "copying costs" and "postage."
+
+HRS § 607- 9; see also Buscher v. Boning, 114 Hawai'i 202, 223-24, 159 P .3d 814,
+
+835-36 (2007).
+
+      Attached as Exhibit "D" is a true a nd accurate itemization of the costs rea-
+
+son ably incurred by TKE in this matter , a nd it respectfully r equests that these costs
+
+totaling $57.27 (including gen er al excise tax) be awarded .
+
+                                V.     CONCLUSION
+
+      For th e reasons set forth above, TKE requests th at this Court award TKE its
+
+reasonable attorneys' fees in the amount of $9140.14 a nd its costs in the amount of
+
+$57.27.
+
+
+
+
+                                          -7-
+
+===== PAGE 034 / 53 =====
+DATED: Honolulu, Hawai'i, February 6, 2020.
+
+
+                              CADES SCHUTTE
+                              A Limited Liability Law Partnership
+
+
+                              Isl Jarrett A. Dempsey
+                              CALVERT G. CHIPCHASE IV
+                              JARRETT A. DEMPSEY
+                              Attorneys for Third-Party Defendant
+                              THYSSENKRUPP ELEVATOR
+                              CORPORATION
+
+
+
+
+                               -8-
+
+===== PAGE 035 / 53 =====
+DECLARATION REGARD! G ATTOR EY ' FEE
+AND CO ST S; EXH IBIT S                                                                                                    Fonnll IDC02
+1
+  IN THE DISTRI CT COURT OF T HE F I RST C IRCUIT
+                   HONOLULU           DI \'1S10
+                 STATE OF H AWA J'I
+ Plaintiff
+ ASSOCIATION OF APARTMENT OWNERS OF MARINE
+ SURF WAIKIKI, INC , a Hawal'i nonprofit corporation, by its
+ Board of Directors
+
+
+
+                                                                    Reserved for Court Use
+
+                                                                    Civil No.    1RC19-1-0003776                     '
+ Defendant/Third-Party Plaintiff                                    Filing Party/Attorney Name, Attorney Number, Finn Name (if
+ NIKODEM PIKOR                                                      applicable), Address and Telephone Number
+                                                                    CALVERT G. CHIPCHASE 7757-0
+                                                                    JARRETT A . DEMPSEY 10774-0
+                                                                    Cades Schutte Building
+ THIRD-PARTY DEFENDANT                                              1000 Bishop Street, Suite 1200
+ THYSSENKRUPP ELEVATOR CORPORATION, Foreign                         Honolulu, HI 96813-4212
+ Profit Corporation                                                 Telephone. (808) 521-9200
+
+
+                             DECLARATI O~ REGARD I NG ATT ORN EYS' FEES AND COST S
+
+ I am the attorney for the prevailing party, and I request an award of attorneys' fees pursuant to Hawai'i Revised Statutes [check
+ all that apply]:
+
+    ~ § 607-14 {as!>ump!>it), D § 521-35 (residential rental agreement), D Commercial lease agreement;
+
+     D § 5148-157 (condominium association); D § 42 IJ- IO (planned community association) D Other statute§_ _ __
+
+ The amount of the judgment (principal and interest) is anticipated to be S..,,O'--'-.O=O_ __ _ __
+
+ I. ATTORNEYS' FEES (Sel ect A or B)*
+
+ *PLEASE OTE: In addition to completing section A or B below, you must attach as Exhibit I an itemized report of the
+ time spent on the action and to be spent to obtain a final written judgment, the hourly rates, a bncf description of the work
+ pet formed, and the total fees requested
+
+ ~ A. Fee Based on an Hour ly Rate.
+
+ I have expended and nm likely to expend 10 obtain a final judgment the following hours at the rate specified below.
+
+ Hours: _ __ _ _ _ _ _ x Hourly Rate: S _ _ _ _ _ __
+
+   Please see Continuation Sheet and Exhibit "C" for hours and hourly         Total Fees= S _ _ _ _ _ _ _ _ _ _ _ __
+   rate information
+I D 8 . Fee Based on an Agreed-Upon Fee (Ex plain the fee agreement below).
+ The attorneys' fee incurred 111 this action are not based on an hourly rate. The agreed-upon fee is S._ _ _ __ _ __ _
+
+
+
+                                                                   TOT A L FEE REQUE TED: ---><9..._,1'-"4"""0"'-.1-'-'4:,;___ _ __ __
+
+
+                                                                                                       SEE PAGE 2
+(Rev. I 23 20 18)                                            Page I of2                                                   Forni# IDC02
+
+===== PAGE 036 / 53 =====
+                             DECL ARATION REGARDING ATTORNEYS' FEES AN D COSTS (continued)
+
+
+ II. OTHER COST S
+
+ I request an award of costs for actual disbursements itemized below pursuant to District Court Rules of Civi l Procedure Rule
+ 54(d) and Hawai'i Re, 1 ed Statutes [check all that apply].
+
+            ~ §607-9;                                  D Other [specify statute]: §_ _ _ _ _ _ _ __
+
+ I have attached as E.'lhibit 2 true copies of invoices and/or receipts for the requested costs.
+                    Exhibit D
+
+ *PLEASE I OTE: Do not mclude fi ling fees, service costs or mileage in your request for other costs. Those cost should be
+ re nected on the Judgment fonn but do not requi re additional court approval.
+
+ Item                                                                                                          Am ount Requested
+ Please see Exhibit D
+
+
+
+
+                                                              TOTAL OT HER COST S REQUESTED:$ _5_7_.2_7_ _ _.,_ _ _ __
+
+ I DECL ARE UNDER PENA LT Y OF LA \V T IIA T T H E FOREGOING IS T R UE AND CORRECT .
+
+
+
+
+ Dare: February 6 , 2020
+ For Court Use Only·
+
+                                                                            ORD ER
+
+
+          Approved a nd so Ordered : Attorneys' Fees:$ Cf (y-a. I                         $I    ; Other Costs: $      S 7 , Z.... 7
+
+
+
+
+              \
+
+
+ 11
+                  In accordance with 1hc Amencans with D1sab1ht1es Act and other applicable state and federal laws, if you require an
+                  accommoda11on for a d1sab1l iry when working with a court program, ~crvice, or actl\ 1ty, please contact the District Court
+                  A<lministra11011 Office at PHO ENO 538-5121 , FAX 538-5233, or TTY 539-4853 at least ten ( IO) working days before your
+                  proceeding. hcanng, or appointment date. For Ch•il-rela ted matters, please call 538-5629 o r\ isit the District C ourt
+                   ervice C ente r at I I I I Alakea   treet , Third (3 rd ) Floo r.
+
+
+
+
+(Re,    1, 2312018)                                                         Page 2 of:!                                           Forni# IDC02
+
+===== PAGE 037 / 53 =====
+Association Of Apartment Owners Of Madne Surf Waihihi, In c. v. Nikodem
+                                Pihor
+
+                          Dis tric t Court of the First Circuit
+                                    Honolulu Divis ion
+                                     State of Hawai'i
+                               Civ il No. 1RC19-l-0003776
+
+                  CONTI UATION SHEET FOR DECLARATION
+                  REGARDING ATTORNEYS' FEES AND COSTS
+
+      I, CALVERT G. CHIPCHASE, hereby decla re as follows:
+      1.       I am a n a ttor ney duly lice nsed to practice before a ll cour ts of the St ate
+
+of Ha wai'i a nd a partner wit h the law firm of Cades Sch utte LLP, which rep resents
+
+Third-Party Defenda nt THYSSENKRUPP ELEVATOR CORPORATION in t he
+
+above-ca ptioned matter. Unles · otherwise s ta ted, I ma ke this declara tion based on
+
+personal knowledge. I am competent to testify to the matters set forth i n this
+
+Declaration.
+
+      2.       I am the partner in cha rge of this ma tter. I have been practicing law in
+
+the a rea of commercial litiga tion for more tha n 17 years. l\1y standa rd hourly r ate
+
+for gener al litigation matte rs in 2019 a nd 2020 was $385, which I discounted fo r
+
+TKE to $350. This ra te is routinely charged to a nd paid by TKE on all matter . My
+
+initials on Cades Schutte LLP invoices are "CGC."
+
+      3.       J a rre tt A. De mpsey is a litigat10n associate.       He was licensed to
+
+practice law in Hawa i'i in 20 17 a nd has practiced law in Ha waii a a litigation
+
+associa te with Cades Schutte since Septe mber 2017. In 2019 a nd 2020, his billing
+
+rate was $2 10 per hour. Thi - rate i · routinely char ged to a nd paid by TKE a nd
+
+other clie nts. His initial on Cades Schut te invoices are "JAD."
+
+===== PAGE 038 / 53 =====
+      4.     Based on my expen ence m practicing law in Honolulu and my
+
+knowledge of t he Honolulu legal community, the standa rd hourly billing rates
+
+cha rged by Cades Schutte LLP in this matte r were reaso nable and commensurate
+
+with the customary a nd prevailing standard hourly billing rates of comparable law
+
+firms in Honolulu for attorneys of similar qualifications a nd experience in similar or
+
+like matters. The services rendered a nd the time spent was reasonable and
+
+necessary under the circumstances to defend the above-captioned matter.
+
+      5.     We twice tried to resolve this matter without the need to prepare a nd
+
+file a motion for summary judgment. Third-Party Plaintiff NIKODEM PIKOR
+
+("Pikor") would not agr ee.
+
+      6.     Attached as Exhibit "A" is a t rne a nd accurate copy of the Third-Party
+
+Complaint filed in this ma tter by Pikor on July 8, 2019.
+
+      7.     Attached as Exhibit "B" is a true and accurate copy of the Court's
+
+Order Granting TKE's Motion For Summary Judgment on The Third-Party
+
+Complaint enter ed on February 3, 2020.
+
+      8.     Attached as Exhibit "C" is a true a nd accurate itemization of work
+
+perform ed in the above-captioned case. Exhibit "C" reflects that the minimum
+
+hourly billing increment char ged to TKE by this firm was .1. The billing rates
+
+shown m Exhibit "C" and the billing incre ment were agreed upon by TKE for this
+
+matter a nd are customary for work performed by Cades Schutte LLP for its clie nts.
+
+The ite mization of work performed is described by hours or tenths of hours
+
+expe nded on each task. As set forth in Exhibit "C'', TKE incurred reasona ble
+
+
+
+
+                                           2
+
+===== PAGE 039 / 53 =====
+a ttorneys' fees in the amount $8729.00, plus genera l excise ta x thereon of $411. 14,
+
+for a total of $9140.14 in defe nding against and prevailing in t his action.
+
+      9.      Attached a Exhibit "D" is a true a nd correct ite mization of co ts a nd
+
+expen es incurred ("Itemi zation of Costs Incurred") in connection with the a bove-
+
+capt ioned matter, including photocopying ch ar ges a nd po tage. These cost s h ave
+
+been correctly stated, were reasona ble and necessary unde r the circumstances a nd
+
+a re allowable under applicable a uthority. Accor dingly, TKE respectfully request s
+
+t hat it be a wa rded costs, expen 'es, a nd applicable general excise ta xes thereon in
+
+t he total a mount of $57.27.
+
+       I declc1rn under pe nalty of perjury that t he for egoin g is t rue a nd correct.
+
+
+
+
+                                           C
+                                           AL~ 1c£E
+
+
+
+
+                                              3
+
+===== PAGE 040 / 53 =====
+Association Of Apartment Owners Of Marine Surf Waikiki, Inc. v. Nilwdem
+                                P ikor
+
+                       District Court of the First Circuit
+                               Honolulu Division
+                                State of Hawai'i
+                           Civil No. 1RC19-1-0003776
+
+                       ITEMIZATION OF ATTORNEYS' FEES
+                                           Subtotal Fees         $     8729.00
+                     Hawaii General Excise Tax (4.710%)                  411 .14
+                                TOTAL FEES AND TAX               $     9140.14
+
+
+                            PROFESSIONAL SERVICES
+DATE          ATTY         (Subject to 4.710% G.E. TAX)              HOURS         AMOUNT
+07/29/2019    JAD      Review and analyze third-party                  0.30          63.00
+                       complaint, summons, answer and
+                       counterclaim.
+07/29/2019    JAD      Attend return hearing.                          0.80         168.00
+08/01 /2019   JAD      Review and analyze Service Contract.            0.20          42.00
+08/01 /2019   JAD      Research case law regarding AOAO                0.50         105.00
+                       members as third-party beneficiaries to
+                       contracts between AOAO and other
+                       entities.
+08/30/2019    JAD      Draft Motion to Dismiss Third-Party             1.50         315.00
+                       Complaint
+08/30/2019    JAD      Draft Response to Third-Party Plaintiffs        0.50         105.00
+                       First Request for Answers to
+                       Interrogatories.
+08/30/2019    JAD      Review and analyze elevator records             0.50         105.00
+                       and service contract in order to obtain
+                       information to respond to First Request
+                       for Answers to Interrogatories.
+09/09/2019    JAD      Convert Motion to Dismiss into Motion           0.20          42.00
+                       for Summary Judgment.
+09/11/2019    JAD      Continue drafting Motion for Summary            3.50         735.00
+                       Judgment.
+09/24/2019    JAD      Draft First-Amended Response to                 0.20          42.00
+                       Plaintiffs First Request for Answers to
+                       Interrogatories.
+
+
+
+
+                                  EXHIBIT "C"
+
+===== PAGE 041 / 53 =====
+11/21/2019     JAD   Draft Joinder to AOAO discovery              0.10    21 .00
+                     requests.
+12/04/2019     JAD   Telephone call with Joe Ryan regarding       0.20    42.00
+                     settlement of case.
+12/04/2019     JAD   Draft letter conveying offer of settlement   1.80   378.00
+                     to Nikodem Pikor.
+12/04/2019     JAD   Continue drafting offer of settlement to     0.80   168.00
+                     Nikodem Pikor.
+12/ 10/2019    CGC   Review and revise revised Rule 408           0.60   210.00
+                     settlement letter
+12/20/2019     JAD   Telephone call with Joe Ryan regarding       0.10    21 .00
+                     Motion for Summary Judgment hearing.
+12/21/2019     CGC   Review response to request for               0.20    70.00
+                     admissions
+12/23/2019     JAD   Review and revise Motion for Summary         0.80   168.00
+                     Judgment.
+12/28/2019     CGC   Revise Motion for Summary Judgment           2.50   875.00
+12/30/2019     JAD   Review and revise Motion for Summary         1.00   210.00
+                     Judgment.
+01 /13/2020    JAD   Telephone conference with Glenn Horio        0.20    42.00
+                     regarding AOAO position on Motion for
+                     Summary Judgment.
+01 /15/2020    JAD   Review and analyze case law cited in         1.50   315.00
+                     opposition memorandum.
+01/15/2020     JAD   Review and analyze Opposition                0.80    168.00
+                     Memorandum.
+01 /15/2020    JAD   Review and analyze case law regarding        1.00   210.00
+                     third-party beneficiaries for Reply
+                     Memorandum.
+01/15/2020     JAD   Draft Reply Memorandum in Support of         5.20   1092.00
+                     Motion for Summary Judgment.
+01 /15/2020    CGC   Revise Reply Memorandum in Support           1.80   630.00
+                     of Motion for Summary Judgment
+01 /20/2020    JAD   Prepare for Motion for Summary               3.50    735.00
+                     Judgment hearing by reviewing case
+                     law cited in briefing and drafting oral
+                     argument outline.
+01 /21/2020    JAD   Appear for Motion for Summary                0.80    168.00
+                     Judgment hearing
+
+01 /21 /2020   JAD   Draft Order granting Motion for              0.20     42.00
+
+
+
+
+                                            2
+
+===== PAGE 042 / 53 =====
+                    Summary Judgment
+01 /21/2020   JAD   Revise Order granting Motion for           0.20      42.00
+                    Summary Judgment
+
+01 /21/2020   JAD   Draft letter to counsel regarding          0.20      42.00
+                    proposed Order granting Motion for
+                    Summary Judgment
+01 /22/2020   JAD   Email correspondence with April Luria      0.10      21 .00
+                    regarding proposed Order
+01 /22/2020   JAD   Email correspondence with Glenn Horio      0.10      21.00
+                    regarding proposed Order
+01/27/2020    JAD   Appear for Pretrial Conference             0.70     147.00
+01 /28/2020   JAD   Review and Analyze case law regarding      0.40      84.00
+                    fees in assumpsit cases where
+                    damages are not discernable in the
+                    complaint.
+01 /28/2020   JAD   Draft Motion for Fees and Costs            3.00     630.00
+
+01/28/2020    CGC   Review and revise Motion for Fees and      0.80     280.00
+                    Costs, supporting declaration, and table
+                    of fees and costs
+01 /29/2020   CGC   Revise motion for fees and costs and       0.50     175.00
+                    supporting declaration
+                                              Subtotal Fees            8729.00
+                               General Excise Tax (4.710%)              411 .14
+                                        Total Fees and Tax            $9140.14
+
+
+
+
+                                          3
+
+===== PAGE 043 / 53 =====
+Association Of Apartment Owners Of Marine Surf Waikiki, Inc. v. Nikodem
+                                Pikor
+
+                         District Court of the First Circuit
+                                 Honolulu Division
+                                  State of Hawai'i
+                             Civil No. 1RC19-l-0003776
+
+                         ITEMIZATION OFT AXABLE COSTS
+
+                                      Subtotal Taxable Costs   $        55.01
+
+                      Hawaii General Excise Tax (4. 710%)                   2.26
+
+                                TOTAL COSTS AND TAX            $        57.27
+
+
+
+
+   DATE                    COSTS Subject to 4.710% G.E. TAX                        AMOUNT
+
+09/03/2019     Postage                                                                 1.30
+
+09/03/2019     Photocopy 42 Page( s)                                                   5.04
+
+09/03/2019     Photocopy 10 Page( s)                                                   1.20
+
+09/04/2019     Postage                                                                 0.50
+
+09/24/2019     Photocopy 10 Page( s)                                                   1.20
+
+11/22/2019     Postage                                                                 0 .65
+
+11 /22/2019    Photocopy 6 Page( s)                                                    0 .72
+
+11 /25/2019    Photocopy 11 Page(s)Amdn Response/Objections to Pikor                   1.32
+               FRAI
+12/02/2019     Postage                                                                 0.65
+
+01 /06/2020    Photocopy 24 Page(s)                                                    2.88
+
+01/13/2020     Photocopy 19 Page(s)MSJ hearing                                         2.28
+
+01/14/2020     Photocopy 44 Page(s)                                                    5 .28
+
+01 / 15/2020   Photocopy 25 Page(s)                                                    3.00
+01 / 15/2020   Photocopy 27 Page(s)                                                    3.24
+01 / 15/2020   Photocopy 63 Page(s)                                                    7.56
+
+01 /15/2020    Photocopy 27 Page(s)msj hearing binder                                  3 .24
+
+01/15/2020     Photocopy 13 Page(s)msj hearing binder                                  1.56
+
+01 / 15/2020   Photocopy 12 Page(s)msj hearing binder                                  1.44
+
+
+
+
+                                                                       11    11
+                                                1        EXHIBIT D
+
+===== PAGE 044 / 53 =====
+   DATE       ___         COSTS Subject to 4.710% G.E. TAX                 AMOUNT
+O1/20/2020    Photocopy 13 Page( s)                                             1.56
+01 /20/2020   Photocopy 66 Page(s)                                              7.92
+01/20/2020    Photocopy 11 Page( s)                                             1.32
+1/22/2020     Postage                                                           1.15
+                                           Subtotal Costs Subject to GET       55.01
+                                                                   GET          2.26
+                                              Total Costs Subject to GET       57.27
+
+
+
+
+                                          2
+
+===== PAGE 045 / 53 =====
+               IN THE DISTRICT COURT OF THE FIRST CIRCUIT
+                                 HONOLULU DIVISION
+                                  STATE OF HAWAl'I
+
+ASSOCIATION OF APARTMENT                      CIVIL NO. 1RC19-l-0003776
+OWNERS OF MARINE SURF
+WAIKIKI, INC., a Hawai'i nonprofit            NOTICE OF NON-HEARING
+corporation, by its Board of Directors,       MOTION
+
+             Plaintiff,
+
+      V.
+
+
+NIKODEM PIKOR,
+
+             Defendant.
+
+
+NIKODEM PIKOR,
+
+             Third-Party Plaintiff,
+
+      V.
+
+
+THYSSENKRUPP ELEVATOR
+CORPORATION, Foreign Profit Corporation,
+
+             Third-Party Defendant.
+
+
+                     NOTICE OF NON-HEARING MOTION
+
+           NOTICE         IS   HEREBY     GIVEN   to   the   following   regarding
+
+    THYSSENKRUPP               ELEVATOR    CORPORATION'S         NON-HEARING
+
+    MOTION ATTORNEYS' FEES AND COSTS (the "Motion"):
+
+===== PAGE 046 / 53 =====
+                 TO:    JOSEPH RYAN, JR. , ESQ.
+                        J oseph Ryan, Jr. AAL LLLC
+                        41-430 Waikupanaha Street
+                        Waimanalo, HI 96795
+
+                        Attorneys for Defendant/Third-Party Plaintiff
+                        NIKODEM PIKOR
+
+
+
+                        PHILIP L. LAHNE, ESQ.
+                        GLENN S. HORIO, ESQ.
+                        Anderson Lahne & Fujisaki LLP
+                        733 Bishop Street, Suite 2301
+                        Honolulu, HI 96813
+
+                        Attorneys for Plaintiff
+                        ASSOCIATION OF APARTMENT OWNERS OF
+                        MARINE SURF WAIKIKI, INC.
+
+
+                        APRIL LURIA, ESQ.
+                        Roeca, Luria & Shinn LLP
+                        841 Bishop Street, Suite 900
+                        Honolulu, HI 96813
+
+                        Attorneys for Counterclaim Defenda nt
+                        ASSOCIATION OF APARTMENT OWNERS OF
+                        MARINE SURF WAIKIKI, INC.
+
+
+             Any response to said Motion must be filed with Court no later than ten
+
+(10) days after the date of Certificate of Service. If service of the Motion has been
+
+made by mail, a ny response to said Motion must be filed with the Court no la ter
+
+than twelve (12) days after the date of said Certificate of Service.
+
+
+
+
+                                          -2-
+
+===== PAGE 047 / 53 =====
+DATED: Honolulu, Hawai'i, February 6, 2020.
+
+                        CADES SCHUTTE
+                        A Limited Liability Law Partnership
+
+
+
+                        Isl Jarrett A. Dempsey
+                        CALVERT G. CHIPCHASE IV
+                        JARRETT A. DEMPSEY
+                        Attorneys for Third-Party Defendant
+                        THYSSENKRUPPELEVATOR
+                        CORPORATION
+
+
+
+
+                         -3-
+
+===== PAGE 048 / 53 =====
+               IN THE DISTRICT COURT OF THE FIRST CIRCUIT
+
+                               HONOLULU DIVISION
+
+                                 STATE OF HAWAI‘I
+
+ASSOCIATION OF APARTMENT                     CIVIL NO. 1RC19-1-003776
+OWNERS OF MARINE SURF
+WAIKIKI, INC., a Hawai’i nonprofit           NOTICE OF HEARING OF MOTION
+corporation, by its Board of Directors,
+
+             Plaintiff,
+
+      v.
+
+NIKODEM PIKOR,
+
+             Defendant.
+
+
+NIKODEM PIKOR,
+
+             Third-Party Plaintiff,
+
+      v.
+
+THYSSENKRUPP ELEVATOR
+CORPORATION, Foreign Profit
+Corporation,
+
+             Third-Party Defendant.
+
+
+                          NOTICE OF HEARING OF MOTION
+
+             TO:            JOSEPH RYAN, JR., ESQ.
+                            Joseph Ryan, Jr. AAL LLLC
+                            41-430 Waikupanaha Street
+                            P.O. Box 562
+                            Waimanalo, HI 96795
+                                  Attorneys for Defendant/
+                                  Third-Party Plaintiff
+                                  NIKODEM PIKOR
+
+===== PAGE 049 / 53 =====
+                        PHILIP L. LAHNE, ESQ.
+                        Anderson & Fujisaki LLP
+                        733 Bishop Street, Suite 2301
+                        Honolulu, HI 96813
+
+                        and
+
+                        GLENN S. HORIO, ESQ.
+                        Pauahi Tower
+                        1003 Bishop Street, Suite 1550
+                        Honolulu, Hawai’i 96813
+                              Attorneys for Plaintiff
+                              ASSOCIATION OF APARTMENT OWNERS
+                              OF MARINE SURF WAIKIKI, INC.
+
+                        APRIL LURIA, ESQ.
+                        Roeca, Luria & Shinn LLP
+                        841 Bishop Street, Suite 900
+                        Honolulu, HI 96813
+                              Attorneys for Counterclaim Defendant
+                              ASSOCIATION OF APARTMENT OWNERS
+                              OF MARINE SURF WAIKIKI, INC.
+
+    PLEASE TAKE NOTICE that the foregoing motion shall come on for hearing
+
+before the presiding judge in his/her courtroom in the Honolulu District Court,
+
+Honolulu Division, 1111 Alakea Street, 10th floor, Courtroom B, Honolulu, Hawaii
+
+96813, on Monday, June 8, 2020 at 8:30, a.m., or as soon thereafter as counsel
+
+may be heard.
+
+
+
+
+                                       2
+
+===== PAGE 050 / 53 =====
+DATED: Honolulu, Hawai‘i, April 7, 2020.
+
+                                 CADES SCHUTTE
+                                 A Limited Liability Law Partnership
+
+
+
+                                 /s/ Jarrett A. Dempsey
+                                 CALVERT G. CHIPCHASE
+                                 JARRETT A. DEMPSEY
+                                 Attorneys for Third-Party Defendant
+                                 THYSSENKRUPP ELEVATOR
+                                 CORPORATION
+
+
+
+
+                                   3
+
+===== PAGE 051 / 53 =====
+               IN THE DISTRICT COURT OF THE FIRST CIRCUIT
+
+                              HONOLULU DIVISION
+
+                                STATE OF HAWAI‘I
+
+ASSOCIATION OF APARTMENT                   CIVIL NO. 1RC19-1-003776
+OWNERS OF MARINE SURF
+WAIKIKI, INC., a Hawai’i nonprofit         CERTIFICATE OF SERVICE
+corporation, by its Board of Directors,
+
+             Plaintiff,
+
+      v.
+
+NIKODEM PIKOR,
+
+             Defendant.
+
+
+NIKODEM PIKOR,
+
+             Third-Party Plaintiff,
+
+      v.
+
+THYSSENKRUPP ELEVATOR
+CORPORATION, Foreign Profit
+Corporation,,
+
+             Third-Party Defendant.
+
+
+                           CERTIFICATE OF SERVICE
+
+     The undersigned hereby certifies that a true and correct copy of the foregoing
+
+document was served on this date via JEFS as indicated below:
+
+===== PAGE 052 / 53 =====
+JOSEPH RYAN, JR., ESQ.                      jryan808@outlook.com
+Joseph Ryan, Jr. AAL LLLC
+41-430 Waikupanaha Street
+P.O. Box 562
+Waimanalo, HI 96795
+      Attorney for Defendant/Third-Party Plaintiff
+      NIKODEM PIKOR
+
+PHILIP L. LAHNE, ESQ.                      plahne@alf-hawaii.com
+Anderson & Fujisaki LLP
+733 Bishop Street, Suite 2301
+Honolulu, HI 96813
+
+and
+
+GLENN S. HORIO, ESQ.             gh@dkpvlaw.com
+Pauahi Tower
+1003 Bishop Street, Suite 1550
+Honolulu, Hawai’i 96813
+      Attorneys for Plaintiff
+      ASSOCIATION OF APARTMENT OWNERS OF MARINE SURF
+      WAIKIKI, INC.
+
+APRIL LURIA, ESQ.                         aluria@rlhlaw.com
+Roeca, Luria & Shinn LLP
+841 Bishop Street, Suite 900
+Honolulu, HI 96813
+      Attorney for Counterclaim Defendant
+      ASSOCIATION OF APARTMENT OWNERS
+      OF MARINE SURF WAIKIKI, INC.
+
+
+
+
+                                   2
+
+===== PAGE 053 / 53 =====
+DATED: Honolulu, Hawai‘i, April 7, 2020.
+
+                                 CADES SCHUTTE
+                                 A Limited Liability Law Partnership
+
+
+
+                                 /s/ Jarrett A. Dempsey
+                                 CALVERT G. CHIPCHASE
+                                 JARRETT A. DEMPSEY
+                                 Attorneys for Third-Party Defendant
+                                 THYSSENKRUPP ELEVATOR
+                                 CORPORATION
+
+
+
+
+                                   3

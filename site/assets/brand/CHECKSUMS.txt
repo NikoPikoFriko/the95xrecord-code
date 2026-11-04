@@ -1,0 +1,53 @@
+The 95x Record - brand assets - sha256 of every shipped file
+generated 2026-10-31 19:39 Hawaiian Standard Time by src/make_manifests.py
+
+file                                       bytes     pixels  sha256
+----------------------------------------------------------------------------------------------------
+BRAND.md                                   11113             e4a6e51cb5e96bbb6d94afa7e95df2d5167af04d647259b18f0aa75ea65befcb
+PRESS-FACT-SHEET.md                         2620             1e58041a7e17d15b3c07e780fb5558b2455337c34e989aacce6b4502aefa98e6
+favicon-180.png                             8774    180x180  55ff9b154e3760c85340fbfb58bee041f7cfc253a69f14986246aa5ef0d795d0
+favicon-32.png                              1252      32x32  81112622c8a20578992fc5753501a4e95b26f01ff90019c5226db283b6498319
+favicon.svg                                 1711             d6d7127bbc210a45a81a3fd072ec3aef9b58edaf51b98c5b485cf44e9762a867
+og/MANIFEST.json                            2977             db004bf7cb31ef3eb6f7ddf4648138bd575b2e619053b60a7030742cdd4a439d
+og/coverage.png                            30172   1200x630  1078a72dca98f4d03c0d7dac7e3cb49fda128bf532e59d25f0b516efa6e2d76e
+og/findings.png                            31708   1200x630  7e6b2239f013435d779950c83216698c1fafe6956c310f38e9e728601c0a76f4
+og/hook.png                                41175   1200x630  f8beca28c42cc4adb17dde7b5fdd01272a339df1934b4104015901c93e51dec9
+og/index.png                               44845   1200x630  560a4c70f49434c8d0c111f175d9e6ae23539f58ee90ca8d170c5eddbec5f9ec
+og/numbers.png                             34190   1200x630  20df1e8b5f15976067b79c4672320e822ddf93b8252a04bf3596e86a5bf3043b
+og/pl.png                                  42287   1200x630  2da2436c0dec1eb8305d3e25dda27305af170a2fdf6a356284cb58096b0995ef
+og/src/coverage.html                        3507             45270407a32a57390274a3129d3b6faafa3f1a6d99f94fadf70f3462830fe282
+og/src/findings.html                        3591             5bffb7a5272f07c8546c32aacec811c438a6318ade80bbcfa708974c32edd259
+og/src/hook.html                            3587             cd06470efea9d7b7b7fa21781dccdedfa9e18eff5b516a3897b46ac03ab68aaf
+og/src/index.html                           3790             b4b86711fd6ea3fc96f9767d694a77b927ad6e20b16a73e7e6c49a5be56a3e3d
+og/src/numbers.html                         3542             ceb0a0d3bf42b402b99fc7805365d8602e164acfd47b02fdf76eea472ee02cd6
+og/src/pl.html                              3566             e45bed976bab94bb03730466c3fb1f9e059eea8194baed589eca7c41e11248d7
+posts/01.png                               62569   1600x900  039a2df3a5cfbff6175d791d0f392d2b70e0c5f792cc7659ff8ef13d01a4117f
+posts/02.png                               67612   1600x900  49d7073ce050c8e9a42ed16f92e3527098e90f8ad22c5951aae53e8917beb2d4
+posts/03.png                               58676   1600x900  807bee137a1456f940bc01b3f4d346dbaa6bf548783d889569b801aa292b445b
+posts/04.png                               61390   1600x900  70e11ab2fd0cdc3f86b2a5bbeb30b4202a3e47d3fa3a8f7327c89e929532412b
+posts/05.png                               68195   1600x900  6ed0c0f449fe9497023741838c1eb465bf0743ff7c10479b4104b94ece2153f4
+posts/06.png                               74328   1600x900  06d795cf19127a92a9f5f3be908b5129756f368bef7a02ab5de8a4a48d554b59
+posts/07.png                               71093   1600x900  3fe5cfa21972ff7984c5820d518a8c56aa956088401df4fe49df6c53665b55b7
+posts/08.png                               61525   1600x900  b12aa0c171d0de004d7c5c1e62fe6d3578941e38c9f6ffc0fe24338369c614d3
+posts/MANIFEST.json                         3212             65b90b7ff62b46835869ca9c301e2cc6d43e3610da1300372000e6d43e271df0
+posts/src/01.html                           3460             1d19cdc0ad484e716d99163a8f883ebf86e00da34d56b39d82365a20f4c11478
+posts/src/02.html                           3470             f6756f4da15b8ed3b0f2ffcddee2caccfa4b1f59b73d0a2fdcca5fdcca6a114d
+posts/src/03.html                           3468             3b90ca37a7810e42e9856e64a4d55c5a5be2d52d7c9fe9888f22b2cffb653dbd
+posts/src/04.html                           3458             f6f9db177fc68b9d6d94b2a460e8225db2f81032dea6995bfb7448df416ea42e
+posts/src/05.html                           3466             99a22fe8a5b66340a42b2e904683c082ae43dc740c0eef08533d4a2fe7baa3af
+posts/src/06.html                           3502             1977736fa89a17a5441908cd8b9151f473215d3c3ce262eaff63b4dc36dd6379
+posts/src/07.html                           3499             0449b9650f7cad0f7fb3bcb125663cfa4a30f2bc95f93e1468c7cfb4423a6849
+posts/src/08.html                           3468             e0bde6c9b5190d12326492940f2eca5eca4931ed4ea391c4a3f6af4de4bdd113
+press.pdf                                  73378             9c85a55309c3ebb0bfc58ad8a9541b642545f44a1f64990c81dc07bf31154435
+preview/brand-preview.html                 64537             34ddc67fb981bf5e4993816d4c9f2100866a9b497972330b17f5eed81dbbafe8
+preview/brand-preview.png                  56429   1280x900  b3159a49fed16fa2ed2abdc80db9bffc476ae81f36e9f89c937a3bc075efe5b0
+src/build_cards.py                         14543             957fe4adce13e6c7db02324ba4be6a9310bdf0976646b52f6de7f7a71240717c
+src/build_marks.py                          9325             70d3672b7da3375c53df9448e015f7975eac0cc05556275036e5a4a06015b7c6
+src/build_press.py                          9648             6ab786924265263e95b062ae446eacd1d9ecca1b78cb6e988c2a127cf4a0dc02
+src/make_favicon_pngs.py                    1813             d11705fae53679f67d0cd9244eaf8822fd6f6d8f1b4446b7b61a8a9b8f8f44fd
+src/make_manifests.py                       4285             f4c0d5c2837b9d8c3e9b1cd615a5c5d17bfa5cdc19eb1c4a6c17c9621b59253c
+src/make_preview.py                         3395             de4aa8cf293658516bacdbcf840c29f724336440d05de9e7341aa9c8b7a0ffda
+src/press-print.html                        5354             efcbaf83afa5b5ff9c3ce6ac96c5c18a7f442f11123e255bd3daa31f55e082bb
+wordmark.svg                               18115             f23a7485bd1288e89187c056ca8574faa45af13b25d82febcbc9af7fb1bf8cdd
+
+46 files

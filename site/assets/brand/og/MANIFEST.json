@@ -1,0 +1,68 @@
+{
+ "generated": "2026-10-31 19:39 Hawaiian Standard Time",
+ "generator": "src/build_cards.py",
+ "size": "1200x630",
+ "note": "Designed title cards, not screenshots of the live pages: they keep the site's palette, eyebrow, serif headline and docket cites, and they do not update when page copy changes. og:image paths assume the site root is site/; nothing here was deployed or tested against a live social scraper.",
+ "cards": [
+  {
+   "page": "index",
+   "og:title": "The 95× Record",
+   "og:description": "An open record of AOAO Marine Surf Waikiki v. Nikodem Pikor, Circuit Court of the First Circuit, Hawaii.",
+   "og:url": "https://the95xrecord.vercel.app/",
+   "og:image": "https://the95xrecord.vercel.app/assets/brand/og/index.png",
+   "file": "og/index.png",
+   "cite": null,
+   "status": "1,121/1,121 SHA-256 · 0 mismatches"
+  },
+  {
+   "page": "hook",
+   "og:title": "One elevator repair. One judgment.",
+   "og:description": "$2,260.15 repair → $214,890.23 total. A ratio of 95.08, built from the record’s own figures.",
+   "og:url": "https://the95xrecord.vercel.app/hook",
+   "og:image": "https://the95xrecord.vercel.app/assets/brand/og/hook.png",
+   "file": "og/hook.png",
+   "cite": "[Dkt 453 pp. 2, 15]",
+   "status": "every figure quoted with a docket and a page"
+  },
+  {
+   "page": "numbers",
+   "og:title": "$214,890.23",
+   "og:description": "211,747.77 + 2,842.46 + 300.00. Quoted from the letter; the addition is the site’s.",
+   "og:url": "https://the95xrecord.vercel.app/numbers",
+   "og:image": "https://the95xrecord.vercel.app/assets/brand/og/numbers.png",
+   "file": "og/numbers.png",
+   "cite": "[Dkt 453 p.15]",
+   "status": "Dkt 453 downloaded and SHA-256 matched"
+  },
+  {
+   "page": "findings",
+   "og:title": "“the AOAO demands literally 100 times the value of their claim in fees”",
+   "og:description": "Filed by the defendant, 2024-08-01. 214,890.23 / 2,260.15 = 95.08.",
+   "og:url": "https://the95xrecord.vercel.app/findings",
+   "og:image": "https://the95xrecord.vercel.app/assets/brand/og/findings.png",
+   "file": "og/findings.png",
+   "cite": "[Dkt 405 p.5]",
+   "status": "assertion quoted, labelled, not adopted"
+  },
+  {
+   "page": "coverage",
+   "og:title": "491 of 495 entries held.",
+   "og:description": "Four entries the site cannot show: Dkt 484, 486, 487 and 493.",
+   "og:url": "https://the95xrecord.vercel.app/coverage",
+   "og:image": "https://the95xrecord.vercel.app/assets/brand/og/coverage.png",
+   "file": "og/coverage.png",
+   "cite": "[Dkt 486]",
+   "status": "gaps published on purpose"
+  },
+  {
+   "page": "pl",
+   "og:title": "1 121 dokumentów. Każdy z SHA-256.",
+   "og:description": "214 890,23 / 2 260,15 = 95,08×. Każdy cytat z numerem Dkt i stroną.",
+   "og:url": "https://the95xrecord.vercel.app/pl",
+   "og:image": "https://the95xrecord.vercel.app/assets/brand/og/pl.png",
+   "file": "og/pl.png",
+   "cite": "[Dkt 453 p.15]",
+   "status": "1 121 / 1 121 haszy · 0 niezgodności"
+  }
+ ]
+}

@@ -1,0 +1,824 @@
+===== PAGE 001 / 19 =====
+     Of Counsel:
+     ROECA LURIA SHIN LLP
+     A Limited Liability Law Partnership                                                                                      Electronically Filed
+                                                                                                                              FIRST CIRCUIT
+     APRIL LURIA                  4687-0                                                                                      1RC191003776
+     aluria@rlhlaw.com                                                                                                        15-OCT-2020
+     JAMES R. FERGUSON            7433-0
+                                                                                                                              06:22 PM
+     jferguson@rlhlaw.com
+                                                                                                                              Dkt. 117 MOT
+     BARRON T. ODA                9630-0
+     boda@rlhlaw.com
+     Davies Pacific Center
+     841 Bishop Street, Suite 900
+     Honolulu, Hawai‘i 96813-3917
+     Telephone: (808) 538-7500
+
+     Attorneys for Counterclaim Defendant
+     ASSOCIATION OF APARTMENT OWNERS
+     OF MARINE SURF WAIKIKI, INC.,
+     BY ITS BOARD OF DIRECTORS
+
+                                          IN THE DISTRICT COURT OF THE CIRCUIT
+
+                                                            HONOLULU DIVISION
+
+                                                               STATE OF HAWAII
+
+     ASSOCIATION OF APARTMENT                     )                                  CIVIL NO. 1RC191003776
+     OWNERS OF MARINE SURF WAIKIKI, )
+     INC., a Hawaii nonprofit corporation, by its )                                  COUNTERCLAIM DEFENDANT
+     Board of Directors,                          )                                  ASSOCIATION OF APARTMENT
+                                                  )                                  OWNERS OF MARINE SURF WAIKIKI,
+                   Plaintiffs,                    )                                  INC., BY ITS BOARD OF DIRECTORS’
+                                                  )                                  MOTION FOR PARTIAL DISMISSAL OF
+            vs.                                   )                                  FIRST AMENDED COUNTERCLAIM;
+                                                  )                                  MEMORANDUM IN SUPPORT OF
+     NIKODEM PIKOR,                               )                                  MOTION; NOTICE OF MOTION;
+                                                  )                                  CERTIFICATE OF SERVICE
+                   Defendant.                     )
+     ____________________________________)                                           HEARING MOTION
+                                                  )
+     NIKODEM PIKOR,                               )
+                                                  )                                  Judge: Presiding
+                   Counterclaim Plaintiff,        )                                  Trial Date: None Set
+                                                  )
+            vs.                                   )
+                                                  )
+     ASSOCIATION OF APARTMENT                     )
+
+I do hereby certify that the foregoing is a full, true and correct copy of the official court record of the Courts of the State of Hawai`i.
+Dated at: Honolulu, Hawai`i 02-SEP-2026, /s/ Lori Ann Okita, Clerk of the First Judicial Circuit, State of Hawai`i
+
+===== PAGE 002 / 19 =====
+OWNERS OF MARINE SURF WAIKIKI, )
+INC., a Hawaii nonprofit corporation, by its )
+Board of Directors,                          )
+                                             )
+              Counterclaim Defendant.        )
+____________________________________)
+                                             )
+NIKODEM PIKOR,                               )
+                                             )
+              Third-Party Plaintiff,         )
+                                             )
+       vs.                                   )
+                                             )
+THYSSENKRUPP ELEVATOR                        )
+CORPORATION, a foreign profit                )
+corporation,                                 )
+                                             )
+              Third-Party Defendant.         )
+____________________________________)
+0454.230/Motion for Partial Dismissal
+
+     COUNTERCLAIM DEFENDANT ASSOCIATION OF APARTMENT OWNERS OF
+     MARINE SURF WAIKIKI, INC., BY ITS BOARD OF DIRECTORS’ MOTION FOR
+           PARTIAL DISMISSAL OF FIRST AMENDED COUNTERCLAIM
+
+        Counterclaim Defendant ASSOCIATION OF APARTMENT OWNERS OF MARINE
+
+SURF WAIKIKI, INC., BY ITS BOARD OF DIRECTORS, by and through its counsel, Roeca
+
+Luria Shin LLP, hereby moves this Honorable Court for partial dismissal of Defendant and
+
+Counterclaim-Plaintiff Nikodem Pikor’s First Amended Counterclaim pursuant to the Court’s
+
+Order Granting In Part and Denying In Part Plaintiff / Counterclaim Defendant Association of
+
+Apartment Owners of Marine Surf Waikiki, Inc.’s Non-Hearing Motion For Reconsideration,
+
+entered September 25, 2020 [JEFS 114].
+
+        This Motion is brought pursuant to Rules 7 and 12(b)(6) of the Hawai‘i District Court
+
+Rules of Civil Procedure and HRS § 604-5 and § 632-1.
+
+
+
+
+                                                 -2-
+
+===== PAGE 003 / 19 =====
+DATED: Honolulu, Hawai‘i, October 15, 2020.
+
+
+                          /s/ Barron T. Oda
+                          APRIL LURIA
+                          JAMES R. FERGUSON
+                          BARRON T. ODA
+                          Attorneys for Counterclaim Defendant
+                          ASSOCIATION OF APARTMENT OWNERS OF
+                          MARINE SURF WAIKIKI, INC., BY ITS BOARD
+                          OF DIRECTORS
+
+
+
+
+                            -3-
+
+===== PAGE 004 / 19 =====
+                       IN THE DISTRICT COURT OF THE CIRCUIT
+
+                                   HONOLULU DIVISION
+
+                                     STATE OF HAWAII
+
+ASSOCIATION OF APARTMENT                     )   CIVIL NO. 1RC191003776
+OWNERS OF MARINE SURF WAIKIKI, )
+INC., a Hawaii nonprofit corporation, by its )   MEMORANDUM IN SUPPORT OF
+Board of Directors,                          )   MOTION
+                                             )
+              Plaintiffs,                    )
+                                             )
+       vs.                                   )
+                                             )
+NIKODEM PIKOR,                               )
+                                             )
+              Defendant.                     )
+____________________________________)
+                                             )
+NIKODEM PIKOR,                               )
+                                             )
+              Counterclaim Plaintiff,        )
+                                             )
+       vs.                                   )
+                                             )
+ASSOCIATION OF APARTMENT                     )
+OWNERS OF MARINE SURF WAIKIKI, )
+INC., a Hawaii nonprofit corporation, by its )
+Board of Directors,                          )
+                                             )
+              Counterclaim Defendant.        )
+____________________________________)
+                                             )
+NIKODEM PIKOR,                               )
+                                             )
+              Third-Party Plaintiff,         )
+                                             )
+       vs.                                   )
+                                             )
+THYSSENKRUPP ELEVATOR                        )
+CORPORATION, a foreign profit                )
+corporation,                                 )
+                                             )
+              Third-Party Defendant.         )
+                                             )
+
+===== PAGE 005 / 19 =====
+                        MEMORANDUM IN SUPPORT OF MOTION
+
+
+       Counterclaim Defendant AOAO Marine Surf (“Marine Surf”) moves this Honorable
+
+Court for a partial dismissal of Defendant and Counterclaim/Third Party Defendant Nikodem
+
+Pikor’s (“Pikor”) First Amended Counterclaim, pursuant to the Court’s Order Granting In Part
+
+and Denying In Part Plaintiff / Counterclaim Defendant Association of Apartment Owners of
+
+Marine Surf Waikiki, Inc.’s Non-Hearing Motion For Reconsideration, entered September 25,
+
+2020 [JEFS 114], and hereby submits this memorandum in support of its motion for partial
+
+dismissal of Pikor’s First Amended Counterclaim.
+
+
+
+I.     INTRODUCTION
+
+       Marine Surf’s Motion is limited to only moving this Court to dismiss Count VIII of
+
+Pikor’s Counterclaim. Pursuant to this Court’s Order Granting In Part and Denying In Part
+
+Plaintiff / Counterclaim Defendant Association of Apartment Owners of Marine Surf Waikiki,
+
+Inc.’s Non-Hearing Motion For Reconsideration, entered September 25, 2020 [JEFS 114],
+
+Pikor’s demand for a jury trial was DENIED and this Court retained jurisdiction of the case.
+
+       Now that this Court has denied Pikor’s untimely jury demand and retained exclusive
+
+jurisdiction of this case, Count VIII fails to state a claim upon which relief can be granted
+
+because declaratory relief is not the type of relief a district court may grant, and the Court must
+
+DISMISS Count VIII to conform the First Amended Counterclaim to the Order entered
+
+September 25, 2020 [JEFS 114] and the jurisdictional boundaries of the Court. Further, the
+
+declarations requested in Count VIII of Pikor’s First Amended Counterclaim are moot and
+
+redundant because there is no unique relief that a declaratory judgment can give Pikor that he
+
+hasn’t already prayed for in other counts.
+
+
+                                                -2-
+
+===== PAGE 006 / 19 =====
+II.    RELEVANT BACKGROUND
+
+       This case arose because Pikor broke the elevator door of AOAO Marine Surf and refused
+
+to reimburse Marine Surf for its repair. On May 9, 2018, Pikor placed a large container in
+
+between the doors of the elevator so that when the elevator doors attempted to close, the doors
+
+were not allowed to close and therefore suffered damage for which repair was required.
+
+Complaint, Exhibit 1, p. 1, ¶ 3. The elevator repair cost $2,260.15. Id. at p. 1-2, ¶ 4; Id., Exhibit
+
+2. Marine Surf filed its Complaint on May 31, 2019.
+
+       Pikor filed his Answer and Counterclaim on July 8, 2019. Pikor’s counterclaim did not
+
+contain a jury demand or a request for declaratory relief. Marine Surf answered Pikor’s
+
+counterclaim on August 13, 2019.
+
+       Nearly a year after Pikor filed his Answer and Counterclaim, Pikor, through new counsel,
+
+filed a motion for leave to amend his answer, add counterclaims, and grant a jury demand on
+
+June 2, 2020 [JEFS 79].
+
+       Pikor’s proposed First Amended Counterclaim included a new Count VIII, “Declaratory
+
+Relief,” which stated in relevant part:
+
+       Plaintiff is entitled to a declaration by this Court that:
+               a) Mr. Pikor is not legally responsible for the cost to repair the elevator or for its
+                    attorneys’ fees and costs;
+               b) The AOAO is to use common expenses to pay for the cost to repair the
+                    elevator;
+               c) The AOAO has a fiduciary duty to conduct an independent and unbiased
+                    investigation into the cause of the elevator malfunction and to seek on behalf
+                    of the owners the entity or person(s) legally responsible for such malfunction.
+       Id., Exhibit 1, ¶ 56.
+
+       The Court granted Pikor’s motion its entirety on June 29, 2020 [JEFS 92], but upon
+
+reconsideration, the Court denied Pikor’s untimely jury demand on September 25, 2020 [JEFS
+
+
+
+
+                                                -3-
+
+===== PAGE 007 / 19 =====
+114]. The Court stated in relevant part, “The court denies the Mr. Pikor’s jury demand due to
+
+lack of timeliness, lack of demonstrated excusable neglect, and because the Mr. Pikor’s
+
+counterclaim does not state a specific amount of damages of $5,000.00 or more.” Id.
+
+
+
+III.   LEGAL STANDARD
+
+       “In the words of HRS § 632-1, the dispositive question is whether ‘the court is satisfied
+
+also that a declaratory judgment will serve to terminate the uncertainty or controversy giving rise
+
+to the proceeding.’ This is a question of law.” Island Ins. Co., Ltd. v. Perry, 94 Hawai‘i 498,
+
+502, 17 P.3d 847, 851 (App. 2000).
+
+       Hawai‘i District Court Rules of Civil Procedure Rule 12(b)(6) is identical to HRCP Rule
+
+12(b)(6). A complaint should be dismissed if it appears beyond a doubt that the plaintiffs can
+
+prove no set of facts entitling them to relief. Bertelmann v. Taas Assocs., 69 Haw. 95, 99, 735
+
+P.2d 930, 933 (Haw. 1987); see also Bank of Am., N.A. v. Reyes-Toledo, 143 Hawai‘i 249, 255,
+
+428 P.3d 761, 767 (2018) (internal citations omitted). In ruling on a motion to dismiss, the court
+
+should assume that the factual allegations contained in the complaint are true. Au v. Au, 63 Haw.
+
+210, 214, 626 P.2d 173, 177 (Haw. 1981).
+
+       “Factual allegations must be enough to raise a right to relief above the speculative level
+
+on the assumption that all of the complaint's allegations are true (even if doubtful in fact).” Id.
+
+(internal citations omitted). However, the court should not accept conclusory allegations about
+
+the legal effect of pleaded facts if the allegations do not reasonably follow from the plaintiff’s
+
+description of what happened. Moore v. Allstate Ins. Co., 6 Haw. App. 646, 651, 736 P.2d 73,
+
+77 (Haw. Ct. App. 1987). See also Papasan v. Allain, 478 U.S. 265, 286, 106 S.Ct. 2932, 92
+
+L.Ed.2d 209 (1986) (on motion to dismiss, courts “are not bound to accept as true a legal
+
+
+
+
+                                                -4-
+
+===== PAGE 008 / 19 =====
+conclusion couched as a factual allegation”). In addition, the Court may take note of documents
+
+outside the pleadings that are a matter of public record without converting a Rule 12(b)(6)
+
+motion to dismiss into a Rule 56 motion for summary judgment. Peelua v. Impac Funding
+
+Corp., No. CAAP-12-0000611, 2015 Haw. App. LEXIS 360, at *11 (Haw. Ct. App. July 2,
+
+2015).
+
+
+
+IV.      ARGUMENT
+
+         A. Pikor’s Counterclaim Fails to State a Claim Upon Which Relief Can Be Granted
+            Because Declaratory Relief Is Not Available in District Court.
+
+         Declaratory relief is a special kind of relief intended to promote judicial economy and to
+
+prevent controversies from ripening into further litigation. The Ninth Circuit has observed, “the
+
+very purpose of declaratory relief [ ] is to ‘economize[ ] on judicial time.’” City of Colton v. Am.
+
+Promotional Events, Inc.-West, 614 F.3d 998, 1008 (9th Cir. 2010) (citing PMC, Inc. v. Sherwin-
+
+Williams Co., 151 F.3d 610, 616 (7th Cir. 1998)). A California Appeals Court explained, “[a]
+
+declaratory action is intended to provide a remedy that is simpler and less harsh than coercive
+
+relief, if it appears that a declaration might terminate the potential controversy.” Aerojet-
+
+General Corp. v. Am. Excess Ins. Co., 97 Cal. App. 4th 387, 403, 117 Cal. Rptr. 2d 427, 437
+
+(2002). Also:
+
+         “A purpose of declaratory relief is to allow the parties to avoid future litigation in which
+         they would have to seek more coercive remedies. Declaratory relief permits actual
+         controversies to be settled before they ripen into violations of law or a breach of
+         contractual duty and it helps avoid a multiplicity of actions by affording an adequate,
+         expedient, and inexpensive means for declaring in one action the rights and obligations of
+         litigants.”
+         Kanuk v. State, Dep’t of Nat. Res., 335 P.3d 1088, 1102-03 (Alaska 2014).
+
+
+
+
+                                                 -5-
+
+===== PAGE 009 / 19 =====
+       This special kind of relief is reserved for Circuit Courts and is not available in District
+
+Courts. Declaratory relief is governed by HRS § 632 and Rule 57 of the Hawai‘i Rules of Civil
+
+Procedure. HRS § 632-1 unambiguously states, “declaratory relief may not be obtained in any
+
+district court,” and there is no Rule 57 counterpart in the Hawai‘i District Court Rules of Civil
+
+Procedure. This Court is without jurisdiction to grant Pikor any declaratory relief. Accordingly,
+
+Count VIII must be dismissed for failure to state a claim upon which relief can be granted.
+
+
+
+       B. Count VIII Must Be Dismissed to Conform the First Amended Counterclaim to
+          the Court’s September 25, 2020 Order [JEFS 114].
+
+       Although the purpose of declaratory relief is to promote judicial economy and to prevent
+
+controversies from ripening into additional litigation, those were not the reasons why Pikor
+
+requested declaratory relief. Pikor made an untimely request for a jury demand and included
+
+Count VIII as a tactical forum-shopping attempt to avoid District Court. The District Court
+
+properly denied Pikor’s untimely jury demand on September 25, 2020, and must now dismiss
+
+Count VIII for failure to state a claim upon which relief can be granted and additionally to
+
+conform the First Amended Counterclaim to the jurisdictional boundaries of District Court.
+
+       Taking the allegations pled in the Complaint as true for this Motion, the Circuit Court
+
+does not have jurisdiction over this case because the amount in controversy is $2,260.15 plus
+
+attorneys’ fees and costs. Complaint, p. 1-2, ¶ 4; Id., Exhibit 2. The jurisdictional limit of
+
+District Court is $40,000 (HRS § 604-5(a)), and the District Court retains exclusive jurisdiction
+
+when the amount in controversy is less than $10,000. Id. A jury trial may be had in Circuit
+
+Court when a jury demand is properly made, the matters are triable as a matter of right, and when
+
+the amount in controversy exceeds $5,000. HRS § 604-5(b). Here, the Court found that “Mr.
+
+Pikor’s counterclaim does not state a specific amount of damages of $5,000.00 or more.” Order
+
+
+
+                                                -6-
+
+===== PAGE 010 / 19 =====
+Granting in Part and Denying In Part [Marine Surf’s] Motion For Reconsideration, entered
+
+September 25, 2020 [JEFS 114]. Accordingly, because this Court retains exclusive jurisdiction
+
+over this case now that Pikor’s untimely jury demand has been denied, the Court must now also
+
+dismiss Count VIII for failure to state a claim upon which relief can be granted and to conform to
+
+this Court’s jurisdictional boundaries.
+
+
+        C. Even if the Court Could Grant Declaratory Relief, the Relief Requested Is Moot
+           or Redundant.
+
+        Even if this Court had jurisdiction to grant declaratory relief, the declarations requested
+
+are moot and redundant because there is nothing in them that Pikor hasn’t already prayed for in
+
+one form or another in the other counts of his First Amended Counterclaim. Further, the
+
+declarations sought would be improper as a matter of law as discussed below. Pikor requested
+
+the following declarations in his First Amended Counterclaim:
+
+        Plaintiff is entitled to a declaration by this Court that:
+                a) Mr. Pikor is not legally responsible for the cost to repair the elevator or for its
+                     attorneys’ fees and costs;
+                b) The AOAO is to use common expenses to pay for the cost to repair the
+                     elevator;
+                c) The AOAO has a fiduciary duty to conduct an independent and unbiased
+                     investigation into the cause of the elevator malfunction and to seek on behalf
+                     of the owners the entity or person(s) legally responsible for such malfunction.
+        [JEFS 79], Exhibit 1, ¶ 56.
+
+        i.      Declaration (a) is redundant and improper.
+
+        The declaration (a) above is redundant because if Pikor prevails, he would not be found
+
+legally responsible for the cost to repair the elevator, and may be entitled to reasonable attorney’s
+
+fees and costs under HRS § 514B-157(a). There is no reason for declaration (a). Further, it is
+
+also improper because as AMERICAN JURISPRUDENCE 2d explains, “The primary purpose of
+
+declaratory relief is to permit a plaintiff to obtain a declaration of its rights and liabilities before
+
+
+
+
+                                                  -7-
+
+===== PAGE 011 / 19 =====
+proceeding with a course of conduct for which it might be held liable, not to declare nonliability
+
+for past conduct.” Mid-Century Ins. Co. v. Estate of Morris, 966 N.E.2d 681, 688 (Ind. Ct. App.
+
+2012) (citing 22A Am. Jur. 2D Declaratory Judgments § 129 (2012)) (emphasis added).
+
+       ii.     Declaration (b) is redundant and moot.
+
+       The declaration (b) above is already redundant and moot because as indicated in the
+
+Complaint, Marine Surf did pay as common expenses the damage Pikor caused as indicated by
+
+its demand for reimbursement. See Complaint, ¶ 7. Marine Surf’s paying for the repair is not at
+
+issue in this case; what is at issue is Pikor’s misconduct and Marine Surf’s proper and lawful
+
+assessment of expenses exclusively against his unit pursuant to its governing documents as
+
+described in the Complaint and pursuant to HRS § 514B-144(d).1 Marine Surf already paid to
+
+fix the elevator and this fact is not in dispute, which makes declaration (b) entirely improper for
+
+declaratory relief. A California Appeals court explained, “One purpose of declaratory relief is to
+
+liquidate doubts with respect to uncertainties or controversies which might otherwise result in
+
+subsequent litigation.” Am. Meat Inst. v. Leeman, 180 Cal. App. 4th 728, 741-42, 102 Cal. Rptr.
+
+3d 759, 768-69 (2009) (citations and quotations omitted; emphasis added).
+
+       iii.    Declaration (c) is moot and improper.
+
+       Last, the declaration (c) above is moot and improper because, taking the allegations in the
+
+Complaint as true, Marine Surf already determined Pikor broke the elevator by blocking the
+
+doors with a large container on May 8, 2018 at approximately 3:11pm. Complaint, Exhibit 1, p.
+
+1, ¶ 3. Moreover, declaration (c) seeks to impose new fiduciary duties upon Marine Surf which
+
+is inappropriate for declaratory relief because it is executory: “The purpose of declaratory relief
+
+
+
+1
+ HRS § 514B-144(d) states in its entirety, “If any common expense is caused by the misconduct
+of any unit owner, the association may assess that expense exclusively against such owner’s
+unit.”
+
+
+                                                -8-
+
+===== PAGE 012 / 19 =====
+is to set controversies at rest before they lead to repudiation of obligations, invasion of rights or
+
+commission of wrongs. It is to be used in the interests of preventive justice, to declare rights
+
+rather than execute them.” Envtl. Def. Project of Sierra Cty. v. Cty. of Sierra, 158 Cal. App. 4th
+
+877, 884, 70 Cal. Rptr. 3d 474, 479 (2008) (citations and quotations omitted; emphasis added).
+
+       Further, to the extent that declaration (c) seeks to impose new fiduciary duties upon
+
+Marine Surf in favor of Pikor, that is relief which no court can grant because an AOAO owes
+
+fiduciary duties to the Association. There are certain special cases where fiduciary duties may be
+
+owed to association members as a whole when the interests of all members are the same (such as
+
+during leasehold renegotiation - see HRS § 541B-151(a)). Nothing in Pikor’s First Amended
+
+Counterclaim suggests that this is such a special case where fiduciary duties are owed to
+
+members. “Even if the AOAO did owe Plaintiff a fiduciary duty, the AOAO could not be
+
+obligated to place Plaintiff’s interests above those interests of the members of the whole.”
+
+Baham v. AOAO Opua Hale Patio Homes, 2014 U.S. Dist. LEXIS 82873 at *27 (D. Haw. June
+
+18, 2014).
+
+
+
+                    (Remainder of page is blank; continued on following page)
+
+
+
+
+                                                 -9-
+
+===== PAGE 013 / 19 =====
+V.     CONCLUSION
+
+       For the reasons set forth above, this Court retains exclusive jurisdiction over this case,
+
+and declaratory relief is not available in District Court. Accordingly, Marine Surf respectfully
+
+requests that Pikor’s Count VIII for declaratory relief be DENIED.
+
+
+
+               DATED: Honolulu, Hawai‘i, October 15, 2020
+
+
+                                              /s/ Barron T. Oda
+                                              APRIL LURIA
+                                              JAMES R. FERGUSON
+                                              BARRON T. ODA
+                                              Attorneys for Counterclaim Defendant
+                                              ASSOCIATION OF APARTMENT OWNERS OF
+                                              MARINE SURF WAIKIKI, INC., BY ITS BOARD
+                                              OF DIRECTORS
+
+
+
+
+                                               - 10 -
+
+===== PAGE 014 / 19 =====
+                       IN THE DISTRICT COURT OF THE CIRCUIT
+
+                                   HONOLULU DIVISION
+
+                                     STATE OF HAWAII
+
+ASSOCIATION OF APARTMENT                     )   CIVIL NO. 1RC191003776
+OWNERS OF MARINE SURF WAIKIKI, )
+INC., a Hawaii nonprofit corporation, by its )
+Board of Directors,                          )   NOTICE OF MOTION
+                                             )
+              Plaintiffs,                    )
+                                             )
+       vs.                                   )
+                                             )
+NIKODEM PIKOR,                               )
+                                             )
+              Defendant.                     )
+____________________________________)
+                                             )
+NIKODEM PIKOR,                               )
+                                             )
+              Counterclaim Plaintiff,        )
+                                             )
+       vs.                                   )
+                                             )
+ASSOCIATION OF APARTMENT                     )
+OWNERS OF MARINE SURF WAIKIKI, )
+INC., a Hawaii nonprofit corporation, by its )
+Board of Directors,                          )
+                                             )
+              Counterclaim Defendant.        )
+____________________________________)
+                                             )
+NIKODEM PIKOR,                               )
+                                             )
+              Third-Party Plaintiff,         )
+                                             )
+       vs.                                   )
+                                             )
+THYSSENKRUPP ELEVATOR                        )
+CORPORATION, a foreign profit                )
+corporation,                                 )
+                                             )
+              Third-Party Defendant.         )
+                                             )
+
+===== PAGE 015 / 19 =====
+                                    NOTICE OF MOTION
+
+TO:    PHILIP L. LAHNE, ESQ.
+       GLENN S. HORIO, ESQ.
+       Anderson & Fujisaki LLP
+       Pacific Guardian Ctr., Makai Twr.
+       733 Bishop St., Ste. 2301
+       Honolulu, HI 96813
+          Attorneys for Plaintiff
+          ASSOCIATION OF APARTMENT OWNERS OF
+          MARINE SURF WAIKIKI, INC., BY ITS BOARD OF DIRECTORS
+
+       CALVERT G. CHIPCHASE, IV, ESQ.
+       JARRETT A. DEMPSEY, ESQ.
+       Cades Schutte LLP
+       Cades Schutte Bldg.
+       1000 Bishop St., Fl. 12
+       Honolulu, HI 96813
+          Attorneys for Third-Party Defendant
+          THYSSENKRUPP ELEVATOR CORPORATION
+
+       TERRANCE M. REVERE, ESQ.
+       AMANDA L. DUTCHER, ESQ.
+       Revere & Associates
+       Pali Palms Plaza
+       970 North Kalahea Street, Suite A3-1
+       Kailua, HI 96734
+           Attorneys for Defendant/Counterclaim Plaintiff
+           NIKODEM PIKOR
+
+       NOTICE IS HEREBY GIVEN that the undersigned has filed with the above-entitled court the
+
+motion attached hereto. Any response to said motion must be filed and served no later than 10 days
+
+after the service date indicated on the attached Certificate of Service. Pursuant to Rule 6(e) of the
+
+Hawai‘i Rules of Civil Procedure, if the motion is served by mail, any response to said motion must be
+
+filed and served no later than 12 days after the service date indicated on the attached Certificate of
+
+Service.
+
+
+
+
+                                              -2-
+
+===== PAGE 016 / 19 =====
+DATED: Honolulu, Hawai‘i, October 15, 2020.
+
+
+                          /s/ Barron T. Oda
+                          APRIL LURIA
+                          JAMES R. FERGUSON
+                          BARRON T. ODA
+                          Attorneys for Counterclaim Defendant
+                          ASSOCIATION OF APARTMENT OWNERS OF
+                          MARINE SURF WAIKIKI, INC., BY ITS BOARD
+                          OF DIRECTORS
+
+
+
+
+                            -3-
+
+===== PAGE 017 / 19 =====
+                       IN THE DISTRICT COURT OF THE CIRCUIT
+
+                                   HONOLULU DIVISION
+
+                                     STATE OF HAWAII
+
+ASSOCIATION OF APARTMENT                     )   CIVIL NO. 1RC191003776
+OWNERS OF MARINE SURF WAIKIKI, )
+INC., a Hawaii nonprofit corporation, by its )   CERTIFICATE OF SERVICE
+Board of Directors,                          )
+                                             )
+              Plaintiffs,                    )
+                                             )
+       vs.                                   )
+                                             )
+NIKODEM PIKOR,                               )
+                                             )
+              Defendant.                     )
+____________________________________)
+                                             )
+NIKODEM PIKOR,                               )
+                                             )
+              Counterclaim Plaintiff,        )
+                                             )
+       vs.                                   )
+                                             )
+ASSOCIATION OF APARTMENT                     )
+OWNERS OF MARINE SURF WAIKIKI, )
+INC., a Hawaii nonprofit corporation, by its )
+Board of Directors,                          )
+                                             )
+              Counterclaim Defendant.        )
+____________________________________)
+                                             )
+NIKODEM PIKOR,                               )
+                                             )
+              Third-Party Plaintiff,         )
+                                             )
+       vs.                                   )
+                                             )
+THYSSENKRUPP ELEVATOR                        )
+CORPORATION, a foreign profit                )
+corporation,                                 )
+                                             )
+              Third-Party Defendant.         )
+                                             )
+
+===== PAGE 018 / 19 =====
+                                CERTIFICATE OF SERVICE
+
+       The undersigned hereby certifies that a true and correct copy of the within and foregoing
+
+document was duly served on the following, in the manner indicated below, either by depositing
+
+the same in the United States Mail, first class mail, postage prepaid, by hand delivery and/or
+
+electronically via the Judiciary Electronic Filings and Service (“JEFS”) system, of same on
+
+October 15, 2020.
+
+                                                                         Hand
+                                                          Mail          Delivery         JEFS
+  PHILIP L. LAHNE, ESQ.                                                                    X
+  GLENN S. HORIO, ESQ.
+  Anderson & Fujisaki LLP
+  Pacific Guardian Ctr., Makai Twr.
+  733 Bishop St., Ste. 2301
+  Honolulu, HI 96813
+          Attorneys for Plaintiff
+          ASSOCIATION OF APARTMENT
+          OWNERS OF MARINE SURF
+          WAIKIKI, INC., BY ITS BOARD OF
+          DIRECTORS
+
+  CALVERT G. CHIPCHASE, IV, ESQ.                                                           X
+  JARRETT A. DEMPSEY, ESQ.
+  Cades Schutte LLP
+  Cades Schutte Bldg.
+  1000 Bishop St., Fl. 12
+  Honolulu, HI 96813
+         Attorneys for Third-Party Defendant
+         THYSSENKRUPP ELEVATOR
+        CORPORATION
+
+  TERRANCE M. REVERE, ESQ.                                                                 X
+  AMANDA L. DUTCHER, ESQ.
+  Revere & Associates
+  Pali Palms Plaza
+  970 North Kalahea Street, Suite A3-1
+  Kailua, HI 96734
+          Attorneys for Defendant/Counterclaim
+          Plaintiff NIKODEM PIKOR
+
+
+
+
+                                               -2-
+
+===== PAGE 019 / 19 =====
+DATED: Honolulu, October 15, 2020.
+
+
+             /s/ Barron T. Oda
+             APRIL LURIA
+             JAMES R. FERGUSON
+             BARRON T. ODA
+             Attorneys for Counterclaim Defendant
+             ASSOCIATION OF APARTMENT OWNERS OF
+             MARINE SURF WAIKIKI, INC., BY ITS BOARD
+             OF DIRECTORS
+
+
+
+
+               -3-

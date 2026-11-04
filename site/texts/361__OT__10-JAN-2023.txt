@@ -1,0 +1,544 @@
+===== PAGE 001 / 14 =====
+     DEELEY KING PANG & VAN ETTEN
+     A LIMITED LIABILITY LAW PARTNERSHIP
+                                                                                                                              Electronically Filed
+     GLENN S. HORIO 8151                                                                                                      FIRST CIRCUIT
+     YUN W. KIM            11522                                                                                              1RC191003776
+     1003 Bishop Street, Suite 1550                                                                                           10-JAN-2023
+     Honolulu, HI 96813                                                                                                       02:48 PM
+     Telephone:    (808) 533-1751                                                                                             Dkt. 361 OT
+     Facsimile:    (808) 599-2908
+     E-Mail:       gh@dkpvlaw.com
+                   yk@dkpvlaw.com
+
+     Attorneys for Plaintiff
+
+
+                                    IN THE DISTRICT COURT OF THE FIRST CIRCUIT
+                                                HONOLULU DIVISION
+                                                 STATE OF HAWAI`I
+
+      ASSOCIATION OF APARTMENT                                                   CIVIL NO. 1RC191003776
+      OWNERS OF MARINE SURF WAIKIKI,                                             (Assumpsit-Money Owed)
+      INC., a Hawaii nonprofit corporation, by its
+      Board of Directors                                                         PLAINTIFF AND COUTERCLAIM
+                                                                                 DEFENDANT ASSOCIATION OF
+                                Plaintiff and                                    APARTMENT OWNERS OF MARINE
+                                Counterclaim Defendant,                          SURF WAIKIKI, INC.’S SECOND
+                  vs.                                                            INTERIM TRIAL BRIEF;
+                                                                                 CERTIFICATE OF SERVICE
+      NIKODEM PIKOR,
+
+                                Defendant and                                    Trial:
+                                Counterclaimant.                                 DATES: Thursday, May 12, 2022
+                                                                                        Wednesday, October 26, 2022
+                                                                                        Thursday, October, 2022
+                                                                                        Wednesday, January 11, 2023
+                                                                                        Thursday, January 12, 2023
+
+                                                                                 TIME: 8:30 a.m.
+                                                                                 JUDGE: Presiding
+
+
+
+
+I do hereby certify that the foregoing is a full, true and correct copy of the official court record of the Courts of the State of Hawai`i.
+Dated at: Honolulu, Hawai`i 02-SEP-2026, /s/ Lori Ann Okita, Clerk of the First Judicial Circuit, State of Hawai`i
+
+===== PAGE 002 / 14 =====
+ PLAINTIFF AND COUTERCLAIM DEFENDANT ASSOCIATION OF APARTMENT
+ OWNERS OF MARINE SURF WAIKIKI, INC.’S SECOND INTERIM TRIAL BRIEF
+
+       PLAINTIFF        AND       COUNTERCLAIM            DEFENDANT        ASSOCIATION         OF
+
+APARTMENT OWNERS OF MARINE SURF WAIKIKI, INC. (“Plaintiff” or “Association”), by
+
+and through its attorneys, submits to this Court its second interim trial brief for the purpose of
+
+assisting the Court in refreshing its recollection as to the general testimony presented during the
+
+second day and third day of trial which took place on Wednesday, October 26, 2022 and Thursday,
+
+October 27, 2022, before the Honorable Summer M. M. Kupau-Odo. Plaintiff hereby incorporates
+
+by reference this Court’s Minute Orders which also provide additional summary information
+
+relative to the second day and third day of trial. Dkts. 348, 349, 350, and 351. The following
+
+provides a summary of the testimony provided on said days of trial.
+
+       Terms of usage throughout this Second Interim Trial Brief
+
+       •       “Incident” – shall mean the elevator incident involving DEFENDANT NIKODEM
+PIKOR (“Defendant” or “Mr. Pikor”) appearing in the video footage and which occurred on
+May 9, 2018. Exhibit J-1.
+       I.      Continued testimony by Stuart Uchida of Thyssenkrupp
+
+       The second day of the trial commenced with resumed direct examination of Stuart Uchida,
+a representative of Thyssenkrupp Elevator Corporation (“Thyssenkrupp”), and a few moments
+were spent refreshing the Court as to Mr. Uchida’s background, including his extensive work
+experience in the elevator industry, and specifically about his position as a service technician
+which includes work to repair elevators that have encountered doors that have become decoupled.
+On continued direct examination by Glenn S. Horio, the Association’s counsel, Mr. Uchida
+generally testified to the following, among other things.
+       •       Mr. Uchida testified to the work performed to put the elevator back into service,
+the inspection of the elevator performed in connection with said work, and that nothing was
+observed to be faulty or defective as to the elevator at that time.
+
+
+
+
+                                                  2
+
+===== PAGE 003 / 14 =====
+        •      He confirmed that he previously reviewed the video of the Incident (Exhibit J-1),
+and the video was reviewed again during trial while Mr. Uchida provided commentary as to what
+was happening to the elevator at various points in the video, including at the point when the
+separation/decoupling of the doors could be seen.
+        •      Mr. Uchida confirmed that he participated in the inspection of the elevator on
+October 29, 2021, and certain inspection photographs of the elevator and system were reviewed
+and he provided commentary and confirmed that no defects in the elevator or system were
+observed during the inspection.
+        •      Mr. Uchida offered his observations of the condition of the doors resulting from the
+Incident, and the cause of decoupling being that the doors decoupled when they came into contact
+with Defendant’s bins.
+
+
+        Ms. Amanda Dutcher, counsel for Defendant, conducted a cross-examination of
+Mr. Uchida, and he generally testified to the following, among other things.
+        •      Mr. Uchida was shown Exhibit P-5 (showing the rollers’ level of engagement with
+the clutch).
+        •      Mr. Uchida confirmed that Exhibit P-5 reflected that the elevator, as shown in the
+photograph, had the correct engagement of the clutch between the elevator door and hoistway
+door.
+        •      Mr. Uchida also explained that the infrared sensors on the elevator car doors are
+fixed and cannot be adjusted in any way.
+        •      Mr. Uchida also shared that it is common for tourists to block the elevator doorway
+at the Project with luggage which can lead to the elevator doors decoupling.
+        •      Mr. Uchida noted that decoupling has happened previously at the Marine Surf, but
+only a few times.
+        •      Mr. Uchida testified on the issue of the roller stops, and it was noted that in this
+case it could have been a bolt, among other set ups depending upon the model of the elevator, and
+following this counsel then continued to refer to the roller stops as a prevention or preventative
+bolt.
+        •      Mr. Uchida noted that prevention bolts are designed to prevent elevator doors from
+coming off end of their tracks, but he further explained that they are not designed for large hits and
+
+
+                                                  3
+
+===== PAGE 004 / 14 =====
+it is not a requirement by code to have one on every floor, and he further explained that the “bolt”
+could have been there and may have been knocked off during the Incident or could have simply
+deteriorated and fallen off at some point – but it could not be confirmed that a bolt had ever existed.
+         •      Mr. Uchida also explained that the hoistway doors can come off the tracks in other
+ways than just at the end of the track.
+         •      Ms. Dutcher attempted to elicit testimony about whether in performing elevator
+maintenance work for the Association if he felt that it was a responsibility to install a preventative
+bolt or to recommend to the Association that the preventative bolts be installed, to which
+Mr. Uchida’s response was that it was not within his scope of work to check for those bolts.
+         •      Mr. Uchida commented that decoupling happens often at hotels with tourists
+leaving bags in between elevator doors.
+         •      Mr. Uchida responded to a question about what constitutes misuse, and he
+explained that not all decoupling incidents constitute misuse, and misuse can vary and may be as
+simple as pushing an elevator button with a car key.
+         •      Mr. Uchida testified that the Defendant’s boxes left in the doorway of the elevator
+constituted misuse
+
+
+         On re-direct examination by the Association’s counsel, Mr. Uchida generally testified to
+the following, among other things.
+         •      Mr. Uchida testified about how a bolt or roller stop would not have prevented the
+hoistway doors from decoupling and confirmed that the preventative bolt could have been knocked
+off when the elevator door pushed the hoistway doors outward toward the end of the tracks.
+         •      Counsel sought to have Mr. Uchida opine based upon his experience and first-hand
+observations – as to the cause of the decoupling based upon a lay opinion and an objection was
+raised and the Court sustained the objection noting that lay opinion could not be used in lieu of an
+expert opinion, and upon an attempt to offer said testimony as expert opinion the Court denied the
+offer.
+
+
+         Ms. Amanda Dutcher, counsel for Defendant, conducted a further cross-examination and
+Mr. Uchida generally testified to the following, among other things.
+
+
+
+
+                                                  4
+
+===== PAGE 005 / 14 =====
+       •       Mr. Uchida clarified that decoupling is a different situation from when the elevator
+doors go off their tracks.
+
+
+       II.     Testimony by Chuck Decoito of Thyssenkrupp
+
+       Plaintiff then called Mr. Chuck Decoito, a representative of Thyssenkrupp, as its next
+witness. On direct examination by Mr. Horio, Mr. Decoito generally testified to the following,
+among other things.
+       •       For background purposes, Mr. Decoito’s testified regarding his education, work
+experience, and certifications, and the relationship between Thyssenkrupp and the Association,
+including how often the building is visited and about the character and nature of work that is
+covered under the Platinum Premier maintenance agreement.
+       •       Mr. Decoito testified about the nature of the maintenance provided by
+Thyssenkrupp as being primarily for preventative maintenance and explained that in this case, the
+trouble call for the Incident was categorized as a misuse because the shutdown of the elevator was
+caused by something beyond the normal operation of the elevator.
+       •       Mr. Decoito also explained the trouble call report process, including how the
+reports (“Time Tickets”) comprising Exhibit J-14 were generated and how the information relates
+to the line items on the invoice in Exhibit J-20, and he also testified about the invoice rates and
+that the rates are set pursuant to the IUBC union rates.
+       •       The video (Exhibit J-1) was also reviewed and the status of the elevator at various
+points in the video were explained by Mr. Decoito, and it was confirmed that Mr. Pikor’s actions
+in touching the doors would not have helped to put the elevator back into service.
+       •       Mr. Decoito confirmed that he participated in the inspection of the elevator on
+October 29, 2021, and he provided commentary and confirmed that no defects in the elevator or
+system were observed during the inspection.
+
+
+       Ms. Amanda Dutcher, counsel for Defendant, conducted a cross-examination of
+Mr. Decoito, and he generally testified to the following, among other things.
+       •       Mr. Decoito confirmed that the video (Exhibit J-1) was reviewed and he had asked
+to see video based upon his recollection that there was a camera near the elevators in the basement
+area at the Marine Surf.
+
+
+                                                 5
+
+===== PAGE 006 / 14 =====
+       •       Counsel then sought information on the relationship between Mr. Decoito and
+Mr. Denison for the purpose of seeking to establish bias, and despite having a working relationship
+of nearly 22 years, the response to a specific question by counsel was that Mr. Decoito had never
+met Mr. Denison’s family and they do not have a social relationship.
+       •       Mr. Decoito reviewed portions of Exhibit J-1A through J-1G (still photographs
+from certain points during the video – Exhibit J-1) with commentary about the status of the elevator
+at various points in the video.
+       •       Mr. Decoito confirmed that the elevator car door sensor was functional, that it was
+designed to prevent doors from hitting people, but that there was no infrared door sensor system
+for the hoistway doors.
+       •       Mr. Decoito discussed the term misuse and its use in the industry as a descriptive
+category for the cause of the resultant situation for an elevator necessitating a response to a trouble
+call, and it was noted that misuse could include such actions as roughhousing and jumping which
+may cause an elevator to stop.
+
+
+       On further direct examination by the Association’s counsel, Glenn S. Horio, Mr. Decoito
+generally testified to the following, among other things.
+       •       Mr. Decoito clarified that there is no requirement to include the term misuse on the
+invoice and that the infrared sensor on the elevator car door is only on the leading edges of the car
+door, that the crates that were left in the doorway by Mr. Pikor did not break the infrared curtain,
+and that the detector is fixed without any way to angle them.
+
+
+       III.    Testimony by William E. Denison, the Association’s Managing Agent
+
+       Plaintiff then called Mr. William E. Denison, the Association’s Managing Agent, as its
+next witness. On direct examination by Mr. Horio, Mr. Denison generally testified to the
+following, among other things.
+       •       For background purposes, Mr. Denison testified as to his education, employment
+background, and certifications, and information was provided regarding the position and
+responsibilities as the managing agent of the Association.
+       •       The governing documents of the Association were reviewed, with specific review
+of the portions of the governing documents that provide the Board of Directors with the authority
+
+
+                                                  6
+
+===== PAGE 007 / 14 =====
+and responsibility for the oversight of the administration of the Association, and in turn, the
+provisions that require that the Association have a managing agent and that the Board delegate the
+oversight of the administration of the Association to the managing agent.
+       •       It was confirmed that the Association’s governing documents apply to all members
+of the Association, including Mr. Pikor.
+       •       The elevator incident was reviewed and Mr. Denison confirmed that the invoice
+reflecting the cost for the repair was sent to Mr. Pikor because owners are responsible for the costs
+of repairing and/or replacing common elements that they damage, as set forth in the governing
+documents.
+       •       The process was discussed by which the invoice was sent to Mr. Pikor, which Mr.
+Pikor still has not paid, and that an “assignment of fault” was not necessary for them to send an
+invoice to Mr. Pikor, based upon the video (Exhibit J-1) and additional information related to the
+Incident that was obtained.
+
+
+       Day 2 of the trial concluded, and Day 3 of the trial commenced the following day with the
+continued testimony of William E. Denison.
+       •       Mr. Denison reviewed Exhibit J-16, which was confirmed by William Denison to
+have been unsolicited, in which Jared Okamura, an independent elevator consultant, wrote to
+Mr. Pikor and noted that the boxes left in the elevator doorway is considered a misuse.
+       •       Mr. Denison confirmed that he is not acquainted with Mr. Okamura and that he
+does not know him.
+       •       Mr. Denison then testified about a letter sent to Mr. Pikor demanding payment and
+that the language in Mr. Denison’s letter is consistent with the language within the Association’s
+house rules.
+       •       Mr. Denison confirmed that the elevators are a common element and that advance
+notice is required when moving household goods, as provided by the house rules.
+       •       Mr. Denison then testified about steps taken prior to litigation to resolve the dispute,
+including settlement attempts asking Mr. Pikor for half of the total billed amount.
+       •       Although there was interest and suggestions to mediate the dispute, Mr. Denison
+testified that mediation never took place.
+
+
+
+
+                                                  7
+
+===== PAGE 008 / 14 =====
+       Ms. Amanda Dutcher, counsel for Defendant, conducted a cross-examination of
+Mr. Denison, and he generally testified to the following, among other things.
+       •       Mr. Denison testified that there were no warnings or notices of violation issued on
+behalf of the Association with respect to Mr. Pikor’s conduct.
+       •       Counsel attempted, and failed, to discredit Mr. Denison by asking whether he had
+consulted an attorney prior to writing a letter to Mr. Pikor, and Mr. Denison testified that based on
+his experience, seeking reimbursement is common in such situations where a common element is
+damaged by, or as the result of actions of an owner, and the Association incurs costs to repair or
+replace the common element.
+       •       During the cross examination, there were a few objections made by Mr. Horio as
+to Ms. Dutcher’s line of questioning which resulted in lengthy oral arguments.
+           o First, there was an objection regarding a line of questioning about the Marine Surf
+               Waikiki’s insurance and whether a claim was ever tendered to the carrier. This
+               objection was sustained in favor of the Association.
+           o Then, there was an objection on the line of questioning again as it went towards
+               insurance, and Ms. Dutcher noted the questioning was important for background
+               purposes. The objection was sustained in favor of the Association.
+       •       Mr. Denison testified in response to questions about how the elevators are used,
+noting as an example the transport of goods and individuals, and he also noted that the house rules
+contain certain provisions that regulate use of the elevators at the project.
+       •       It was then inquired about how strictly the rules are enforced, in particular with
+respect to the use of the elevator and the requirement to contact the Association prior to using the
+elevator to move household goods, to which Mr. Denison replied that he did not know and that
+this would be known by the onsite manager.
+       •       Mr. Denison was asked whether there was negligence on the part of Thyssenkrupp
+and why another third party opinion was not obtained given Mr. Denison’s lengthy relationship
+with Mr. Decoito, and Mr. Denison testified that it was not unreasonable to proceed as the
+Association did.
+
+
+       On further direct examination by the Association’s counsel, Mr. Denison generally testified
+to the following, among other things.
+
+
+                                                  8
+
+===== PAGE 009 / 14 =====
+       •        Mr. Denison testified that the option of pursuing mediation was discussed between
+counsel but did not go forward.
+       •        Mr. Denison testified that Mr. Pikor never provided the Association with a reason
+or basis for challenging the invoice for the costs incurred to repair the elevator.
+       •        Mr. Denison also clarified that the basis of the email exchange (Exhibit J-22),
+between Mr. Denison and Mr. Decoito (of Thyssenkrupp), was to follow up with Thyssenkrupp
+and discuss the invoice.
+
+
+       Ms. Amanda Dutcher, counsel for Defendant, conducted a further cross-examination of
+Mr. Denison, and he generally testified to the following, among other things.
+       •        Mr. Denison was questioned about the basis of the charge for which the Association
+was seeking reimbursement from Mr. Pikor for the Incident and about whether the Association has
+specific duties, including to further investigate the elevator event, and this line of questioning went
+into issues pertaining to the duty of loyalty which were subject to an objection. The Court
+sustained this objection in favor of the Association as this issue had been disposed of by the Court
+on summary judgment in connection with Mr. Pikor’s third-party complaint filed against
+Thyssenkrupp.
+       •        Attempts were then made to elicit testimony regarding why Mr. Denison relied
+upon an opinion from Mr. Okamura if he does not know him, to which Mr. Denison confirmed
+that he did not rely upon the opinion from Mr. Okamura, rather it was additional information that
+was consistent with information that the Association had already received.
+
+
+       On further direct examination by the Association’s counsel, Mr. Denison generally testified
+to the following, among other things.
+       •        Mr. Denison reiterated that he does not know Mr. Okamura, that Mr. Okamura does
+not provide any services to the Association, and that there was no reliance on said email (Exhibit
+J-28, among others) in pursuing the reimbursement of the costs against Mr. Pikor.
+
+
+       Ms. Amanda Dutcher, counsel for Defendant, next conducted a direct examination of
+Mr. Denison on Defendant’s counterclaims against the Association, and he generally testified to
+the following, among other things.
+
+
+                                                  9
+
+===== PAGE 010 / 14 =====
+         •      General testimony on the counterclaims and about the Incident was sought.
+         •      Mr. Denison was asked whether he contacted Mr. Pikor after the accident, and he
+testified that it never occurred to him to speak with Mr. Pikor.
+         •      Effort was made to introduce evidence related to a second elevator incident that
+involved another individual on a scooter at the project, but upon an objection sustained, this line
+of questioning was not allowed by the Court.
+
+
+         Mr. Denison’s examination was suspended in order to allow Mr. James Whitmore, Mr.
+Pikor’s expert witness, to testify in order to accommodate Mr. Bigler’s availability to serve as the
+Association’s rebuttal witness having travelled back to Hawaii for said purpose.
+
+
+   IV.       Testimony by James Whitmore (Expert Witness)
+         Defendant called his expert witness Mr. James Whitmore.             On direct examination,
+Mr. Whitmore generally testified to the following, among other things.
+         •      Mr. Whitmore’s education and work experience was reviewed which reflected that
+he had no formal education in the field of elevator maintenance, and that he had conducted some
+work on elevators and was at some point an elevator inspector for the state. Over the objection of
+counsel, Mr. Whitmore was admitted as an expert witness (despite the fact that Mr. Whitmore’s
+license was invalid, and his elevator consulting company, J.W. Elevator Consulting, that had
+produced the expert opinion on behalf of Defendant was no longer a viable company and had been
+administratively terminated). In overruling the objection, the Court noted that said issues would
+go towards the weight of Mr. Whitmore’s testimony.
+         •      Mr. Whitmore’s testimony primarily centered around his opinion that there was no
+misuse of the elevator, but rather there was a malfunction of the elevator.
+             o Mr. Whitmore testified that the doors are supposed to disengage after 30 poundsfeet of torque and that it was typical for him as an inspector to stick his foot in the
+                doorway to perform a test. It is important to note that at a certain point his
+                explanation was difficult to follow.
+         •      Mr. Whitmore appeared to suggest that based on the design, he does not believe
+that the door would have decoupled.
+
+
+
+
+                                                  10
+
+===== PAGE 011 / 14 =====
+          •      Mr. Whitmore confirmed that he was making assumptions in his opinion as he did
+not inspect the elevator and his opinion based upon past experience and discussions with others,
+and review of the video (Exhibit J-1). It should be noted that Mr. Whitmore made multiple
+references to his “discussions with others” or “friends” regarding the Incident, and a hearsay
+objection by the Association was sustained as to such statements.
+          •      Mr. Whitmore also testified that each elevator is required to have a bolt or stopping
+device which is designed to prevent doors from rolling off the tracks based upon the 1996 elevator
+code. 1
+          •      In addressing the Incident, Mr. Whitmore testified that the hoistway door should
+not have stayed in the same position that it did following contact with Mr. Pikor’s bins.
+          •      Referring to Exhibit J-1F, Mr. Whitmore explained that if the elevator was
+functioning properly, the hoistway door would not have gone off its tracks and that the back of the
+door would have come into contact with the bolt or bumper.
+          •      Mr. Whitmore then testified that he understands the term misuse and that on a
+trouble call, identifying an issue as misuse ultimately results in more money for the elevator
+company.
+          •      Mr. Whitmore testified that deeper engagement of the clutch would have prevented
+the decoupling.
+
+
+          Mr. Glenn S. Horio, counsel for Plaintiff Association, conducted a cross-examination of
+Mr. Whitmore, and he generally testified to the following, among other things.
+          •      Mr. Whitmore confirmed that he did not inspect the elevator.
+          •      Mr. Whitmore stated that he has seen this type of elevator and worked on pick up
+rollers in other buildings.
+          •      Mr. Whitmore said that he could not say for certain what type of clutch was used
+because he did not inspect the elevator.
+          •      In claiming that the clutch should have been functioning a certain way behind the
+hoistway door and when the clutch was out of view in the video, Mr. Whitmore could not confirm
+this as there was no way to see what was happening with the clutch at the time.
+
+1
+ Counsel attempted to enter the 1996 version of the elevator code into evidence, to which the Association objected,
+and counsel then withdrew the offer.
+
+
+                                                        11
+
+===== PAGE 012 / 14 =====
+       •       Mr. Whitmore stated that the spirator should have closed the door based on looking
+at Exhibit J-1F.
+       •       Mr. Whitmore testified that after the doors decoupled the clutch is on the wrong
+side of the roller and that the front roller is on the back side of the clutch, however, Mr. Whitmore
+also testified that the clutch is not on the wrong side of the roller until the door starts to open and
+in looking at Exhibit J-1F, there is no way to know if the back blade of the clutch is retracted.
+       •       Mr. Whitmore also confirmed that it is possible that the preventative bolt could
+have snapped off.
+
+
+       On further direct examination by the Defendant’s counsel, Amanda Dutcher,
+Mr. Whitmore generally testified to the following, among other things.
+       •       Mr. Whitmore testified that the elevator car door moved the hoistway door beyond
+its normal position when the car doors re-opened.
+
+
+
+       At approximately 3:34 p.m., the Court suspended further testimony for the day, with the
+
+continued testimony of Mr. Whitmore to resume on Day 4 of the trial on January 11, 2023.
+
+       DATED: Honolulu, Hawai‘i, January 10, 2023.
+
+                                                  /s/Glenn S. Horio
+                                               GLENN S. HORIO
+                                               YUN W. KIM
+                                               Attorneys for Plaintiff
+                                               ASSOCIATION OF APARTMENT OWNERS
+                                               OF MARINE SURF WAIKIKI, INC.
+
+
+
+
+                                                  12
+
+===== PAGE 013 / 14 =====
+                    IN THE DISTRICT COURT OF THE FIRST CIRCUIT
+                                HONOLULU DIVISION
+                                 STATE OF HAWAI‘I
+
+ ASSOCIATION OF APARTMENT                         CIVIL NO. 1RC191003776
+ OWNERS OF MARINE SURF WAIKIKI,                   (Assumpsit-Money Owed)
+ INC., a Hawaii nonprofit corporation, by its
+ Board of Directors                               CERTIFICATE OF SERVICE
+
+                  Plaintiff and
+                  Counterclaim Defendant,
+        vs.
+
+ NIKODEM PIKOR,
+
+                  Defendant and
+                  Counterclaimant.
+
+
+                                CERTIFICATE OF SERVICE
+
+               The undersigned hereby certifies that a copy of the foregoing document will be
+
+served upon the parties listed below, electronically via JEFS as noted, on the date written below:
+
+
+
+ Terrance M. Revere, Esq. - [Via JEFS]
+ Amanda L. Dutcher, Esq. - [Via JEFS]
+ Pali Palms Plaza
+ 970 North Kalaheo Street, Suite A301
+ Kailua, Hawai‘i 96734
+         Attorneys for Defendant and Counterclaimant
+         Nikodem Pikor
+
+
+
+ April Luria, Esq. - [Via JEFS]
+ James R. Ferguson, Esq. - [Via JEFS]
+ Barron T. Oda, Esq. - [Via JEFS]
+ Davies Pacific Center
+ 841 Bishop Street, Suite 900
+ Honolulu, Hawai‘i 96813
+        Attorneys for Counterclaim Defendant Association
+        of Apartment Owners of Marine Surf Waikiki, Inc.
+
+===== PAGE 014 / 14 =====
+Calvert G. Chipchase, IV., Esq. - [Via JEFS]
+Jarrett A. Dempsey, Esq. - [Via JEFS]
+Cades Schutte Bldg.
+1000 Bishop Street, Fl. 12
+Honolulu, Hawai‘i 96813
+        Attorneys for Third-Party Defendant
+        Thyssenkrupp Elevator Corporation
+
+
+      DATED: Honolulu, Hawai‘i, January 10, 2023.
+
+
+                                             /s/Glenn S. Horio
+                                          GLENN S. HORIO
+                                          YUN W. KIM.
+                                          Attorneys for Plaintiff
+                                          ASSOCIATION OF APARTMENT OWNERS
+                                          OF MARINE SURF WAIKIKI, INC.
+
+
+
+
+                                               2

@@ -1,0 +1,1306 @@
+===== PAGE 001 / 31 =====
+     Of Counsel:
+     ROECA LURIA SHIN LLP
+     A Limited Liability Law Partnership
+     APRIL LURIA                   4687-0                                                                                     Electronically Filed
+     aluria@rlhlaw.com                                                                                                        FIRST CIRCUIT
+     JAMES R. FERGUSON            7433-0                                                                                      1RC191003776
+     jferguson@rlhlaw.com                                                                                                     12-JUN-2020
+     BARRON T. ODA                9630-0                                                                                      04:10 PM
+     boda@rlhlaw.com
+     Davies Pacific Ctr.
+     841 Bishop St., Ste. 900
+     Honolulu, Hawaii       96813-3917
+     Telephone: (808) 538-7500
+
+     Attorneys for Counterclaim Defendant
+     Association of Apartment Owners of Marine Surf
+     Waikiki, Inc., by its Board of Directors
+
+                                    IN THE DISTRICT COURT OF THE FIRST CIRCUIT
+                                                HONOLULU DIVISION
+                                                 STATE OF HAWAII
+
+     ASSOCIATION OF APARTMENT                     )                            CIVIL NO. 1RC191003776
+     OWNERS OF MARINE SURF WAIKIKI, )                                          [Assumpsit]
+     INC., a Hawaii nonprofit corporation, by its )
+     Board of Directors,                          )                            DEFENDANT ASSOCIATION OF
+                                                  )                            APARTMENT OWNERS OF MARINE SURF
+                   Plaintiffs,                    )                            WAIKIKI, INC.’S OPPOSITION TO
+                                                  )                            DEFENDANT AND COUNTERCLAIM/
+            vs.                                   )                            THIRD-PARTY PLAINTIFF NIKODEM
+                                                  )                            PIKOR’S MOTION FOR LEAVE TO
+     NIKODEM PIKOR,                               )                            AMEND AND TO ADD
+                                                  )                            COUNTERCLAIMS, FILED JUNE 2, 2020;
+                   Defendants.                    )                            DECLARATION OF JAMES R. FERGUSON;
+     ____________________________________ )                                    EXHIBIT “A”; CERTIFICATE OF SERVICE
+     \NIKODEM PIKOR,                              )
+                                                  )
+                   Defendant and                  )                            NON-HEARING MOTION
+                   Third-Party Plaintiff,         )
+                                                  )                            Judge: Presiding
+            vs.                                   )                            Trial Date: None
+                                                  )
+     THYSSENKRUPP ELEVATOR                        )
+     CORPORATION, a foreign profit                )
+     corporation,                                 )
+                                                  )
+                   Third-Party Defendant.         )
+     ____________________________________ )
+     454-230/MIO NP Mtn Lv Amd Ans File Counterclaim.jrf.rkh
+I do hereby certify that the foregoing is a full, true and correct copy of the official court record of the Courts of the State of Hawai`i.
+Dated at: Honolulu, Hawai`i 02-SEP-2026, /s/ Lori Ann Okita, Clerk of the First Judicial Circuit, State of Hawai`i
+
+===== PAGE 002 / 31 =====
+    DEFENDANT ASSOCIATION OF APARTMENT OWNERS OF MARINE SURF
+WAIKIKI, INC.’S OPPOSITION TO DEFENDANT AND COUNTERCLAIM/THIRD-PARTY
+         PLAINTIFF NIKODEM PIKOR’S MOTION FOR LEAVE TO AMEND
+               AND TO ADD COUNTERCLAIMS, FILED JUNE 2, 2020
+
+       Plaintiff and Counterclaim Defendant ASSOCIATION OF APARTMENT OWNERS OF
+
+MARINE SURF WAIKIKI, INC. (“AOAO”), hereby files the following memorandum in
+
+opposition to Defendant and Counterclaim/Third-Party Plaintiff Nikodem Pikor’s Motion for
+
+Leave to Amend and to Add Counterclaims, filed June 2, 2020 (“Motion”).
+
+       The AOAO respectfully requests that this Court DENY the Motion, for three reasons: (i)
+
+the Motion is the product of Plaintiff’s undue delay; (ii) Plaintiff’s proposed amendments if
+
+allowed would likely and severely prejudice Defendants; and (iii) Plaintiff’s proposed new
+
+claims would be futile to assert.
+
+I.     PROCEDURAL HISTORY
+
+       On May 31, 2019, Plaintiff and Counterclaim Defendant AOAO Marine Surf Waikiki,
+
+Inc. (“AOAO”), filed a complaint against Nikodem Pikor (“Pikor”) for money owed the AOAO
+
+as a result of Pikor’s damage to an elevator which is a common element. Pikor is an owner at the
+
+Marine Surf Waikiki condominium project and is subject the AOAO’s governing documents.
+
+On May 9, 2018, the elevator was damaged when Pikor was removing bins and other items from
+
+the elevator and left a stack of three plastic bins on the floor just between the outer doors of the
+
+elevator, which prevented the outer doors from closing and resulted in decoupling of the outer
+
+and inner doors of the elevator. The elevator became unresponsive and Pikor then pushed on the
+
+doors numerous times while the doors remained retracted within the elevator door cavity
+
+shaftwall area. The incident was captured by the building security cameras and shows Pikor
+
+leaving the bins in a position to prevent the outer doors from closing and then pushing on the
+
+doors after they became uncoupled. The AOAO was required to contact its elevator vendor,
+
+Thyssenkrupp Elevator Corporation (“TKE.”), to make repairs to the elevator due to the damage
+                                                  1
+
+===== PAGE 003 / 31 =====
+associated with Pikor’s actions during the incident and which caused the elevator doors to
+
+become unresponsive. TKE’s charge for the repair was $2,260.15.       On May 29, 2018, the
+
+AOAO’s Managing Agent submitted the TKE invoice to Pikor for reimbursement. Pikor refused
+
+to make the reimbursement, and following further communication with Pikor, the matter was
+
+referred to the AOAOs’ legal counsel. After various attempts by the AOAO’s legal counsel to
+
+resolve the matter and further correspondence with Pikor, all without success, the AOAO was
+
+forced to commence legal action on May 31, 2019 to enforce the AOAO’s governing documents
+
+against Pikor due to the damage to the common elements (being the elevator) and seek to recover
+
+the repair costs incurred by the Association as the result of said damage. On July 8, 2019, Pikor
+
+responded by filing a Counterclaim against the AOAO alleging breach of fiduciary duty and
+
+negligence by the AOAO. Pikor also filed a Third-Party Complaint against TKE.
+
+       On January 6, 2020 TKE filed a motion for summary judgment. On January 14, 2020
+
+Pikor, through his then counsel Joseph Ryan, Jr., Esq., filed a memorandum in opposition to the
+
+motion. On January 21, 2020 the motion was heard before Judge Michael Tanigawa and orally
+
+granted and the Order was filed February 3, 2020, dismissing Pikor’s third-party complaint
+
+against TKE in its entirety and with prejudice. On February 6, 2020 TKE filed a motion for fees
+
+and costs as the prevailing party. On February 18, 2020, the Court entered an Order granting
+
+TKE’s motion and awarding $9,140.14 in attorney’s fees and costs. On April 7, 2020, TK. filed a
+
+motion for certification pursuant to Rule 54 (b) of the Hawaii District Court Rules of Civil
+
+Procedure. The hearing on the Rule 54(b) motion is currently scheduled for June 29, 2020. On
+
+April 29, 2020, Pikor filed a Withdrawal and Substitution of Counsel in which Pikor’s current
+
+counsel was substituted in for Joseph Ryan, Jr., Esq.
+
+
+
+
+                                                2
+
+===== PAGE 004 / 31 =====
+       The AOAO made certain discovery requests on Pikor in August of 2019, with the
+
+intention of taking Pikor’s deposition thereafter. Pikor requested and received an extension of
+
+time to respond to the discovery requests, and therefore, Pikor’s deposition was deferred. The
+
+aforementioned TKE motion also caused Pikor’s deposition to be deferred further. Pikor’s
+
+deposition was originally noticed for March 31, 2020 but has not been completed and remains
+
+pending. This matter was originally scheduled for a Pretrial Conference on January 27, 2020,
+
+which was continued to May 1, 2020, and which is currently scheduled for July 13, 2020.
+
+II.    STANDARD OF REVIEW
+
+       “[T]he grant or denial of leave to amend under Rule 15(a) is within the discretion of the
+
+trial court.” Keawe v. Hawaiian Elec. Co., Inc., 65 Haw. 232, 239, 649 P.2d 1149, 1154 (Haw.
+
+1982) (quoting Bishop Trust Co. v. Kamokila Dev. Corp., 57 Haw. 330, 337, 555 P.2d 1193, 1198
+
+(Haw. 1976)).
+
+       Rule 15(a) motion should be denied if there has been undue delay, may cause undue
+
+prejudice to the opposing party by virtue of allowance of the amendment, or the amendment
+
+would be futile:
+
+       In the absence of any apparent or declared reason--such as undue delay, bad faith
+       or dilatory motive on the part of the movant, repeated failure to cure deficiencies
+       by amendments previously allowed, undue prejudice to the opposing party by
+       virtue of allowance of the amendment, futility of amendment, etc.--the leave
+       proposed should, as the rules require, be “freely given.”
+
+Id. at 239, 649 P.2d 1154.
+
+III.   DISCUSSION
+
+       A.       The Motion is the Product of Pikor’s Undue Delay
+
+       In evaluating whether a motion to amend is timely or the result of undue delay, courts
+
+examine whether the proposed amendments are based upon any facts which were or were not
+
+known or readily available earlier. See Bishop Trust, 57 Haw. at 338, 555 P.2d at 1198. Applied
+
+                                                3
+
+===== PAGE 005 / 31 =====
+here, Plaintiff’s Motion and the proposed amendments were or should have been readily known
+
+by months or at least a year ago.
+
+       Plaintiff states, “Mr. Pikor is timely filing this motion a month after obtaining new counsel.”
+
+Motion, p. 8. However, this matter began over two years ago on May 28, 2018 when the AOAO
+
+requested reimbursement for elevator repair (Motion, p. 2); underlying facts were the same when the
+
+Complaint was filed over a year ago on May 31, 2019; and Plaintiff has been represented by
+
+competent counsel since his Answer and Counterclaim was filed on July 8, 2019. Plaintiff has not
+
+given any other factual reason for his request for leave to amend other than the appearance of new
+
+counsel.
+
+       Federal courts have held that a plaintiff’s decision to retain new counsel is not a basis for
+
+seeking leave to amend pleadings. As one federal district court noted, “a change in counsel does not
+
+‘reset’ a lawsuit.” Stonecrest Partners, LLC v. Bank of Hampton Rds., 770 F. Supp. 2d 778, 785
+
+(E.D.N.C. 2011) (quotations in original). In a recent case, Dropzonems, LLC v. Cockayne, No. 3:16-
+
+cv-02348-YY, 2019 U.S. Dist. LEXIS 81598 (D. Or. Feb. 27, 2019), the plaintiff retained new
+
+counsel then filed a motion seeking leave to file an amended complaint, similar to this matter. “The
+
+deadline to amend pleadings elapsed [ ] over a year before plaintiff filed [the] motion,” Id. at *2-3,
+
+similar to this matter. Also, “plaintiff's proposed second amended complaint would add five new
+
+claims, alter the character of the case, and require additional discovery,” Id. at *12, similar to this
+
+matter where Plaintiff desires to add seven new claims. The Dropzonems Court held that a lack of
+
+diligence by prior counsel is no reason for a plaintiff to seek leave to amend its complaint. It held in
+
+relevant part:
+
+       To the extent plaintiff would use his prior counsel's absence [ ] as an excuse to bring this case
+       anew, with new theories and claims that were available long before prior counsel’s absence, it
+       suffers from a bout of Monday-morning quarterbacking. An eleventh-hour case evaluation
+       by newly retained counsel finding a need to bring new claims and conduct new discovery
+       does not demonstrate diligence during the course of the litigation. Otherwise stated,
+       retaining new counsel does not provide the opportunity to re-strategize a lawsuit.
+                                                  4
+
+===== PAGE 006 / 31 =====
+         Id. at *13-14 (brackets and citation omitted; emphasis added).
+
+The United States Supreme Court has held that a plaintiff is bound by the direction of his prior
+
+counsel. It stated, “Petitioner voluntarily chose this attorney as his representative in the action, and
+
+he cannot now avoid the consequences of the acts or omissions of this freely selected agent. Any
+
+other notion would be wholly inconsistent with our system of representative litigation, in which each
+
+party is deemed bound by the acts of his lawyer-agent and is considered to have ‘notice of all facts,
+
+notice of which can be charged upon the attorney.’” Link v. Wabash R. Co., 370 U.S. 626, 633-34
+
+(1962) (citing Smith v. Ayer, 101 U.S. 320, 326 (1880). Again, the germane point is that the claims
+
+that Pikor is seeking to add at this late stage of the litigation were available and capable of being
+
+asserted when Pikor filed his Answer and Counterclaim back on July 8, 2019. The only acceptable
+
+and reasonable result for the failure to have brought the claims at that time is that Pikor elected not to
+
+do so.
+
+         B.     Plaintiff’s Proposed Amendments, if Allowed, Would Likely Prejudice
+                Defendant
+
+         The Hawai‘i Supreme Court has rejected prejudicial, 11th hour attempts to amend
+
+pleadings. See Kamaka v. Goodsill Anderson Quinn & Stifel, 117 Haw. 92, 112, 176 P.3d 91,
+
+111 (Haw. 2008) (“Moreover, had the trial court granted Kamaka’s motion [for leave], Goodsill
+
+would have been unduly prejudiced by the need to respond and conduct additional investigation,
+
+research, and discovery on the brink of trial. We, therefore, hold that the trial court did not abuse
+
+its discretion in denying Kamaka’s March 15, 2002 motion.”); see also, Keawe v. Hawaiian
+
+Electric Co., 65 Haw. 232, 239, 649 P.2d 1149, 1154 (1982). (“Moreover, HECO has
+
+completely failed to advance adequate justification for failure to amend its complaint earlier in
+
+the proceedings, thereby lessening any resulting prejudice to Ahee and Pacific Insurance. As it
+
+now stands, Ahee and Pacific Insurance would suffer substantial prejudice were HECO allowed
+
+
+
+                                                  5
+
+===== PAGE 007 / 31 =====
+to proceed in this manner on theories it should have more prudently brought prior to disposition
+
+by the trial court.”).
+
+        Here, Defendants likely will be actually and severely prejudiced by Pikor’s untimely Motion
+
+if granted and his proposed new allegations if allowed, which pertain to old events, a new claim, and
+
+significantly expanded claims, given the late stage of this litigation. Pikor seeks to add seven new
+
+claims: Count II, Breach of Fiduciary Duty; Count III, Breach of 514B, Hawaii Condominium Act;
+
+Count IV, Negligent and Intentional Misrepresentation; Count V, Abuse of Process / Malicious
+
+Prosecution; Count VI, Violation of Chapter 480, Hawaii Unfair and Deceptive Practices Act; Count
+
+VII, Negligent and Intentional Infliction of Emotional Distress; and Count VIII, Declaratory Relief.
+
+Although several of these proposed claims are futile (described infra in Section C below), Defendant
+
+will be prejudiced in terms of time, notice, and additional costs incurred to defend itself now at this
+
+late stage of litigation when underlying facts have not changed since the incident and Plaintiff could
+
+have brought the proposed claims in his Counterclaim filed July 8, 2019. There is no justification for
+
+allowing Pikor to turn the hands of time back and allow and change in the strategy Pikor elected to
+
+pursue when he filed the Counterclaim.
+
+        C.      The Proposed Amendments would be Futile
+
+        The Court need not evaluate the futility of Plaintiff’s proposed claims if it finds that the
+
+Motion is untimely. However, even if the Court finds the Motion is not untimely, denial is
+
+nonetheless warranted because Plaintiff’s proposed claims would be futile. The Hawai‘i Supreme
+
+Court has observed that, “While HRCP Rule 15(a) provides that leave to amend the pleadings should
+
+be ‘freely given when justice so requires,’ the trial court does not abuse its discretion in refusing
+
+leave to amend where such an amendment would be futile.” Federal Home Loan Mtge. Corp. v.
+
+Transamerica Ins. Co., 89 Haw. 157, 166, 969 P.2d 1275, 1284 (Haw. 1998); see also, Office of
+
+Hawaiian Affairs v. State, 110 Haw. 338, 365, 133 P.3d 767, 794 (2006) (“Federal courts have
+
+                                                  6
+
+===== PAGE 008 / 31 =====
+further explained that “[a]n amendment to a pleading is futile if the proposed claim could not
+
+withstand a motion to dismiss [for failure to state a claim] pursuant to [FRCP Rule] 12(b)(6)”). Here,
+
+several of Plaintiff’s proposed claims would be futile.
+
+       Count I: Breach of Governing Documents. This claim appears to be a restyling of
+
+Plaintiff’s “Breach of Covenant” claim and may not be a new claim. Nonetheless, the restyling is
+
+futile because there is no contractual privity between an organization and its members by virtue of its
+
+governing documents: “an individual member or stockholder of a corporation is deemed a stranger to
+
+the artificial body created by the act of incorporation [the governing documents.]” 19 AM. JUR. 2d,
+
+19 Corporations § 2245, p. 147 (1994). An organization is not a private party in an arm’s length
+
+transaction. It is a creature of statute. The applicable statute authorizes creation of an organization
+
+and specifies what its governing documents must contain. The governing documents then create the
+
+organization and specifies parameters for its management and governance. Although they may be
+
+interpreted according to contract principles, the governing documents do not constitute a contract
+
+between the organization and its members, and any interpretation to the contrary would mar and
+
+ravage the distinction between contract law and corporate governance, two entirely distinct areas of
+
+law. Further, no provision in HRS § 514B authorizes a private right of action for breach of governing
+
+documents. Accordingly, Count I is futile and must be denied leave to amend.
+
+       Count II: Breach of Fiduciary Duty. This claim has been revised entirely from the original
+
+claim in the Counterclaim and should be considered new. HRS § 514B-106(a) provides that “officers
+
+and members of the board shall owe the association a fiduciary duty and exercise the degree of care
+
+and loyalty required of an officer or director of a corporation organized under chapter 414D.”
+
+(Emphasis added.) Nothing in HRS § 514B imposes fiduciary duties upon the association itself or a
+
+fiduciary duty to any individual owner. “The Hawaii Intermediate Court of Appeals, in interpreting
+
+the above statutes, has held that only the individual directors of the board may be liable for breach of
+
+                                                  7
+
+===== PAGE 009 / 31 =====
+fiduciary duty, but not the association itself.” Baham v. Ass’n of Apartment Owners of Opua Hale
+
+Patio Homes, No. 13-00669 HG-BMK, 2014 U.S. Dist. LEXIS 82873, at *23 (D. Haw. June 18,
+
+2014) (citing Ass’n of Apartment Owners of 2987 Kalakaua ex rel. its Bd. of Dirs. v. Dubois, 118
+
+Haw. 354, 190 P.3d 869 (Haw. Ct. App. 2008) (unpublished)).
+
+       Even if leave were granted to amend the Counterclaim to include Count II, Paragraph 32 must
+
+nonetheless be stricken because there is nothing in the Motion or in the Declaration to indicate that
+
+Plaintiff has complied with HRCP Rule 23.1 and HRS § 414D-90 to bring a derivative action. The
+
+Hawai‘i Supreme Court has explained that a derivative action under Rule 23.1 “shall be verified and
+
+shall allege that the plaintiff was a shareholder or member at the time of the transaction of which he
+
+complains or that his share or membership thereafter devolved on him by operation of law.”
+
+Chambrella v. Rutledge, 69 Haw. 271, 281, 740 P.2d 1008, 1014 (1987). The reason for these
+
+threshold requirements “serves as a safeguard against champertous litigation by shareholders.” Id.
+
+Accordingly, Count II is futile as a matter of law and must be denied leave to amend.
+
+       Similarly, Count II, Paragraph 29 attempts to create an aberration of law and confer an
+
+individual right upon Pikor where none exists, by claiming that the “AOAO owes a fiduciary duty to
+
+Mr. Pikor as a member of the AOAO.” The AOAO does not owe Pikor a fiduciary duty, to recognize
+
+such an individual right is inconsistent with the basis for community based living, the AOAO’s
+
+governing documents, and would place Pikor’s interests above other owners at the project. For a
+
+greater discussion of the absence of a fiduciary duty owed by an association to an individual owner,
+
+see Baham at *27-*28.
+
+       Count III: Breach of 514B, Hawaii Condominium Act. This claim is similar to Count I
+
+insofar that the content of the governing documents are determined by statute, namely HRS § 514B.
+
+Similar to Count I, there is no provision in HRS § 514B that gives an individual a private cause of
+
+
+
+
+                                                 8
+
+===== PAGE 010 / 31 =====
+action pursuant to that statute. For reasons provided for Count I, Count III is also futile and must be
+
+denied leave to amend.
+
+       Count IV, Negligent and Intentional Misrepresentation. This claim is futile as a matter of
+
+law because it fails to meet the heightened pleading standard required for fraud under HRCP Rule
+
+9(b). “Rule 9(b), HRCP, requires that averments of fraud be stated with particularity. As has been
+
+said: ‘The general assertion of ‘fraud’ or ‘fraudulent conduct’ serves no informative function and
+
+therefore is insufficient to raise an issue as to fraud without supporting particulars.” Wolfer v. Mut.
+
+Life Ins. Co., 3 Haw. App. 65, 67, 641 P.2d 1349, 1351 (1982) (citing 5 Wright & Miller, Federal
+
+Practice and Procedure § 1298 at 415 (1969)). Hawai‘i law makes no distinction for negligent or
+
+intentional misrepresentation for Rule 9(b)’s heightened pleading standard.
+
+       Further, Plaintiff conflates the differing elements of NIED and IIED. The elements for
+
+negligent misrepresentation are “(1) false information be supplied as a result of the failure to exercise
+
+reasonable care or competence in communicating the information; (2) the person for whose benefit
+
+the information is supplied suffered the loss; and (3) the recipient relies upon the misrepresentation.”
+
+Santiago v. Tanaka, 137 Hawai‘i 137, 153-54, 366 P.3d 612, 628-29 (2015) (citing Blair v. Ing, 95
+
+Hawai'i 247, 269, 21 P.3d 452, 474 (2001) (citing Restatement (Second) of Torts § 552)).
+
+       Conversely, the elements for intentional misrepresentation are “(1) false representations were
+
+made by defendants; (2) with knowledge of their falsity (or without knowledge of their truth or
+
+falsity); (3) in contemplation of plaintiff's reliance upon these false representations; and (4) plaintiff
+
+did rely upon them.” Ass’n of Apartment Owners v. Venture 15, Inc., 115 Hawai‘i 232, 263, 167
+
+P.3d 225, 256 (2007) (citing Shoppe v. Gucci Am., Inc., 94 Hawai'i 368, 386, 14 P.3d 1049, 1067
+
+(2000)).
+
+       Plaintiff’s Count IV is devoid of factual allegations that meet the heightened pleading
+
+standard of HRCP Rule 9(b), and in any event satisfies neither elements of negligent or intentional
+
+                                                   9
+
+===== PAGE 011 / 31 =====
+misrepresentation. Thus, Count IV fails to provide Defendant with notice as to what it must defend
+
+against. Accordingly, Count IV is futile and must be denied as a matter of law.
+
+       Count V, Abuse of Process / Malicious Prosecution. As with Count IV, Plaintiff conflates
+
+claims with differing elements under the same count. “[A]buse of process differs from malicious
+
+prosecution in that the gist of the tort is not commencing an action or causing process to issue without
+
+justification, but misusing, or misapplying process justified in itself for an end other than that which
+
+it was designed to accomplish.” Myers v. Cohen, 5 Haw. App. 232, 242 (1984) (citation omitted)
+
+(reversed as to an issue of fact by Myers v. Cohen, 67 Haw. 389, 688 P.2d 1145 (1984).
+
+       The elements of an abuse of process are “first, an ulterior purpose, and second, a willful act in
+
+the use of the process not proper in the regular conduct of the proceeding. Some definite act or threat
+
+not authorized by the process, or aimed at an objective not legitimate in the use of the process, is
+
+required; and there is no liability where the defendant has done nothing more than carry out the
+
+process to its authorized conclusion, even though with bad intentions. Id (citation omitted).
+
+       Conversely, “There are three essential elements in a claim for malicious prosecution: (1) that
+
+the prior proceedings were terminated in the plaintiffs' favor, (2) that the prior proceedings were
+
+initiated without probable cause, and (3) that the prior proceedings were initiated with malice.”
+
+Myers v. Cohen, 67 Haw. 389, 391, 688 P.2d 1145, 1148 (1984).
+
+       Count V’s one allegation at Paragraph 42 fails to give Defendant adequate notice as to
+
+whether it must defend against abuse of process or malicious prosecution claims. Accordingly,
+
+Count V is futile and must be denied as a matter of law. In any event, the malicious prosecution
+
+claim must be denied as a matter of law for lack of prior proceedings terminated in Plaintiff’s favor.
+
+       Count VI, Violation of Chapter 480, Hawaii Unfair and Deceptive Practices Act
+
+       Count VI is devoid of any information to satisfy the liberal notice pleading standard. Not
+
+even a statute under Chapter 480 is referenced. As such, Defendant would not have fair notice of
+
+                                                 10
+
+===== PAGE 012 / 31 =====
+Plaintiff’s allegations under Chapter 480 and would be substantially prejudiced by such a deficient
+
+pleading.
+
+        Further, Plaintiff’s allegation of a violation of Chapter 480 is inconsistent with Count VII,
+
+Negligent and Intentional Infliction of Emotional Distress. The Hawai‘i Supreme Court has held that
+
+a plaintiff may recover damages under Chapter 480 or tort law, but not both: “[W]e reiterate our
+
+holding in Beerman v. Toro [ ] that under §§ 480-2 and 480-13, HRS, there is no room for damages
+
+for personal injury and hence, there can be no recovery by Ailetcher in this case, under Count V for
+
+mental pain and suffering.” Ailetcher v. Beneficial Fin. Co., 2 Haw. App. 301, 307, 632 P.2d 1071,
+
+1076 (1981). See also Zanakis-Pico v. Cutter Dodge, Inc., 98 Hawai‘i 309, 319, 47 P.3d 1222, 1232
+
+(2002) (“HRS chapter 480 was not designed as a vehicle for personal injury actions, with respect to
+
+which the law already provides adequate remedies.”). Accordingly, Count VI is futile and must be
+
+dismissed.
+
+        Count VII, Negligent and Intentional Infliction of Emotional Distress. Plaintiff’s Count
+
+VII is fundamentally incompatible with Count VI, Plaintiff’s UDAP claim, and Counts I and III
+
+(which are styled by Plaintiff to sound in contract), as a matter of law. Regarding incompatibility
+
+with Count VI, that was addressed above supra. Regarding incompatibility with Counts I and III, it
+
+is settled that
+
+        Hawai‘i law will not allow tort recovery in the absence of conduct that (1) violates a duty that
+        is independently recognized by principles of tort law and (2) transcends the breach of the
+        contract. Consistent with this rule, emotional distress damages will only be recoverable
+        where the parties specifically provide for them in the contract or where the nature of the
+        contract clearly indicates that such damages were within the contemplation or expectation of
+        the parties. Francis v. Lee Enters., 89 Hawai‘i 234, 235, 971 P.2d 707, 708 (1999).
+
+        Further, Plaintiff again conflates claims with differing elements. Bodily harm is required for
+
+NIED, and is not a necessary element of IIED. Even if Plaintiff’s Motion were not untimely, and
+
+even if Plaintiff’s NIED and IIED claims were not precluded by Chapter 480 and Francis, it would
+
+
+
+                                                 11
+
+===== PAGE 013 / 31 =====
+nonetheless substantially prejudice Defendant because of a lack of notice as to what Defendant must
+
+defend itself against.
+
+       Pursuant to Haw. Rev. Stat.§ 663-8.9, a party cannot bring an NIED claim "if the distress
+
+or disturbance arises solely out of damage to property or material objects," unless the emotional
+
+distress results in physical injury to or mental illness of the person who experiences the
+
+emotional distress. Rev. Stat. § 663 -8.9; Doe Parents No.1 v. Dept. of Educ., 100 Haw. 34, 58
+
+P.3d 545, 580-81 (Haw. 2002). Requiring physical injury or mental illness as a predicate injury
+
+for an NIED claim attempts to avoid the possibility of trivial or fraudulent claims due to the
+
+subjective nature of assessing purely psychological injury, while promoting the purpose of
+
+negligence law. Id. at 579. Baham v. AOAO Opua Hale Patio Homes, 2014 U.S. Dist. LEXIS
+
+82873, *58 (D. Haw. June 18, 2014). Accordingly, Count VII is futile and must be denied leave
+
+to amend.
+
+       Count VIII, Declaratory Relief. Plaintiff’s Count VIII is nothing more than a veiled
+
+attempt at forum shopping by stating Pikor’s defenses to the AOAO’s claims and again making
+
+an improper argument that the AOAO owes a fiduciary duty to Pikor individually. If Pikor were
+
+successful in defending against the AOAO’s claims, the result would be represented by the
+
+claims Pikor is seeking to add under Count VIII, Paragraphs 56(a) and 56(b). The claim
+
+articulated in Count VIII, Paragraphs 56(c) again seeks to incorrectly claim that the Association
+
+owes a fiduciary duty to Pikor that would place his interests above those of the other owners at
+
+the project. As noted above (with reference to Baham at *27-*28), there is no fiduciary duty
+
+owed by the AOAO to Pikor on an individual level. Accordingly, Count VIII is futile and
+
+merely an attempt at forum shopping and therefore leave to amend must be denied.
+
+
+
+
+                                                 12
+
+===== PAGE 014 / 31 =====
+          D.     Plaintiff’s untimely jury demand amounts to forum-shopping and has been
+                 waived under HRCP Rule 38(d)
+
+          HRCP Rule 38(b) requires a party serve a jury demand “in writing at any time after the
+
+commencement of the action and not later than 10 days after the service of the last pleading directed
+
+to such issue.” HRCP Rule 38(d) states in relevant part, “[t]he failure of a party to serve and file a
+
+demand as required by this rule and to file it as required by Rule 5(d) constitutes a waiver by the
+
+party of trial by jury.”
+
+          This matter has been with the District Court for over a year now, presumably because Pikor is
+
+willing to litigate this matter in the District Court, had he not been willing to do so he filed his
+
+Counterclaim he would have made a prompt and affirmative demand for a jury trial. The time to
+
+make a demand for a jury trial expired on July 18, 2019, ten days after Plaintiff filed his
+
+Counterclaim. Plaintiff has not previously made a demand for a jury trial and has therefore waived
+
+his right to a jury trial under HRCP Rule 38(d). A jury trial would require removal of this matter to
+
+Circuit Court. Plaintiff’s demand for a jury trial in Exhibit 1 of his Motion represents an untimely
+
+attempt at forum shopping by removing this matter to Circuit Court.
+
+          HRCP Rule 6(b) allows the Court discretion to allow for an enlargement of time “upon
+
+motion made after the expiration of the specified period permit the act to be done where the failure to
+
+act was the result of excusable neglect[.]” “Excusable neglect” is a “strict standard” – “[The
+
+excusable neglect standard] was intended to apply only to ‘extraordinary cases where injustice would
+
+otherwise result.’ . . . Inadvertence or mistake of counsel does not constitute excusable neglect.”
+
+Enos v. Pac. Transfer & Warehouse, 80 Hawai‘i 345, 350, 910 P.2d 116, 121 (1996) (citing State of
+
+Oregon v. Champion Int’l Corp., 680 F.2d 1300, 1301 (9th Cir. 1982) (brackets, quotes, and ellipses
+
+in original)). Here, Plaintiff has not made any showing of excusable neglect meeting the “strict
+
+standard” required under HRCP Rule 6(b). Accordingly, Plaintiff’s demand for a jury trial must be
+
+denied.
+                                                  13
+
+===== PAGE 015 / 31 =====
+IV.    CONCLUSION
+
+       For the reasons set forth above, Plaintiff’s motion must be denied because (1) the time to
+
+amend the Counterclaim expired July 18, 2019; (2) case law holds that obtaining new counsel is
+
+not a reason or opportunity to re-evaluate the litigation and amend pleadings; (3) Plaintiff’s
+
+proposed amendments would substantially prejudice Defendant in terms of time, lack of notice,
+
+and cost; and (4) the addition of Plaintiff’s proposed claims is futile as a matter of law as it
+
+would not survive a motion to dismiss.
+
+               DATED: Honolulu, Hawaii, June 12, 2020.
+
+
+                                               /s/ James R. Ferguson
+                                               APRIL LURIA
+                                               JAMES R. FERGUSON
+                                               BARRON T. ODA
+                                               Attorneys for Counterclaim Defendant
+                                               Association of Apartment Owners of Marine Surf
+                                               Waikiki, Inc., by its Board of Directors
+
+
+
+
+                                                  14
+
+===== PAGE 016 / 31 =====
+* popes
+Cilel
+Comp.ainT (AssumPsIT-MoNnEY OWED); ~ Form #1DCO?
+DECLARATION; Exurpit(s); SUMMONS mew Pb 3
+In Tue District Court or rar First Crrcurr
+_ HONOLULU Division os
+Stave or Hawar‘t en eT
+ASSOCIATION OF APARTMENT OWNERS OF MARINE >
+SURF WAIKIKI, INC., a Hawaii nonprofit corporation, by its Reserved for Court Use
+Board of Directors Civil No.
+TRC19.]. 24
+Defendant(s) Filing Party(ies)/Filing Party(ies)’ Attomey (Name, Attorney
+No., Firm Name {if applicable), Address, Tel. and Fax No.)
+NIKODEM PIKOR PHILIP L. LAHNE (3709) / GLENN 8. HORIO (8151)
+Anderson Lahne & Fujisaki LLP
+733 Bishop Street, Suite 2301, Honolulu, Hawaii 96813
+Telephone_(808) 536-8177 _ Facsimile (808) 356-7631
+Amount Claimed by Plaintiff: Last Date of Indebtedness:
+See Exhibit 1 May 24, 2019
+COMPLAINT
+L This Court has jurisdiction over this matter and venue is proper.
+2. On or about May 24, 2019 . Defendant(s) owed money to Plaintiff(s) as follows:
+See Exhibit 1
+3. @ A copy of the written instrument on which the debt is based is attached as Exhibit 1 and Exhibit 2.
+4, Plaintiff(s) asks for Judgment in the principal amount of _S@2 Exhibit
+In addition, the Court may award court costs, interest and reasonable attomey’s fees.
+5. The Servicemembers Civil Relief Act, 50 U.S.C. App. §501 may apply to a Defendant who is classified active duty as defined in the Act.
+Please check all that apply.
+W To the best of my knowledge, the Defendant is not an active duty member of the Military.
+Q The following Defendant is an active duty member of the Military. Name: —
+Q Tam unable to determine whether the Defendant is an active duty member of the Military. Please attach separate sheet indicating
+what attempt was made to determine Defendant’s military status.
+Siena? pps S) cm
+L. ay, pb
+Dae: MAY 3 1 2019 Print/Tfpe Nabwt(s): PHICIPT: LAFINE/GLENN S, HORIO
+DECLARATION
+Ihave read this Complaint, know the contents and verify that the statements are true to my personal knowledge and belief.
+I DECLARE UNDER PENALTY OF PERJURY THAT THE ABOVE IS TRUE AND CORRECT.
+Signature f Decléfant? ~
+z A,
+Date: f [ Print/Type Namné(s): WILLIAM E. DENISON, Property Manger
+In accordance with the Americans with Disabilities Act, and other applicable State and Federal laws, if you require an accommodation for your
+& disability when working with a court program, service, or activity please contact the District Court Administration Office at PHONE NO. 538-5121,
+FAX 538-5233, or TTY 539-4853 at least (10) working days before your preceeding, hearing, or appointment date.
+L certify that this is a full, true, and correct
+copy of the origimat’On file> “oo
+Commontook® Clerk, Distridh mart of the abov; suit, State of Hawai'i
+508 Certifie
+Reprographics (02709) EXHIB A COMPA 10-764
+
+===== PAGE 017 / 31 =====
+EXHIBIT “1”
+EXHIBIT "A"
+
+===== PAGE 018 / 31 =====
+EXHIBIT “1”
+
+1. Plaintiff ASSOCIATION OF APARTMENT OWNERS OF MARINE SURF
+WAIKIKI, INC. (“Association”) is a Hawaii nonprofit corporation of apartment owners which
+administers and operates the Marine Surf Waikiki condominium project situate at the intersection
+of Kuhio and Seaside Avenues, Waikiki, Honolulu, City and County of Honolulu, State of Hawaii
+(“Project”), existing as established pursuant to Chapter 514A and/or Chapter 514B, Hawaii Revised
+Statutes, as amended, (collectively “Condominium Property Law”); the Marine Surf Waikiki
+Declaration of Horizontal Property Regime dated November 3, 1965 (“Declaration”) and the By-
+Laws of the Association of Apartment Owners of the Marine Surf Waikiki Condominium dated
+November 3, 1965 (“By-Laws”), recorded together in the Office of the Assistant Registrar, Land
+Court, State of Hawaii (“Land Court”) as Document No. 390025; and the Marine Surf Waikiki
+Condominium Association of Apartment Owners House Rules (collectively “Project Documents”),
+as may be amended and/or restated, and acting by and through its Board of Directors.
+
+2. Defendant NIKODEM PIKOR (“OWNER”) is one of the owners of Unit No. 906
+of the Marine Surf Waikiki condominium project located at 364 Seaside Avenue, Apartment No.
+906, Honolulu, Hawaii 96815, by virtue of that certain Personal Representative’s Deed dated
+April 3, 2013, and recorded in the Land Court as Document No. T-8509308, and owners are subject
+to and must comply with the Project Documents and the Condominium Property Law.
+
+3, On August 3, 2018, OWNER was informed of the amounts owing for the costs of
+repairing the damage to one of the elevators at the Project, caused by OWNER on or about
+May 9, 2018 at approximately 3:11 p.m., when OWNER, without advance notice to the managing
+agent or front office, used the elevator to move large household goods, and during which time
+OWNER placed a large container in a position between the doors of the elevator so that when the
+elevator doors attempted to close, the doors were not allowed to close and therefore suffered damage
+for which repair was required (“Elevator Incident”).
+
+4, On or about August 3, 2018, demand was made upon OWNER for the amounts owing
+to the Association in connection with the Elevator Incident, and as reflected in the thyssenkrupp
+
+EXHIBIT “1” Page 1
+EXHIBIT "A"
+
+===== PAGE 019 / 31 =====
+invoice no. 5000875502 for the amount of $2,260.15 (“Invoice”) a copy of which is included
+herewith as Exhibit “2”, for the costs to repair the damage to the elevator, and which said Invoice
+was provided to OWNER on or about August 8, 2018, with a further demand for payment.
+
+5. The damage to the elevator constitutes a violation of the Association’s Governing
+Documents, and OWNER’s failure to pay for the repair costs is a further wilful, wanton, and
+purposeful violation of the Project Documents.
+
+6. On September 14, 2018, OWNER was again informed of the repair costs, and again
+on November 2, 2018 in connection with a demand for the legal fees and costs incurred by the
+Association in connection with having to seek OWNER’s compliance with the Condominium
+Property Act and the Association’s Project Documents, as the result of the Elevator Incident.
+
+7. OWNER’s denial and/or dispute of the Association’s demand for reimbursement of
+the repair costs and the legal fees and costs incurred by the Association, are therefore construed in
+this instance to question the interpretation of the Association’s Project Documents.
+
+8. Through May 9, 2019, OWNER has failed, neglected and refused to pay the sum of
+$2,260.15, being the repair costs related to the Elevator Incident, in violation of the Project
+Documents and the Condominium Property Law, requiring the Association to retain legal counsel
+to enforce the Project Documents against OWNER, and therefore causing the Association to incur
+attorneys’ fees and costs in connection with said enforcement efforts, and said fees and costs will
+continue to be incurred during the pendency of this action which further costs and expenses shall be
+shown and/or sought by appropriate motion.
+
+9. As noted above OWNER is subject to and must comply with the Project Documents
+and the Condominium Property Law, which provide in relevant part as follows:
+
+Article V1, Section 6(h) of the By-Laws provides:
+
+Nothing shall be allowed, done or kept in any apartments or common
+
+elements of the project which would overload or impair the floors,
+
+walls or roofs thereof, or cause any increase in the ordinary premium
+
+rates or the cancellation or invalidation of any insurance thereon
+
+maintained by or for the Association, nor shall any noxious or
+
+offensive activity or nuisance be made or suffered thereon.
+
+EXHIBIT “1” Page 2
+EXHIBIT "A"
+
+===== PAGE 020 / 31 =====
+Section X. General, subsection E. of the House Rules provides in relevant part:
+Advance notice must be given to the Managing Agent or the Front
+Office when household goods or large furniture items are to be
+moved in order that an elevator can be scheduled for use.
+Article Vi, Section 2(c) of the By-Laws provides:
+Every apartment owner shall reimburse the Association for any
+expenditures incurred in repairing or replacing any common elements
+or furniture, furnishings and equipment thereof damaged or lost
+through the fault of such apartment owner or any person using the
+project under him and shall give prompt notice to the Managing
+Agent of any such damage, loss or other defect when discovered.
+Section X, General, subsection A. of the House Rules, similarly provides:
+Owners are individually financially responsible for any damage or
+destruction to common elements that they cause or their tenants,
+guests, agents or persons working for them cause.
+10. Article V1, Section 9 of the By-Laws provides for the establishment of the House
+Rules and Paragraph L. COMPLIANCE WITH DECLARATION, BY-LAWS AND DECISIONS,
+of the Declaration confirms the obligations ofall owners at the Project, and their guests, servants and
+undertenants, to strictly observe said rules. Paragraph L. COMPLIANCE WITH DECLARATION,
+BY-LAWS AND DECISIONS, of the Declaration provides:
+All apartment owners, their tenants, families, servants and guests, and
+any other persons who may in any manner use the project or any part
+thereof, shall be bound by and comply strictly with the provisions of
+this Declaration, the by-laws of the Association and all agreements,
+decisions and determinations of the Association, as lawfully made or
+amended from time to time, and failure to comply with any of the
+same shall be grounds for an action to recover sums due, for damages
+or injunctive relief, or both, maintainable by the Managing Agent or
+Board on behalf of the Association or, in the proper case, by any
+aggrieved apartment owner.
+EXHIBIT “1” Page 3
+EXHIBIT "A"
+
+===== PAGE 021 / 31 =====
+Section Xi. Enforcement, the House Rules provides:
+
+The violation of any House Rules adopted by the Board of Directors
+of the Marine Surf Association of Apartment Owners shall give the
+Board of Directors or its Agent, the right to enjoin, abate or remedy
+by appropriate legal proceedings, either at law or in equity, the
+continuance of any such breach, and all costs thereof, including
+attorneys’ fees, shall be charged to and paid by the defaulting
+apartment owner.
+
+11. Further, HRS § 514B-112(c) requires all owners, tenants, and persons using the
+property to comply strictly with the Project Documents and provides that failure to do so constitutes
+grounds for an action to recover sums due or injunctive relief or both maintainable by the Board on
+behalf of the Association:
+
+Each unit owner, tenants and employees of an owner, and other
+persons using the property shall comply strictly with the covenants,
+conditions, and restrictions set forth in the declaration, the bylaws,
+and the house rules adopted pursuant thereto. Failure to comply with
+any of the same shall be grounds for an action to recover sums due,
+for damages or injunctive relief, or both, maintainable by the
+managing agent, resident manager, or board on behalf of the
+association or, in a proper case, by an aggrieved unit owner.
+
+12, HRS §514B-157 provides that all costs and expenses, including reasonable attorneys’
+fees, incurred by or on behalf of the Association in enforcing any provision of the Project Documents
+and the Condominium Property Law against an owner, occupant, tenant, employee of an owner, or
+any other person who may in any manner use the property, shall be promptly paid on demand to the
+Association by such person or persons. Accordingly, OWNER is liable for the attormeys’ fees and
+costs incurred by the Association in connection with the violations of the Project Documents noted
+herein, and additionally, the Association is entitled to recover fees under HRS §607-14. Also,
+Paragraph L. COMPLIANCE WITH DECLARATION, BY-LAWS AND DECISIONS, of the
+Declaration and Section XI. Enforcement, of the House Rules, also provides for OWNER’s
+obligation for the legal fees and costs incurred by the Association in having to compel OWNER’s
+compliance with the Project Documents and the Condominium Property Law.
+
+EXHIBIT “1” Page 4
+EXHIBIT "A"
+
+===== PAGE 022 / 31 =====
+13. The Association seeks an award of the Association’s costs and expenses, including,
+but not limited to, the amount reflected in the Invoice (being $2,260.15, as shown on Exhibit “2”)
+and reasonable attorneys’ fees and costs incurred in connection with the instant action and the
+enforcement of the Project Documents and the Condominium Property Law, to be shown by
+appropriate motion.
+EXHIBIT “1” Page 5
+EXHIBIT "A"
+
+===== PAGE 023 / 31 =====
+EXHIBIT “2”
+EXHIBIT "A"
+
+===== PAGE 024 / 31 =====
+Page tof
+@® thyssenkrupp INVOICE
+“ROE EE Eo
+thyssenkrupp Elevator Corporation INVOICE DATE: SoSI2OTS
+Atin: Accounts Recelvable Dept CUSTOMER #:
+41265 E FORT UNION BLVD STE 350 SRe 3409266
+COTTONWOOD HEIGHTS, UT 84047 INVOICE #: 8000875502
+Pom
+gv. . [518 TERMS: IMMEDIATE,
+“Ve ‘TOTAL DUE: $2,260.15
+. ee
+BILL TO:
+ATTN: ACCOUNTS PAYABLE SHIP TO:
+AQAO MARINE SURF WAIKIC INC
+. 64 5EASIOR AVE - MARINE SURF WAIKIKE
+HONOLULU, HI 96615-2522 364 SEASIDE AVE
+. HONOLULU, Hi 96815-2532,
+eee
+Reported By: HAROLD HITCHCOCK, 808-754-8559 on G9-May-2018 15:24:00
+Resolution Summary: CUSTOMER REPORTED: ELEVATOR NOT RESPONDING, GT OK. TECH (2): FOUND DOORS KNOCKED OFF TRACK. WILL
+. “"" REFORNTTOFIX. SH0'ADJUSTEDTOOR HANGERS'AND INTERLOCK, TESTED AND RETURNED TO SERVICE: BILLING DUE 7G-MISUSE NOTGOVERED-— .
+@Y CONTRACT.
+DATE DESCRIPTION 5 [ av [vom] price AMOUNT
+HONOLULU BRANCH
+Unit: 1 Sertal #: UStasse0
+Contract #; iS52787
+Pratinum Premisze - Full Maintenance, 24 Hour Gallbacke included ~ Elevator -
+‘With Phone Monitoring
+05/10/2018 | Labor Callback Daytime 4 HR $477.00 ‘$477.00
+05/10/2018 | Travel Daytime 25 HR $477.00 $119.26
+05/10/2018 | Labor Callback Daytime 4 HR $477.00 $477.00
+05/08/2018 | Travel Extra Work Outside the Contract Daytime. 5 HR $477.00 . $238.50
+os/0@/2018 | Labor Extra Work Outside Contract Daytime 5 HR $477.00 $298.60
+06/09/2018 | Travel Extra Work Outskie the Contract Overtime: 76 RR $810.90 ($608.18
+AMOUNT ~ ‘SALES TAX PLEASE PAY THIS AMOUNT
+‘This charge was created because service was not covered by maintenance contracts you may have with thyssenkrupp Elevator.
+For Service Related or General Questions, please call 808-834-6309 . For Billing or Payment Questions, please call €01-449-8227 .
+DETACH AND RETURN WITH YOUR PAYMENT .
+. INVOICE DATE: 08/16/2018
+@®) thyssenkrupp CUSTOMERS: Taree
+- SRA: 32409266
+thyssenkrupp Elevator Corporation INVOICE #: 8000875502
+Attn: Accounts Recelvable Dept Pos
+1265 & FORT UNION BLVD STE 350 .
+COTTONWOOD HEIGHTS, UT 84047 TERMS: IMMEDIATE
+‘TOTAL DUE: 2,260.15
+Amount Enclosert: §, REMIT PAYMENT TO:
+Payment Method
+“ thyssenkrupp Elevator Corporation
+© Personal check enclosed © Money order enclosed Cashier's check PO BOX 933004
+. Please Make Check Paynvant Tor ATLANTA, GA 31193-2004
+thyssenkrupp Elevator Corporation
+EXHIBIT "2"
+EXHIBIT "A"
+
+===== PAGE 025 / 31 =====
+SUMMONS Form #1DC50
+IN THE DISTRICT COURT OF THE FIRST CIRCUIT
+HONOLULU DIVISION
+STATE OF HAWAIT
+
+Plaintiff
+
+ASSOCIATION OF APARTMENT OWNERS OF MARINE
+
+SURF WAIKIKI, INC., a Hawaii nonprofit corporation, by its
+
+Board of Directors
+Reserved for Court Use
+
+Defendant Filing Party/Attorney Name, Attorney Number, Firm Name (if
+applicable), Address, and Telephone Number
+
+NIKODEM PIKOR PHILIP L. LAHNE (3709)
+GLENN S. HORIO (8151)
+Anderson Lahne & Fujisaki LLP
+733 Bishop Street, Suite 2301
+Honolulu, Hawaii 968413
+Telephone (808) 536-8177
+Facsimile (808) 356-7631
+
+SUMMONS
+
+THE STATE OF HAWAI'I:
+
+TO: The Director of Public Safety of the State of Hawai‘i, the Director’s deputy, or any police officer or other person
+
+authorized by the laws of the State of Hawai‘i:
+
+This Summons shall not be personally delivered between 10:00 p.m. and 6:00 a.m. on premises not open to the public,
+
+unless a Judge permits, in writing on this Summons, personal delivery during those hours.
+
+TO THE DEFENDANT:
+
+‘You are required to file a written answer or appear before the District Judge of this Court, in the Judge’s Courtroom, on the
+day and at the time designated by the checked box on page 2. If the Defendant is a corporation or limited liability company,
+Hawai‘i law requires it to be represented by an attorney licensed to practice in the State of Hawai‘i.
+
+IF YOU OR YOUR ATTORNEY FAIL TO ATTEND THE COURT HEARING AT THE TIME AND PLACE
+DESIGNATED OR FILE A WRITTEN ANSWER A DEFAULT JUDGMENT WILL BE TAKEN AGAINST YOU
+FOR THE RELIEF DEMANDED IN THE COMPLAINT.
+
+NOTICE TO PARTIES: (Honolulu Division only): If this case involves a residential lease and if the Defendant(s) disagrees
+with the statements in the Complaint, the Court may require the parties to submit their dispute to mediation at the Pre-Trial
+conference that will be scheduled on the Monday, not a holiday, following the court date specified above. If the Monday
+following your court date is a holiday, the Pre-Trial conference will occur on the next business day. If the parties are not able
+to resolve the dispute within 20 minutes of mediation, the Cout will set a trial date.
+a
+Date: Clerk G.KOBATA
+ar SEE PAGE 2
+RG-AC-508 Gr) 1-02
+(Rev. 1/23/2018) EX BIT "A" Form#1DC50
+
+===== PAGE 026 / 31 =====
+COURT ADDRESSES AND RETURNABLE DAYS:
+P Honolulu Division, 1111 Alakea Street, 10 floor Courtroom 10A or 10B, Honolulu, Hawai‘i
+C1 at 8:30 a.m. on the fifth day following date of service, excluding Saturdays, Sundays, legal holidays
+for summary possession.
+or
+@ at 1:30 p.m. on the second Monday following date of service, and should that Monday be a legal
+holiday then upon the next business day.
+OD ‘Ewa Division, 870 Fourth Street, Pearl City, Hawai‘i
+Q at 9:00 a.m. on the second Thursday following date of service, and should that Thursday be a legal
+holiday then upon the next Thursday.
+© Ko‘olaupoko OR Ko‘olauloa Division, 45-939 Po‘okela Street, Kane‘ohe, Hawai‘i
+C at 9:00 a.m. on the second Friday following date of service, and should that Friday be a legal holiday
+then upon the next Friday.
+O Wahiawa OR Waialua Division, 1034 Kilani Avenue, Wahiawa, Hawai'i
+Ci at 9:00 a.m. on the second Wednesday following date of service, and should that Wednesday be a legal
+holiday then upon the next Wednesday.
+O Waft‘anae Division, 4675 Kapolei Parkway, Kapolei, Hawai‘i
+D at 9:00 a.m, on the second Tuesday following date of service, and should that Tuesday be a legal
+holiday then upon the next Tuesday.
+Mailing address for the Courts: 1111 Alakea Street, Civil Division, Third floor, Honolulu, Hawai‘i
+96813
+In accordance with the Americans with Disabilities Act and other applicable state and federal laws, if yourequire an accommodation
+for a disability when working with a court program, service, or activity, please contact the District Court Administration Office at
+© PHONE NO. 538-5121, FAX 538-5233, or TTY 539-4853 at least ten (10) working days before your proceeding, hearing, or
+appointment date. For Civil related matters, please call 538-5629 or visit the District Court Service Center at 1111 Alakea
+Street, Third (3%) Floor.
+(Rev. 1/23/2018) EXeIBri2"A" Form#1DC50
+······
+
+===== PAGE 027 / 31 =====
+                    IN THE DISTRICT COURT OF THE FIRST CIRCUIT
+                                HONOLULU DIVISION
+                                 STATE OF HAWAII
+
+ASSOCIATION OF APARTMENT                     ) CIVIL NO. 1RC191003776
+OWNERS OF MARINE SURF WAIKIKI, )
+INC., a Hawaii nonprofit corporation, by its ) DECLARATION OF JAMES R. FERGUSON
+Board of Directors,                          )
+                                             )
+              Plaintiffs,                    )
+                                             )
+       vs.                                   )
+                                             )
+NIKODEM PIKOR,                               )
+                                             )
+              Defendants.                    )
+____________________________________ )
+                                             )
+NIKODEM PIKOR,                               )
+                                             )
+              Defendant and                  )
+              Third-Party Plaintiff,         )
+                                             )
+       vs.                                   )
+                                             )
+THYSSENKRUPP ELEVATOR                        )
+CORPORATION, a foreign profit                )
+corporation,                                 )
+                                             )
+              Third-Party Defendant.         )
+____________________________________ )
+
+                         DECLARATION OF JAMES R. FERGUSON
+
+       I, James R. Ferguson declare that:
+
+       1.      I am counsel for Defendant ASSOCIATION OF APARTMENT OWNERS OF
+
+MARINE SURF WAIKIKI, INC. and I have personal knowledge of the facts set forth in this
+
+declaration, except where facts are alleged upon information and belief.
+
+       2.      Attached hereto as Exhibit “A” is a true and correct copy of a complaint filed by
+
+Plaintiff and Counterclaim Defendant AOAO Marine Surf Waikiki, Inc. on May 31, 2019.
+
+===== PAGE 028 / 31 =====
+           3.     I have reviewed the Court’s docket in this matter which reflects the following
+
+filings.
+
+           4.     On July 8, 2019, Pikor filed an Answer to the Complaint along with a
+
+Counterclaim and Third-Party Complaint against TKE.
+
+           5.     On January 6, 2020 TKE filed a motion for summary judgment. On January 14,
+
+2020, Pikor, through his then counsel Joseph Ryan, Jr., Esq., filed a memorandum in opposition
+
+to the motion.
+
+           6.     On January 14, 2020, Pikor, through his then counsel Joseph Ryan, Jr., Esq., filed
+
+a memorandum in opposition to the motion.
+
+           7.     On January 21, 2020, the motion was heard before Judge Michael Tanigawa.
+
+           8.     The motion was granted by Order filed February 3, 2020, dismissing Pikor’s the
+
+third-party complaint against TKE in its entirety and with prejudice.
+
+           9.     On February 6, 2020, TKE filed a motion for fees and costs as the prevailing
+
+party.
+
+           10.    On February 18, 2020, the Court entered an Order granting TKE’s motion and
+
+awarding $9,140.14 in attorney’s fees and costs.
+
+           11.    On April 7, 2020, TK. filed a motion for certification pursuant to Rule 54 (b) of
+
+the Hawaii District Court Rules of Civil Procedure. The hearing on the Rule 54(b) motion is
+
+currently scheduled for June 29, 2020.
+
+           11.    On April 29, 2020, Pikor filed a Withdrawal and Substitution of Counsel in which
+
+           Pikor’s current counsel was substituted in for Joseph Ryan, Jr., Esq.
+
+           12.    Pikor’s deposition was originally noticed for March 31, 2020.
+
+
+
+
+                                                    2
+
+===== PAGE 029 / 31 =====
+       13.     This matter was originally scheduled for a Pretrial Conference on May 1, 2020 is
+
+       currently scheduled for July 13, 2020.
+
+               I, James R. Ferguson, do declare under penalty of law that the foregoing is true
+
+and correct.
+
+               DATED: Honolulu, Hawaii, June 12, 2020.
+
+
+                                             /s/ James R. Ferguson
+                                             JAMES R. FERGUSON
+
+
+
+
+                                                3
+
+===== PAGE 030 / 31 =====
+                    IN THE DISTRICT COURT OF THE FIRST CIRCUIT
+                                HONOLULU DIVISION
+                                 STATE OF HAWAII
+
+ASSOCIATION OF APARTMENT                     ) CIVIL NO. 1RC191003776
+OWNERS OF MARINE SURF WAIKIKI, )
+INC., a Hawaii nonprofit corporation, by its ) CERTIFICATE OF SERVICE
+Board of Directors,                          )
+                                             )
+              Plaintiffs,                    )
+                                             )
+       vs.                                   )
+                                             )
+NIKODEM PIKOR,                               )
+                                             )
+              Defendants.                    )
+____________________________________ )
+NIKODEM PIKOR,                               )
+                                             )
+              Defendant and                  )
+              Third-Party Plaintiff,         )
+                                             )
+       vs.                                   )
+                                             )
+THYSSENKRUPP ELEVATOR                        )
+CORPORATION, a foreign profit                )
+corporation,                                 )
+                                             )
+              Third-Party Defendant.         )
+____________________________________ )
+
+                                 CERTIFICATE OF SERVICE
+       I hereby certify that a true and correct copy of the foregoing was duly served by
+depositing the same in the United States Mail, postage prepaid [M], hand-delivery [HD],
+facsimile transmission [F] or electronically through JEFS [E] to the following at their last known
+address:
+       PHILIP L. LAHNE, ESQ.                         [   E    ]
+       GLENN S. HORIO, ESQ.
+       Pacific Guardian Ctr., Makai Twr.
+       733 Bishop St., Ste. 2301
+       Honolulu, HI 96813
+               Attorneys for Plaintiff Association of Apartment Owners of Marine Surf Waikiki,
+               Inc., by its Board of Directors
+
+===== PAGE 031 / 31 =====
+JOSEPH N. A. RYAN, JR., ESQ.               [   E    ]
+Attorney at Law, LLLC
+41-430 Waikupanaha St.
+Waimanalo, HI 96795
+       Attorney for Defendant
+       Nikodem Pikor
+
+CALVERT G. CHIPCHASE, IV, ESQ.             [   E    ]
+JARRETT A. DEMPSEY, ESQ.
+Cades Schutte LLP
+Cades Schutte Bldg.
+1000 Bishop St., Fl. 12
+Honolulu, HI 96813
+       Attorneys for Third-Party Defendant
+       Thyssenkrupp Elevator Corporation
+
+       DATED: Honolulu, Hawaii, June 12, 2020.
+
+
+                                    /s/ James R. Ferguson
+                                    APRIL LURIA
+                                    JAMES R. FERGUSON
+                                    BARRON T. ODA
+                                    Attorneys for Counterclaim Defendant
+                                    Association of Apartment Owners of Marine Surf
+                                    Waikiki, Inc., by its Board of Directors

@@ -1,0 +1,27 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Search the record — 1,121 documents</title>
+<style>body{margin:0;background:#faf9f7;color:#111;font:16px/1.6 Georgia,serif}header,main,footer{max-width:900px;margin:0 auto;padding:24px}
+h1{font-size:2rem;margin:26px 0 6px}.muted{color:#666}input{width:100%;padding:12px;font:16px Georgia,serif;border:1px solid #ccc;background:#fff}
+.row{border-bottom:1px solid #e5e5e5;padding:10px 0}.dkt{font:12px ui-monospace,Menlo,monospace;color:#7a1f1f}
+.exc{color:#444;font-size:.92rem;margin-top:4px}a{color:#7a1f1f}code{font:12px ui-monospace,Menlo,monospace;background:#f0eee9;padding:1px 4px}
+</style><link rel="icon" href="assets/brand/favicon.svg" type="image/svg+xml"><link rel="alternate icon" href="assets/brand/favicon-32.png" sizes="32x32"><link rel="apple-touch-icon" href="assets/brand/favicon-180.png"></head><body><header><div style="border-bottom:1px solid #e5e5e5;padding:6px 0 10px;margin-bottom:6px;font:12px ui-monospace,Menlo,monospace;letter-spacing:.14em;color:#7a1f1f">THE 95&times; RECORD &middot; CIVIL NO. 1RC19-1-003776</div><h1>Search the record</h1><p class="muted"><a href="index.html">record</a> · <a href="appeal.html">appeal</a> · <a href="register.html">register docket</a> · <a href="access.html">access</a> · <a href="texts.html">texts</a> · <a href="hook.html">the 95× record</a> · <a href="launch.html">launch plan</a> · <a href="decisions.html">decisions</a> · <a href="read.html">start here</a> · <a href="search.html">search</a> · <a href="docs.html">documents</a> · <a href="coverage.html">coverage</a> · <a href="drive.html">drive vs record</a> · <a href="census.html">census</a> · <a href="numbers.html">numbers</a> · <a href="fees.html">fees</a> · <a href="hinge.html">hinge</a> · <a href="gate.html">gate</a> · <a href="findings.html">findings</a> · <a href="emails.html">email exhibits</a> · <a href="errata.html">errata</a> · <a href="appendix.html">appendix</a> · <a href="people.html">people</a> · <a href="candidates.html">candidates</a> · <a href="leads.html">open leads</a> · <a href="pl.html">PL</a></p></header><main>
+<p class="muted">Searches titles and short excerpts over all 1,121 verified documents. Excerpts are machine-extracted and may
+contain OCR noise. Every hit links to its full document on the reading room.</p>
+<input id="q" placeholder="docket number, name, phrase…" autofocus>
+<p class="muted" id="meta"></p><div id="out"></div>
+<p class="muted">Index: site/data/search.json (built from verify/text, from the hash-verified PDFs).</p>
+<footer class="muted"><p>An index, not an opinion.</p></footer></main>
+<script>
+let DATA=null, DBG='';
+async function load(){ const r=await fetch('data/search.json'); DATA=await r.json(); document.getElementById('meta').textContent=DATA.length+' documents indexed'; }
+function esc(s){return (s||'').replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));}
+function run(){ if(!DATA) return; const q=document.getElementById('q').value.trim().toLowerCase();
+  const out=document.getElementById('out'); if(!q){out.innerHTML='';return;}
+  const hits=DATA.filter(d=>{const h=(d.title+' '+(d.excerpt||'')+' '+(d.dkt??'')+' '+DBG).toLowerCase(); return h.includes(q);}).slice(0,60);
+  out.innerHTML=hits.map(d=>`<div class="row"><div class="dkt">${d.dkt?('Dkt '+d.dkt):'—'} · ${esc(d.kind||'')} · ${esc(d.date||'')}</div>
+  <div><a href="docs/${d.id}.html">${esc(d.title||'(no title)')}</a></div>
+  <div class="exc">${esc(d.excerpt||'')}</div></div>`).join('')||'<p class="muted">no match in titles or excerpts — the full text may still contain it; the reading room searches all text.</p>';
+}
+document.getElementById('q').addEventListener('input',run);
+load().then(run);
+</script></body></html>

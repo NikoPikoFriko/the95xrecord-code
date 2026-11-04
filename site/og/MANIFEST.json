@@ -1,0 +1,44 @@
+[
+  {
+    "page": "index",
+    "url": "https://the95xrecord.vercel.app/index",
+    "image": "https://the95xrecord.vercel.app/og/index.png",
+    "title": "The 95× Record — 1,121 documents, every SHA-256 verified",
+    "description": "An open forensic audit of AOAO Marine Surf Waikiki v. Nikodem Pikor, Civil No. 1RC19-1-003776: 1,121 published documents, 1,121 SHA-256 matches, 0 mismatches."
+  },
+  {
+    "page": "hook",
+    "url": "https://the95xrecord.vercel.app/hook",
+    "image": "https://the95xrecord.vercel.app/og/hook.png",
+    "title": "One elevator repair. One judgment — $2,260.15 to $214,890.23",
+    "description": "$211,747.77 judgment + $2,842.46 interest + $300.00 costs = $214,890.23 total: a 95.08× ratio built from the record's own figures, each cited to docket and page."
+  },
+  {
+    "page": "numbers",
+    "url": "https://the95xrecord.vercel.app/numbers",
+    "image": "https://the95xrecord.vercel.app/og/numbers.png",
+    "title": "The Numbers — $214,890.23, as the documents state them",
+    "description": "$214,890.23 = 211,747.77 + 2,842.46 + 300.00, quoted from Dkt 453 pp. 2 and 15 and SHA-256 matched before quotation. The arithmetic is the site's."
+  },
+  {
+    "page": "findings",
+    "url": "https://the95xrecord.vercel.app/findings",
+    "image": "https://the95xrecord.vercel.app/og/findings.png",
+    "title": "Findings 001 — the filing's own numbers, checked",
+    "description": "Dkt 405 p.5 says the AOAO demands literally 100 times the value of its claim in fees; 214,890.23 / 2,260.15 = 95.08. The assertion is labelled, not adopted."
+  },
+  {
+    "page": "coverage",
+    "url": "https://the95xrecord.vercel.app/coverage",
+    "image": "https://the95xrecord.vercel.app/og/coverage.png",
+    "title": "Coverage — 491/495 entries, four declared gaps",
+    "description": "491 of 495 circuit entries are present; four entries the site cannot show are declared (Dkt 484, 486, 487, 493). An export is not a docket."
+  },
+  {
+    "page": "pl",
+    "url": "https://the95xrecord.vercel.app/pl",
+    "image": "https://the95xrecord.vercel.app/og/pl.png",
+    "title": "Streszczenie po polsku — 1 121 dokumentów, 95,08×",
+    "description": "Otwarty audyt sprawy AOAO Marine Surf Waikiki v. Nikodem Pikor: 1 121 dokumentów z SHA-256, 214 890,23 / 2 260,15 = 95,08×. Każdy cytat z numerem Dkt i stroną."
+  }
+]

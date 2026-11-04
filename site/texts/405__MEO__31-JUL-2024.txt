@@ -1,0 +1,1383 @@
+===== PAGE 001 / 38 =====
+     REVERE & ASSOCIATES
+     A Limited Liability Law Company
+                                                                                                                              Electronically Filed
+     TERRANCE M. REVERE                 5857                                                                                  FIRST CIRCUIT
+     AMANDA L. DUTCHER                  9749                                                                                  1RC191003776
+     970 North Kalaheo, Ave., Suite A301                                                                                      31-JUL-2024
+     Kailua, Hawai’i 96734                                                                                                    06:13 PM
+     Telephone No: (808) 791-9550                                                                                             Dkt. 405 MEO
+     Facsimile No: (808) 791-9551
+     terry@revereandassociates.com
+     amanda@revereandassociates.com
+
+     Attorneys for Defendant/Third Party Plaintiff
+     NIKODEM PIKOR
+
+                                     IN THE CIRCUIT COURT OF THE FIRST CIRCUIT
+                                                HONOLULU DIVISION
+                                                 STATE OF HAWAII
+
+     ASSOCIATION OF APARTMENT                                                     Civil No. 1RC19-1-0003776
+     OWNERS OF MARINE SURF WAIKIKI,
+     INC., a Hawai’i nonprofit corporation, by its
+     Board of Directors                                                           DEFENDANT/ THIRD PARTY
+                                                                                  PLAINTIFF NIKODEM PIKOR,’S
+                            Plaintiff,                                            OPPOSITION TO PLAINTIFF
+                                                                                  AND COUNTERCLAIM
+                vs.                                                               DEFENDANT ASSOCIATION OF
+                                                                                                                                                                                                         APARTMENT OWNERS OF
+     NIKODEM PIKOR,                                                               MARINE SURF WAIKIKI, INC’S
+                                                                                  MOTION FOR ATTORNEYS’
+                            Defendant.                                            FEES AND COSTS; EXHIBIT A;
+                                                                                  CERTIFICATE OF SERVICE
+     NIKODEM PIKOR,
+                                                                                   HEARING:
+                            Third Party Plaintiff,                                 Date: August 5, 2024
+                                                                                   Time: 8:30 am
+                v.                                                                 Judge: Presiding Judge
+
+     THYSSENKRUPP ELEVATOR
+     CORPORATION, Foreign Profit Corporation,
+
+                            Third Party Defendant.
+
+
+
+
+I do hereby certify that the foregoing is a full, true and correct copy of the official court record of the Courts of the State of Hawai`i.
+Dated at: Honolulu, Hawai`i 02-SEP-2026, /s/ Lori Ann Okita, Clerk of the First Judicial Circuit, State of Hawai`i
+
+===== PAGE 002 / 38 =====
+                                                       TABLE OF CONTENTS
+I.        Introduction ........................................................................................................................... 1
+II. Procedural History. ............................................................................................................... 2
+III.         Brief Summary of Pikor’s Objections to the AOAO’s Request .................................... 2
+IV.          Discussion ........................................................................................................................... 3
+     A.      HRS § 607-14 Caps the AOAO’s Entitlement to Fees at $565.03 ................................. 3
+     B. This District Court Action Was Not and Could Not Possibly Be An Enforcement
+     Action aka An Action Seeking Injunctive Relief .................................................................... 6
+     C. HRS § 514B-157 Is Not Applicable Because the AOAO’s Assumpsit Complaint Does
+     Not Seek Any Affirmative Action By Mr. Pikor ..................................................................... 7
+     D.      Any Attorney Fee Award is Subject to This Court’s Jurisdictional Limit .................. 9
+     E.      No Evidence of the AOAO’s Actual Attorney’s Fees Incurred Were Aduced At Trial
+             10
+     F. The AOAO Is Not Entitled to An Award of Attorney’s Fees Related to Attorney’s
+     Fees For Its Defense ................................................................................................................. 11
+     G. The Amounts Being Demanded Are Patently Absurd, Disproportionate and
+     Unreasonable ............................................................................................................................ 13
+       1. Excessive and Duplicative Billing ............................................................................... 15
+       2.··········Invoices ........................................................................................................ 16
+       3. Block Billing ................................................................................................................. 16
+     H. The AOAO’s Request For Costs Is Unreasonable ........................................................ 17
+     I. The AOAO’s Attempt To Blame Mr. Pikor For the AOAO’s Excessive Fees Should
+     Be Disregarded ......................................................................................................................... 18
+     J.      The Record Supports a Referral of AOAO Counsel To the ODC .............................. 20
+V.        Conclusion ............................................................................................................................ 21
+
+
+
+
+                                                                          2
+
+===== PAGE 003 / 38 =====
+                                                   TABLE OF AUTHORITIES
+Cases
+ABCS Troy, LLC v. LoanCraft, LLC, 337 Mich. App. 125, 972 N.W.2d 317, 2021 Mich. App.
+   LEXIS 2702 (Mich. Ct. App. 2021) .......................................................................................... 10
+Advanced Air Conditioning, Inc. v. Smith, 2014 Haw. App. LEXIS 552 ..................................... 12
+Ass'n of Apartment Owners of Maalaea Kai v. Stillson, 108 Hawai'i 2, 9, 116 P.3d 644, 651
+   (2005)........................................................................................................................................... 6
+Ass'n of Apt. Owners of Keauhou Kona Surf & Racquet Club, Inc. v. Bowers, No. 29218, 2011
+   Haw. App. LEXIS 351, 2011 WL 1421147, ............................................................................... 8
+Au v. Funding Group, Inc., 933 F. Supp. 2d 1264, 1272 (D. Haw. 2013) .................................... 12
+Bjornen v. State Farm Fire and Casualty Co., 81 Hawai'i 105, 912 P.2d 602 (App. 1996) ......... 18
+Blair v. Ing, 96 Hawai'i 327, 332, (2001) ........................................................................................ 4
+Buscher v. Boning, 114 Hawai'i 202, 223 & n.15, 159 P.3d 814, 835 & n.15 (2007) .................. 17
+Chambers v. NASCO, Inc., 501 U.S. 32, 73-74, 111 S. Ct. 2123, 115 L. Ed. 2d 27 (1991) ......... 19
+DFS Group L.P. v. Paiea Props., 110 Haw. 217 (2006) ......................................................... 18, 20
+Eastman v. McGowan, 86 Hawai'i 21, 31 (1997) ............................................................................ 3
+Employee Mgmt. Corp. v. Aloha Group, Ltd., 87 Hawai'i 350, 352, 956 P.2d 1282, 1284 (Haw.
+   App. 1997) ................................................................................................................................... 6
+Fuller v. Pacific Medical Collections, 78 Haw. 213, 220 ............................................................... 7
+Harrison v. McCandless, 22 Haw. 129, 1914 Haw. LEXIS 25 (Haw. 1914) ................................. 9
+Hawai'i Ventures, LLC v. Otake, Inc., 116 Hawai'i 465, 476,173 P.3d 1122, 1132 (2007).... 16, 17
+Kona Vill. Realty, Inc. v. Sunstone Realty Partners, XIV, LLC, 123 Haw. 476, 486 (2010) .......... 4
+Kroske v. US Bank Corp., 432 F.3d 976, 980 (9th Cir. 2005) ........................................................ 10
+Lamb Eng'g & Constr. Co. v. Neb. Pub. Power Dist., 103 F.3d 1422, 1435 (8th Cir. 1997) ....... 19
+Leslie v. Estate of Tavares, 93 Haw. 1, 994 P.2d 1047, 1051 (Haw. 2000) .................................... 4
+Litton Industries, Inc. v. IMO Industries, Inc., 200 N.J. 372, 982 A.2d 420, 428-29 (N.J. 2009) 14
+Matter of Fordham, 423 Mass. 481, 668 N.E.2d 816, 820 (Mass. 1996) ..................................... 14
+Missouri State Life Ins. Co. v. Jones, 290 U.S. 199 (1933)........................................................... 10
+Newport Yacht Basin Ass'n of Condo. Owners v. Supreme Nw., Inc., 168 Wn. App. 86, 102
+   (2012)................................................................................................................................... 10, 11
+Ring v. Carriage House Condo. Owners' Ass'n, 2014 VT 127, 198 Vt. 109, 125, 112 A.3d 754 19
+Robinson v. City of Edmond, 160 F.3d 1275,1284 at n.9 (l0th Cir. 1998) .................................... 16
+Schmidt v. Bd. of Dirs. of the Ass'n of Apt. Owners of the Marco Polo Apts., 73 Haw. 526 (1992)
+    ........................................................................................................................................... 3, 8, 11
+Schoonmaker v. Lawrence Brunoli, Inc., 265 Conn. 210, 828 A.2d 64, 98 n.60 (Conn. 2005) .... 14
+Harrison v. Casa De Emdeko, Inc., 142 Hawai'i 218, 226, 418 P.3d 559, 567 (2018) ................... 6
+LT. v. Dept of Education, 2012 U.S. Dist. LEXIS 185500 (D. Haw. November 30, 2012).......... 17
+Sharp v. Hui Wahine, Inc., 49 Haw. 241, 247, 413 P.2d 242, 246 (1966) .................................... 13
+Signature Homes of Haw., LLC v. Cascade Sur. and Bonding, Inc., No. CV 06-00663 JMS
+   BMK, 2007 U.S. Dist. LEXIS 56854, 2007 WL 2258725, at *3 (D. Haw. Aug. 3,2007) ........ 17
+Smothers v. Renander, 2 Haw. App. 400, 408, 633 P.2d 556, 563 (1981) .................................... 13
+Thornley v. Sanchez, 9 Haw. App. 606, 618, 857 P.2d 601, 608 (1993)......................................... 6
+Tortorello v Tortorello, 113 Hawai'i 432, 445 (2007)................................................................... 18
+Vinson v. Ass'n of Apartment Owners of Sands of Kahana, 130 Hawai'i 540, 312 P.3d 1247 (App.
+   2013) .......................................................................................................................................... 11
+Wong v. Takeuchi, 88 Hawai'i 46, 50-51, 961 P.2d 611, 615-16 (1998)......................................... 6
+
+===== PAGE 004 / 38 =====
+Statutes
+HRS § 154B-157 ..................................................................................................................... 7, 8, 9
+HRS § 480-13(b) ............................................................................................................................. 2
+HRS § 603-21.7(a)(3) ...................................................................................................................... 7
+HRS § 604-10.5 ............................................................................................................................... 7
+HRS § 607-14 .......................................................................................................................... 3, 4, 6
+Rules
+Hawaii’s Rules of Professional Conduct, 1.1 ............................................................................... 20
+Hawaii’s Rules of Professional Conduct, 1.5 .......................................................................... 13, 20
+Hawaii’s Rules of Professional Conduct, 3.1 ................................................................................ 20
+Hawaii’s Rules of Professional Conduct, 3.3 ................................................................................ 20
+Hawaii’s Rules of Professional Conduct, 8.4 ................................................................................ 20
+
+
+
+
+                                                                       2
+
+===== PAGE 005 / 38 =====
+      NIKODEM PIKOR’S OPPOSITION TO PLAINTIFF AND COUNTERCLAIM
+     DEFENDANT ASSOCIATION OF APARTMENT OWNERS OF MARINE SURF
+         WAIKIKI, INC’S MOTION FOR ATTORNEYS’ FEES AND COSTS
+
+I.     Introduction
+
+       The present motion perfectly demonstrates why the public is often appalled by the
+conduct of condominium Boards and the avarice and unreasonableness of the attorneys
+representing them. The dispute in this case was over a $2,260.15 invoice addressed to the
+AOAO. The invoice was for work performed by Thyssenkrupp Elevator Corporation (TKE) to
+return the common area elevator at the Marine Surf Waikiki Condominium back to service after
+the doors became uncoupled. The AOAO filed an Assumpsit Complaint against Nikodem Pikor
+in the District Court of the First Circuit to collect on the $2,260.15 TKE invoice because the
+elevator doors became uncoupled when they came in contact with storage bins that Mr. Pikor
+was uploading from the elevator. According to the AOAO’s Assumpsit Complaint, Mr. Pikor
+owed money to the AOAO. Per the plain language of the assumpsit statute, that means the
+AOAO is entitled to, at most 25% of $2,260.15-- $565.04. Instead, the AOAO demands literally
+100 times the value of their claim in fees. In a district court case.
+       This motion should be emphatically denied and frankly the AOAO’s council sanctioned
+for any of the following reasons which will be discussed here and in more detail:
+       1. At most the AOAO is entitled to 565.04 under the assumpsit statute.
+       2. The demand for fees is far in excess of the jurisdictional limits of this court.
+       3. Demanding hundreds of thousands of dollars over a $2,260.25 dispute is patently and
+           absurdly unreasonable.
+       4. The AOAO's disingenuous, after-the-fact attempt to recharacterize its assumpsit
+           complaint as seeking declaratory or injunctive relief once again ignores the fact that
+           the District Courts can't grant declaratory or injunctive relief; those remedies are
+           solely within the jurisdiction of the Circuit Courts. So, if that's what it now says it
+           wanted, (despite the plain language of its complaint) that's where it should have filed.
+       5. The AOAO makes no attempt to apportion between covered and non-covered claims
+           as the law requires.
+       6. The AOAO provides little to no back up for its ridiculous fee and cost demands and
+           the little that of provided demonstrates the patent unreasonableness of the demands.
+
+===== PAGE 006 / 38 =====
+        7. The AOAO adds on supposed fees incurred prior to the lawsuit even being filed.
+
+II.     Procedural History.
+        The AOAO filed a District Court Assumpsit Complaint against Mr. Pikor, seeking
+$2,2360 .25. Exhibit A attached hereto. In response to the Assumpsit Complaint, Mr. Pikor filed
+a Third-Party Complaint against TKE alleging that the decoupling of the elevator doors was the
+result of TKE’s failure to properly maintain the elevator. Concluding that Mr. Pikor did not have
+standing to sue TKE because of a lack of privity, the district court dismissed Mr. Pikor’s Third-
+Party Complaint against TKE. Mr. Pikor also filed a Counterclaim against the AOAO alleging
+that the AOAO’s demands that he pay the TKE invoice were unsubstantiated and amounted to
+unfair and deceptive conduct (For which the AOAO cannot claim fees, under HRS 480 only a
+successful consumer claimant can recover fees. See HRS 480-13(b)).1
+        The district court heard the AOAO’s claims and Mr. Pikor’s Counterclaims and entered
+judgment in favor of the AOAO, awarding the AOAO the $2,260.15 prayed for in its Assumpsit
+Complaint. The Court also dismissed Mr. Pikor’s Counterclaims.
+        The AOAO is now seeking $257,097.50 in attorney’s fees and $12,743.54 in costs
+associated with the prosecution of its Assumpsit Complaint and defense against Mr. Pikor’s
+Counterclaims. Inclusive of the AOAO’s request, is a request for over $12,000 in attorney’s fees
+and costs incurred prior to the filing of the Assumpsit Complaint.
+
+III.    Brief Summary of Pikor’s Objections to the AOAO’s Request
+        According to the AOAO it is entitled to all its attorney’s fees under HRS § 514B-157
+because “the expenses and costs incurred were all necessary and reasonable for the Association
+to enforce the Governing Documents.” The problem with the AOAO’s request is that this was
+
+
+ 1
+   HRS § 480-13(b) provides as follows:
+ (b) Any consumer who is injured by any unfair or deceptive act or practice forbidden or declared unlawful by
+ section 480-2:
+    (1) May sue for damages sustained by the consumer, and, if the judgment is for the plaintiff, the plaintiff shall
+    be awarded a sum not less than $1,000 or threefold damages by the plaintiff sustained, whichever sum is the
+    greater, and reasonable attorney's fees together with the costs of suit; provided that where the plaintiff is an
+    elder, the plaintiff, in the alternative, may be awarded a sum not less than $5,000 or threefold any damages
+    sustained by the plaintiff, whichever sum is the greater, and reasonable attorney's fees together with the costs of
+    suit. In determining whether to adopt the $5,000 alternative amount in an award to an elder, the court shall
+    consider the factors set forth in section 480-13.5; and
+    (2) May bring proceedings to enjoin the unlawful practices, and if the decree is for the plaintiff, the plaintiff
+    shall be awarded reasonable attorney's fees together with the costs of suit. [Bold added.}
+
+
+
+                                                          2
+
+===== PAGE 007 / 38 =====
+not an enforcement action brought by the AOAO against Mr. Pikor. Nor could it be because
+(a) an “enforcement action” means that the AOAO would have to be seeking injunctive relief
+(which it did not, it sued in assumpsit to recover $2,000) and (b) it could not do so because the
+Circuit Courts have the authority to issue injunctions, not district courts. The AOAO filed an
+Assumpsit Complaint against Mr. Pikor and HRS § 514B-157 does not apply if an association or
+an owner are simply seeking a monetary award and there is no request for affirmative action such
+as a request for equitable, mandatory or injunctive relief. See e.g. Schmidt v. Bd. of Dirs. of the
+Ass'n of Apt. Owners of the Marco Polo Apts., 73 Haw. 526 (1992).
+       The AOAO’s Assumpsit Complaint was an action to collect a debt - nothing more was
+sought by the AOAO. Nothing more was received. The district court has made its decision
+regarding the amount of money Mr. Pikor owes the AOAO for the decoupling incident. Now
+that the trial is over and the evidence closed, the AOAO cannot transform its District Court
+assumpsit case into a Circuit Court “enforcement action” (aka one seeking declaratory or
+injunctive relief) or assert that its attorney’s fees are somehow a post-trial element of its
+damages.
+       Accordingly, having failed to assert a viable basis for an award of attorney’s fees, the
+AOAO’s request for $257,097.50 in attorney’s fees should be denied in its entirety.
+       Alternatively, if the Court, pursuant to HRS § 607-14, awards the AOAO fees and costs,
+the AOAO is entitled to no more than $565.03 in attorney’s fees.
+       Additionally, if costs are awarded, the requested costs should be adjusted by subtracting
+the $11,417.96 for expert witness costs (which are clearly not recoverable as matter of Hawaii
+law), $74.17 for online research, and $15.39 of unspecified costs that the AOAO provided no
+backup information, leaving no more than $1,236.54 ($12,743.54 -$11,507.52) recoverable for
+the AOAO’s costs.
+
+IV.    Discussion
+       A.      HRS § 607-14 Caps the AOAO’s Entitlement to Fees at $565.03
+       The AOAO filed its Assumpsit Complaint in the District Court of the First Circuit to
+recover $2,260.15, plus costs, interest, and reasonable attorney’s fees. See Exh. A. HRS § 607-
+14 limits the award of attorney’s fees to 25% of the judgment in actions in the nature of
+assumpsit or in contracts in writing that provide for an attorney’s fee. Eastman v. McGowan, 86
+Hawai'i 21, 31 (1997).
+
+
+                                                  3
+
+===== PAGE 008 / 38 =====
+        HRS § 607-14 states in relevant part:
+        In all the courts, in all actions in the nature of assumpsit and in all actions on a
+        promissory note or other contract in writing that provides for an attorney’s
+        fee, there shall be taxed as attorneys’ fees, … The court shall then tax
+        attorneys’ fees, which the court determines to be reasonable, to be paid by
+        the losing party; provided that this amount shall not exceed twenty-five per
+        cent of the judgment.
+HRS § 607-14 (bold added).
+        Moreover, a court awarding attorneys' fees pursuant to HRS § 607-14 must apportion the
+fees claimed between assumpsit and non-assumpsit claims, if practicable. See Blair v. Ing, 96
+Hawai'i 327, 332, (2001). The AOAO made no attempt to apportion fees between assumpsit and
+non assumpsit claims leaving the court with no data on how to do so. And if the AOAO tries to
+do so in its reply, that would not be fair to Mr. Pikor, who will have no ability to comment.
+        No doubt, the AOAO wants to avoid the consequences of HRS § 607-14. But, by its
+express terms, HRS § 607-14 sets forth an "explicit" and "well defined" public policy of limiting
+attorneys' fees in actions in the nature of assumpsit. Kona Vill. Realty, Inc. v. Sunstone Realty
+Partners, XIV, LLC, 123 Haw. 476, 486 (2010).
+        The objective of the legislature was to "fairly compensate" the prevailing party in
+        actions in assumpsit for the expense of retaining an attorney to prosecute its claim
+        in the case of a creditor, or adequately defending against such claims, in the case
+        of a defendant. Conf. Comm. Rep. No. 1089, in 1993 House Journal, at 932
+        (emphasis added).
+Id. at 487.
+        The AOAO’s action here is in the nature of assumpsit as the entirety of its claim was to
+collect a debt that it alleged was contractually owed by Mr. Pikor. "Under Hawaii case law, an
+action in the nature of assumpsit includes 'all possible contract claims.'" Leslie v. Estate of
+Tavares, 93 Haw. 1, 994 P.2d 1047, 1051 (Haw. 2000) (citation omitted); see Blair at 332
+("'Assumpsit' is 'a common law form of action which allows for the recovery of damages for
+non-performance of a contract, either express or implied, written or verbal, as well as quasi
+contractual obligations.'"). "The character of the action should be determined from the facts and
+issues raised in the complaint, the nature of the entire grievance, and the relief sought." Id.
+"Where there is doubt as to whether an action is in assumpsit or in tort, there is a presumption
+that the suit is in assumpsit." Id.
+
+
+
+
+                                                  4
+
+===== PAGE 009 / 38 =====
+       In this case, the AOAO filed suit using the district court form entitled: “COMPLAINT
+(ASSUMPSIT-MONEY OWED).” As the title appropriately states, the AOAO’s complaint was
+a claim for money owed under a contract- specifically Mr. Pikor’s liability for the repairs to
+the elevator. The AOAO’s Assumpsit Complaint states in pertinent part:
+       On or about May 24, 2019 Defendant(s) owed money to Plaintiff(s) as follows:
+       See Exhibit 1.
+       A copy of the written instrument on which the debt is based is attached as
+       Exhibit 1 and Exhibit 2.
+       Plaintiff(s) asks for Judgment in the principal amount of $ See Exhibit 1.
+       In addition, the Court may award court costs, interest and reasonable attorney's
+       fees.
+
+       Exhibit 1, attached to the AOAO’s Assumpsit Complaint, is a five-page document with
+13 paragraphs describing the basis for Mr. Pikor’s alleged liability for the repairs to the common
+area elevator with citations to the Association’s Governing Documents. Exhibit 2 is the
+Thyssenkrupp Elevator Corporation (TKE) invoice addressed to the AOAO for $2,260.15.
+There are no specific counts or claims asserted in the AOAO’s Complaint other than the
+allegation that the damage to the elevator and Mr. Pikor’s failure to pay for the repair costs
+constituted a violation of the Association’s Governing Documents. Complaint, para. 5, 8. The
+AOAO does not seek any declaratory or injunctive relief in its complaint. Instead, as plainly
+stated in paragraph 13 of its complaint:
+       The Association seeks an award of the Association's costs and expenses,
+       including, but not limited to, the amount reflected in the Invoice (being $2,260.15,
+       as shown on Exhibit "2") and reasonable attorneys' fees and costs incurred in
+       connection with the instant action and the enforcement of the Project Documents
+       and the Condominium Property Law, to be shown by appropriate motion.
+Complaint, Para. 13.
+       Accordingly, because the AOAO was seeking to collect a debt (costs and expenses) based
+on a contract - i.e., the Association’s Governing Documents, this case is in the nature of
+assumpsit and the AOAO is entitled to no more than $565.03 which is 25% of the $2,260.15
+judgment awarded by Judge Summer Kupai-Odo for its attorney’s fees.
+       There is absolutely no basis in Hawaii case law to treat this case any different than any
+other breach of contract case where the claimant is seeking a monetary award for an alleged
+failure to perform. In fact, our Supreme Court has affirmed that under the statutory framework
+
+
+                                                 5
+
+===== PAGE 010 / 38 =====
+of Hawaii Revised Statutes Chapter 514A & 514B, a condominium’s governing documents form
+a contract between the unit owners and the association. See Harrison v. Casa De Emdeko, Inc.,
+142 Hawai'i 218, 226, 418 P.3d 559, 567 (2018) ("Generally, the declaration and bylaws of a
+condominium serve as a contract between the condominium owners and the association,
+establishing the rules governing the condominium." (citing Ass'n of Apartment Owners of
+Maalaea Kai v. Stillson, 108 Hawai'i 2, 9, 116 P.3d 644, 651 (2005))).
+        Accordingly, HRS § 607-14, which imposes a statutory cap on the amount of attorney’s
+fees recoverable in lawsuits on written contracts is clearly applicable here.
+        Hawai'i's courts have strictly interpreted HRS § 607-14's twenty-five per cent cap on
+attorneys' fees. See Wong v. Takeuchi, 88 Hawai'i 46, 50-51, 961 P.2d 611, 615-16 (1998)
+(holding that the statutory cap is the maximum total amount that can be awarded to all prevailing
+parties, not an amount that can be awarded to each prevailing party individually); Employee
+Mgmt. Corp. v. Aloha Group, Ltd., 87 Hawai'i 350, 352, 956 P.2d 1282, 1284 (Haw. App. 1997)
+(holding that the statutory cap is a "'maximum' combined total limit" on fee awards at all levels
+of litigation rather than an amount that each individual court may tax); see also Thornley v.
+Sanchez, 9 Haw. App. 606, 618, 857 P.2d 601, 608 (1993) (holding that even where the
+maximum awardable attorneys' fees are inadequate, a court does not have the power to increase
+the fees).
+        The ICA, in Thornley v. Sanchez, 9 Haw. App. 606, 857 P.2d 601 (App. 1993), looked at
+the legislative history of HRS § 607-17, the predecessor to HRS § 607-14, and explained that
+“the statute was intended to prohibit the collection of excessive attorney's fees[.]" Id. at 620, 857
+P.2d at 608 (emphasis added). Which is exactly what the AOAO is trying to do here.
+        B.     This District Court Action Was Not and Could Not Possibly Be An
+               Enforcement Action aka An Action Seeking Injunctive Relief
+        The AOAO may attempt to argue that the 25% cap does not apply because of the exception
+for planned community associations that are enforcing the association’s governing documents.
+But in this case, the AOAO was seeking only a monetary award. There was no request by the
+AOAO for any non-monetary relief in its Assumpsit Complaint.
+        Moreover, the AOAO’s choice of forum meant that it could not seek declaratory relief
+and being a court of limited jurisdiction, the district court does not have jurisdiction over any
+injunctive relief claim that could arguably entitle the AOAO to attorney fees under HRS § 514B-
+
+
+
+                                                  6
+
+===== PAGE 011 / 38 =====
+157.2 See HRS § 604-5; HRS § 632-1(a) (2016) ("declaratory relief may not be obtained in
+any district court[.]"); see also State v. Myers, 9 Haw. App. 169, 172-173 (“District courts,
+which are courts of limited jurisdiction, have no equity jurisdiction because the same is
+reserved to the circuit courts. HRS § 603-21.7(a)(3) (1985) grants the circuit courts "original and
+exclusive jurisdiction" of suits in equity.); Fuller v. Pacific Medical Collections, 78 Haw. 213,
+220 (“[G]enerally, the district court not having equity jurisdiction does not have jurisdiction to
+order injunctive relief in civil cases.”) (citing HRS 603-21.7(a)(3) 1985; HRS chapter 604 (1985,
+Supp. 1992, Comp. 1993, and Supp. 1994); District Court Rules of Civil Procedure Rule 65
+(reserved). Compare HRS § 604-10.5 (Supp. 1992 and Comp. 1993) (district court has the power
+to enjoin harassment)).
+        And in any event if the AOAO is now saying that it sought an injunction it failed to achieve
+one. No such relief was awarded so under the AOAO’s theory Mr. Pikor should get his fees, not
+them.
+        C.      HRS § 514B-157 Is Not Applicable Because the AOAO’s Assumpsit
+                Complaint Does Not Seek Any Affirmative Action By Mr. Pikor
+        While the AOAO cites to HRS § 607-14 in its Complaint [para. 12], there is no mention
+of the 25% statutory cap in its present motion. Instead, the AOAO erroneously argues that it is
+entitled to an award of fees pursuant to HRS § 514B-157, which states in relevant part:
+
+                (a) All costs and expenses, including reasonable attorneys’ fees,
+                incurred by or on behalf of the association for:
+                (3) Enforcing any provision of the declaration, bylaws, house
+                rules, and this chapter, or the rules of the real estate commission;
+                against an owner, occupant, tenant, employee of an owner, or any
+                other person who may in any manner use the property, shall be
+                promptly paid on demand to the association by the person or
+                persons;
+                …
+                If any claim by an owner is not substantiated in any court
+                action against an association, any of its officers or directors, or
+                its board to enforce any provision of the declaration, bylaws, house
+
+2
+ The type of affirmative relief that invoke an award of attorney’s fees for an Association include suing an
+owner to compel compliance with a particular policy such as pet policy or a no-smoking policy,
+compelling an owner to remedy a dangerous condition in their unit like fixing a door or window or
+repairing a leaking faucet, or enjoining an owner from continuing a specific conduct such as enjoining
+harassing a Board member or parking in the wrong stall, etc.
+
+
+                                                    7
+
+===== PAGE 012 / 38 =====
+                rules, or this chapter, then all reasonable and necessary
+                expenses, costs, and attorneys’ fees incurred by an association
+                shall be awarded to the association, unless before filing the
+                action in court the owner has first submitted the claim to
+                mediation, or to arbitration under subpart D, and made a good
+                faith effort to resolve the dispute under any of those procedures.
+HRS § 514B-157 (bold added).
+        First, it is worth noting that HRS § 154B-157 does not include any prevailing party
+language. The AOAO also cites to this statute but does not explain why the fees incurred
+prosecuting its Assumpsit Complaint entitle it to an award of fees under HRS § 154B-157(a). In
+fact, there is no argument set forth in the AOAO’s motion that its complaint sought to compel
+any conduct. Rather, in this case, the AOAO sought only monetary damages in its Complaint
+and our supreme court's decision in Schmidt v. Bd. of Dirs. of the Ass'n of Apt. Owners of the
+Marco Polo Apts., 73 Haw. 526 (1992) forecloses an award of fees under HRS §514B-157 in just
+such a case.
+        In Schmidt, the owners of a condominium, the Schmidts, had sued the association,
+alleging that it breached its duty, pursuant to the declaration and by-laws of the association, to
+maintain the common areas, resulting in water leakage that caused damage to the Schmidts' unit.
+Id. at 528. The Hawaii Supreme Court held that the Schmidts, who prevailed at trial, were not
+entitled to attorney's fees under HRS § 514A-94(b), the predecessor to HRS § 514B-157(b).
+Id. at 533. The court reasoned:
+        [T]he Schmidts did not seek to enforce any affirmative action on the part of the
+        [a]ssociation to comply with any provision of the [a]ssociation's declaration, bylaws, house rules, or HRS chapter 514A; rather, in their own words, they were
+        "seeking damages for the [a]ssociation's failure to comply with the By-Laws
+        and Declaration." . . . In the absence of any prayer for equitable, mandatory,
+        or injunctive relief to compel obedience to the [a]ssociation's declaration, bylaws, house rules, or any enumerated provision of HRS chapter 514A, HRS §
+        514A-94(b) does not apply to the Schmidts' actions.
+Id. (bold added, original brackets and ellipsis omitted.).3 Essentially, in Schmidt, the Court was
+called upon to interpret the meaning of the word “enforce” and in adopting the plain meaning of
+the word, concluded that the statute applied only when affirmative conduct is sought.
+
+3
+ HRS § 514A-94 was replaced by HRS § 514B-157 (2006) "with respect to events and circumstances
+occurring on or after July 1, 2006." Ass'n of Apt. Owners of Keauhou Kona Surf & Racquet Club, Inc. v.
+Bowers, No. 29218, 2011 Haw. App. LEXIS 351, 2011 WL 1421147, at *25 n.8 (Haw. App. Apr. 13,
+2011) (mem.) (quoting HRS § 514B -22 (2006)). The statutes are substantially similar. See id. ("For
+
+
+                                                   8
+
+===== PAGE 013 / 38 =====
+        The holding in Schmidt reinforces the conclusion that in order for HRS § 514B-157 to
+entitle the AOAO to an award of attorney’s fees, its Complaint would have to have sought some
+affirmative conduct against Mr. Pikor. However, the AOAO’s Assumpsit Complaint sought only
+monetary damages for Mr. Pikor’s alleged failure to abide by the Governing Documents by
+refusing to pay the TKE invoice. There was no prayer for equitable, mandatory or injunctive relief
+anywhere in the AOAO’s case against Mr. Pikor.4 Accordingly, the AOAO is not entitled to an
+award of attorney’s fees under HRS § 514B-157.
+        D.       Any Attorney Fee Award is Subject to This Court’s Jurisdictional Limit
+        Even if this Court decides that somehow the AOAO’s Assumpsit Complaint sought
+affirmative conduct by Mr. Pikor warranting an award of attorney’s fees under HRS § 514B-157,
+the district courts are courts of limited jurisdiction and can only act within the authority vested in
+them by law. Harrison v. McCandless, 22 Haw. 129, 1914 Haw. LEXIS 25 (Haw. 1914). HRS
+§ 604-5 provides in relevant part that, “[e]xcept as otherwise provided, the district courts shall
+have jurisdiction in all civil actions where the debt, amount, damages, or value of the
+property claimed does not exceed $40,000[.]”
+        Accordingly, if the Court somehow erroneously determines that HRS § 514B-157 applies
+to the AOAO’s affirmative claim, the AOAO’s claim for attorney’s fees still remains subject to
+the district court’s jurisdictional cap of $40,000, and if any attorney fee award is to be made,
+such award should be no more than $37,739.85 (40,000 jurisdictional limit - 2,260.15 judgment).
+        The AOAO will likely argue attorney’s fees are not to be included in computing the
+jurisdictional amount as provided for in HRS § 604-5. However, there is substantial case law in
+both state and federal courts recognizing that when a claim for attorney’s fees is made under a
+statutory or contractual fee-shifting provision, then the requested attorney’s fees are a form of
+damages and considered as part of the amount in controversy. See e.g. ABCS Troy, LLC v.
+LoanCraft, LLC, 337 Mich. App. 125, 972 N.W.2d 317, 2021 Mich. App. LEXIS 2702 (Mich.
+
+
+purposes of our analysis, there are no relevant differences between HRS § 514A-94 and HRS § 514[B]-
+157 . . . .").
+4
+  See also See In re Faitalia, 561 B.R. 767, 774 (B.A.P. 9th Cir. 2016), aff'd, 736 F. App'x 693 (9th Cir.
+2018) ("HRS § 421J-10(a) permits fees and expenses incurred by the Association only if the Association
+was 'collecting' delinquent assessments, 'foreclosing' on its lien, or 'enforcing' its covenants. While these
+terms are not defined in HRS Chapter 421J, the use of these active verbs denotes some type of
+affirmative conduct relating to those described acts.");
+
+
+
+                                                      9
+
+===== PAGE 014 / 38 =====
+Ct. App. 2021) (Holding that contractual attorney fees are an element of general damages and are
+to be included in the amount-in-controversy calculation for purposes of a district court’s
+jurisdiction); see also Kroske v. US Bank Corp., 432 F.3d 976, 980 (9th Cir. 2005) (“The amount
+in controversy includes the amount of damages in dispute, as well as attorney's fees, if
+authorized by statute or contract.”); Missouri State Life Ins. Co. v. Jones, 290 U.S. 199 (1933)
+(when a statute permits recovery of attorney's fees a reasonable estimate may be used in
+calculating the necessary jurisdictional amount in a removal proceeding based upon diversity of
+citizenship.).
+        In this case, the AOAO asserts that it is statutorily entitled to an award of attorney’s fees
+and has admittedly characterized its fees and costs as an element of its damages. Accordingly, if
+an award is made, the AOAO is not entitled to any award more than the jurisdictional limit of the
+district court.
+        E.        No Evidence of the AOAO’s Actual Attorney’s Fees Incurred Were Adduced
+                  At Trial
+        If the AOAO’s attorney’s fees and costs incurred prior to the filing of the Assumpsit
+Complaint are to be considered an element of the AOAO’s damage claim as the AOAO has
+argued, then proof of those fees and costs should have been admitted during the trial and the
+Court could have considered such evidence. In this case, the Court has issued its judgment and
+awarded the only damages proven at trial - $2,260.15.
+        Accordingly, HRS § 514B-157 is not applicable as a means for the AOAO to recover for
+the fees and costs incurred prior to the filing of the Assumpsit Complaint because proof of such
+fees should have been presented during the trial.
+        Newport Yacht Basin Ass'n of Condo. Owners v. Supreme Nw., Inc., 168 Wn. App. 86,
+102 (2012) is instructive. While the award of fees in Newport Yacht dealt with a contractual
+indemnity provision, the burden for the AOAO here is the same.
+        [A]ttorney fees sought pursuant to a contractual indemnity provision are an
+        element of damages that must be proved to the trier of fact. Jacob's Meadow, 139
+        Wn. App. at 760. The goal of awarding money damages is to compensate for
+        losses that are actually suffered, and a party claiming damages has the burden of
+        proving its losses. ESCA Corp. v. KPMG Peat Marwick, 86 Wn. App. 628, 639,
+        939 P.2d 1228 (1997), aff'd, 135 Wn.2d 820, 959 P.2d 651 (1998). Accordingly, a
+        party seeking the recovery of attorney fees pursuant to an indemnity provision
+        bears the burden of presenting evidence regarding the reasonableness of the
+        amount of fees claimed. Jacob's Meadow, 139 Wn. App. at 761. Moreover, “[a]s
+
+
+
+                                                  10
+
+===== PAGE 015 / 38 =====
+       an element of damages, the measure of recovery … must be determined by the
+       trier of fact.” Jacob's Meadow, 139 Wn. App. at 760. Such damages must be
+       proved at trial. Jacob's Meadow, 139 Wn. App. at 760.
+Newport Yacht Basin Ass'n of Condo. Owners v. Supreme Nw., Inc., 168 Wn. App. 86, 102.
+       F.      The AOAO Is Not Entitled to An Award of Attorney’s Fees Related to
+               Attorney’s Fees For Its Defense
+       The AOAO is seeking $73,053.03 in attorney’s fees for its defense against Mr. Pikor’s
+Counterclaims. Declr. of James Ferguson para. 6. Again, the AOAO relies entirely on HRS §
+514B-157 as the basis for its request. However, just as HRS § 514B-157 is inapplicable to the
+AOAO’s request for attorney’s fees because its Complaint was in the nature of assumpsit and
+there was no request for an affirmative course of action from Mr. Pikor, the AOAO’s request for
+attorney’s fees related to its defense of the counterclaims does not come under HRS § 514B-157
+because Mr. Pikor did not seek any affirmative course of action from the AOAO or seek to
+compel the AOAO’s obedience to a provision of the statute. See Schmidt, at 538 (holding that
+plaintiffs were not enforcing any affirmative action on the part of the AOAO to comply with the
+AOAO declaration, bylaws, house rules, or HRS Chapter 514A even when plaintiffs’ complaint
+sought damages for the AOAO’s failure to comply with by-laws and its declaration).
+       Moreover, even if HRS § 514B-157 applied for the AOAO’s defense, the AOAO did not
+incur any attorney’s fees to defend against Mr. Pikor’s counterclaim because insurance defense
+was appointed and as the billing records indicate, the AOAO was not billed for the services
+rendered by the Roeca Luria Shin law firm. Rather all the invoices in Counterclaim Defendant’s
+Exhibits A were addressed to Philadelphia Insurance Co.
+       In Vinson v. Ass'n of Apartment Owners of Sands of Kahana, 130 Hawai'i 540, 312 P.3d
+1247 (App. 2013) the ICA dealt with this exact situation and in construing HRS § 514B-157(b),
+the ICA held that "in order for Vinson [(the condominium owner)] to have 'incurred' attorneys'
+fees and costs under HRS § 514B-157(b), he must have paid or be legally obligated to pay such
+fees and costs[.]" Vinson, 130 Hawai'i at 548-49 312 P.3d at 1255-56.5. The ICA therefore
+concluded that the trial court erred in awarding Vinson legal fees paid by third-parties that
+Vinson was not legally obligated to pay. Id.
+       The holding in Vinson is equally applicable here. The AOAO has not demonstrated that
+it is legally obligated to pay the Roeca Luria Shin law firm for the attorney’s fees incurred in
+
+
+
+
+                                                 11
+
+===== PAGE 016 / 38 =====
+defending the counterclaim. Accordingly, the AOAO is not entitled for any award for attorney’s
+fees under HRS § 514B-157 for its defense of Mr. Pikor’s counterclaims.
+        Additionally, even if the AOAO was only left with HRS § 607-14 to obtain fees related
+to its defense of the counterclaims, the court must base its award of fees, if practicable, on an
+apportionment of fees claimed between assumpsit and non-assumpsit claims. See Au v. Funding
+Group, Inc., 933 F. Supp. 2d 1264, 1272 (D. Haw. 2013). "In conducting this analysis, courts
+must determine whether each individual claim alleged in the complaint sounds in assumpsit or in
+tort and apportion fees between the assumpsit and non-assumpsit claims if practicable." Id. In its
+motion, the AOAO makes absolutely no attempt to apportion its fees.
+        Mr. Pikor’s Original Counterclaim, filed on July 8, 2019, included the following counts:
+(1) Breach of fiduciary duty; breach of covenant; negligence. Subsequent to a change in counsel,
+Mr. Pikor’s First Amended Counterclaim, filed July 9, 2020, included the following claims: (1)
+Breach of Governing Doc; (2) Breach of fiduciary duty; (3) Breach of 514B; (4) Negligent and
+intentional misrepresentation; (5) Abuse of process/malicious prosecution; (6) Chpt 480; (7) Neg
+& Intn Infliction of Emotional distress; and (8) Declaratory relief.5
+        Mr. Pikor’s counterclaims primarily sound in tort as Mr. Pikor asserted that the AOAO’s
+misrepresentations that he was liable for the TKE invoice caused him damages in the form of
+emotional distress. Further, Mr. Pikor’s Chapter 480 claims allow for statutory fees but there is
+no statutory entitlement to attorney’s fees for defending a 480 claim. See Advanced Air
+Conditioning, Inc. v. Smith, 2014 Haw. App. LEXIS 552, *18-20.
+        If the Court construes any of counterclaims as being in the nature of assumpsit the only
+claims that could arguably be considered in the nature of assumpsit would be Counts (1) Breach
+of Governing Doc and (2) Breach of fiduciary duty. And since both of these claims were
+dismissed as a result of the AOAO’s Motion for Summary Judgment, any fees incurred after
+April 2022 would not apply for the AOAO’s defense of these claims and the award would be
+subject to jurisdictional limit of the district court as well as the 25% cap under HRS § 607-14.
+
+
+
+
+5
+  Mr. Pikor voluntarily dismissed his declaratory relief claim after the court concluded that Mr. Pikor’s
+jury demand was untimely.
+
+
+                                                    12
+
+===== PAGE 017 / 38 =====
+       G.      The Amounts Being Demanded Are Patently Absurd, Disproportionate and
+               Unreasonable
+       It should be noted that the small claims court amount (in which no fees could be award)
+is for claims that have a value of $5,000 or less). The AOAO is requesting an award of
+$184,044.47 in attorney’s fees (Declr. Horio, para. 21) for its prosecution of its affirmative claim
+that could have and should have been filed in small claims. That is more than eighty (80) times
+the amount prayed for in its complaint and awarded in the judgment. The AOAO is also
+requesting an additional award of $73,053.03 in attorney’s fees for its defense against Mr.
+Pikor’s Counterclaims. Declr. of James Ferguson para. 6. In all, the AOAO is asking for
+$257,097.50 for attorney’s fees, which is grossly disproportionate given the alleged damages -
+$2,260.15 - incurred by the AOAO as a result of Mr. Pikor’s non-performance under the
+Governing Documents.
+       There is nothing fair about the AOAO requesting over 100 times the value of the
+principle claim. $200,000 in attorney’s fees to collect $2,000 from one of its members and the
+AOAO’s assertion that HRS § 514B-157 entitles it to such an award is patently wrong.
+       In this case, the AOAO is requesting fees grossly disproportionate to the debt it was
+seeking to collect and it was exactly this type of excessive request that HRS § 607-14 was meant
+to protect debtors from.
+       In the event, the Court decides that the AOAO is entitled to an award of fees based on
+HRS § 514B-157 or the Court decides that an award is warranted under HRS § 607-14, the
+burden is still on the AOAO to prove such fees were reasonably and necessarily incurred.
+See Smothers v. Renander, 2 Haw. App. 400, 408, 633 P.2d 556, 563 (1981); see also Sharp v.
+Hui Wahine, Inc., 49 Haw. 241, 247, 413 P.2d 242, 246 (1966).
+       A trial court determines the reasonableness of the fee by considering the factors
+enumerated in Hawaii’s Rules of Professional Conduct, Rule 1.5, which states:
+       Rule 1.5 fees.
+       (a). A lawyer's fee shall be reasonable. the factors to be considered in determining
+       the reasonableness of a fee include the following:
+       (1) the time and labor required, the novelty and difficulty of the questions
+       involved, and the skill requisite to perform the legal service properly;
+       (2) the likelihood, if apparent to the client, that the acceptance of the particular
+       employment will preclude other employment by the lawyer;
+       (3) the fee customarily charged in the locality for similar legal services;
+
+
+                                                 13
+
+===== PAGE 018 / 38 =====
+        (4) the amount involved and the results obtained;
+        …
+        These factors are employed by many courts. See, e.g., Litton Industries, Inc. v. IMO
+Industries, Inc., 200 N.J. 372, 982 A.2d 420, 428-29 (N.J. 2009); Schoonmaker v. Lawrence
+Brunoli, Inc., 265 Conn. 210, 828 A.2d 64, 98 n.60 (Conn. 2005); Matter of Fordham, 423 Mass.
+481, 668 N.E.2d 816, 820 (Mass. 1996).
+        In Litton Industries, the plaintiff, pursuant to a contract, sought $6,411,354 in attorneys'
+fees and costs on a $2,100,000 jury award. See id. at 424. The trial court reduced that fee to
+$5,975,903, but the New Jersey Supreme Court remanded the case with instructions to consider
+whether "to reduce even more the amount of the fee in light of the fee request that exceeded
+the amount of the recovery." Id. at 430.
+        The New Jersey Supreme Court laid out its analysis for an award of attorneys' fees. After
+deciding that the plaintiffs were entitled to fees, the court stated that "[t]he next step in
+determining the amount of the award is to calculate the 'lodestar,' which is that number of hours
+reasonably expended by the successful party's counsel in the litigation, multiplied by a
+reasonable hourly rate." Id. at 428. In that analysis, the court considered the same eight factors
+derived from the Rules of Professional Conduct. Id. at 428-29. Finally, the court concluded that:
+        Beyond the lodestar amount, in cases in which the fee requested far exceeds the
+        damages recovered, the trial court should consider the damages sought and
+        the damages actually recovered. In addition to that proportionality analysis, the
+        court must evaluate the reasonableness of the total fee requested as compared
+        to the amount of the jury award. That is, when the amount actually recovered is
+        less than the attorney's fee request, the court must consider that fact in
+        determining the overall reasonableness of the attorney's fee award. To be sure,
+        there is no precise formula for that portion of the reasonableness analysis. The
+        ultimate goal is to approve a reasonable attorney's fee that is not excessive. Id. at
+        429 (internal quotations omitted) (emphasis added).
+        In this case, the excessiveness of the fees requested cannot be overstated. However, in
+addition to the sheer disproportionate nature of the purported expenses the AOAO threw at what
+was essentially a suit to collect a debt, there are a number of independent reasons the requested
+fees are objectionable.
+
+
+
+
+                                                   14
+
+===== PAGE 019 / 38 =====
+             1.      Excessive and Duplicative Billing
+       Mr. Horio provided a declaration attesting to the invoices from two law firms: (1) Deeley
+King Pang & Van Etten; and (2) Anderson & Fujisaki LLP. In paragraph 7 of his declaration,
+Mr. Horio states:
+       The written work product prepared by me or my staff and filed in court in this
+       case supports the amount of attorneys’ fees that are requested as reasonable and
+       necessary expenses in order to prosecute the clai                                                                                                                                                                                                                                                                        ms set forth in the Complaint
+       against Defendant, to conduct and/or respond to discovery requests, to prepare
+       and research memoranda supporting and opposing motions, to prepare for
+       depositions, to interview witnesses, and to otherwise prepare for trial.
+       However, the billing records show an excessive amount of time billed for multiple
+counsel in meetings, telephone conferences, and reviewing documents. Many of the hours
+requested were spent on duplicative interoffice communications or simply communications
+between Mr. Horios’s office (handling the AOAO’s affirmative claims) and Mr. Ferguson
+(handling the AOAO’s defense). The amount of interoffice communications in this case is
+excessive and does not reflect the actual work product that was required to prosecute the
+AOAO’s claims and defend against the counterclaim.
+       For example, between July 25, 2018 and October 1, 2020, the billings invoices show 9.7
+hours were billed by Phillip L. Lahne for office conferences with Mr. Horio; 25.4 hours were
+billed that included entries by Mr. Horio for conversations with Phillip L. Lahne; over 11 hours
+were billed including entries by Mr. Horio for conferences with April Luria.
+       The “office conferences” between Mr. Horio and Mr. Lahne are blatantly duplicative
+entries and the majority of the interoffice communications are blocked billed with other activities
+that make it impossible to determine how much time was spent between the various tasks.
+Below are few examples:
+
+
+
+
+                                                15
+
+===== PAGE 020 / 38 =====
+       The fees billed for the AOAO’s defense are also grossly excessive.
+       Mr. Ferguson spent over 30 hours to prepare the AOAO’s opposition to Mr. Pikor’s
+Motion to Amend Complaint(!), over 15 hours for the AOAO’s Motion for Reconsideration and
+11 hours for the AOAO’s reply. In one month, Ferguson billed over $12,000 to oppose Mr.
+Pikor’s Motion to Amend the Counterclaim and for a Motion for Reconsideration.
+       Mr. Ferguson also spent over 16 hours for the AOAO’s MSJ and 7.6 hours for its Reply.
+       This case was not complicated. The legal basis for the AOAO’s claims and defense were
+simple and straightforward. The excessive amount of time preparing these pleadings are simply
+not reasonable and the time conferring between counsel throughout the case is duplicative.
+               2.···············Invoices
+
+       The billing invoices provided in support of the AOAO’s motion are heavily·········.
+According to AOAO’s counsel, the descriptions of the claimed activities are··········to
+preserve attorney-client confidentiality with the Association and work product, and any other
+applicable privilege. However, the··········s make it difficult to discern the work being
+performed and so it is impossible to determine if the work was necessary or whether such entry
+corresponds to a recoverable or non-recoverable issue.
+               3.      Block Billing
+
+       The phrase "block billing" usually "refers to the time-keeping method by which each
+lawyer and legal assistant enters the total daily time spent working on a case, rather than
+itemizing the time expended on specific tasks." Hawai'i Ventures, LLC v. Otake, Inc., 116
+Hawai'i 465, 476,173 P.3d 1122, 1132 (2007), citing Robinson v. City of Edmond, 160 F.3d
+1275,1284 at n.9 (l0th Cir. 1998). To address the vagueness caused by block billings, courts
+have generally discounted the fee award.
+       In Hawai'i Ventures, LLC v. Otake, Inc., supra, the Hawai'i Supreme Court stated:
+       This practice can make it impossible for the court to determine the reasonableness
+       of the hours spent on each task. As the Robinson court stated, "the use of billing
+       practices that camouflage the work a lawyer does naturally and quite correctly
+
+
+
+
+                                                16
+
+===== PAGE 021 / 38 =====
+       raise suspicions about whether all the work claimed was actually accomplished or
+       whether it was necessary." Id. at 1284. Another court opined that:
+       Unlike vague or generic task entries, block billing entries do not always suffer
+       from inadequate description. Their infirmity sterns [sic] from the fact that they
+       represent activities lumped together in a single entry with no indication how much
+       time was spent on each task. In its review of these entries, the [c ]ourt was left to
+       approximate the amount of time which should be allocated to each task and
+       cannot determine with a high degree of certainty, as it must, that the billings are
+       reasonable. Cobell v. Norton, 407 F. Supp. 2d 140, 159 (D.D.C. 2005) (internal
+       quotation marks, citations, original brackets and ellipsis omitted) (emphasis
+       added).
+116 Hawai'i at 475, 173 P.3d at 1132. The Hawai'i Ventures court awarded only $12,558.63 out
+of a request for $49,235.06, where the court held that the billing entries were so "vaguely generic
+that it is impossible to distinguish, in light of the circumstances in this case, between
+compensable and non-compensable claims." 116 Hawai'i at 478-79, 173 P.3d at 1135-36.
+       In this case, there are numerous examples of block billing.
+       Assuming, arguendo, that the Court decides to award some attorneys' fees to the AOAO
+for the blocked billed services performed by it attorneys, such aggregate amount of fees should
+be discounted by 20%. See LT. v. Dept of Education, 2012 U.S. Dist. LEXIS 185500 (D. Haw.
+November 30, 2012) (Court imposes an across-the-board reduction of 20% as to the entries that
+are in the "block billing" format); see also Signature Homes of Haw., LLC v. Cascade Sur. and
+Bonding, Inc., No. CV 06-00663 JMS BMK, 2007 U.S. Dist. LEXIS 56854, 2007 WL 2258725,
+at *3 (D. Haw. Aug. 3,2007) (reducing block billed hours by 20%).
+       H.      The AOAO’s Request For Costs Is Unreasonable
+       The AOAO is seeking $12,743.54 in costs associated with the prosecution of its claim
+and defense against Mr. Pikor’s counterclaim.
+       The AOAO objects to the AOAO’s request for $11,417.96 for expert witness costs,
+$74.17 for online research, and $ 148.28 of unspecified costs.
+       First, payment of an expert witnesses’ fees is not a recoverable expense. See Lucas v.
+Liggett & Myers Tobacco Co., 51 Haw. 346, 347 (1969) (expert witness fees are not taxable as costs,
+absent a statute specifically allowing such an expenses); Buscher v. Boning, 114 Hawai'i 202, 223
+& n.15, 159 P.3d 814, 835 & n.15 (2007) (noting that expert witness fees are generally not
+taxable as costs and explaining that under HRCP Rule 54(d), expert witness fees are not
+allowed).
+
+
+
+                                                 17
+
+===== PAGE 022 / 38 =====
+       Second, in Bjornen v. State Farm Fire and Casualty Co., 81 Hawai'i 105, 912 P.2d 602
+(App. 1996), the ICA held that disbursements for computerized legal research are not taxable
+costs. Further our Supreme Court addressed computer-assisted research as an element of
+attorneys fees in DFS Group L.P. v. Paiea Props., 110 Haw. 217 (2006) and following the
+analysis first set forth in Bjornen, the Court held that computer-assisted research charges are
+subsumed within a lawfirm’s overhead and therefore the client may not recover such costs by
+classifying them as separately billed attorneys.
+       Lastly, in its motion, the AOAO requests $148.28 for “Other Costs” and refers to an
+invoice for $132.89 but does not elaborate as to what the $15.39 difference is for. See e.g.
+Tortorello v Tortorello, 113 Hawai'i 432, 445 (2007) (without backup documentation supporting
+request for copying charges and transcripts fees, movant did not "reasonably demonstrate" that the
+expenses were "reasonably and necessarily incurred").
+       Accordingly, if costs are awarded, the requested costs should be adjusted by subtracting
+the $11,417.96 for expert witness costs, $74.17 for online research, and $15.39 of unspecified
+costs that the AOAO provided no backup information, leaving $1,236.54 ($12,743.54 -
+$11,507.52) recoverable for the AOAO’s costs.
+       I.      The AOAO’s Attempt To Blame Mr. Pikor For the AOAO’s Excessive Fees
+               Should Be Disregarded
+       On page 3 of its motion, the AOAO provides a bullet point list of false accusations and
+argues that Mr. Pikor’s conduct is what caused the AOAO to incur its attorney fees. The AOAO
+starts with the May 2018 incident and Mr. Pikor responses to the AOAO’s demand for him to
+pay for the elevator repairs. The AOAO then goes on to list actions during the course of the
+litigation, such as Mr. Pikor’s substitution of counsel, filing a third party complaint and seeking
+to amend the counterclaim, etc.
+       First, the suggestion that Mr. Pikor somehow deserves a large penalty in the form of an
+attorney fee award for his conduct before the Complaint was filed is absurd. The conduct as
+described by the AOAO is nothing more than Mr. Pikor disagreeing with the AOAO’s
+interpretation of a provision in the Governing Documents. The AOAO does not allege that Mr.
+Pikor intentionally damaged the elevator or that his conduct following the incident was
+harassing. In fact, all the details provided by the AOAO on pages 4- 5 of the back and forth
+between the AOAO and the AOAO have to do with Mr. Pikor exercising his right to request
+information and asking the AOAO to justify the debt the AOAO alleged he owed.
+
+
+                                                   18
+
+===== PAGE 023 / 38 =====
+        Moreover, the AOAO’s attempt to recover pre-litigation attorney’s fees calls on the Court
+to make a determination on conduct that occurred before the court was involved. Clearly,
+sanctioning a party for conduct before litigation was initiated exceeds the scope of this court’s
+authority. Particularly when there is no bad faith claim or equivalent asserted in the AOAO’s
+Assumpsit Complaint.
+        Other jurisdictions that have considered the question of whether there is the bad faith
+exception to the American rule extends to recovery of pre-litigation attorney fees have ruled that
+the answer is no. See e.g., Ring v. Carriage House Condo. Owners' Ass'n, 2014 VT 127, 198 Vt.
+109, 125, 112 A.3d 754; Lamb Eng'g & Constr. Co. v. Neb. Pub. Power Dist., 103 F.3d 1422,
+1435 (8th Cir. 1997); see also Chambers v. NASCO, Inc., 501 U.S. 32, 73-74, 111 S. Ct. 2123,
+115 L. Ed. 2d 27 (1991) (Kennedy, J., dissenting, joined by Rehnquist, C.J., and Souter,
+J.); Chambers, 501 U.S. at 60 (Scalia, J., dissenting). These courts that held that to the extent
+such prelitigation attorney fees are recoverable, they are recoverable only as damages under
+some type of abuse of civil proceedings claim, not as costs or sanctions under the bad faith
+exception. No such claim was asserted here warranting an award for fees and costs incurred
+before the litigation.
+        Second, the suggestion that the AOAO can penalize Mr. Pikor for post-complaint conduct
+with an excessive attorney fee award is akin to asking for award of punitive damages for alleged
+wrongful conduct in the course of the litigation.
+        The distinction between appellant's fraud on the court and his fraud on appellee is
+        crucial since a finding of fraud on the court is unrelated to the fraud on appellee
+        and will not provide a basis for an award of punitive damages. In assessing
+        punitive damages the trial court should have ignored appellant's fraud upon the
+        court and looked only to his fraud on appellee. The appropriate action to be taken
+        in a case of fraud upon the court is for the injured party to maintain an
+        independent action based on that fraud and seek to be relieved from the judgment
+        of the court. H.R.Civ.P. Rule 60(b). See e.g. Ellis v. Crockett, 51 Haw. 45, 59,
+        451 P.2d 814, 823 (1969).
+Kang v. Harrington, 59 Haw. 652, 660 (1978).
+        If the AOAO had an issue with Mr. Pikor’s conduct during the litigation, there are
+remedies available to the AOAO to address those, such as a motion for sanctions. No such
+motion was ever filed in this case and suggesting that Mr. Pikor is to blame for the AOAO’s fees
+is not a basis for an award 100 times the amount of the principal debt. There is absolutely no
+evidence that Mr. Pikor acted in bad faith to increase the costs of litigation and if the AOAO felt
+
+
+                                                 19
+
+===== PAGE 024 / 38 =====
+there was bad faith then it should have brought the appropriate motion or amended its own
+claims.
+          Lastly, the 408 HRE communications that the AOAO brings into its narrative on pages 4
+and 6 are improper, inadmissible and should be stricken.
+          J.     The Record Supports a Referral of AOAO Counsel To the ODC
+          The billing records by the AOAO’s general counsel related to the May 2018 elevator
+incident and the fees charged in subsequent litigation against Mr. Pikor warrant referral to ODC
+for an investigation as to whether the Hawaii Rules of Professional Conduct were violated. See
+DFS Group L.P. v. Paiea Props., 110 Haw. 217, 232 2006) (citing Bateman, 82 Hawai'i at 460,
+923 P.2d at 402, as amended, (1996) ("We are compelled to refer the record of this case to the
+ODC for its review and appropriate action."); Bettencourt, 80 Hawai'i at 227, 909 P.2d at 555
+("We are referring the supreme court record of this case to the [ODC] to determine whether the
+lack of professionalism demonstrated by appellant's counsel in this case violates the
+[HRPC]."). "Once ODC receives an ethics complaint, it conducts an investigation to see whether
+there is evidence that an attorney licensed to practice law in this State . . . has violated, by act or
+omission, any provision of the [HRPC]." Akinaka, 91 Hawai'i at 56, 979 P.2d at 1082 (citations
+and footnote omitted).
+          In this case, counsel for the AOAO charged an unreasonable amount of fees and then
+represented to this court in a declaration that such fees were “reasonably incurred.” While this
+case spanned the course of five years, the issues were not complex, discovery and motion
+practice were limited, and the monetary debt sought was minor. And yet, the AOAO’s counsel
+racked up an enormous amount of attorneys’ fees. The reasonableness of the fees incurred in
+this case implicate various rules that govern our profession. See HRPC Rules 1.16, 1.5, 3.17
+3.38, and 8.49. (1994).
+
+
+
+6
+  Rule 1.1 competence.
+A lawyer shall provide competent representation to a client. Competent representation requires the legal
+knowledge, skill, thoroughness, and preparation reasonably necessary for the representation.
+7
+  Rule 3.3 states in pertinent part that "[a] lawyer shall not knowingly: (1) make a false statement of
+material fact or law to a tribunal[.]"
+8
+  Rule 3.3 states in pertinent part that "[a] lawyer shall not knowingly: (1) make a false statement of
+material fact or law to a tribunal[.]"
+9
+  Rule 8.4 provides in pertinent part: "It is professional misconduct for a lawyer to: . . . (c) engage in
+conduct involving dishonesty, fraud, deceit or misrepresentation[.]"
+
+
+                                                    20
+
+===== PAGE 025 / 38 =====
+V.     Conclusion
+       Accordingly, for all the reasons stated above as well as the record and files in this case,
+the per the plain language of the assumpsit statute, the AOAO is entitled to, at most 25% of
+$2,260.15-- $565.04 for its attorneys fees and no more than $1,236.54 in costs incurred
+prosecuting its assumpsit claim against Mr. Pikor.
+
+
+       DATE: Honolulu, Hawaii, July 31, 2024.
+
+
+                                             /s/Amanda L Dutcher
+                                             TERRANCE M. REVERE
+                                             AMANDA L. DUTCHER
+                                             Attorneys for Defendant/Third Party Plaintiff
+                                             NIKODEM PIKOR
+
+
+
+
+                                                21
+
+===== PAGE 026 / 38 =====
+Comp.aint (Assumpsit-Monry Owen); ‘ Form #1 DCO?
+Decvaration; Exuisir(s); SUMMONS aq tt ED Ee
+eee Se mG EM D4 +
+In Tue Disrerct Court or THe First Circurr |
+HONOLULU Division |
+State or Hawar‘r |
+ASSOCIATION OF APARTMENT OWNERS OF MARINE
+SURF WAIKIKI, INC., a Hawaii nonprofit corporation, by its Reserved far Court Use
+Board of Directors CivilNo. — —_ I
+1RC19-1- 24
+| Defendant(s) Filing Party(ies)/Filing Party(ies)’ Attomey (Name, Attorney
+| | No., Firm Name (if applicable), Address, Tel. and Fax No.)
+NIKODEM PIKOR PHILIP L. LAHNE (3709) / GLENN S. HORIO (8151)
+Anderson Lahne & Fujisaki LLP 1
+733 Bishop Street, Suite 2301, Honolulu, Hawaii 96813
+oo Telephone (808) 536-8177 Facsimile (808) 356-7631
+Amount Claimed by Plaintiff: Last Date of Indebtedness:
+See Exhibit 1 May 24, 2019
+COMPLAINT —<C—ssOSS~CSt~CSst*s a
+1. This Court has jurisdiction over this matter and venue is proper.
+2. Onorabout __ May 24, 2018 _ ___, Defendant(s) owed money to Plaintiff(s) as follows:
+See Exhibit 1
+3. @ A copy of the written instrument on which the debt is based is attached as Exhibit | and Exhibit 2
+4, Plaintifi(s) asks for Judgment in the principal amount of §_ See Exhibit)
+In addition, the Court may award court costs, interest and reasonable attorney’s fees.
+5. The Servicemembers Civil Relief Act, 50 U.S.C. App. §501 may apply to a Defendant who is classified active duty as defined in the Act
+Please check all that apply.
+@ To the best of my knowledge, the Defendant is not an active duty member of the Military.
+| O The following Defendant is an active duty member of the Military. Name: ___ eT
+| Tam unable to determine whether the Defendant is an active duty member of the Military. Please attach separate sheet indicating
+i what attempt was made to determine Defendant’s military status.
+: Signature pf Hla s) faintiys) Apo ey.
+Date. MAY 31 2019 priny Me Nase: PRILIPCLAMINE/ GLENN S. HORIO
+DECLARATION |
+Ihave read this Complaint, know the contents and verify that the statements are true to my personal knowledge and belief. i
+I DECLARE UNDER PENALTY OF PERJURY THAT THE ABOVE IS TRUE AND CORRECT.
+J
+| Signature df Declarant: ~~
+Date: ih 9 | PrimType Name(s): WILLIAM E. DENISON, Property Manger |
+In accordance with the Americans with Disabilities Act, and other applicable State and Federal laws, if you require an accommodation for your
+& disability when working with a court program, service, or activity please contact the District Court Administration Office at PHONE NO. 538-5121,
+FAX 538-5233, or TTY 539-4853 at least (10) working days before your preceeding, hearing, or appointment date. i
+_ 7 — — I certify that this is a full, te, and correct
+copy of the origivatSn file a
+: EXHIBIT Clerk, DisiiStCStn of the abovy/Circuli, State of Hawal't
+Sones ——________ +
+Reproarephies (0208) A COMPA 1D-P-764
+
+===== PAGE 027 / 38 =====
+EXHIBIT “1”
+
+===== PAGE 028 / 38 =====
+EXHIBIT “1”
+
+1. Plaintiff ASSOCIATION OF APARTMENT OWNERS OF MARINE SURF
+WAIKIKI, INC. (“Association”) is a Hawaii nonprofit corporation of apartment owners which
+administers and operates the Marine Surf Waikiki condominium project situate at the intersection
+of Kuhio and Seaside Avenues, Waikiki, Honolulu, City and County of Honolulu, State of Hawaii
+(“Project”), existing as established pursuant to Chapter 514A and/or Chapter 514B, Hawaii Revised
+Statutes, as amended, (collectively “Condominium Property Law”); the Marine Surf Waikiki
+Declaration of Horizontal Property Regime dated November 3, 1965 (“Declaration”) and the By-
+Laws of the Association of Apartment Owners of the Marine Surf Waikiki Condominium dated
+November 3, 1965 (“By-Laws”), recorded together in the Office of the Assistant Registrar, Land
+Court, State of Hawaii (“Land Court”) as Document No. 390025; and the Marine Surf Waikiki
+Condominium Association of Apartment Owners House Rules (collectively “Project Documents”),
+as may be amended and/or restated, and acting by and through its Board of Directors.
+
+2. Defendant NIKODEM PIKOR (“OWNER”) is one of the owners of Unit No. 906
+of the Marine Surf Waikiki condominium project located at 364 Seaside Avenue, Apartment No.
+906, Honolulu, Hawaii 96815, by virtue of that certain Personal Representative’s Deed dated
+April 3, 2013, and recorded in the Land Court as Document No. T-8509308, and owners are subject
+to and must comply with the Project Documents and the Condominium Property Law.
+
+3. On August 3, 2018, OWNER was informed of the amounts owing for the costs of
+repairing the damage to one of the elevators at the Project, caused by OWNER on or about
+May 9, 2018 at approximately 3:11 p.m., when OWNER, without advance notice to the managing
+agent or front office, used the elevator to move large household goods, and during which time
+OWNER placed a large container in a position between the doors of the elevator so that when the
+elevator doors attempted to close, the doors were not allowed to close and therefore suffered damage
+for which repair was required (“Elevator Incident”).
+
+4. Onor about August 3, 2018, demand was made upon OWNER for the amounts owing
+to the Association in connection with the Elevator Incident, and as reflected in the thyssenkrupp
+
+EXHIBIT “1” Page |
+
+===== PAGE 029 / 38 =====
+invoice no. 5000875502 for the amount of $2,260.15 (“Invoice”) a copy of which is included
+herewith as Exhibit “2”, for the costs to repair the damage to the elevator, and which said Invoice
+was provided to OWNER on or about August 8, 2018, with a further demand for payment.
+
+5. The damage to the elevator constitutes a violation of the Association’s Governing
+Documents, and OWNER’s failure to pay for the repair costs is a further wilful, wanton, and
+purposeful violation of the Project Documents.
+
+6. On September 14, 2018, OWNER was again informed of the repair costs, and again
+on November 2, 2018 in connection with a demand for the legal fees and costs incurred by the
+Association in connection with having to seek OWNER’s compliance with the Condominium
+Property Act and the Association’s Project Documents, as the result of the Elevator Incident.
+
+7. OWNER’: denial and/or dispute of the Association’s demand for reimbursement of
+the repair costs and the legal fees and costs incurred by the Association, are therefore construed in
+this instance to question the interpretation of the Association’s Project Documents.
+
+8. Through May 9, 2019, OWNER has failed, neglected and refused to pay the sum of
+$2,260.15, being the repair costs related to the Elevator Incident, in violation of the Project
+Documents and the Condominium Property Law, requiring the Association to retain legal counsel
+to enforce the Project Documents against OWNER, and therefore causing the Association to incur
+attorneys’ fees and costs in connection with said enforcement efforts, and said fees and costs will
+continue to be incurred during the pendency of this action which further costs and expenses shall be
+shown and/or sought by appropriate motion
+
+9. As noted above OWNER is subject to and must comply with the Project Documents
+and the Condominium Property Law, which provide in relevant part as follows:
+
+Article VI, Section 6(h) of the By-Laws provides:
+
+Nothing shall be allowed, done or kept in any apartments or common
+elements of the project which would overload or impair the floors,
+walls or roofs thereof, or cause any increase in the ordinary premium
+rates or the cancellation or invalidation of any insurance thereon
+maintained by or for the Association, nor shall any noxious or
+offensive activity or nuisance be made or suffered thereon.
+
+EXHIBIT “1” Page 2
+
+===== PAGE 030 / 38 =====
+Section X. General, subsection E. of the House Rules provides in relevant part:
+Advance notice must be given to the Managing Agent or the Front
+Office when household goods or large furniture items are to be
+moved in order that an elevator can be scheduled for use.
+Article VI, Section 2(c) of the By-Laws provides:
+Every apartment owner shall reimburse the Association for any
+expenditures incurred in repairing or replacing any common elements
+or furniture, furnishings and equipment thereof damaged or lost
+through the fault of such apartment owner or any person using the
+project under him and shall give prompt notice to the Managing
+Agent of any such damage, loss or other defect when discovered.
+Section X. General, subsection A. of the House Rules, similarly provides:
+Owners are individually financially responsible for any damage or
+destruction to common elements that they cause or their tenants,
+guests, agents or persons working for them cause
+10. Article V1, Section 9 of the By-Laws provides for the establishment of the House
+Rules and Paragraph L. COMPLIANCE WITH DECLARATION, BY-LAWS AND DECISIONS,
+of the Declaration confirms the obligations of all owners at the Project, and their guests, servants and
+undertenants, to strictly observe said rules. Paragraph L. COMPLIANCE WITH DECLARATION,
+BY-LAWS AND DECISIONS, of the Declaration provides:
+Allapartment owners, their tenants, families, servants and guests, and
+any other persons who may in any manner use the project or any part
+thereof, shall be bound by and comply strictly with the provisions of
+this Declaration, the by-laws of the Association and all agreements,
+decisions and determinations of the Association, as lawfully made or
+amended from time to time, and failure to comply with any of the
+same shall be grounds for an action to recover sums due, for damages
+or injunctive relief, or both, maintainable by the Managing Agent or
+Board on behalf of the Association or, in the proper case, by any
+aggrieved apartment owner.
+EXHIBIT “1” Page 3
+
+===== PAGE 031 / 38 =====
+Section XI. Enforcement, the House Rules provides:
+
+The violation of any House Rules adopted by the Board of Directors
+of the Marine Surf Association of Apartment Owners shall give the
+Board of Directors or its Agent, the right to enjoin, abate or remedy
+by appropriate legal proceedings, either at law or in equity, the
+continuance of any such breach, and all costs thereof, including
+attommeys’ fees, shall be charged to and paid by the defaulting
+apartment owner.
+
+11. Further, HRS § 514B-112(c) requires all owners, tenants, and persons using the
+property to comply strictly with the Project Documents and provides that failure to do so constitutes
+grounds for an action to recover sums due or injunctive relief or both maintainable by the Board on
+behalf of the Association:
+
+Fach unit owner, tenants and employees of an owner, and other
+persons using the property shall comply strictly with the covenants,
+conditions, and restrictions set forth in the declaration, the bylaws,
+and the house rules adopted pursuant thereto. Failure to comply with
+any of the same shall be grounds for an action to recover sums due,
+for damages or injunctive relief, or both, maintainable by the
+managing agent, resident manager, or board on behalf of the
+association or, in a proper case, by an aggrieved unit owner.
+
+12 HRS § 514B-157 provides that all costs and expenses, including reasonable attomeys’
+fees, incurred by or on behalf of the Association in enforcing any provision of the Project Documents
+and the Condominium Property Law against an owner, occupant, tenant, employee of an owner, or
+any other person who may in any manner use the property, shall be promptly paid on demand to the
+Association by such person or persons. Accordingly, OWNER is liable for the attorneys’ fees and
+costs incurred by the Association in connection with the violations of the Project Documents noted
+herein, and additionally, the Association is entitled to recover fees under HRS §607-14. Also,
+Paragraph L. COMPLIANCE WITH DECLARATION, BY-LAWS AND DECISIONS, of the
+Declaration and Section XI. Enforcement, of the House Rules, also provides for OWNER’s
+obligation for the legal fees and costs incurred by the Association in having to compel OWNER’s
+compliance with the Project Documents and the Condominium Property Law.
+
+EXHIBIT “1” Page 4
+
+===== PAGE 032 / 38 =====
+13. The Association seeks an award of the Association’s costs and expenses, including,
+but not limited to, the amount reflected in the Invoice (being $2,260.15, as shown on Exhibit “2”)
+and reasonable attorneys’ fees and costs incurred in connection with the instant action and the
+enforcement of the Project Documents and the Condominium Property Law, to be shown by
+appropriate motion.
+EXHIBIT “1” Page 5
+
+===== PAGE 033 / 38 =====
+EXHIBIT “2”
+
+===== PAGE 034 / 38 =====
+Page 7 of 1
+@® thyssenkry .
+ed Pe INVOICE
+ARWSISe SRE eRe
+thyssenktupp Elevator Corporation INVOICEDATE: — OS/1Gi2018
+Atin: Accounts Receivable Dept CUSTOMER: = 78744
+1265 E FORT UNION BLVD STE 350 SR# 33409266
+COTTONWOOD HEIGHTS, UT 84047 INVOICE #: 5000875502
+POs:
+v. D. |S 1B TERMS: IMMEDIATE
+Ve? TOTALDUE: $2,260.45
+BILL TO:
+ATTN: ACCOUNTS PAYABLE SHIP TO:
+AQAO MARINE SURF WAIKIKI INC.
+. 384 5EASIDEAVE - MARINE SURF WAIKIKL
+HONOLULU, HI 96845-2532 ‘364 SEASIDE AVE
+HONOLULU, Hi 96815-2532
+Reported By: HAROLD HITCHCOCK, 808-754-9559 on 09-May-2018 15:24:00
+Resolution Summary: CUSTOMER REPORTED: ELEVATOR NOT RESPONDING, OT OK. TECH (2): FOUND DOORS KNOCKED OFF TRACK. WILL,
+“""  RETORNTOFIX. 5/10°ADJUSTED DOOR HANGERS'AND INTERLOGK, TESTED AND RETURNED TO SERVICE: BIKING DUETO-MISUSE NOT-GOVERED— .
+BY CONTRACT.
+DATE DESCRIPTION . aTy uom PRICE AMOUNT
+~~) HONOLULU BRANGH ~ ™ -
+| Unit: 1 Serial #: ustaaes0
+Contract #: USs2787
+Platinum Premiere - Full Maintenance, 24 Hour Calthacks included - Elevator ~
+‘With Phone Monitoring
+05/10/2018 Labor Caliback Daytime 4 AR $477.00 ‘$477.00
+| osrtor2018 | Travel Daytime 25 | UR $677.00 $119.25
+O5f0/2048 Labor Callback Daytime 4 HR $477.00 ‘$477.00
+osmpei2018 | Travel Exira Work Outside the Contract Daytine 5 HR $477.00 $238.50
+0g/09/2018 Labor Extra Work Outside Gontract Daytime: & HR $477.00 $238.50
+asiog201a | Travel Extra Work Outside the Contract Overtime cd HR $810.90 3608.18
+AMOUNT ~ _ SALES TAX ~ PLEASE PAY THIS AMOUNT
+$2,158.43 $401.72 { $2,260.16
+a
+This charge was created because servics was nol covered by maintenance conlracls you may have with thyasenkrupp Elevator.
+For Service Related or General Questions, please call 808-834-6300 . For Billing or. ‘Payment Questions, please call 801-449-8227 .
+DETACH ANO RETURN WITH YOUR PAYMENT .
+AB lees ir INVOIGE DATE: 05/16/2018
+(& Unyssenirupp CUSTOMER#: 73744
+: SR#: 33409266
+thyssenkrupp Elevator Corporation INVOICE #: 5000875502
+Attn: Accounts Recelvable Dept POH
+1285 E FORT UNION BLVD STE 350 . IMME
+COTTONWOOD HEIGHTS, UT 84047 TERMS: IMMEDIATE
+TOTAL DUE: 2,260.15
+Amount Enclosed: §, — REMIT PAYMENT TG:
+Ss BaymentMethod ==SSSSSSSSOS~S
+_ a — ~~ | tayssankrupp Elevator Corporation
+2 Personal check enclosed a Money onder enclosed u Cashler's check PO BOX 933004
+Please Make Check Payment To: ATLANTA, GA 31193-3004
+thyssenkrupp Elevator Corporation
+EXHIBIT "2"
+
+===== PAGE 035 / 38 =====
+SUMMONS, Form #1DC50
+IN THE DISTRICT COURT OF THE FIRST CIRCUIT
+_ HONOLULU _ DIVISION
+STATE OF HAWAIT
+
+Plaintiff
+
+ASSOCIATION OF APARTMENT OWNERS OF MARINE
+
+SURF WAIKIKI, INC., a Hawaii nonprofit corporation, by its
+
+Board of Directors
+Reserved for Court Use
+Civil No.
+
+Defendant Filing Party/Attorney Name, Attorney Number, Firm Name (if
+applicable), Address, and Telephone Number
+
+NIKODEM PIKOR PHILIP L.LAHNE (3709)
+GLENN S. HORIO (8151)
+Anderson Lahne & Fujisaki LLP
+733 Bishop Street, Suite 2301
+Honolulu, Hawaii 96813
+Telephone (808) 536-8177
+Facsimile (808) 356-7631
+
+SUMMONS
+
+THE STATE OF HAWALT:
+
+TO: The Director of Public Safety of the State of Hawaii, the Director’s deputy, or any police officer or other person
+
+authorized by the laws of the State of Hawai‘
+
+This Summons shall not be personally delivered between 10:00 p.m, and 6:00 a.m. on premises not open to the public,
+unless a Judge permits, in writing on this Summons, personal delivery during those hours. |
+TO THE DEFENDANT:
+
+You are required to file a written answer or appear before the District Judge of this Court, in the Judge’s Courtroom, on the
+day and at the time designated by the checked box on page 2. If the Defendant is a corporation or limited liability company,
+Hawai'i law requires it to be represented by an attorney licensed to practice in the State of Hawai‘i.
+
+IF YOU OR YOUR ATTORNEY FAIL TO ATTEND THE COURT HEARING AT THE TIME AND PLACE
+DESIGNATED OR FILE A WRITTEN ANSWER A DEFAULT JUDGMENT WILL BE TAKEN AGAINST YOU
+FOR THE RELIEF DEMANDED IN THE COMPLAINT.
+
+NOTICE TO PARTIES: (Honolulu Division only): If this case involves a residential lease and if the Defendant(s) disagrees
+
+with the statements in the Complaint, the Court may require the parties to submit their dispute to mediation at the Pre-Trial
+
+conference that will be scheduled on the Monday, not a holiday, following the court date specified above. If the Monday
+
+following your court date is a holiday, the Pre-Trial conference will occur on the next business day. If the parties are not able
+
+to resolve the dispute within 20 minutes of mediation, the Cout will set a trial date.
+Clerk Se j
+
+SEE PAGE 2
+
+(ARG-AC-508 (3/18) 1D-P-802
+(Rev. 1/23/2018) Page 1 of 2 Form#1DC50
+
+===== PAGE 036 / 38 =====
+COURT ADDRESSES AND RETURNABLE DAYS:
+[4 Honolulu Division, 1111 Alakea Street, 10" floor Courtroom 10A or 10B, Honolulu, Hawai'i
+O at 8:30 a.m. on the fifth day following date of service, excluding Saturdays, Sundays, legal holidays
+for summary possession.
+or
+at 1:30 p.m. on the second Monday following date of service, and should that Monday be a legal
+holiday then upon the next business day.
+1 ‘Ewa Division, 870 Fourth Street, Pearl City, Hawai‘i
+C1 at 9:00 a.m. on the second Thursday following date of service, and should that Thursday be a legal
+holiday then upon the next Thursday.
+Ol Ko‘olaupoko OR Ko‘olauloa Division, 45-939 Po‘okela Street, Kane‘ohe, Hawai‘i
+3 at 9:00 a.m. on the second Friday following date of service, and should that Friday be a legal holiday
+then upon the next Friday.
+O Wahiawa OR Waialua Division, 1034 Kilani Avenue, Wahiawa, Hawai‘i
+CO at 9:00 a.m. on the second Wednesday following date of service, and should that Wednesday be a legal
+holiday then upon the next Wednesday.
+ Wai‘anae Division, 4675 Kapolei Parkway, Kapolei, Hawai'i
+CO at 9:00 a.m. on the second Tuesday following date of service, and should that Tuesday be a legal
+holiday then upon the next Tuesday.
+Mailing address for the Courts: 1111 Alakea Street, Civil Division, Third floor, Honolulu, Hawai‘i
+96813
+Tn accordance with the Americans with Disabilities Act and other applicable state and federal laws, ifyourequire an accommodation
+for a disability when working with a court program, service, or activity, please contact the District Court Administration Office at
+( PHONE NO. 538-5121, FAX 538-5233, or TTY 539-4853 at least ten (10) working days before your proceeding, hearing, or
+appointment date. For Civil related matters, please call 538-5629 or visit the District Court Service Center at 1111 Alakea
+Street, Third 3”) Floor.
+(Rev. 1/23/2018) Page 2 of 2 Form#1DC50
+
+===== PAGE 037 / 38 =====
+                     IN THE CIRCUIT COURT OF THE FIRST CIRCUIT
+                                HONOLULU DIVISION
+                                 STATE OF HAWAII
+
+ASSOCIATION OF APARTMENT                        Civil No. 1RC19-1-0003776
+OWNERS OF MARINE SURF WAIKIKI,
+INC., a Hawai’i nonprofit corporation, by its
+Board of Directors                              CERTIFICATE OF SERVICE
+
+               Plaintiff,
+
+       vs.
+
+NIKODEM PIKOR,
+
+               Defendant.
+NIKODEM PIKOR
+
+               Counterclaim Plaintiff,
+
+       vs.
+
+ASSOCIATION OF APARTMENT
+OWNERS OF MARINE SURF WAIKIKI,
+INC., a Hawai’i nonprofit corporation, by its
+Board of Directors
+
+               Counterclaim Defendant.
+
+
+NIKODEM PIKOR,
+
+               Third Party Plaintiff,
+
+       v.
+
+THYSSENKRUPP ELEVATOR
+CORPORATION, Foreign Profit Corporation,
+
+               Third Party Defendant.
+
+===== PAGE 038 / 38 =====
+                                CERTIFICATE OF SERVICE
+
+       The undersigned hereby certifies that on this date, a true and correct copy of the
+
+foregoing was served upon the following via JEFS as indicated below:
+
+
+       GLENN S. HORIO, ESQ.                                 gh@dkpvlaw.com
+       Deeley King Pang & Van Etten
+       1003 Bishop Street, Suite 1550
+       Honolulu, Hawai’i 96813
+
+       Attorneys for Plaintiff
+       ASSOCIATION OF APARTMENT OWNERS OF MARINE SURF WAIKIKI, INC.
+
+       APRIL LURIA, ESQ.                                    aluria@rlhlaw.com
+       Roeca Luria & Shin, LLP
+       841 Bishop Street, Suite 900
+       Honolulu, Hawaii 96813
+
+       Attorney for Counterclaim Defendant
+       ASSOCIATION OF APARTMENT OWNERS OF MARINE SURF WAIKIKI, INC.
+
+
+       Dated: Honolulu, Hawaii, July 31, 2024.
+
+                                             /s/ Amanda L. Dutcher
+                                             TERRANCE M. REVERE
+                                             AMANDA L. DUTCHER
+                                             Attorneys for Defendant/
+                                             Third Party Plaintiff
+                                             NIKODEM PIKO

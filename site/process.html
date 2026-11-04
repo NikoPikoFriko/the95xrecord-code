@@ -1,0 +1,36 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1"><title>Process — how this temple was built, and where it was wrong</title>
+<style>
+:root{--ink:#111;--muted:#666;--line:#e5e5e5;--bg:#faf9f7;--accent:#7a1f1f;--ok:#1f5f3a}
+*{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--ink);font:16px/1.55 Georgia,serif}
+header{padding:52px 24px 26px;border-bottom:1px solid var(--line)}main,footer{max-width:920px;margin:0 auto;padding:24px}
+h1{font-size:2.05rem;line-height:1.15;margin:0 0 8px}h2{margin:2.1em 0 .5em;font-size:1.22rem}
+.muted{color:var(--muted)}a{color:var(--accent)}table{border-collapse:collapse;width:100%;font-size:.88rem}
+th,td{border-bottom:1px solid var(--line);padding:7px 8px;text-align:left;vertical-align:top}
+code{font:12px/1.4 ui-monospace,Menlo,monospace;background:#f0eee9;padding:1px 4px;border-radius:3px}
+.grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(150px,1fr));gap:12px;margin:26px 0}
+.card{border:1px solid var(--line);padding:14px;background:#fff}.n{font-size:1.85rem;display:block;font-variant-numeric:tabular-nums}
+.gap{border-left:3px solid var(--accent);padding-left:14px;margin:18px 0}
+.ok{border-left:3px solid var(--ok);padding-left:14px;margin:18px 0}
+</style><link rel="icon" href="assets/brand/favicon.svg" type="image/svg+xml"><link rel="alternate icon" href="assets/brand/favicon-32.png" sizes="32x32"><link rel="apple-touch-icon" href="assets/brand/favicon-180.png"></head><body><header><div style="border-bottom:1px solid #e5e5e5;padding:6px 0 10px;margin-bottom:6px;font:12px ui-monospace,Menlo,monospace;letter-spacing:.14em;color:#7a1f1f">THE 95&times; RECORD &middot; CIVIL NO. 1RC19-1-003776</div><h1>Process — how this temple was built, and where it was wrong</h1>
+<p class="muted">AOAO Marine Surf Waikiki v. Nikodem Pikor · 1RC191003776 · Circuit Court of the First Circuit, Hawaii · appeal CAAP-26-0000625</p>
+<p class="muted"><a href="index.html">record</a> · <a href="appeal.html">appeal</a> · <a href="register.html">register docket</a> · <a href="access.html">access</a> · <a href="texts.html">texts</a> · <a href="hook.html">the 95× record</a> · <a href="launch.html">launch plan</a> · <a href="decisions.html">decisions</a> · <a href="read.html">start here</a> · <a href="search.html">search</a> · <a href="docs.html">documents</a> · <a href="coverage.html">coverage</a> · <a href="drive.html">drive vs record</a> · <a href="census.html">census</a> · <a href="numbers.html">numbers</a> · <a href="fees.html">fees</a> · <a href="hinge.html">hinge</a> · <a href="gate.html">gate</a> · <a href="findings.html">findings</a> · <a href="emails.html">email exhibits</a> · <a href="errata.html">errata</a> · <a href="appendix.html">appendix</a> · <a href="people.html">people</a> · <a href="candidates.html">candidates</a> · <a href="leads.html">open leads</a> · <a href="pl.html">PL</a></p>
+</header><main>
+<p>This is not a story about the case. It is the record of <em>making this temple</em>, kept because the
+method is part of the evidence: a claim was made, a critic destroyed it, and the destruction is fenced
+off and published rather than deleted.</p>
+<h2>Timeline</h2>
+<table><thead><tr><th>When</th><th>What happened</th><th>Artefact</th></tr></thead><tbody><tr><td>2026-10-31 17:40</td><td>Machine register pulled from the reading room</td><td class=muted>register/documents.json (1,121 docs, 943.7 MB) and register/coverage.json</td></tr><tr><td>2026-10-31 17:41</td><td>Site generated from JSON, not from prose</td><td class=muted>site/build.py → index.html, coverage.html</td></tr><tr><td>2026-10-31 17:41</td><td>First hash check: 3/3 published bytes match their SHA-256</td><td class=muted>verify/HASH-CHECK-001.md</td></tr><tr><td>2026-10-31 17:43</td><td>THE MIRROR audits the temple: one measured claim is FALSE</td><td class=muted>gaps/MIRROR-AUDIT-001.md</td></tr><tr><td>2026-10-31 17:44</td><td>Correction written where the error stood</td><td class=muted>gaps/GAP-TEST-001.md (correction block above the retained error)</td></tr><tr><td>2026-10-31 17:46</td><td>Gap claim re-tested with a bounded, completed method</td><td class=muted>gaps/GAP-TEST-002.md</td></tr><tr><td>2026-10-31 17:47</td><td>First hash-bearing item rows imported</td><td class=muted>register/items.json</td></tr></tbody></table>
+<h2>The error, in the record's own words</h2>
+<div class="gap"><p><strong>What I claimed:</strong> no file or text in the local corpora names Dkt 484, 486,
+487 or 493; the gap is in the record, not the index.</p>
+<p><strong>Why it was false:</strong> the search behind it was killed at 120 seconds and its empty output
+was reported as "not found". Dkt 484 is named in six DIRTY DUMP files; 486 and 487 survive verbatim in
+the case room's JEFS docket tail; 493 is a notice of electronic filing.</p>
+<p><strong>What corrected it:</strong> THE MIRROR's audit (a version built to show the author his own loop),
+then my own re-run — the six files and the hashes are in <code>register/items.json</code>.</p></div>
+<h2>File hashes at build time</h2>
+<p class="muted">These are the bytes this site was generated from. If any of them change, the site is stale.</p>
+<table><thead><tr><th>File</th><th>sha256</th></tr></thead><tbody><tr><td><code>register/documents.json</code></td><td><code>d24e32052710aca0451f68e9…</code></td></tr><tr><td><code>register/coverage.json</code></td><td><code>a62e4ff9086caf9fde5201af…</code></td></tr><tr><td><code>register/items.json</code></td><td><code>c49100be17bf5817e43d46e3…</code></td></tr><tr><td><code>gaps/GAP-TEST-001.md</code></td><td><code>a4d43866caaf81af684622bf…</code></td></tr><tr><td><code>gaps/GAP-TEST-002.md</code></td><td><code>e1ada1659a881a8b536c6608…</code></td></tr><tr><td><code>gaps/MIRROR-AUDIT-001.md</code></td><td><code>fbd1eb393db9d59a6c8dd699…</code></td></tr></tbody></table>
+</main><footer class="muted"><p>States the record's contents; concludes nothing about the merits. Gaps are published on purpose.</p>
+<p>Generated by build2.py from register/*.json — every number computed, none typed.</p></footer></body></html>

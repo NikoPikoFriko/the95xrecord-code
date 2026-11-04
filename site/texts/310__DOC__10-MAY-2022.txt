@@ -1,0 +1,2791 @@
+===== PAGE 001 / 90 =====
+     Of Counsel:
+     ROECA LURIA SHIN LLP
+     A Limited Liability Law Partnership                                                                                      Electronically Filed
+                                                                                                                              FIRST CIRCUIT
+     APRIL LURIA                  4687-0                                                                                      1RC191003776
+     aluria@rlhlaw.com                                                                                                        10-MAY-2022
+     JAMES R. FERGUSON             7433-0
+                                                                                                                              02:55 PM
+     jferguson@rlhlaw.com
+                                                                                                                              Dkt. 310 DOC
+     Davies Pacific Ctr.
+     841 Bishop St., Ste. 900
+     Honolulu, Hawaii       96813-3917
+     Telephone: (808) 538-7500
+     Facsimile: (808) 521-9648
+
+     Attorneys for Counterclaim Defendant
+     ASSOCIATION OF APARTMENT OWNERS
+     OF MARINE SURF WAIKIKI, INC.,
+     BY ITS BOARD OF DIRECTORS
+
+                                    IN THE DISTRICT COURT OF THE FIRST CIRCUIT
+                                                HONOLULU DIVISION
+                                                 STATE OF HAWAII
+
+     ASSOCIATION OF APARTMENT                     )                            CIVIL NO. 1RC191003776
+     OWNERS OF MARINE SURF WAIKIKI, )                                          [Assumpsit]
+     INC., a Hawaii nonprofit corporation, by its )
+     Board of Directors,                          )                            COUNTERCLAIM DEFENDANT
+                                                  )                            ASSOCIATION OF APARTMENT OWNERS
+                   Plaintiffs,                    )                            OF MARINE SURF WAIKIKI, INC., BY ITS
+                                                  )                            BOARD OF DIRECTORS’ SUBMISSION OF
+            vs.                                   )                            ORIGINAL TRANSCRIPT OF THE
+                                                  )                            DEPOSITION OF NIKODEM PIKOR,
+     NIKODEM PIKOR,                               )                            DATED JULY 15, 2021
+                                                  )
+                   Defendant.                     )
+     ____________________________________ )                                    Judge: Presiding
+                                                  )                            Trial Date: May 12, 2022 at 8:30 a.m.
+     NIKODEM PIKOR,                               )
+                                                  )
+                   Counterclaim Plaintiff,        )
+                                                  )
+            vs.                                   )
+                                                  )
+     ASSOCIATION OF APARTMENT                     )
+     OWNERS OF MARINE SURF WAIKIKI, )
+     INC., a Hawaii nonprofit corporation, by its )
+     Board of Directors,                          )
+
+I do hereby certify that the foregoing is a full, true and correct copy of the official court record of the Courts of the State of Hawai`i.
+Dated at: Honolulu, Hawai`i 02-SEP-2026, /s/ Lori Ann Okita, Clerk of the First Judicial Circuit, State of Hawai`i
+
+===== PAGE 002 / 90 =====
+ORIGINAL
+In the Matter Of:
+AOAO MARINE SURF WAIKIKI V. NIKODEM PIKOR
+IRC191003776
+NIKODEM PIKOR
+July 15, 2021
+
+. 800.211.DEPO (3376) ||
+EsquireSolutions.com
+
+I a DEPOSITION SOLUTIONS - If
+
+===== PAGE 003 / 90 =====
+NIKODEM PIKOR July 15, 2021
+AOAO MARINE SURF WAIKIKI V. NIKODEM PIKOR 1
+. 1 IN THE DISTRICT COURT OF THE FIRST CIRCUIT
+2 HONOLULU DIVISION
+3 STATE OF HAWAII
+4
+5 ASSOCIATION OF APARTMENT }CIVIL NO. 1RC191003776
+OWNERS OF MARINE SURF WAIKIKI, ) Assumpsit
+6 INC., a Hawaii nonprofit )
+Corporation, by its Board of )
+7 Directors, )
+}
+8 Plaintiffs, )
+)
+9 vs. )
+)
+10 NIKODEM PIKOR, )
+)
+a1 Defendant. )
+|
+12
+13
+14 DEPOSITION OF NIKODEM PIKOR
+15 Taken on behalf of Counterclaim—Defendant, at
+16 the Law Offices of Deeley King Pang & Van Etten, 1003
+17 Bishop Street, 1550 Pauahi Tower, Honolulu, Hawaii,
+18 commencing at 10:35 a.m., on Thursday, July 15, 2021,
+19 pursuant to notice.
+20
+21
+22
+23
+24 REPORTED BY: CAROL E.M. SUGIYAMA, RPR, CSR NO. 295
+Notary Public, State of Hawaii
+25
+BZ ESQUIRE 800.211.DEPO (3376)
+DEFosiTION SOLUTIONS EsquireSolutions.com
+
+===== PAGE 004 / 90 =====
+NIKODEM PIKOR July 15, 2024
+AOAO MARINE SURF WAIKIKI V. NIKODEM PIKOR 2
+1 APPEARANCES:
+2 AMANDA L. DUTCHER, ESQ.
+Revere & Associates LLLC
+3 970 N. Kalaheo Avenue
+Suite A-301
+4 Kailua, Hawaii 96734
+5
+6 Attorneys for Defendant/Third-Party Plaintiff
+NIKODEM PIKOR
+7
+8
+9
+10 JAMES R. FERGUSON, ESQ.
+Reeca Luria Shin LLP
+11 900 Davies Pacific Center
+841 Bishop Street
+12 Honolulu, Hawaii 96813
+: 13
+14 Attorney for Counterclaim Defendant
+ASSOCIATION OF APARTMENT OWNERS OF
+15 MARINE SURF WAIKIKI, INC., BY ITS BOARD OF
+DIRECTORS
+16
+17
+18 GLENN S. HORIO, ESQ.
+Deeley King Pang &
+19 Van Etten
+1003 Bishop Street
+20 Suite 1550
+Honolulu, Hawaii 96813
+21
+22 Attorney for Plaintiff
+ASSOCIATION OF APARTMENT OWNERS OF
+23 MARINE SURF WAIKIKI, INC., BY ITS BOARD
+OF DIRECTORS
+24
+25
+eZ ESQUIRE 800.211.DEPO (3376)
+deposition soLuTions EsquireSolutions.com
+
+===== PAGE 005 / 90 =====
+NIKODEM PIKOR July 15, 2021
+AOAO MARINE SURF WAIKIKI V. NIKODEM PIKOR 3
+1 INDEX
+2
+3 MR. HORIO 5
+4 MR. FERGUSON 136
+5
+6 EXHIBITS
+7 NO. DESCRIPTION PAGE
+8 Exhibit 1 Letter from W.E. Denison to Mr. Pikor 21
+dated 5/29/18
+9
+Exhibit 2 Video on CD 22
+10
+Exhibit 3 E-mail re: Elevators damage letter and 34
+11 payment request dated 8/22/2018
+12 Exhibit 4 E-mail re: Elevator damage and payment 72
+request dated 7/3/2018
+: 13
+Exhibit 5 Letter from Nikodem Pikor re: Damage 74
+14 to Common Elements Letter
+15 Exhibit 6 House Rules 93
+16 Exhibit 7 E-mail from Chuck Decoito to William 97
+Denison dated 7/3/18
+7
+Exhibit 8 Letter from Glenn Horio to Nikodem 103
+18 Pikor dated 8/8/18
+19 Exhibit 9 Letter from JW Elevator Consulting to 105
+Joseph Ryan dated 10/21/18 re: Video
+20
+Exhibit 10 Letter from JW Elevator Consulting to 113
+21 Joseph Ryan dated 12/0/18 re: Video
+22 Exhibit 11 Video excerpt 3:10:53 116
+23 Exhibit 12 Video excerpt 3:11:16 116
+24
+25
+Z ESQUIRE 800.211.DEPO (3376)
+DEPOSITION SOLUTIONS EsquireSolutions.com
+
+===== PAGE 006 / 90 =====
+NIKODEM PIKOR July 15, 2021
+AOAO MARINE SURF WAIKIKI V. NIKODEM PIKOR 4
+1 Exhibits Continued:
+2
+3 Exhibit 13 Video excerpt 15:11:19 117
+4 Exhibit 14 Video excerpt 15:11:20 118
+53 Exhibit 15 Video excerpt 15:11:22 120
+6 Exhibit 16 Video excerpt 15:11:29 121
+7 Exhibit 17 Video excerpt 15:11:31 122
+8 Exhibit 18 Video excerpt 15:11:33 122
+9 Exhibit 19 Video excerpt 15:11:37 123
+10 Exhibit 20 Video excerpt 15:12:02 123
+11 Exhibit 21 Video excerpt 15:12:32 125
+12 Exhibit 22 Video excerpt 15:12:36 127
+: 13 Exhibit 23 Video excerpt 15:12:43 128
+14 Exhibit 24 Video excerpt 15:12:48 129
+is Exhibit 25 Video excerpt 15:12:50 130
+16 Exhibit 26 Video excerpt 15:13:07 131
+17 Exhibit 27 Hawaii Occupational Safety and 132
+Health Division Response to Request
+18 for Access to Records dated 10/18/2018
+19
+20
+21
+22
+23
+24
+25
+Z ESQUIRE 800.211. DEPO (3376)
+oeFosirion soturions EsquireSolutions.com
+
+===== PAGE 007 / 90 =====
+NIKODEM PIKOR July 15, 2021
+AOAO MARINE SURF WAIKIKI V. NIKODEM PIKOR 5
+1 THE REPORTER: Our disclosure is complete and
+2 available for everyone to review. It will be attached
+3 to the deposition transcript.
+4 NIKODEM PIKOR,
+5 Called as a witness on behalf of the
+6 Plaintiff, after having been first duly sworn to tell
+7 the truth, the whole truth, and nothing but the truth,
+8 was examined and testified as follows:
+9 EXAMINATION
+10 BY MR. HORIO:
+11 Q Morning. Please state and spell your full
+12 name.
+13 A Nikodem Tomasz Pikor. N-I-K-O-D-E-M,
+14 T-O-M-A-S-Z, P-I-K-O-R.
+15 COURT REPORTER: Okay. I'm going to ask you
+16 if you can slow down, okay? Because I have to take down
+17 everything you're saying.
+18 THE WITNESS: Nikodem Tomasz Pikor.
+19 N-I-K-O-D-E-M, T-O-M-A-S-Z, P-I-K-O-R.
+20 Q (By Mr. Horio) Mr. Pikor, before we continue,
+21 I'm just going to cover a few ground rules. Let me just
+22 ask, have you ever had your deposition taken before?
+23 A I don't think so.
+24 Q Okay. And as the court reporter noted, she's
+25 going to be taking down everything that we say. So what
+@ ESQUIRE ert Rar era
+
+===== PAGE 008 / 90 =====
+NIKODEM PIKOR July 15, 2021
+AOAO MARINE SURF WAIKIKI V. NIKODEM PIKOR 6
+1 we'll try to do is I'll try to ask a question, and if you
+2 could let me complete my question before you answer. And
+3 I'll do the same for you and then I'll let you fully
+4 answer.
+5 That way the court reporter can get down a
+6 full record and complete record of what's being said.
+7 Okay?
+8 A Sure.
+9 Q Okay. Also, during the course of the
+10 deposition, when I ask a question, your counsel may have
+11 an objection. If she objects, if you could just hold off
+12 on your answer, let her get her objection on the record
+13 first, and then you can answer. Okay?
+14 A Sure.
+15 Q Okay. Have you ever used any other names
+16 besides the name you just gave?
+17 A No.
+18 Q And where were you born?
+19 A Poland.
+20 Q And where in Poland?
+21 A Warsaw.
+22 Q And your date of birth?
+23 A April 3, '84.
+24 Q And your current address?
+25 A 364 Seaside Avenue, Apartment 1107, Honolulu,
+Z ESQUIRE 800.211.DEPO (3376)
+DEPOSITION SOLUTIONS EsquireSolutions.com
+
+===== PAGE 009 / 90 =====
+NIKODEM PIKOR July 15, 2024
+AOAO MARINE SURF WAIKIKI V. NIKODEM PIKOR 7
+a 1 Hawaii, 96815.
+2 Q I'm sorry, you said 3634 Seaside?
+3 A Sorry?
+4 Q I'm sorry, you said 3634 Seaside Avenue?
+5 A I said 364 Seaside Avenue.
+6 Q And how long have you been there?
+7 A It's coming up five years.
+8 Q And do you have any other addresses that you
+9 use?
+10 A I do.
+11 Q Okay. And what would those be?
+12 A I mean, that's the only residential address
+13 that's related to this case. So I'm not going to be
+14 revealing my billing addresses for my credit cards. I
+15 don't think there's a reason for it.
+16 MS. DUTCHER: Are you asking for his
+17 residential address?
+18 MR. HORIO: That was my first question. But
+19 I'm asking for other addresses, in particular at the
+20 Marine Surf?
+21 MS. DUTCHER: Addresses for?
+22 MR. HORIO: For units.
+23 THE WITNESS: Please be specific.
+24 Q Units that you own at the --
+25 A I don't -- I co-own multiple units at Marine
+@ ESQUIRE esr ore
+
+===== PAGE 010 / 90 =====
+NIKODEM PIKOR July 15, 2021
+AOAO MARINE SURF WAIKIKI V. NIKODEM PIKOR 8
+1 Surf Waikiki.
+2 Qo Yes, I think we're already aware of that. But
+3 I was just asking you specifically to respond to the
+4 question, what particular unit?
+5 A Okay. Rephrase the question so that I can
+6 answer it.
+7 Q Okay. What units at the Marine Surf do you
+8 own?
+9 A I co-own Apartment 607, 906, 1210, 1507, and
+10 1707.
+11 Q And who do you co-own 607 with?
+12 A With Bozena Jarnot.
+13 Q How about 906?
+14 A All of them.
+15 Q Okay. And are you married?
+16 A No, I'm not.
+17 Q Do you have any children?
+18 A No, I don't.
+19 Q Are you under any medication right now?
+20 A No.
+21 Q Is there any reason why you can't testify today
+22 during the deposition?
+23 A I don't think so.
+24 Q Okay. Could you just briefly describe your
+25 education?
+@ ESQUIRE att Der Cora
+
+===== PAGE 011 / 90 =====
+NIKODEM PIKOR July 15, 2021
+AOAO MARINE SURF WAIKIKI V. NIKODEM PIKOR 9
+1 A Some college.
+2 Q Okay. Well, let's start with the first college
+3 you went to. What's the name of the college?
+4 A Warsaw University.
+5 Q Okay. And when did you attend Warsaw
+6 University?
+7 A 2004, 2005.
+8 Q And did you obtain a degree from Warsaw
+9 University?
+10 A No, I have not.
+11 Q And what were you studying?
+12 A Mathematics.
+13 Q And after that, have you had any other
+14 education?
+15 A Yes.
+16 Q And where is that?
+17 A At business school, Business and Economy
+18 School of Warsaw.
+19 Q Okay. And when did you attend that school?
+20 A In the following year.
+21 Q For how long?
+22 A Another two years.
+23 Q And did you obtain a degree?
+24 A No.
+, 25 Q And how about after that?
+@ ESQUIRE magi pero cera
+
+===== PAGE 012 / 90 =====
+NIKODEM PIKOR duly 15, 2021
+AOAO MARINE SURF WAIKIKI V. NIKODEM PIKOR 10
+1 A Nope. None.
+2 Q Okay. Could you describe your employment
+3 positions since, I guess, you finished your studies in
+4 Poland?
+5 A I've done a lot of things.
+6 Q Okay. Well, why don't we start with the
+7 earliest.
+8 A I don't think they are related to this case.
+9 I don't feel like describing my whole life history for
+10 your pleasure.
+11 MS. DUTCHER: Okay. So why don't we take a
+12 break. I'm just gonna --
+13 MR. HORIO: Yeah.
+14 MS. DUTCHER: Just take a break.
+15 (A brief recess was taken.)
+16 Q (By Mr. Horio) So we're back on the record.
+17 And before the break, I was asking you to describe your
+18 employment positions.
+19 A Yes.
+20 ie) If you could start with your earliest
+21 employment.
+22 A My first actual employment was in a financial
+23 advisory company called Expert. It was sort of an
+24 internship back when I was doing my business studies in
+25 Warsaw.
+@ ESQUIRE az pare or
+
+===== PAGE 013 / 90 =====
+NIKODEM PIKOR July 15, 2021
+AOAO MARINE SURF WAIKIKI V. NIKODEM PIKOR 11
+1 Q And so that would have been in Warsaw then?
+2 A Yeah.
+3 Q And approximately when was that?
+4 A Approximate 2006.
+5 Q How long were you there?
+6 A About a year.
+7 Q And after that?
+8 A After that, I moved to United States and had
+9 variety of occupations. The longest one that I held in
+10 Chicago was a limousine driver.
+iL Q So when you moved to the United States, you
+12 moved to Chicago?
+“ 13 A Yes.
+14 Q And when was that?
+15 A That was March 2006.
+16 Qo And how long were you serving as a limousine
+17 driver?
+18 A I wasn't serving. This was my occupation. It
+19 was approximately nine months.
+20 Q And after that?
+21 A After that I moved to Hawaii in December 2006.
+22 Q What were you doing for employment when you
+23 moved to Hawaii?
+24 A Again, a variety of things, including driving
+25 limousines as well. And then I was managing a travel
+ZF ESQUIRE 800.211.DEPO (3376)
+pevosirion sovurions EsquireSolutions.com
+
+===== PAGE 014 / 90 =====
+NIKODEM PiKOR July 15, 2021
+AOAO MARINE SURF WAIKIKI V. NIKODEM PIKOR 12
+1 agency and I was a tour guide. And then I was also
+2 managing a large cleaning and janitorial services
+3 provider company. And then I started with the vacation
+4 rental business. And then opened another business. And
+5 then --
+6 Q What other business did you open besides the
+7 vacation rental business?
+8 A I also own Chambers Escape Games Hawaii.
+9 Q And where is that located?
+10 A 512 Halekauwila.
+11 Q And when you were driving the limousine here in
+12 Hawaii, was it your own limousine or were you working for
+13 a company?
+, 14 A I was working for Sakura Limousines.
+15 Q And do you still run a vacation rental
+16 business?
+17 A Yes, I do.
+18 Q What is the name of that business?
+19 A The business name is Tropical Studios in
+20 Waikiki, LLC.
+21 Q And are you the sole member of that LLC?
+22 A No. I'm a 50 percent owner.
+23 Q And who is the other owner?
+24 A Bozena Jarnot.
+25 Q Could you spell her name?
+Zz ESQUIRE 800.211.DEPO (3376)
+vevosition soLuTIONS EsquireSolutions.com
+
+===== PAGE 015 / 90 =====
+NIKODEM PIKOR July 15, 2021
+AOAO MARINE SURF WAIKIKI V. NIKODEM PIKOR 13
+1 A B-O-Z-E-N-A J-A-R-N-O-T.
+2 0) Thank you. And that's the same individual who
+3 you own the units at the Marine Surf with?
+4 A Correct.
+5 Q And Chambers Escape Game, is that a business
+6 that's still ongoing right now?
+7 A Yes.
+8 0) And do you own that by yourself?
+9 A No, I don't.
+10 Q And who do you own that with?
+11 A I don't feel -- I'm not sure if I should be --
+12 if I can reveal the other -- all of the other owners.
+13 Q Is Chambers Escape Game under an entity, an
+14 LLC?
+is A It's an LLC, correct.
+16 ie) Okay. Who are the members of the LLC?
+17 A The other member is Ron Bronstein.
+18 Q Are you 50/50 on the LLC?
+19 A Yes, we are.
+20 Q And you mentioned when I asked you if you had
+21 your deposition taken before, you don't think so. Is it
+22 that you can't recall or you haven't had your deposition
+23 taken?
+24 A I don't recall ever giving a deposition such
+25 as this one.
+@ ESQUIRE ear ean Cre
+
+===== PAGE 016 / 90 =====
+NIKODEM PIKOR July 15, 2021
+AOAO MARINE SURF WAIKIKI V. NIKODEM PIKOR 14
+1 Q Have you given testimony in a legal proceeding?
+2 A And I'm not sure how broad is that -- that
+3 testimony category, but I've been involved in multiple
+4 legal proceedings and I've been answering questions
+5 under oath. If that counts as giving testimony, then
+6 yes.
+7 Q What type of legal proceedings?
+8 A Like fighting my parking tickets.
+9 ce] Anything else?
+10 A Yes, multiple.
+11 Q Besides the parking tickets.
+12 A I was involved in immigration proceedings. I
+13 was going through the process of having my green card
+14 approved and my citizenship approved. So during those
+i5 proceedings on multiple occasions, I would be meeting
+16 with the immigration officer and answering questions
+17 under the oath. So I think that constitutes a
+18 testimony.
+19 Q Any other legal proceedings besides immigration
+20 proceedings or traffic -- involving traffic tickets?
+21 A No, I can't think of.
+22 Q Anything involving car accidents?
+23 A I don't think so.
+24 Q Motorcycle accidents?
+25 A I don't think I was giving any testimony as
+eZ ESQUIRE 800.211.DEPO (3376)
+DEPosirion soLitiONS EsquireSolutions.com
+
+===== PAGE 017 / 90 =====
+NIKODEM PIKOR July 15, 2021
+AOAO MARINE SURF WAIKIKI V. NIKODEM PIKOR 15
+1 related to a motorcycle accident.
+2 Q Were you involved in a legal proceeding which
+3 involved a motorcycle accident or accident with a
+4 vehicle?
+5 A Actually, no, I don't think so.
+6 Q Were you involved in a legal proceeding where
+7 you were accused of headbutting a police officer?
+8 A If I've been accused of headbutting a police
+9 officer. I don't remember details -- detailed
+10 accusations against me in that case, so I cannot confirm
+11 or deny it.
+12 Q Do you recall that case?
+13 A I believe I know which one you are referring
+14 to.
+15 Q Can you tell us about that case?
+16 A What would you like to know about that case?
+17 Q What was that case about?
+18 A That case was about me being in the park after
+19 hours, being approached by police officers, and arrested
+20 for being in the park after hours. That was the
+21 accusation that I remember.
+22 Q And what led you -- led up to you being in the
+23 park after hours?
+24 MS. DUTCHER: Objection, overly broad.
+25 Q You can answer.
+Z ESQUIRE 800.211.DEPO (3376)
+o€vosiTioN soLuTIONS EsquireSolutions.com
+
+===== PAGE 018 / 90 =====
+NIKODEM PIKOR July 15, 2021
+AOAO MARINE SURF WAIKIKI V. NIKODEM PIKOR 16
+1 A I walked in -- what made me be in the park? I
+2 walked in there.
+3 Q And what park was that?
+4 A Kewalo Basin. A part of Kewalo Basin. I'm
+5 not sure exactly what's the name of this section.
+6 Q And did you walk to the park?
+7 A I did.
+8 Q Had you been on a motorcycle, in a vehicle
+9 before you walked to the park?
+10 A I think most definitely.
+11 Q And were you in an accident before that?
+12 A I believe so, yes.
+13 Q And what was the outcome of that legal
+14 proceeding?
+15 A I honestly don't remember.
+16 Q Is it still ongoing?
+17 A No, it's not. I don't remember what was the
+18 exact resolution.
+19 10) And what did you do to prepare for today's
+20 deposition?
+21 A I did have a short meeting with my counsel.
+22 Q Did you -- sorry. Go ahead.
+23 A It was just online meeting.
+24 Q Did you review any documents?
+25 A No, I have not.
+@ ESQUIRE eazy oar cr
+
+===== PAGE 019 / 90 =====
+NIKODEM PIKOR July 15, 2021
+AOAO MARINE SURF WAIKIKI V. NIKODEM PIKOR 17
+1 Q And when you say you met with your attorney or
+2 had a conversation with your attorney, you mean
+3 Ms. Dutcher?
+4 A Yes, I do.
+5 Q Prior to Ms. Dutcher, you were represented by
+6 Joseph Ryan?
+7 A Correct.
+8 Q And was Joseph Ryan representing you in any
+9 other matters besides this matter?
+10 A Yes, I believe so.
+11 Q And what matters were those?
+12 A The first that we mentioned already.
+“ 13 Q I'm sorry?
+14 A The one that you mentioned a moment ago. The
+15 one where I was arrested for being in the park after
+16 closing hours.
+17 Qo Okay. So do you recall when you retained
+18 Mr. Ryan to represent you on this matter?
+19 A I'm not going to remember the exact date, but
+20 I can only approximate it was -~ it must have been
+21 August or September or October of a year when the case
+22 started, which was already two years ago or three years
+23 ago. When was the incident? It was 2019?
+24 Q May 2018.
+25 A '18. Three years ago.
+@ ESQUIRE a oar oo
+
+===== PAGE 020 / 90 =====
+NIKODEM PIKOR July 15, 2021
+AOAO MARINE SURF WAIKIKI V. NIKODEM PIKOR 18
+. 1 So Joe Ryan started representing me like about
+2 six months later, so it must have been September,
+3 October, something like that.
+4 Q Did you speak to any other attorneys besides
+5 Mr. Ryan?
+6 A Multiple.
+7 Q And you didn't retain the services of any other
+8 attorneys?
+9 A I retained services later on of Terry Revere
+10 and Amanda Dutcher.
+11 Q But, I mean, prior to retaining Joseph Ryan,
+12 you didn't retain any other attorneys?
+f 13 A No.
+14 Q And what was ~- what was the compensation
+15 method for Mr. Ryan's services? Were you paying on an
+16 hourly basis?
+17 MS. DUTCHER: I'm going to make an objection.
+18 That's attorney/client privilege.
+19 MR. HORIO: That's not attorney/client
+20 privilege. I'm not asking anything about what was said.
+21 I'm just asking about the compensation.
+22 MS. DUTCHER: That is communication.
+23 MR. HORIO: His fee agreement letter wouldn't
+24 be subject to attorney/client privilege.
+25 THE WITNESS: It's irrelevant. I don't
+Z ESQUIRE 800.211.DEPO (3376)
+DEposirion solutions EsquireSolutions.com
+
+===== PAGE 021 / 90 =====
+NIKODEM PIKOR July 15, 2021
+AOAO MARINE SURF WAIKIKI V. NIKODEM PIKOR 19
+—_ 1 remember how I --
+2 MS. DUTCHER: It's attorney/client privilege.
+3 It's a communication between him and his attorney.
+4 MR. HORIO: There's nothing confidential --
+5 THE WITNESS: I don't remember.
+6 MR. HORIO: Are you instructing him not to
+7 answer?
+8 MS. DUTCHER: Yes.
+9 MR. HORIO: Then please do so for the record.
+10 MS. DUTCHER: I'm instructing Mr. Pikor to not
+a1 respond to questions about his communications with his
+12 attorney Joseph Ryan.
+13 Q (By Mr. Horio) Okay. Were you paying Mr. Ryan
+14 for his representation of you?
+15 A Following the advice of my attorney, I won't
+16 answer the question.
+17 0) She didn't advise you to not answer that
+18 question. And there's no objection pending right now.
+19 MS. DUTCHER: Can you repeat the question?
+20 Q (By Mr. Horio) Were you paying Mr. Ryan on an
+21 hourly basis?
+22 MS. DUTCHER: I restate my objection as to any
+23 communications between ~-
+24 MR. HORIO: That's not a communication.
+25 MS. DUTCHER: -- Mr. Pikor -- any
+ZB ESQUIRE 800.21 1.DEPO (3376)
+DEPOSITION SOLUTIONS EsquireSolutions.com
+
+===== PAGE 022 / 90 =====
+NIKODEM PIKOR July 15, 2021
+AOAO MARINE SURF WAIKIKI V. NIKODEM PIKOR 20
+1 communication between Mr. Pikor and his former attorney
+2 is subject to attorney/client privilege.
+3 MR. HORIO: That's not a communication,
+4 though. I'm just asking him if he was paying his
+5 attorney by the hour.
+6 MS. DUTCHER: That is a communication.
+7 MR. HORIO: So his invoices --
+8 Q (By Mr. Horio) Were you being invoiced by
+9 Mr. Ryan?
+10 A I don't remember.
+11 Q Do you remember the names of any other
+12 attorneys you may have spoke with?
+13 A Yeah, some of them, not ali of them.
+14 Q And can you state some of those names, please?
+15 A Adrienne King. Adrienne Sam King -- I see
+16 they're counsel. Also -- I would have to go through my
+17 files.
+18 Q So we're going to go back in time to May of
+19 2018. I think we already discussed that's when the
+20 elevator incident happened. Do you recall the incident?
+21 A Yes, I do.
+22 Q Okay. And sometime after the incident, do you
+23 recall receiving a letter from William Denison of Denison
+24 Corporation, the Association's managing agent?
+25 A I received multiple letters from managing
+Z ESQUIRE Sat Dare rs
+
+===== PAGE 023 / 90 =====
+NIKODEM PIKOR July 15, 2021
+AOAO MARINE SURF WAIKIKI V. NIKODEM PIKOR 21
+1 agent throughout the year.
+2 Q And we'll mark this as Exhibit 1.
+3 (Exhibit No. 1 was marked for
+4 identification.)
+5 Q Do you recall receiving that letter?
+6 A Yes. Yes, I do.
+7 MR. HORIO: Sorry, can we just take a
+8 one-second break?
+9 MS. DUTCHER: Sure.
+10 MR. HORIO: We're off the record.
+11 (A brief recess was taken.)
+12 Q (By Mr. Horio) Okay. We're back on the record.
+. 13 We were looking at what's been marked as
+14 Exhibit 1.
+15 And that is a May 29, 2018 letter addressed to
+16 you from William Denison of Denison Corporation, W.E.
+17 Denison Corporation. That's the managing agent for the
+18 association. Do you see that?
+19 A Yes, I do.
+20 Q And so do you recall receiving that letter?
+21 A Yes, I do.
+22 Q Okay. And do you recali what that letter was
+23 describing?
+24 A Yes, I do.
+25 Q And what was that?
+Z ESQUIRE 800.21 1.DEPO (3376)
+Deposition soturrons EsquireSolutions.com
+
+===== PAGE 024 / 90 =====
+NIKODEM PIKOR July 15, 2021
+AQAO MARINE SURF WAIKIKI V. NIKODEM PIKOR 22
+1 A I'm really bad at giving summaries of what's
+2 briefly stated. The letter was describing that there
+3 was an incident and that the association expects me to
+4 pay for the damages.
+5 Q And when you say incident, are you referring to
+6 the elevator incident?
+7 A That's the only incident that's been mentioned
+8 by this letter, so, yes, I do.
+9 0) So we're going to look at the video now.
+10 That's going to be Exhibit No. 2.
+11 (Exhibit No. 2 was marked for
+12 identification.)
+: 13 Q I'll direct your attention to the screen,
+14 Mr. Pikor. That is a copy of the CCTV footage that shows
+15 the elevator incident that occurred at approximately 3:11
+16 in the afternoon on May 9, 2018. I believe you've viewed
+17 this video before; is that correct?
+18 A Yes.
+19 Q Okay. So let's go ahead and briefly watch the
+20 video.
+21 (Video playing.)
+22 Q Okay. We're going to pause at 3:13 and 17
+23 seconds. Was that you in the video, Mr. Pikor?
+24 A Yes.
+25 Q And you were moving what appears to be stacks
+2 ESQUIRE 800.211.DEPO (3376)
+ogrosition sovuTIONS EsquireSolutions.com
+
+===== PAGE 025 / 90 =====
+NIKODEM PIKOR July 15, 2021
+AOAO MARINE SURF WAIKIKI V. NIKODEM PIKOR 23
+1 of plastic bins and a large bag. What looks to be seven
+2 plastic bins and a large bag; is that correct?
+3 A Yes.
+4 Q Approximately how large are the bins? They all
+5 seem to be of about equal size. Approximately how large
+6 are they?
+7 A Just judging from what's seen on the screen,
+8 they are about two feet tall by two feet wide and about
+9 three feet long.
+10 Q Are those your bins?
+11 A Yes.
+12 Q And where were you coming from with those bins?
+13 A From a place of my residence, Apartment 1107.
+14 And I was unloading them in the proper unloading zone,
+15 which is the basement level.
+16 Q And what's in the bins?
+17 A Household items.
+18 Q So the first stack that you're pulling out
+19 consists of two bins. The first bin on the bottom is a
+20 gray bin, and the second one on the top is a black bin
+21 with a yellow top. What's in that first bin on the
+22 bottom, the gray bin?
+23 A I'm not going to be able to recall the exact
+24 items, but those were just household items that I was
+25 removing from my apartment.
+Zz ESQUIRE 800.21 1.DEPO (3376)
+oevositiow soLuTions EsquireSolutions.com
+
+===== PAGE 026 / 90 =====
+NIKODEM PIKOR duly 15, 2021
+AOAO MARINE SURF WAIKIKI V. NIKODEM PIKOR 24
+1 Q Do you recall what type of household items?
+2 A Like pillows.
+3 Q Pillows?
+4 A Uh-huh.
+5 Q In all seven of the containers?
+6 A In some of those, not all the containers.
+7 Q And what were in the other containers?
+8 A Other household items.
+9 Q Such as?
+10 A Such as items. I do not remember the exact
+11 objects that were placed in those bins.
+12 Q But you specifically remember pillows?
+13 A Yeah.
+14 Q You don't remember what else might have been in
+15 the bins?
+16 A Sports equipment, cutlery, electronics.
+17 Variety of household items I wanted to remove from my
+18 apartment.
+19 Q Were you moving?
+20 A I don't think I was moving. I don't know. I
+21 don't quite recall.
+22 Q And you said you're coming from Apartment 1107?
+23 A Yes.
+24 Q And were you residing in 1107 at the Marine
+25 Surf at the time?
+@ ESQUIRE nar ore
+
+===== PAGE 027 / 90 =====
+NIKODEM PIKOR July 15, 2021
+AOAO MARINE SURF WAIKIKI V. NIKODEM PIKOR 25
+: 1 A Yes, I was.
+2 Qo And --
+3 A I believe I was preparing for a trip. And
+4 yeah, I just didn't want to leave those objects in my
+5 apartment.
+6 Q And what was -- what else was left in your
+7 apartment? Was it empty after you moved those items out?
+8 A Was it empty? No, apartment was not empty.
+9 Apartment was left with everything else except for the
+10 contents of those seven boxes. So I removed what I
+11 consider to be -- that I didn't want to stay in the
+12 apartment when I was gone.
+13 Q And where were you taking the bins?
+14 A To a storage.
+15 Qo And where was that storage facility?
+16 A It was not a storage facility.
+17 Q And where was the storage?
+18 A The storage was at my friend's -- at my
+19 friend's property up St. Louis Heights.
+20 Q And what's the address of that property?
+21 A I don't remember the address of the property.
+22 Q And the name of your friend?
+23 A He goes by Mitch.
+24 Q Does he have a last name?
+25 A Wo jnowski.
+BZ ESQUIRE 800.211.DEPO (3376)
+DEPOSITION SOLUTIONS EsquireSolutions.com
+
+===== PAGE 028 / 90 =====
+NIKODEM PIKOR duly 15, 2021
+AOAO MARINE SURF WAIKIKI V. NIKODEM PIKOR 26
+1 Q Could you spell that, please?
+2 A W-O-J-N-O-W-S-K-I.
+3 Q There was nobody helping you move the plastic
+4 bins?
+5 A It looks like I was doing a solo mission.
+6 Q If we forward again, that's the third stack of
+7 bins that you pulled out of the elevator, correct?
+8 A Correct.
+9 Q And you see that bag right there?
+10 A Uh-huh.
+11 Q What's in the bag?
+12 A Kitesurfing equipment, most likely.
+: 13 Kiteboard, twin tip. I would be guessing that was a
+14 Wainman Hawaii Joke 135 centimeter long, which weighs
+15 approximately two pounds.
+16 Q And you left that last stack of bins right
+17 where they are right there?
+18 MS. DUTCHER: Objection. Are you talking
+19 about --
+20 Q In between the doors.
+21 MS. DUTCHER: The video is stopped.
+22 MR. HORIO: We can play the video.
+23 Qo You pushed that stack out of the elevator,
+24 correct? You're pulling the last stack out, and you let
+25 go of the stack and leave it right there, correct?
+@ ESQUIRE eazy pare rr
+
+===== PAGE 029 / 90 =====
+NIKODEM PIKOR July 15, 2021
+AOAO MARINE SURF WAIKIKI V. NIKODEM PIKOR 27
+: 1 MS. DUTCHER: Objection. The video speaks for
+2 itself.
+3 Q You can answer.
+4 A The video speaks for itself. I don't -- you
+5 know, a picture speaks thousand words, so you have
+6 exactly what happened and exactly what I did is exactly
+7 right there on -- captured by the high definition CCTV
+8 footage.
+9 My broken English description of what's going
+10 on will not add to the clarity of actions, yeah.
+11 Q My question still stands. You let go of the
+12 stack of bins and left the stack of bins in between the
+‘ 13 doors, correct?
+14 MS. DUTCHER: Objection, misstates his
+15 testimony.
+16 Q You can answer.
+17 A As seen on the footage.
+18 Q You let go of the stack of bins, correct?
+19 MS. DUTCHER: Objection, misstates his
+20 testimony.
+21 MR. HORIO: I'm not restating his testimony.
+22 I'm asking him a question.
+23 THE WITNESS: And I will keep repeating.
+24 Everything is shown on that footage. This is a clear
+25 footage. It shows exactly what I did, in what manner,
+Z ESQUIRE 800.21 1.DEPO (3376)
+ogrosition SoLuTIONS EsquireSolutions.com
+
+===== PAGE 030 / 90 =====
+NIKODEM PIKOR July 15, 2021
+AOAO MARINE SURF WAIKIKI V. NIKODEM PIKOR 28
+1 with what energy. It shows precisely when I was
+2 interacting with the stack of bins and when I was not.
+3 I will just refer you to the footage and I will not be
+4 describing exactly what is visible because it's all
+5 there.
+6 Q (By Mr. Horio) So you can't describe what you
+7 see?
+8 MS. DUTCHER: Objection, misstates his
+9 testimony.
+10 6] You can answer.
+il A What was the question? Can I answer?
+12 Q Can you describe what you see in the video if I
+~ 13 ask you a question?
+14 MS. DUTCHER: Which question is pending right
+15 now?
+16 Q (By Mr. Horio) Let's just go back.
+17 I'm going to ask you to watch this segment of
+18 the video after I start play and pause. And then I'm
+19 going to ask you if you let go of the stack of bins.
+20 A Sure.
+21 (Video playing.)
+22 Q Did you let go of the stack of bins?
+23 A I believe the video shows clearly that I let
+24 go of the stack of bins for brief period of time, yes.
+25 Q And when you let go of the stack of bins, they
+@ ESQUIRE east ease Core
+
+===== PAGE 031 / 90 =====
+NIKODEM PIKOR duly 15, 2021
+AOAO MARINE SURF WAIKIKI V. NIKODEM PIKOR 29
+1 were in between the outer doors of the elevator; is that
+2 correct?
+3 A They -- please repeat. They were in between?
+4 Q In between the outer doors of the elevator.
+5 A Which ones are the outer doors?
+6 Q The hoistway doors.
+7 A Thank you for being precise in that
+8 technicality of the elevator. As it appears in the
+9 video, the bins were right there on the threshold, yeah,
+10 in between the doors of the elevator.
+11 Q And do you have any experience in the elevator
+12 field?
+13 A Yes.
+14 Q And what experience would that be?
+15 A Thirty-five years of using elevators, and 35
+16 years of witnessing other people using elevators, and 35
+17 years of accumulated perception of what is regular use
+18 of the elevator.
+19 Q And how about any experience with elevator
+20 maintenance?
+21 A No. I have no experience with elevator -—- oh,
+22 yeah. TI have no experience with elevator maintenance.
+23 And up till that day, I did not have knowledge of what
+24 constitutes a proper maintenance of elevators.
+25 Q Have you had any training in elevator
+BZ ESQUIRE 800.21 1.DEPO (3376)
+DevosiTion sotuTrons EsquireSolutions.com
+
+===== PAGE 032 / 90 =====
+NIKODEM PIKOR July 15, 2021
+AOAO MARINE SURF WAIKIKI V. NIKODEM PIKOR 30
+1 maintenance?
+2 A No, I have not.
+3 Q And we're going to back up the video once again
+4 and we're going to let it play for a moment.
+5 (Playing video.)
+6 Q You see the elevator doors trying to close; is
+7 that correct?
+8 A Yes, I see the elevator doors trying to close.
+9 Q You see the outer doors, the hoistway doors,
+10 hit the plastic bin?
+11 A Yes, I see that.
+12 Q You see the hoistway doors separate from the
+13 inner elevator doors?
+14 A I believe the proper term is decouple.
+i5 Q You see the elevator doors decouple from the
+16 hoistway door?
+17 A If that is the proper term, I believe that's
+18 what it is, yes. I see the abnormal behavior of the
+19 elevator doors. Whatever is the proper term for
+20 behavior.
+21 Q And when you say abnormal, what is abnormal?
+22 A I never -- in 35 years of using elevators, I
+23 have never seen doors of the elevator behave in this
+24 manner.
+25 Q And my question was, what is abnormal?
+Z ESQUIRE 800.21 1.DEPO (3376)
+oevosinion sovitions EsquireSolutions.com
+
+===== PAGE 033 / 90 =====
+NIKODEM PIKOR July 15, 2021
+AOAO MARINE SURF WAIKIKI V. NIKODEM PIKOR 31
+: 1 A The fact that the innards of the doors were
+2 exposed to the user seems abnormal.
+3 COURT REPORTER: Can you repeat that, the
+4 beginning?
+5 THE WITNESS: The innards part of the
+6 elevator.
+7 0) And I'm going to allow the video to play a
+8 little further.
+9 (Video playing.)
+10 Q So you see yourself pushing on the doors in the
+il video?
+12 A I see myself try and manipulate -- trying to
+: 13 manipulate the doors, trying to get them to work, seeing
+14 if -- seeing if it's possible to make them work again
+15 properly.
+16 Q What specifically were you trying to do to get
+17 them to work?
+18 A I don't -- nothing specific. I was just
+19 seeing if -- I was giving my best shake, punch and
+20 seeing if they will reconnect, whatever.
+a1 Q Is that normal to do that in that circumstance?
+22 A The circumstances are completely abnormal to
+23 start with, so any behavior of mine in abnormal
+24 circumstances when the mechanism malfunctioned is not to
+25 be judged if it's normal or not.
+2 ESQUIRE 800.21 1.DEPO (3376)
+otrosirion soLutions EsquireSolutions.com
+
+===== PAGE 034 / 90 =====
+NIKODEM PIKOR July 15, 2021
+AOAO MARINE SURF WAIKIKI V. NIKODEM PIKOR 32
+1 I was just a user who was shocked by the
+2 failure of the ~- the failing of the mechanism that
+3 failed on me. And hope that I will see a small shake
+4 will make it work again. At the same time I -- now that
+5 I watch it, I was probably risking my life and health --
+6 I was risking my health and exposing myself to extreme
+7 danger of suffering an injury.
+8 So now that I look at it, I probably should
+9 have not put my hand inside the cavity that was exposed.
+10 Q So your actions were not proper then?
+11 MS. DUTCHER: Objection, misstates his
+12 testimony.
+13 Q You can answer.
+14 MS. DUTCHER: Don't put words in his mouth.
+15 THE WITNESS: Please don't put words in my
+16 mouth, just like my counsel advised you not to.
+17 Q Were your actions proper?
+18 A It's not about -~- it's not a question of being
+19 proper or improper. I was risking my health, so I was
+20 right. I wish I had not done that.
+21 Q Why were you risking your health?
+22 A I tried to make -- see if can I help make the
+23 doors work again.
+24 Q Did you know if it would help before you did
+25 that?
+Z ESQUIRE 800.211.DEPO (3376)
+bivosirion soLurians EsquireSolutions.com
+
+===== PAGE 035 / 90 =====
+NIKODEM PIKOR July 15, 2021
+AOAO MARINE SURF WAIKIKI V. NIKODEM PIKOR 33
+1 A How would I know?
+2 Q If you didn't know, why did you do it?
+3 A Curiosity. Natural instinct.
+4 Q And you said earlier that the elevator doors
+5 malfunctioned. What specifically malfunctioned?
+6 A I'm not going to remember off the top of my
+7 head. But according to the expert opinion, there is
+8 this -- there is a mechanism that is supposed to prevent
+9 this from happening.
+10 And when the mechanism is properly maintained,
+1i which is part of the contract that my association has
+12 with the company maintaining our elevator equipment,
+_ 13 this should have not happened. Which exactly is the
+14 name of this mechanism, I do not remember at this point.
+15 Q Well, can you tell us, I mean, in your own
+16 words what malfunctioned?
+17 A The elevator ~—
+18 MS. DUTCHER: Objection, asked and answered.
+19 He just explained to you his description of what he
+20 meant by a malfunction.
+21 0) So you don't know what malfunctioned?
+22 MS. DUTCHER: Objection, misstates his
+23 testimony.
+24 THE WITNESS: Please refer to the expert's
+25 opinion.
+@ ESQUIRE art Dat Cora
+
+===== PAGE 036 / 90 =====
+NIKODEM PIKOR July 15, 2021
+AOAO MARINE SURF WAIKIKI V. NIKODEM PIKOR 34
+7 1 Q (By Mr. Horio) So do you know what
+2 malfunctioned?
+3 A Please refer to the expert's opinion.
+4 Q You don't know?
+5 A Please refer to the expert's opinion and stop
+6 asking the same question five times in a row.
+7 ce] Which expert opinion are you referring to?
+8 A It's part of the case.
+9 Q Why don't we go to -- this is going to be
+10 Exhibit 3.
+11 (Exhibit No. 3 was marked for
+12 identification.)
+, 13 Q I'm giving you an e-mail that's been marked as
+, 14 Exhibit 3 to your deposition.
+15 At the top of the first page you'll see it's
+16 dated Wednesday, August 22nd, 2018. And that appears to
+17 be an e-mail from Jared Okamura to you, correct?
+18 A It appears to be so, correct.
+19 Q Tf you flip over to the third page. This
+20 entire document is an e-mail string. So on the third
+21 page toward the bottom, on the bottom right-hand corner,
+22 you'll see that it says page 3 of 12, correct?
+23 A I see that, correct.
+24 Q Do you know if we've been provided with the
+25 other nine pages of this e-mail?
+Z ESQUIRE 800.211.DEPO (3376)
+Deposition sovurions EsquireSolutions.com
+
+===== PAGE 037 / 90 =====
+NIKODEM PIKOR July 15, 2021
+AOAO MARINE SURF WAIKIKI V. NIKODEM PIKOR 35
+1 A Sorry?
+2 Q Do you know if we've been provided with the
+3 other nine pages of this e-mail?
+4 A I still don't understand the question.
+5 Rephrase, please.
+6 Q We were provided this document in connection
+7 with a request for production of documents. Do you see
+8 the Bates Stamp number on the bottom PIKOR and the number
+9 000271 on the third page?
+10 A Uh-huh.
+il Q But the page number indicates that there would
+12 be nine other pages in this e-mail string, correct?
+13 A That's an assumption, but --
+14 Q Were there any other pages?
+15 A I do not remember.
+16 Q And do you know why we weren't provided with
+17 the additional pages?
+18 A No, I don't.
+19 9 Will you be providing the additional pages?
+20 A I don't know. Will you be requesting
+21 additional pages?
+22 Q We made a document request, so I'm assuming
+23 that --
+24 MS. DUTCHER: I'll take a look at why it's not
+25 the full one.
+BZ ESQUIRE 800.21 1.DEPO (3376)
+Deposition soLUTIONS EsquireSolutions.com
+
+===== PAGE 038 / 90 =====
+NIKODEM PIKOR July 15, 2021
+AOAO MARINE SURF WAIKIKI V. NIKODEM PIKOR 36
+1 MR. HORIO: Okay.
+2 MS. DUTCHER: I don't have an answer for you
+3 right now, though.
+4 Q Starting on the third page, the e-mail that
+5 appears on the bottom of that page is dated Monday,
+6 August 20, 2018 from you to an e-mail address that reads
+7 contessa0l@Hawaiiantel.net. Whose e-mail address is
+8 that?
+9 A Jim's.
+10 Q And what is Jim's full name?
+iL A I don't remember.
+12 Q And what does Jim do?
+13 A I believe he's the resident manager of
+14 Contessa Condominium, at 2825 South King Street,
+15 Honolulu, Hawaii, 96826.
+16 Q And Jim forwarded you contact information for
+17 Jared Okamura; is that correct?
+18 A Appears so.
+19 Q If you flip over to the second page of what's
+20 been marked as Exhibit 3, we're going to be on Bates
+21 stamp 000270. That's an e-mail at the bottom of
+22 August 21, 2018, 2:14 a.m. from you to Jared Okamura,
+23 correct?
+24 A Uh-huh. Correct.
+25 Q And what was the purpose of sending that e-mail
+@ ESQUIRE epee Bare or
+
+===== PAGE 039 / 90 =====
+NIKODEM PIKOR July 15, 2021
+AOAO MARINE SURF WAIKIKI V. NIKODEM PIKOR 37
+1 to Mr. Okamura?
+2 A The purpose is stated clearly in the e-mail.
+3 Q And were you asking Mr. Okamura to provide you
+4 with an opinion?
+5 A One more time.
+6 Q I'm sorry?
+7 A One more time.
+8 Q Were you asking Mr. Okamura to provide you with
+9 an opinion?
+10 A According to the way it's worded in the
+11 e-mail, I was looking for an objective independent
+12 assessment of the CCTV footage. I was also looking to
+» 13 have certain questions answered.
+14 Q And who is Jared Okamura?
+15 A I don't know. Was just someone that was
+16 recommended by Jim.
+17 Q What does Jared Okamura do?
+18 A I don't know. But apparently he's --
+19 according to the signature line in his e-mail, he's
+20 involved with Innovative Elevator Consulting,
+21 Incorporated.
+22 Q Do you know who else he works with?
+23 A No.
+24 Q Do you know if he's ever worked for
+25 Thyssenkrupp?
+@ ESQUIRE agri eere cera
+
+===== PAGE 040 / 90 =====
+NIKODEM PIKOR July 15, 2021
+AOAO MARINE SURF WAIKIKI V. NIKODEM PIKOR 38
+1 A I wouldn't know.
+2 Q Do you know if he's ever worked for Otis?
+3 A I wouldn't know.
+4 Q Did you retain Mr. Okamura's services?
+5 A No, I have not.
+6 Q And why not?
+7 A He raised my -- he raised my doubts about his
+8 objectivity and independence of the opinion.
+9 Q What doubts about -- let's start with
+10 objectivity. What doubts are you referring to?
+11 A Just my intuition. After receiving his
+12 response, his response appeared to me to be not fully
+13 unbiased. And the language that he used in his opinion
+_ 14 raised multiple red flags about his professionalism and
+15 his independence.
+16 Q What language are you referring to?
+17 A Words such as “inopportune location."
+18 Q Are you referring to language in that e-mail?
+19 A Yes.
+20 Q Are we talking about Mr. Okamura's response
+21 that starts at the bottom of the first page with the
+22 e-mail dated August 21, 2018 at 11:30 a.m.?
+23 A Uh-huh.
+24 Q And continues onto the second page?
+25 A Correct.
+BZ ESQUIRE 800.211.DEPO (3376)
+DEvosiTion $oLuTIONs EsquireSolutions.com
+
+===== PAGE 041 / 90 =====
+NIKODEM PIKOR July 15, 2021
+AOAO MARINE SURF WAIKIKI V. NIKODEM PIKOR 39
+1 Q And what about inopportune is -- do you
+2 disagree with?
+3 A I told you, I'm not an expert but my intuition
+4 just immediately red flag this approach.
+5 ie) When you say you're not an expert, you mean
+6 you're not an expert with respect to elevator operation,
+7 maintenance or otherwise?
+8 A Correct.
+9 Q So other than the word 'inopportune' in that
+10 e-mail, what other language do you have issues with?
+11 A TI would have to go through this. This was
+12 from three years ago and I would -- I could only
+13 speculate about what made me make a decision that I do
+14 not want to ~- what is the expression? Hire or --
+15 Q Okay. Let's go through his e-mail then. After
+16 the first sentence that says, "Thank you for contacting
+17 me regarding your recent incident," Mr. Okamura states,
+18 "After reviewing the video, although your actions were
+19 not malicious, the fact is your storage containers were
+20 placed in a very inopportune location which caused the
+21 outer elevator doors (hoistway doors) to hit them,
+22 causing the doors to uncouple from the inner doors (car
+23 doors)."
+24 So what about that do you disagree with or
+25 have an issue with?
+@ ESQUIRE soa pare ara
+
+===== PAGE 042 / 90 =====
+NIKODEM PIKOR July 15, 2021
+AOAO MARINE SURF WAIKIKI V. NIKODEM PIKOR 40
+1 A I didn't say that I had an issue with this
+2 part or this portion. And also, we're talking about my
+3 perception from three years ago.
+4 At this point, I could only speculate. And I
+5 don't see a reason to go into it. But I'll answer any
+6 question that you have that I can answer. You are
+7 asking what problem I had with the portion that you just
+8 cited?
+9 Right now, my intuition was -- already, but
+10 I'm not going to go into details about it. [It's just
+11 intuition. It's a gut feeling. It's the way it's being
+12 phrased. It's from syntax, grammar, everything,
+13 suspicious.
+14 But that's more of a gut feeling that I'm
+15 having, not an expert.
+16 re] Well, with the sentence I just read, is there
+17 anything that's inaccurate?
+18 A Accurate or inaccurate is not the proper way
+19 to look at it. It's more of a -- yeah. So --
+20 Q So you can't say if there's anything inaccurate
+21 about that sentence?
+22 A I don't think there is.
+23 MS. DUTCHER: I would just object to the form
+24 of the question.
+25 THE WITNESS: Yeah.
+@ ESQUIRE ea eer Core
+
+===== PAGE 043 / 90 =====
+NIKODEM PIKOR July 15, 2021
+AOAO MARINE SURF WAIKIKI V. NIKODEM PIKOR 41
+1 Q You can answer.
+2 MS. DUTCHER: If you can, go ahead. If you
+3 understand it.
+4 THE WITNESS: What's inaccurate? What's
+5 inaccurate is using a past verb such as caused, you know
+6 causation -- correlation, causation, logical fallacies.
+7 One verb being misused or not used precisely enough can
+8 change perception of what is the correlation and
+9 causation. And causation sometimes be implied into --
+10 into -- when something contributes and somebody says
+11 it's caused, this can be perceived as the sole reason
+12 instead of just a contributing factor.
+: 13 So what's inaccurate about this e-mail is the
+14 selection or the choice of verb "cause." In my -~
+15 again, this is just me.
+16 I'm not a native speaker of this beautiful
+17 tongue and so this is my -- my linguistic intuition that
+18 is immediately triggered and red flags this paragraph.
+19 Q (By Mr. Horio) Did the elevator doors hit the
+20 plastic bins?
+21 MS. DUICHER: Are we referring to the incident
+22 again?
+23 MR. HORIO: Yes.
+24 THE WITNESS: 5are we going back to --
+25 Q Yes. Yes. Did the elevator doors --
+ZB ESQUIRE 800.211.DEPO (3376)
+DEPosiTiON SOLUTIONS EsquireSolutions.com
+
+===== PAGE 044 / 90 =====
+NIKODEM PIKOR July 15, 2021
+AOAO MARINE SURF WAIKIKI V. NIKODEM PIKOR 42
+1 A Are you asking the exact same question that
+2 you already asked me before?
+3 Q No. You're raising a question about the use of
+4 the word cause. So I just want to make sure that nothing
+5 is inaccurate about that sentence. The sentence says the
+6 storage containers were placed in an inopportune location
+7 and the elevator doors hit them. That's correct, isn't
+8 it?
+9 MS. DUTCHER: Objection, asked and answered.
+10 Q (By Mr. Horio) You can answer.
+11 MS. DUTCHER: He's already answered the
+12 question.
+eo 3 MR. HORIO: I understand. He can answer.
+14 It's in another context.
+15 MS. DUTCHER: Can you repeat the question?
+16 Can you reread the question, please?
+17 MR. HORIO: Well, we can move on.
+18 Q Do you have any -~ with regard to the sentence
+19 we're still looking at.
+20 A Can you repeat the question?
+21 MS. DUTCHER: He's stricken the question, so
+22 now he's moving on to a new question.
+23 THE WITNESS: Okay.
+24 Q (By Mr. Horio) Do you have any facts to suggest
+25 that that sentence is not accurate?
+@ ESQUIRE ear pero Gr
+
+===== PAGE 045 / 90 =====
+NIKODEM PIKOR July 15, 2021
+AOAO MARINE SURF WAIKIKI V. NIKODEM PIKOR 43
+1 A I don't understand the question.
+2 Q Do you have any facts --
+3 A I don't understand the question.
+4 MS. DUTCHER: Are you referring to a specific
+5 part of the sentence?
+6 MR. HORIO: All of it.
+7 Q (By Mr. Horio) Mr. Okamura says, "Although your
+8 actions were not malicious, the fact that your storage
+9 containers were placed in a very inopportune location."
+10 To be correct, you placed the containers there, correct?
+iL A Yes. I placed the containers there.
+12 ce] And the elevator doors came into contact with
+: 13 the bins, correct?
+14 A I believe so.
+15 Q After the elevator doors came into contact with
+16 the bins, the -- you used the proper terminology, I
+17 guess, the doors uncoupled, correct?
+18 A I believe so, yeah. I think. I don't know.
+19 Q Moving on to the next sentence. "There is a
+20 clutch which couples the inner and outer doors to make
+21 them operate in sync." Is there anything that is
+22 inaccurate about that sentence?
+23 A How could I know what's -- I'm not a
+24 technician. I don't know how the elevator is built.
+25 How could I answer your question?
+BZ ESQUIRE 800.211.DEPO (3376)
+Of FosiriON SoLUTIONS EsquireSolutions.com
+
+===== PAGE 046 / 90 =====
+NIKODEM PIKOR July 15, 2021
+AOAO MARINE SURF WAIKIKI V. NIKODEM PIKOR 44
+1 Q You don't know how it's built, correct? You
+2 don't know how it operates, correct?
+3 A Are you asking me right now or three years ago
+4 when I was first received it? Are we speculating about
+5 what I could have known three years ago or are we -~- are
+6 you asking me what is the level of my knowledge of how
+7 they're built right now?
+8 Q Let's start with three years ago.
+9 A Uh-huh.
+10 Qo How about then?
+41 MS. DUTCHER: What's the question?
+12 Q The sentence states, "There is a clutch which
+: 13 couples the inner and outer doors to make them operate in
+14 sync." Back when you received this e-mail, was there
+15 anything that's inaccurate about that sentence?
+16 MS. DUTCHER: Objection, asked and answered.
+17 He's already testified he's not an expert and he does
+18 not know how elevators are built.
+19 Q You can answer.
+20 A No, thank you, I'll pass.
+21 MS. DUTCHER: He's already answered the
+22 question.
+23 MR. HORIO: Is his answer going to be -- you
+24 know, I can't ask you questions. I understand your
+25 objection.
+Z ESQUIRE 800.211.DEPO (3376)
+otrosirion sovuTions EsquireSolutions.com
+
+===== PAGE 047 / 90 =====
+NIKODEM PIKOR July 15, 2021
+AOAO MARINE SURF WAIKIKI V. NIKODEM PIKOR 45
+1 But I'm asking him particular questions about
+2 particular things related to the elevator. And he needs
+3 to respond and say he doesn't know to each one.
+4 MS. DUTCHER: Well, he did respond as to that
+5 sentence when you asked him --
+6 MR. HORIO: I just asked that sentence -- how
+7 could he --
+8 MS. DUTCHER: Earlier, you asked him whether
+9 that sentence was accurate or not. And he testified
+10 that he can't not answer that question because he's not
+11 an expert. That is his answer.
+12 MR. HORTO: Yeah, he answered that he can't
+13 answer it, and he doesn't know if we're talking about
+14 back then or we're talking about now. So now I'm
+15 clarifying.
+16 Q (By Mr. Horio) Back then, your answer would
+17 be —-- if we're talking about back then, what would your
+18 answer be about whether or not that statement is
+19 accurate?
+20 A Please repeat the question.
+21 Q The sentence says, "There is a clutch which
+22 couples the inner and outer doors to make them operate in
+23 sync."
+24 Back when you received this e-mail, was there
+25 anything that you understood to be inaccurate about that
+Z ESQUIRE 800.211.DEPO (3376}
+DEPOSITION SOLUTIONS EsquireSolutions.com
+
+===== PAGE 048 / 90 =====
+NIKODEM PIKOR duly 15, 2021
+AOAO MARINE SURF WAIKIKI V. NIKODEM PIKOR 46
+1 sentence?
+2 A I don't know. I don't remember.
+3 Q You don't know and you don't remember?
+4 A I don't remember the state of my mind three
+5 years ago.
+6 Q How about now?
+7 A How about now what?
+8 Q Is there anything inaccurate about that
+9 sentence?
+10 A I don't know. I'm not an expert.
+11 Q Okay. Moving on to the next sentence. "Once
+12 the outer doors were uncoupled, the doors will then be
+; 13 knocked off track and will require a technician to get
+14 them back on track and related again." So back when you
+15 received this e-mail, was there anything you understood
+16 about this sentence to be inaccurate?
+17 A I don't remember.
+18 Q You don't remember?
+19 A I don't remember what I -- how I perceived
+20 this e-mail three years ago. And I will not speculate
+21 on that subject.
+22 Q How about now?
+23 A How about now what?
+24 Q How about now?
+25 A How about now what?
+@ ESQUIRE paz pare or
+
+===== PAGE 049 / 90 =====
+NIKODEM PIKOR July 15, 2021
+AOAO MARINE SURF WAIKIKI V. NIKODEM PIKOR 47
+1 Q Is there anything inaccurate about that
+2 sentence?
+3 A I don't know. I'm not an expert.
+4 Q Moving on to the next paragraph. It states --
+5 A It will be the same answer. The answer
+6 applies to every single sentence and every paragraph in
+7 this entire e-mail.
+8 Q What answer?
+9 A The answer that I am not an expert on the
+10 subject of elevators, so I don't know it's correct or
+11 not. And the answer three years ago when I first read
+12 this e-mail, I don't remember how I perceived it and my
+13 state of mind.
+14 Q So moving down to your August 21 e-mail below
+15 that where you write, “Aloha, Jared." How is it that
+16 you're claiming that the equipment failed?
+17 MS. DUTCHER: Objection, misstates the e-mail.
+18 Q In paragraph No. 1, the second sentence, you
+19 state, "Is it ever acceptable for the equipment to fail
+20 in such a way?"
+21 MS. DUTCHER: And what's your question?
+22 Q (By Mr. Horio) How do you know if the equipment
+23 failed?
+24 A Thirty-five years of my experience as a user
+25 of elevators and observer of other people using
+Z ESQUIRE 800.211.DEPO (3376)
+perosirien sotuTions EsquireSolutions.com
+
+===== PAGE 050 / 90 =====
+NIKODEM PIKOR July 15, 2021
+AOAO MARINE SURF WAIKIK! V. NIKODEM PIKOR 48
+1 elevators, this has never happened. Common sense makes
+2 me believe it's not a way that equipment should ever
+3 behave.
+4 Q But you don't know if it failed, correct?
+5 MS. DUTCHER: Objection, misstates his
+6 testimony.
+7 MR. HORIO: I'm asking him a question, if he
+8 knows if it failed.
+9 THE WITNESS: I have high level of confidence
+10 that this constitutes a failure.
+11 Q Based upon what?
+12 A Common sense and 35 years of experience using
+oo 13 elevators and 35 years observing other users operate
+14 such equipment.
+15 9 So, in other words, the elevator didn't operate
+16 in a manner it should have once the bins were contacted
+17 by the door; is that correct?
+18 MS. DUTCHER: Objection, misstates his
+19 testimony.
+20 Q I'm asking a question. You can respond.
+21 MS. DUTCHER: Can you reread the question?
+22 (Whereupon the record was read.)
+23 MS. DUTCHER: Are you asking him to form an
+24 expert opinion?
+25 MR. HORIO: No.
+eZ ESQUIRE 800.211.DEPO (3376)
+otFosinien soLunons EsquireSolutions.com
+
+===== PAGE 051 / 90 =====
+NIKODEM PIKOR July 15, 2021
+AOAO MARINE SURF WAIKIKI V. NIKODEM PIKOR 49
+“ 1 THE WITNESS: Are you asking me my personal
+2 opinion?
+3 Q I'm asking you -- because you're stating that,
+4 "Is it ever acceptable for the equipment to fail in such
+5 a way?" My question is, how do you know that the doors
+6 failed?
+7 A I answered that several times. And I'm going
+8 to lose patience and I'll stop cooperating with this
+9 deposition if you keep wasting people's time and energy
+10 by asking the exact same question for five times or ten
+il times.
+12 Q That statement is not based upon any technical
+13 knowledge of how elevators work, correct?
+14 MS. DUTCHER: Are we referring to his
+15 sentence, is it ever -- his question in the sentence?
+16 MR. HORIO: Yes.
+17 Q Correct?
+18 A Correct what?
+19 Q Your statement, "Is it ever acceptable for the
+20 equipment to fail in such a way," that is not based upon
+21 any expert knowledge or knowledge of how elevators work?
+22 A I am not an expert.
+23 MS. DUTCHER: Well, just --
+24 COURT REPORTER: Wait. Wait. We have to go
+25 one at a time. Okay? So I didn't get the end of the
+@ ESQUIRE erat Dar ero
+
+===== PAGE 052 / 90 =====
+NIKODEM PIKOR July 15, 2021
+AOAO MARINE SURF WAIKIKI V. NIKODEM PIKOR 50
+1 question. Based upon any expert knowledge or knowledge
+2 of how --
+3 MR. HORIO: Of how elevators work.
+4 MS. DUTCHER: Objection, misstates the
+5 document. He's not making a statement. He's -~ the
+6 sentence is in the form of a question.
+7 MR. HORIO: So be it.
+8 THE WITNESS: I am not an expert.
+9 MR. HORIO: So we've been going for about an
+10 hour and 20 minutes. So -- actually longer than that.
+11 We'll go ahead and take a short break. We're off the
+12 record.
+13 (A brief recess was taken.)
+14 MR. HORIO: Back on the record.
+15 Q (By Mr. Horio) So we're back on the record.
+16 We're talking about what's been marked as Exhibit 3,
+17 which is an e-mail chain starting on the first page
+18 August 22nd, 2018. And we were talking about
+19 Mr. Okamura's e-mail that starts at the bottom of page 1
+20 on August 21st and continues onto page 2.
+21 Did you respond to Mr. Okamura's e-mail?
+22 A Which e-mail?
+23 Q Mr. Okamura's e-mail that starts on the bottom
+24 of page 1, August 21st, 2018, at 11:30 a.m.
+25 A The bottom of page 1.
+Z ESQUIRE 800.211.DEPO (3376)
+Deposition sovurions EsquireSolutions.com
+
+===== PAGE 053 / 90 =====
+NIKODEM PIKOR July 15, 2021
+AOAO MARINE SURF WAIKIKI V. NIKODEM PIKOR 51
+1 0) The bottom of the first page.
+2 A The bottom of the first page.
+3 Q Do you see that?
+4 A At 11:30 a.m.
+5 Q Yeah. And then you go onto the second page and
+6 that's the body of his e-mail.
+7 A Uh-huh.
+8 Q Did you respond to that e-mail?
+9 A According to the e-mail chain that is printed
+10 out, I responded on August 22nd, 2018 at 7:55 p.m.
+11 There is a e-mail from nikodempikor@gmail.com. And
+12 apparently I responded with the following e-mail.
+_ 413 "Aloha, Jared. Thank you for your opinion. Could you
+14 please explain what you mean by ‘placed in a very
+15 inopportune location'? My understanding is that sensors
+16 are built into elevators for precisely this reason, to
+17 prevent the doors (inner or outer) from closing on an
+18 obstruction for the safety of the users and the elevator
+19 itself. And the fact that the hoistway doors closed on
+20 the storage containers in their path indicates to me a
+21 flaw or misfunction of this essential fail-safe. Unless
+22 there is some blind spot in the senators (sic) that
+23 elevator users are supposed to be aware of somehow.
+24 Please correct me if there is something that I am
+25 misunderstanding here." Signed, “Thank you, Nikodem
+Z ESQUIRE 800.211.DEPO (3376)
+DérosiTioN sotuTions EsquireSolutions.com
+
+===== PAGE 054 / 90 =====
+NIKODEM PIKOR July 15, 2021
+AOAO MARINE SURF WAIKIKI V. NIKODEM PIKOR 52
+‘ 1 Pikor." Cell number, fax number, e-mail. Does that
+2 answer a question?
+3 Q Your -- the second paragraph in your e-mail to
+4 Mr. Okamura, which starts off, "My understanding is that
+5 sensors are built into elevators for precisely this
+6 reason," what do you base that understanding on?
+7 A Are you asking me what was the state of my
+8 mind three years ago when I was writing that e-mail?
+9 Q Let's start with three years ago when you were
+10 writing this e-mail.
+11 A I'm not sure if I wrote that e-mail myself.
+12 Q I'm sorry, you did not write this e-mail?
+13 A No, I ~— I believe somebody was helping me to
+14 phrase this e-mail properly. I don't remember who that
+15 was, but --
+16 Q Was it an attorney?
+17 A I think it was not an attorney. I think it
+18 was just someone who had better command of the English
+19 language than I do.
+20 Q Did that person have any knowledge of how
+21 elevators work?
+22 A I believe that person had a superior knowledge
+23 of how English syntax works.
+24 Q Did that person have any knowledge of how
+25 elevators work or are maintained?
+Z ESQUIRE 800.211.DEPO (3376)
+Depositiow SOLUTIONS EsquireSolutions.com
+
+===== PAGE 055 / 90 =====
+NIKODEM PIKOR July 15, 2021
+AOAO MARINE SURF WAIKIKI V. NIKODEM PIKOR 53
+1 A I would not be able to answer this question
+2 because I don't know the extent of that person's
+3 knowledge about elevators.
+4 Q Who was the person that was assisting you?
+5 MS. DUTCHER: Objection, asked and answered.
+6 MR. HORTIO: I didn't ask that question yet.
+7 THE WITNESS: I can't be hundred percent sure,
+8 but there's a number of people that I go to for
+9 counsel -- that I seek counsel when I want to phrase my
+10 e-mails properly and precisely.
+di Q Who are those people?
+12 A There is a number of them.
+13 Q Well, let's start with the first one. Could
+14 you provide a name?
+15 A Yeah, the one whose linguistic abilities I
+16 trust the most and whose counsel I seek frequently in
+17 occasions like this, it would be Ron Bronstein.
+18 Q And anybody else beyond Ron Bronstein?
+19 A Yes, a good number of people occasionally
+20 consult me on how to -- how to express myself in English
+21 properly.
+22 Q And who else would it be besides Ron Bronstein?
+23 A There's going to be like 50 names. I would
+24 have to go from my cellphone, if you find this relevant,
+25 which I highly doubt.
+2 ESQUIRE sean bere (era
+
+===== PAGE 056 / 90 =====
+NIKODEM PIKOR July 15, 2021
+AOAO MARINE SURF WAIKIKI V. NIKODEM PIKOR 54
+1 Q So you don't know who assisted you in writing
+2 this e-mail?
+3 A I can't be hundred percent sure, but with
+4 certain degree of certainty, I think Ron helped me
+5 formulate that e-mail correct.
+6 Q So when you wrote this e-mail, you weren't
+7 aware of any flaw or misfunction?
+8 MS. DUTCHER: Objection, misstates his
+9 testimony.
+10 Q You can answer.
+11 A When I --
+12 (0) When you wrote this e-mail with the help of
+; 13 some unknown individual, were you aware of the flaw or
+, 14 misfunction that you referred to in the second paragraph?
+15 MS. DUTCHER: Objection. The second paragraph
+16 does not include the word "flaw."
+17 THE WITNESS: Actually, I believe it does.
+18 (indicating).
+19 MS. DUTCHER: Oh, a flaw or malfunction.
+20 THE WITNESS: So what was the question again?
+21 Q Were you aware of the flaw or misfunction that
+22 is referenced there?
+23 A Was I aware of one? JI had -- I don't know if
+24 Iwas aware, But I think at this point, I had strong
+25 suspicion that a flaw or misfunction of this essential
+BZ ESQUIRE 800.211.DEPO (3376)
+otbosiriow sotutioNns EsquireSolutions.com
+
+===== PAGE 057 / 90 =====
+NIKODEM PIKOR July 15, 2021
+AOAO MARINE SURF WAIKIKI V. NIKODEM PIKOR 55
+1 fail-safe has been indicated by the behavior of the
+2 equipment. That's according to the -~ I'm just reading
+3 what I wrote.
+4 Q All right. But you said somebody else wrote
+5 this.
+6 A Well, somebody helped me write it.
+7 Q Okay. Did you mean to say what's in the
+8 e-mail?
+9 A Did I mean to say what's in the e-mail?
+10 re) Yes.
+41 A Which part?
+12 ie) All of it.
+: 13 A I usually mean to say what I write, but
+14 sometimes I don't. But on this occasion, I believe
+15 three years ago I meant to write exactly what's written.
+16 Q Did you have a telephone conversation with
+17 Jared Okamura at any time?
+18 A I do not -- I do not believe I had. I believe
+19 that our communication was limited to the e-mails that
+20 are attached here.
+21 ie) And that potentially -- strike that.
+22 Your response to Mr. Okamura did not include
+23 an objection to his e-mail, did it?
+24 A Excuse me?
+25 Q Did your response to Mr. Okamura's e-mail
+eZ ESQUIRE 800.211.DEPO (3376)
+DEFosiTION SOLUTIONS EsquireSolutions.com
+
+===== PAGE 058 / 90 =====
+NIKODEM PIKOR July 15, 2021
+AOAO MARINE SURF WAIKIKI V. NIKODEM PIKOR 56
+1 include an objection to his e-mail?
+2 A Please define objection.
+3 Q Did you object to anything --
+4 A Please define objection.
+5 Q Did you disagree with anything that Mr. Okamura
+6 stated in his e-mail?
+7 A I believe that the way I phrased the entire
+8 e-mail from August 22nd, 7:55 p.m, indicates that I have
+9 not agreed with his approach, yes.
+10 Q In that e-mail, does it state anywhere that you
+11 disagree?
+12 MS. DUTCHER: Objection, the e-mail speaks for
+. 13 itself.
+14 Q You can answer.
+15 A Yes, I believe that the entirety of an e-mail
+16 as interpreted within the context of the communication
+17 happening, is indicatory of me not agreeing or doubting
+18 what was presented in the prior e-mail, yes.
+19 Qo In that e-mail, do you say the specific words
+20 that you disagree with his e-mail?
+21 A Do I say the specific words? You are asking
+22 | me if I use the words? You have the e-mail printed in
+23 front of you so you know exactly what words are used.
+24 Would you like me to now scan that e-mail for that exact
+25 word?
+ZA ESQUIRE 800.211.DEPO (3376)
+DeFOSiTION SOLUTIONS EsquireSolutions.com
+
+===== PAGE 059 / 90 =====
+NIKODEM PIKOR July 15, 2021
+AOAO MARINE SURF WAIKIKI V. NIKODEM PIKOR 57
+a Q Yes.
+2 A Are you ask —- okay.
+3 MS. DUTCHER: I would -- just let me object.
+4 Let me put on objection on the record. I would object
+5 to your question as being harassing. The e-mail speaks
+6 for itself. The words are printed in the e-mail.
+7 Q You can answer.
+8 A So let's inspect the e-mail for the presence
+9 of this exact word if you are asking if it’s there or
+10 not. What was that exact word, do you remember?
+11 Q I can ask it --
+12 A Do you remember what exact word is present ~-
+‘ 13 0 I can just ask you. You didn't write in that
+14 e-mail that you disagreed with Mr. Okamura's e-mail.
+15 A That entire e-mail is a disagreement when
+16 interpreted in its entirety of the context of the
+17 communication happening.
+18 Q Above that e-mail on August 22nd, 2018 at
+19 9:53 p.m., Mr. Okamura writes back to you. "Hi." And
+20 the first paragraph says, "I just mean that the placement
+21 of the storage containers came into direct contact with
+22 the outside doors, causing it to become uncoupled from
+23 the inner doors." Did you respond to Mr. Okamura's
+24 August 22nd, 2018 e-mail at 9:53 p.m.? The e-mail that
+25 he sent, did you respond to that?
+Z ESQUIRE 800.211.DEPO (3376)
+DEFOSITION SOLUTIONS EsquireSolutions.com
+
+===== PAGE 060 / 90 =====
+NIKODEM PIKOR July 15, 2021
+AOAO MARINE SURF WAIKIKI V. NIKODEM PIKOR 58
+1 A Are you referring to the e-mail that you just
+2 started reading?
+3 Q Yes.
+4 A The one from August 22nd —-
+5 Q Yes.
+6 A -- 2018 at 9:53 p.m.? I believe -- I don't
+7 think I responded to it. If I responded to it, it would
+8 be probably attached to this communication printout. I
+9 don't remember responding. JI don't remember any other
+10 communication happening besides what's presented here.
+il ie) So you didn't reply to Mr. Okamura --
+12 A I don't -- I responded already.
+13 COURT REPORTER: Excuse me. You have to wait
+14 until he finishes his question.
+15 THE WITNESS: Yes. Apologies.
+16 Q (By Mr. Horio) You didn't reply to Mr. Okamura,
+17 correct?
+18 MS. DUTCHER: Objection, asked and answered.
+19 THE WITNESS: For the third time, I repeat
+20 that I do not remember answering to that e-mail or
+21 having any other communication. I do not remember. I
+22 do not state with a hundred percent certainty. I say
+23 that I have no recollection of any other communication
+24 happening between me and Jared Okamura.
+25 You can ask it in ten different ways and you
+ZA ESQUIRE 800.211.DEPO (3376)
+DEPOSITION soLuTiONS EsquireSolutions.com
+
+===== PAGE 061 / 90 =====
+NIKODEM PIKOR duly 15, 2021
+AOAO MARINE SURF WAIKIKI V. NIKODEM PIKOR 59
+1 will always hear the same answer. I do not remember
+2 anything that's presented here.
+3 Q Do you disagree with anything that Mr. Okamura
+4 said in that first paragraph?
+5 A That first paragraph is actually a grammatical
+6 error. It's a nonsense statement. So if you're asking
+7 me if I can agree with something that's illogically-
+8 phrased sentence, I would have a hard time responding
+9 "yes" or "no." Would you like me to take apart and
+10 explain why this is illogical or wrong sentence without
+11 proper grammar?
+12 Q Do you disagree that the storage containers
+. 13 came into direct contact with the outside doors?
+14 MS. DUTCHER: Objection, asked and answered.
+15 This is going on multiple times to the same question.
+16 Q You can answer.
+17 A Please repeat the question.
+18 Qo Part of Mr. Okamura's first paragraph in that
+19 e-mail states, "The storage containers came into direct
+20 contact with the outside doors." Do you disagree with
+21 that?
+22 A Do I disagree with the fact that the storage
+23 containers came into direct contact with the outside
+24 doors?
+25 Q Yes.
+2 ESQUIRE att pate Gora
+
+===== PAGE 062 / 90 =====
+NiKODEM PIKOR July 15, 2021
+AOAO MARINE SURF WAIKIKI V. NIKODEM PIKOR 60
+1 A I disagree with the syntax used in that
+2 phrase, in that portion of a sentence because this makes
+3 the storage containers agents of the action. The
+4 storage containers did not come. They were not moving.
+5 They were stationary. If anything came into contact
+6 with the outside doors with my containers, it’s rather
+7 relevant when we're talking about the moving mechanical
+8 object to be precise, especially when you are citing a
+9 portion of a sentence and make it appear as if the
+10 storage containers were the agents of the action
+11 happening. So have I answered your question at this
+12 point, or not yet?
+: 13 Q No, because I didn't ask you about the syntax
+14 of that sentence.
+15 A Well, but I'm questioning the way you are
+16 picking portions of the sentence.
+17 MR. HORIO: Can we take a break for a second?
+18 MS. DUTCHER: Off the record?
+19 MR. HORIO: Off the record, yeah.
+20 MS. DUTCHER: Okay.
+21 (Discussion held off the record.)
+22 MR. HORIO: Back on the record.
+23 Q (By Mr. Horio) The second paragraph of
+24 Mr. Okamura's e-mail at the top of page 1 of Exhibit 3
+25 says, “The door sensors you refer to are mounted on the
+@ ESQUIRE et ore ors
+
+===== PAGE 063 / 90 =====
+NIKODEM PIKOR July 15, 2021
+AOAO MARINE SURF WAIKIKI V. NIKODEM PIKOR 61
+7 1 inside doors (car doors)."
+2 A You are misreading the paragraph.
+3 Q Let me repeat. The second paragraph starts off
+4 by saying, "The door sensors you refer to are mounted on
+5 the inside of the inside doors (car doors) ."
+6 A Now it's correct.
+7 Q Do you disagree with that statement?
+8 A I could not agree or disagree. I'm not an
+9 expert. And again, are you asking me of what was my
+10 perception three years ago or now? Do you ask me if I
+11 agree that there are such sensors mounted? What is the
+12 question?
+13 Q So the sentence goes on to say, “So it would
+14 not be able to pick up the obstruction caused by your
+15 containers to the outer doors." Do you agree with that
+16 statement?
+17 A I cannot agree or disagree with statements
+18 that refer to the tech ~- to the build and the
+19 functioning of the elevators or other sophisticated
+20 mechanical equipment that I'm not an expert on.
+21 I cannot agree or disagree. It's a statement
+22 expressed by Mr. Jared that I have no opinion on. How
+23 could 1?
+24 Q And will you be calling Mr. Okamura to testify
+25 on your behalf at trial?
+2 ESQUIRE 800.211.DEPO (3376)
+perosiriow sovurions EsquireSolutions.com
+
+===== PAGE 064 / 90 =====
+NIKODEM PIKOR July 15, 2021
+AOAO MARINE SURF WAIKIKI V. NIKODEM PIKOR 62
+‘ 1 MS. DUTCHER: Objection, calls for
+2 attorney/client privileged communication. I instruct
+3 you not to answer that question.
+4 Q Is Mr. Okamura going to be listed as a witness
+5 on a witness list?
+6 MS. DUTCHER: Objection. I'll instruct you
+7 not to answer that.
+8 MR. HORIO: And your objection is because why?
+9 MS. DUTCHER: That would --
+10 MR. HORIO: Isn't the witness list going to be
+li submitted?
+12 MS. DUTCHER: And when it's submitted, it will
+13 be submitted. At this point in time, he would be
+14 disclosing attorney/client privilege, and so I'm going
+15 to instruct him not to answer that question.
+16 Q I didn't ask him what is being discussed with
+17 his attorneys. I'm just asking him if he's planning on
+18 having Jared Okamura testify on his behalf.
+19 MS. DUTCHER: Well, to the extent he's able to
+20 answer that question, he would have to be disclosing the
+21 substance of his attorney/client communication, which
+22 I've instructed him not to answer.
+23 MR. HORIO: And what part of that is going to
+24 be privileged?
+25 MS. DUTCHER: Say that again.
+@ ESQUIRE or pare
+
+===== PAGE 065 / 90 =====
+NIKODEM PIKOR July 15, 2021
+AOAO MARINE SURF WAIKIKI V. NIKODEM PIKOR 63
+1 MR. HORIO: What part of my question --
+2 MS. DUTCHER: Well, to the extent that he
+3 would have to disclose communications between himself
+4 and me.
+5 MR. HORIO: I'm not asking for any
+6 communications between you two.
+7 MS. DUTCHER: Okay. Well, if -- as long as
+8 you don't disclose any communications that we've had
+9 regarding your case, to the extent there are other --
+10 you're able to answer that question, you can go ahead
+11 and answer.
+12 THE WITNESS: I don't know.
+13 Q (By Mr. Horio) Okay. So let's get back to
+14 Exhibit 1. That's the May 29th letter to you from
+15 Mr. Denison. And I think we talked about the fact that
+16 you received this letter because of the elevator incident
+17 that occurred, correct?
+18 MS. DUTCHER: Objection, calls for
+19 speculation.
+20 Q You can answer.
+21 MS. DUTCHER: If you can answer, go ahead.
+22 THE WITNESS: I don't know.
+23 Q Why did you receive this letter?
+24 A I don't know.
+25 Q What is the letter about?
+ZA ESQUIRE 800.21 1.DEPO (3376)
+ogposirion sovuTiOns EsquireSolutions.com
+
+===== PAGE 066 / 90 =====
+NIKODEM PIKOR July 15, 2021
+AOAO MARINE SURF WAIKIKI V. NIKODEM PIKOR 7 64
+ome 1 A It's about the incident.
+2 Q I'm sorry?
+3 A It's in the letter. Let me see. The letter
+4 dated May 29th, 2018, to Mr. Nikodem Pikor. Address,
+5 2825 South King Street, Apartment 2701, Honolulu,
+6 Hawaii, 96826. Re: Association of Apartment Owners of
+7 Marine Surf Waikiki, Incorporated - Damage to Common
+8 Elements.
+9 "Dear Mr. Pikor: The Marine Surf Bylaws
+10 provide that owners are responsible for reimbursing the
+i1 Association for any damages to the common elements
+12 caused by them. See Bylaws, Article VI, Section 2,
+/ 13 paragraph C, citing: ‘Every apartment owner shall
+14 reimburse the Association for any expenditures incurred
+15 in repairing or replacing any common elements or
+16 furniture, furnishings and equipment thereof damaged or
+17 lost through the fault of such apartment owner or any
+18 person using the project under him and shall give prompt
+19 notice to the Managing Agent of any such damage, loss or
+20 other defect when discovered.’ The Marine Surf House
+21 Rules contain the same language."
+22 "On May 9, 2018, the Marine Surf's No. 1
+23 elevator was found with the exterior doors off their
+24 tracks in the basement. The enclosed invoice No.
+25 5000875502, from Thyssenkrupp Elevator Corporation in
+Z ESQUIRE 800.211.DEPO (3376)
+OFF OsiTION SOLUTIONS EsquireSolutions.com
+
+===== PAGE 067 / 90 =====
+NIKODEM PIKOR July 15, 2021
+AOAO MARINE SURF WAIKIKI V. NIKODEM PIKOR 65
+1 the amount of $2,260.15 is for repairing the doors and
+2 restoring the elevator to service. A copy of the
+3 invoice is enclosed."
+4 "Our review of the Marine Surf's surveillance
+5 camera video recordings show that the damage was clearly
+6 caused by you on May 9, 2018, at 3:11 p.m., as you were
+7 moving seven large plastic storage containers off the
+8 elevator in the basement."
+9 "Please remit your reimbursement of $2,260.15
+10 to the Association within 30 days hereof. Your check
+11 should be payable to 'AOAO Marine Surf Waikiki,
+12 Incorporated.’ If payment is not received within this
+/ 13 time, this charge may be referred to legal counsel for
+14 collection.”
+15 "Very truly yours, W.E. Denison Corporation,
+16 Managing Agent for AOAO Marine Surf Waikiki,
+17 Incorporated."
+18 Signed "William E. Denison, President."
+19 Should I continue with the enclosed documents
+20 to answer your question about what this letter was in
+21 regards to, or is this sufficiently answering your
+22 question, "What is this letter in regards to?"
+23 Q Do you disagree with anything in paragraph one
+24 of that letter?
+25 A Yes, I disagree with multiple statements in
+Z ESQUIRE 800.211.DEPO (3376)
+oerosition soLuTIONS EsquireSolutions.com
+
+===== PAGE 068 / 90 =====
+NIKODEM PIKOR July 15, 2021
+AOAO MARINE SURF WAIKIKI V. NIKODEM PIKOR 66
+1 Paragraph 1.
+2 Q Well, what would be the first statement that
+3 you disagree with?
+4 A The first statement or the one that I disagree
+5 mostly with is assignment of fault, that bylaws provide
+6 that reimbursement shall occur when fault happens. And
+7 I don't believe I am -- there is fault in my case.
+8 Q Why don't you believe that there is fault as
+9 you state?
+10 A I -- because fault cannot occur when equipment
+1i is being used in a proper way. When any common element
+12 is used exactly the way it's supposed to be, and there
+: 13 is no misuse, negligence, malice, or any other such
+14 action, a fault does not occur.
+15 If equipment does not function according to
+16 the specifications and fails when it's being utilized as
+17 it's supposed to be utilized, a fault does not happen.
+18 Q How did the elevator not function in accordance
+19 with its specifications?
+20 A Sorry?
+21 Q I'm asking you how the elevator did not
+22 function in accordance with its specifications. You used
+23 the term "specifications."
+24 A Well, the video shows equipment failing when
+25 it's being used in a proper way without malice, neglect,
+@ ESQUIRE ear pare er
+
+===== PAGE 069 / 90 =====
+NIKODEM PIKOR July 15, 2021
+AOAO MARINE SURF WAIKIKI V. NIKODEM PIKOR 67
+: 1 misuse. This is not the way elevator doors are supposed
+2 to operate. This is not what's supposed to happen.
+3 Q How do you know that?
+4 A Thirty-five years of experience, common sense.
+5 0] You regularly, over your 35-year period, have
+6 placed items in between the doors of elevators?
+7 A Hundreds and thousands of times in my life, I
+8 witness objects obstruct the pathway of elevator doors.
+9 I have seen older people become such
+10 obstruction. I've seen children -- I've seen children
+11 in carts become such obstructions. I've seen a variety
+12 of objects become such obstruction in the way -- in the
+: 13 pathway of the moving doors.
+14 I have never once in my life seen doors of any
+15 elevator react in this manner.
+16 Q And of all of those times that you've seen
+17 those incidents occur, where did they occur?
+18 A Please be more specific.
+19 Qo What elevators?
+20 A Hundreds or thousands of different elevators
+21 across five continents.
+22 Q Were any of them the Marine Surf elevator?
+23 A In Marine Surf, over the 10 years that I've
+24 been the owner -- nine years owner and five years
+25 occupant of Marine Surf Waikiki, I have watched this
+ZA ESQUIRE 800.211.DEPO (3376)
+Deposition SoLuTIONS EsquireSolutions.com
+
+===== PAGE 070 / 90 =====
+NIKODEM PIKOR duly 15, 2021
+AOAO MARINE SURF WAIKIKI V. NIKODEM PIKOR 68
+; 1 elevator close on hundreds or thousands occasions on a
+2 variety of obstacles.
+3 Some of those obstacles were dynamic. Some of
+4 them were stuck. Some of them were much heavier than
+5 the bins that I was using that day. Some of them were
+6 lighter. Some of them were living creatures. Some of
+7 them were inanimate objects.
+8 Those doors have never once behaved in this
+9 exact or similar nature. That makes me believe that
+10 what happened was a malfunction of the equipment; and,
+11 therefore, no fault shall be assigned to me as a user of
+12 a common element.
+13 This is obvious. It's common sense, epic.
+14 Any rationally-thinking person will always agree and
+15 will always interpret this video footage as immediately
+16 exculpatory evidence for what's happening here. Why
+17 we're having this deposition, why three years later I am
+18 being harassed in the manner I am, we'll find out when
+19 the trial comes.
+20 Q What you stated --
+21 A Compensation.
+22 Q You stated -- again, you used the word
+23 malfunction. What malfunctioned?
+24 MS. DUTCHER: Objection, asked and answered.
+25 Are we still asking the same question?
+Z ESQUIRE 800.211.DEPO (3376)
+pevosiTion soLuTIONS EsquireSolutions.com
+
+===== PAGE 071 / 90 =====
+NIKODEM PIKOR July 15, 2024
+AOAO MARINE SURF WAIKIKI V. NIKODEM P!IKOR 69
+1 MR. HORIO: Yes, because he made that
+2 statement.
+3 Q What actually malfunctioned?
+4 A The elevator malfunctioned.
+5 Q What part of the elevator?
+6 A I don't know which exact part. But it
+7 manifested itself with the hoistway doors decoupling
+8 from the inner doors. What exact element is responsible
+9 for preventing such decouplement, that will be -~- that's
+10 not my line -- my area of expertise.
+11 Q So you don't know what malfunctioned, correct?
+12 MS. DUTCHER: Objection, misstates his
+13 testimony. Asked and answered. At this point, it's
+14 harassing.
+15 Q You can answer.
+16 MS. DUTCHER: No, he's already --
+17 THE WITNESS: You're harassing me.
+18 MS. DUTCHER: Objection.
+19 MR. HORIO: He hasn't stated what specifically
+20 malfunctioned. He says he can't even say he knows what
+21 malfunctioned.
+22 MS. DUTCHER: He's provided his best answer.
+23 Q His best answer, to be correct, is you don't
+24 know what malfunctioned?
+25 MS. DUTCHER: Objection, misstates his
+@ ESQUIRE Sart oe re
+
+===== PAGE 072 / 90 =====
+NIKODEM PIKOR July 15, 2021
+AOAO MARINE SURF WAIKIKI V. NIKODEM PIKOR 70
+: 4 testimony.
+2 Q Do you know what malfunctioned?
+3 MS. DUTCHER: Objection.
+4 THE WITNESS: You are harassing me and please
+5 put this on the record.
+6 MS. DUTCHER: Just let me get my full
+7 objection.
+8 MR. HORIO: Yeah.
+9 MS. DUTCHER: Objection, asked and answered.
+10 Please stop asking the same question.
+11 Q (By Mr. Horio) Okay. Did the outer doors
+12 malfunction? There is no objection. Did the hoistway
+13 doors malfunction?
+14 MS. DUTCHER: Objection, asked and answered.
+15 MR. HORIO: I didn't ask it, though. I asked
+16 him what malfunctioned. Now I'm asking him if knows --
+17 Q Do you know if the hoistway doors
+18 malfunctioned?
+19 A I'm not an expert. And I do not know exactly
+20 which part of the mechanism known as elevator No. 1 at
+21 Marine Surf Waikiki malfunctioned. I know how it
+22 manifested itself. It's clearly presented on the CCIV
+23 footage. What exact element is responsible for
+24 preventing such behavior, I don't know.
+25 Q And moving on to the second paragraph of
+Z ESQUIRE 800.21 1.DEPO (3376)
+oérosition soturrons EsquireSolutions.com
+
+===== PAGE 073 / 90 =====
+NIKODEM PIKOR July 15, 2021
+AOQAO MARINE SURF WAIKIKI V. NIKODEM PIKOR 71
+: 1 Exhibit 1, which starts off, "On May 9, 2018." Do you
+2 disagree with anything in that paragraph?
+3 A Which paragraph?
+4 Q The second paragraph.
+5 A Please read the entire paragraph and I'll tell
+6 you if I agree or disagree.
+7 Q You can read paragraph 2 on your own. It
+8 starts off, "On May 9, 2018."
+9 A Please read it for me. I'm -~ I'm tired of
+10 reading. I already read it once. Now I'd like you to
+11 read it so that I can hear and tell you if I agree or
+12 not.
+13 Q I'm going to ask you to either read it to
+14 yourself or you can read it into the record.
+15 A "On May 9, 2018, the Marine Surf's No. 1
+16 elevator was found with the exterior doors off their
+17 tracks in the basement. The enclosed invoice No. 500 -~
+18 sorry, 5000875502 from Thyssenkrupp Elevator Corporation
+19 in the amount of $2,260.15 is for repairing the doors
+20 and restoring the elevator to service. A copy of the
+21 invoice is enclosed."
+22 Is that the entirety of the paragraph that
+23 you're referring to?
+24 Q Do you disagree with anything in that
+25 paragraph?
+Zz ESQUIRE 800.211.DEPO (3376)
+Deposition SOLUTIONS EsquireSolutions.com
+
+===== PAGE 074 / 90 =====
+NIKODEM PIKOR July 15, 2021
+AOAO MARINE SURF WAIKIKI V. NIKODEM PIKOR 72
+1 A In those four lines, I don't think there's
+2 anything for me to agree or disagree with.
+3 Q So you -- to answer my question, you don't
+4 disagree with anything in that paragraph?
+5 A I --
+6 MS. DUTCHER: Objection.
+7 THE WITNESS: There is nothing to agree or
+8 disagree with.
+i] Qo The third paragraph starts off with, "Our
+10 review of the Marine Surf's surveillance camera video
+11 recordings." Do you disagree with anything in that
+12 paragraph?
+13 A 100 percent.
+14 Q What do you disagree with?
+15 A Entirety of the paragraph.
+16 0) Anything in specific?
+17 A Yes, the causal -- the causation -- the
+18 suggestion of causation.
+19 MR. HORIO: And if we could submit this. It
+20 will be Exhibit No. 4.
+21 (Exhibit No. 4 was marked for
+22 identification.)
+23 Q Okay. So that is an e-mail string that starts
+24 on the first page that's Bates stamped on the bottom
+25 right corner 000250.
+@ ESQUIRE east pero Gere
+
+===== PAGE 075 / 90 =====
+NIKODEM PIKOR July 15, 2021
+AOAO MARINE SURF WAIKIKI V. NIKODEM PIKOR 73
+1 The e-mail on that first page is July 3rd,
+2 2018, at 12:12 a.m. Flip over to the last page, which
+3 is Bates stamped 260 on the bottom right corner. Are
+4 you familiar with that e-mail?
+5 A E-mail from me to Harold Hitchcock and William
+6 Denison dated June 20th, 2018, 8:37 p.m.
+7 Q Yes.
+8 A I don't remember the e-mail but I see the
+9 e-mail.
+10 QO Did you have anybody help you draft that
+11 e-mail?
+12 A I don't remember.
+: 13 Q If you look at the second paragraph of your
+14 e-mail, the second sentence says, “This malfunction could
+15 have happened while anyone before or after me." What
+16 malfunction are you talking about?
+17 MS. DUTCHER: And we're talking about back in
+18 June 20, 2018?
+19 MR. HORIO: Yes. And we're talking about
+20 specifically this e-mail where malfunction is being
+21 referred to.
+22 THE WITNESS: As far as I know, there's been
+23 only one malfunction that this could have been referring
+24 to. And it's the malfunction that occurred during that
+25 incident on May 8.
+BZ ESQUIRE 800.211.DEPO (3376)
+ogrosiion SOLUTIONS EsquireSolutions.com
+
+===== PAGE 076 / 90 =====
+NIKODEM PIKOR July 15, 2021
+AOAO MARINE SURF WAIKIKI V. NIKODEM PIKOR 74
+1 Q May 9?
+2 A Possibly.
+3 6) Would you like to look up the date of the
+4 video?
+5 A Yes, May 9 according to the video.
+6 QO And if you flip back to the page that is Bates
+7 stamped 256 on the bottom corner, you'll see that's an
+8 e-mail from you on July 2nd, 2018 at 7:18 a.m. to William
+9 Denison and Harold Hitchcock. Do you see that?
+10 A I see that.
+11 Q And you state, "Attached is my response to the
+12 payment request. Please read it now instead of waiting
+13 for the next board meeting as some of the issues I bring
+14 up may be time sensitive."
+15 MR. HORIO: This is going to be next,
+16 Exhibit 5.
+17 (Exhibit No. 5 was marked for
+18 identification.)
+19 Q Is that the response? What's been marked as
+20 Exhibit 5, is that the response that you referred to in
+21 your e-mail?
+22 A It's possible.
+23 Q Did you write any other letters in response to
+24 the May 29, 2018 letter from Mr. Denison?
+25 A I believe I wrote more than one letter.
+@ ESQUIRE az pare ors
+
+===== PAGE 077 / 90 =====
+NIKODEM PIKOR July 15, 2021
+AOAO MARINE SURF WAIKIKI V. NIKODEM PIKOR 75
+: 1 Q Well, if you look at the bottom of Exhibit 5,
+2 you'll see a signature. Is that your signature?
+3 A Yes, it is.
+4 Q And you'll see the date June 27, 2018. Do you
+5 see that?
+6 A I see that.
+7 Q Does that refresh your recollection as to
+8 whether or not this is the response that you were
+9 referring to in your e-mail?
+10 A It does not refresh anything.
+1i Q So you have no idea what response you're
+12 referring to in your July 2nd e-mail?
+“13 A I -- what?
+14 Q Do you know what your response is that you're
+15 referring to? Is this Exhibit 5 or is it some other
+16 letter?
+17 A It looks like it might be that it's probably
+18 Exhibit 5, yeah.
+19 Qo Going back to your e-mail on July 2nd, 2018,
+20 you state that as -- "Please read it now instead of
+21 waiting for the next board meeting as some of the issues
+22 I bring up may be time sensitive." What issues were time
+23 sensitive?
+24 A Questioning the invoice or requesting from
+25 Thyssenkrupp Elevator to review their billing --
+@ ESQUIRE waz bere Core
+
+===== PAGE 078 / 90 =====
+NIKODEM PIKOR duly 15, 2021
+AOAO MARINE SURF WAIKIKI V. NIKODEM PIKOR 76
+° 1 classification of the incident and billing.
+2 I don't know exactly what the contract between
+3 the Association and the contractor calls for, but I
+4 thought that there may be some time limitation on
+5 questioning the invoice itself. That's what's time --
+6 what appear to me to be possibly time sensitive.
+7 Q For you to question the invoice is what you're
+8 saying?
+9 I'm not sure I understand what you're saying.
+10 A Who is in the position to question the invoice
+11 from Thyssenkrupp Elevators?
+12 Q I don't know what you're saying, so I'm asking
+. 13 you, are you saying that you were in a position to
+14 question them?
+15 A Have I expressed myself not clearly enough?
+16 MS. DUTCHER: He's just asking you to clarify
+17 your answer so he can understand it.
+18 THE WITNESS: I was under the impression that
+19 it was a erroneous billing and a wrong classification of
+20 the incident. And I was -- I was under the impression
+21 that there may be time limitation for the Board of
+22 Directors or the Managing Agent to question that invoice
+23 and request a clarification or review of it.
+24 Q What was erroneous about the Thyssenkrupp
+25 billing?
+BZ ESQUIRE 800.21 1.DEPO (3376)
+DerosiTiON SotuTIONS EsquireSolutions.com
+
+===== PAGE 079 / 90 =====
+NIKODEM PIKOR July 15, 2021
+AOAO MARINE SURF WAIKIKI V. NIKODEM PIKOR 77
+1 A The misuse -- in my perception back then, and
+2 still now, is the classification of the incident as a
+3 misuse.
+4 Q Was there anything else erroneous about the
+5 billing?
+6 A I couldn't know. But the classification as
+7 misuse was the most important one.
+8 10) Going back to your letter of June 27th, what's
+9 been marked as Exhibit No. 5. The fourth paragraph,
+10 starting off with, "Basement level is a designated
+11 loading area." If you go to the third sentence -- sorry,
+12 the fourth sentence, that starts off with the word
+“ 13 "fact." It says, "Fact that the doors were knocked off
+14 track if under exact circumstances is clearly a defect or
+15 malfunction.*
+16 At the time you wrote that letter, did you
+17 have a basis for claiming that there was a defect or a
+18 malfunction?
+19 A Yes.
+20 Q And what was that basis?
+21 A Thirty-five years of using elevators and
+22 watching thousands -- dozens -- thousands and thousands
+23 of instances how behavior -- how elevators behave when
+24 they are being used and how elevator doors behave when
+25 objects are placed in between them. Common sense.
+Z ESQUIRE 800.211.DEPO (3376)
+Devosition sotuTions EsquireSolutions.com
+
+===== PAGE 080 / 90 =====
+NIKODEM PIKOR July 15, 2021
+AOAO MARINE SURF WAIKIKI V. NIKODEM PIKOR 78
+1 Q After that you write, "It is also a potentially
+2 serious hazard and liability." What was a hazard and
+3 liability?
+4 A If you look at the video, exactly the frame
+5 that the footage is frozen on right now, equipment
+6 exposed parts that are most definitely not supposed to
+7 be within the reach of a user. So me being exposed to
+8 those elements of the equipment most definitely puts my
+9 life and my -~ at risk -- my life, my safety at risk.
+10 And it most definitely constitutes a liability
+11 for whoever is responsible for proper maintenance of
+12 this equipment in our project.
+13 Q How were you exposed to the equipment in that
+14 condition?
+15 A Sorry?
+16 Q How were you exposed to the equipment in that
+17 condition?
+18 A The failure of equipment exposed me to this
+19 condition.
+20 MS. DUTCHER: I'm just going to mark for the
+21 record that the CCTV footage is showing at 2 --
+22 MR. HORTIO: It's 3:12 and 54 seconds.
+23 MS. DUTCHER: Okay. Thank you.
+24 Q So you were exposed to the equipment because
+25 you went to the equipment and started sticking your hand
+Z ESQUIRE 800.211.DEPO (3376)
+DerasitioN SOLUTIONS EsquireSolutions.com
+
+===== PAGE 081 / 90 =====
+NIKODEM PIKOR July 15, 2021
+AOAO MARINE SURF WAIKIKI V. NIKODEM PIKOR 79
+i in the opening?
+2 MS. DUTCHER: Objection, misstates his
+3 testimony.
+4 QO You can answer.
+5 MS. DUTCHER: Can you repeat the question,
+6 please?
+7 Q You were exposed to the equipment because you
+8 went and put your hand in the opening and started pushing
+9 on the door?
+10 A When I mentioned that the elements of the
+11 equipment, they are not supposed to be exposed to the
+12 user, were exposed to me, I am not referring to the
+. 13 moment when I was sticking -- when I was putting my
+, 14 hands inside the jamb of the elevator.
+15 I'm talking about the moment when originally,
+16 the separation of the coupling of the inner and hoistway
+17 doors exposed mechanisms that are not supposed to be
+18 exposed to the user.
+19 Q So if you're looking at ~~
+20 A This is a good frame. You can leave it there.
+21 Q Okay. So how are you exposed to serious hazard
+22 and liability at that point?
+23 A It is my perception that being exposed to the
+24 inside of this mechanism is putting me in possible harm.
+: 25 Q Because it's exposed like that?
+Z ESQUIRE 800.21 1.DEPO (3376)
+Og FosiTION SOLUTIONS EsquireSolutions.com
+
+===== PAGE 082 / 90 =====
+NIKODEM PIKOR July 15, 2021
+AOAO MARINE SURF WAIKIKI V. NIKODEM PIKOR 80
+: 1 A Yes.
+2 2 So your thought would be to go closer -—-
+3 A Sorry.
+4 Q -- and stick your hand in the opening?
+5 MS. DUTCHER: Objection.
+6 THE WITNESS: I would like --
+7 MS. DUTCHER: Let me just get my objection out
+8 to his question. Objection, misstates his testimony and
+9 harassing.
+10 THE WITNESS: And I would -- I would still
+11 like to answer. My letter states, "It is also a
+12 potentially serious hazard and liability."
+13 Actually, let me get the full sentence -- both
+14 sentences. It's relevant. "Fact that the doors were
+15 knocked off track under exact circumstances is clearly a
+16 defect or malfunction. It is also a potentially serious
+17 hazard and liability."
+18 Even if it was -- even if the circumstances --
+19 if the -- as I meant -- as I meant in the letter, if it
+20 was not the plastic bins but a human that was placed in
+21 this inopportune location and caused this exact same
+22 separation of doors, which is absolutely possible, if it
+23 was a human that was right there when this separation
+24 happened, most definitely the hazardous exposure was
+25 happening. That's what I meant by this paragraph.
+@ ESQUIRE Baz Dare rs
+
+===== PAGE 083 / 90 =====
+NiIKODEM PIKOR July 15, 2021
+AOAO MARINE SURF WAIKIKI V. NIKODEM PIKOR 81
+: 1 And you implying that I have endangered myself
+2 by putting my hands inside the elevator jamb is
+3 irrelevant because it's not what I'm referring to in
+4 this letter. Thank you.
+5 Q (By Mr. Horio) If you go down to the second
+6 paragraph from the bottom, you state, and this is again
+7 June 27, that you have obtained legal counsel. Was that
+8 correct?
+i] A Let's read the entire paragraph. "I have
+10 obtained legal counsel and am categorically 100 percent
+11 declining to reimburse AOAO Marine Surf Waikiki,
+12 Incorporated for the related charge in the amount of
+13 $2,206.15." You're asking me if that's correct.
+14 Q I understand --
+15 A Please don't interrupt when I am answering
+16 your question. That was the agreement we had before,
+17 correct? Thank you.
+18 You're asking me if it's correct, if this
+19 entire statement is correct. It's not correct as I --
+20 as of my understanding right now because the expression
+21 that I obtained a legal counsel has a different meaning
+22 when -- than I intended.
+23 My intention when writing this e-mail is that
+24 I consulted and received an opinion. And I am currently
+25 aware that saying that I obtained legal counsel means
+2 ESQUIRE razr Dero Ore
+
+===== PAGE 084 / 90 =====
+NIKODEM PIKOR duly 15, 2021
+AOAO MARINE SURF WAIKIKI V. NIKODEM PIKOR 82
+- 1 more that I have a represent -- that I hired someone to
+2 represent me in legal proceedings.
+3 So to answer your question, the portion about
+4 me having obtained legal counsel may not be correct
+5 statement. It was a misstatement of -- of what I
+6 actually meant to say in this sentence.
+7 Q Well, let's try and clarify things then. That
+8 letter is dated June 27th, 2018. Prior to writing that
+9 letter, did you speak to an attorney about this matter?
+10 A About this letter?
+11 Q About this matter.
+12 A Yes.
+‘ 13 Q Who did you speak with?
+14 A Harel Amir.
+15 Q I'm sorry, could you --
+16 A Harel Amir.
+17 Q Could you spell that, please?
+18 A H-A-R-E-L A-M-I-R.
+19 Q And -~-
+20 A Actually, I have to clarify, too. I am not
+21 100 -- I am not sure if I spoke with Harel about this --
+22 about this matter before or after writing this letter.
+23 Q And Harel Amir is an attorney here in Hawaii?
+24 A No, he's not.
+25 Q Where is he an attorney?
+Zz ESQUIRE 800.211.DEPO (3376)
+DEPOSITION SOLUTIONS EsquireSolutions.com
+
+===== PAGE 085 / 90 =====
+NIKODEM PIKOR duly 15, 2021
+AOAO MARINE SURF WAIKIKI V. NIKODEM PIKOR 83
+1 A Tel Aviv, Israel.
+2 Q Is he licensed in the United States?
+3 A I don't -- I'm not sure. I don't know.
+4 Q And you spoke with Mr. Amir by telephone?
+5 A Yes. Either telephone or some messaging, text
+6 messages. Possibly E -- no, not e-mail.
+7 10) But to be clear, you did not retain the
+8 services of Mr. Amir?
+9 A No, I have not.
+10 Q And those communications have not been provided
+11 in response to our discovery request?
+12 A Harel Amir is a friend of mine. And I have
+13 not ever deemed the conversations I had with him to be
+14 considered 'um -- they were extremely informal.
+15 And I only bring this up now because the way
+16 that the questioning is going made me feel like this ~-
+17 to be 100 percent forthcoming that I should mention
+18 this.
+19 But prior -- I never mentioned my conversation
+20 with Harel prior because he's not a attorney here in
+21 Hawaii. He is a legal expert in a completely different
+22 field. And I have not considered our conversations to
+23 be something that needs to be disclosed.
+24 Q What field does Mr. Amir practice in?
+25 A Corporate contracts.
+Z ESQUIRE 800.211.DEPO (3376)
+Deposition soLuTIONS EsquireSolutions.com
+
+===== PAGE 086 / 90 =====
+NIKODEM PIKOR July 15, 2021
+AOAO MARINE SURF WAIKIKI V. NIKODEM PIKOR 84
+‘ 1 Q And what did you ask him about this incident?
+2 MS. DUTCHER: Objection, I'd like to -- this
+3 is the first time I'm learning about it, so I'd like to
+4 discuss with my client before those communications are
+5 disclosed.
+6 To the extent there was an attorney/client
+7 relationship established, I'd like to have the
+8 opportunity to review those communications.
+9 MR. HORIO: Well, I think we established that
+10 he didn't retain the services of Mr. Amir.
+11 MS. DUTCHER: There's -~
+12 MR. HORIO: And he was communicating
+13 informally with his friend.
+14 MS. DUTCHER: There still may have been an
+15 attorney/client relationship established. And so I am
+16 not going to -- I'm going to instruct my client not to
+17 answer those -- that question until I have an
+18 opportunity to discuss with him the nature of those
+19 communications.
+20 MR. HORIO: Okay.
+21 MS. DUICHER: At this point, yeah, I'm not
+22 going to -- I'm going to instruct him not to answer that
+23 question.
+24 MR. HORIO: When can we expect some type of
+25 formal determination and response from you?
+BZ ESQUIRE 800.211.DEPO (3376)
+ogrosiTioN sotuTions EsquireSolutions.com
+
+===== PAGE 087 / 90 =====
+NIKODEM PIKOR July 15, 2021
+AOAO MARINE SURF WAIKIKI V. NIKODEM PIKOR 85
+1 THE WITNESS: After this break.
+2 MS. DUTCHER: Well, I mean, I can't anticipate
+3 that until I actually have that conversation with him.
+4 But I don't anticipate me needing much time.
+5 MR. HORIO: Okay. A week?
+6 MS. DUTCHER: But I would need -- yeah. That
+7 should be sufficient.
+8 MR. HORIO: We can get something that says one
+9 way or another and otherwise we can receive copies of
+10 those communications?
+11 MS. DUTCHER: To the extent they're available,
+12 yes.
+. 13 MR. HORIO: And we'll be told if they're not
+14 and why?
+15 MS. DUTCHER: Correct.
+16 Q (By Mr. Horio) So it would be safe to say that
+17 as of the date of this letter, June 27th, 2018, you had
+18 not retained an attorney; is that correct?
+19 A I would rather double check on the official
+20 date I retained Joseph Ryan, but then -~ just to be 100
+21 percent sure. I think it was a few -- a month or two
+22 later. So with high degree of confidence, I did not
+23 have anybody representing me and I did not have hired
+24 anybody on that date.
+25 Q Okay.
+@ ESQUIRE agit pate Core
+
+===== PAGE 088 / 90 =====
+NIKODEM PIKOR July 15, 2021
+AOAO MARINE SURF WAIKIKI V. NIKODEM PIKOR 86
+° 1 A And the statement is just miss -- my
+2 misunderstanding of the actual meaning of the "obtain
+3 legal counsel."
+4 MR. HORIO: Okay. I think it might be a good
+5 time for a break again.
+6 MS. DUTCHER: Okay.
+7 MR. HORIO: We'll take another ten or 15
+8 minutes.
+9 (A brief recess was taken.)
+10 MR. HORIO: We're back on the record.
+11 Q (By Mr. Horio) As a reminder, you're still
+12 under oath, Mr. Pikor.
+oO, 13 A Sure.
+; 14 Q Let's go to Exhibit No. 4, the e-mail. And
+15 let's go to the third page of that e-mail string. On the
+16 bottom right corner, that's going to be 252. So it
+17 starts off at the top, it's an e-mail from you, July 2nd,
+18 2018 at 2:13 p.m. to William Denison, a copy to Harold
+19 Hitchcock.
+20 A Uh-huh.
+21 Qo And also to those Bozena Jarnot.
+22 A Uh-huh.
+23 Q And that's your business partner and co-owner
+24 of some of the units?
+25 A Uh-huh.
+Z ESQUIRE att Dao (ers
+
+===== PAGE 089 / 90 =====
+NIKODEM PIKOR July 15, 2021
+AOAO MARINE SURF WAIKIKI V. NIKODEM PIKOR 87
+1 Q Any particular reason why she's included on
+2 this e-mail?
+3 A I just like to share the relevant
+4 communications with her.
+5 Q And what about this would be relevant?
+6 A Everything.
+7 ie) And why?
+8 A For obvious reasons.
+9 Q What are those obvious reasons?
+10 A Association is trying to extort money out of
+11 me, so I share with Bozena what’s going on.
+12 Q Did she have any thoughts on that?
+: 13 A Of course.
+14 Q And what were those thoughts?
+15 A I will not share them with you. That's
+16 private -- that's private between me and my business
+17 partner. Proprietary -- proprietary information.
+18 Q How is it proprietary?
+19 A It's between me and my business partner.
+20 Personal communications. I will not -- I will not be
+21 disclosing every -- every --
+22 Q Were you discussing the elevator incident with
+23 her?
+24 A Of course.
+25 Q And she is a part owner of the units at the
+BZ ESQUIRE 800.211.DEPO (3376)
+oeposinign sovurions EsquireSolutions.com
+
+===== PAGE 090 / 90 =====
+NIKODEM PIKOR duly 15, 2021
+AOAO MARINE SURF WAIKIK] V. NIKODEM PIKOR 88
+1 Marine Surf?
+2 A Of course. I will not be -- I will not be
+3 sharing with you her thoughts or her opinions on the
+4 matter.
+5 Q If you go down to the fifth paragraph of your
+6 e-mail on July 2nd, you state, "I can only hope the
+7 ‘payment request letter’ will be soon retracted and
+8 deemed a mistake.”
+9 What about that payment request letter -~
+10 again, you're referring to the May 29 letter from
+11 Mr. Denison. What about that letter is a mistake?
+12 A Everything.
+13 Q Nothing about that letter is correct?
+14 A No, that letter is trying to -- is asking me
+15 for reimbursement for something that I should not be
+16 reimbursing the AOAO for. So the letter is a mistake.
+17 0) Okay. So if you go to the first page of
+18 Exhibit 4. An e-mail from you at 12:12 a.m. on July 3rd
+19 to William Denison, Harold Hitchcock cc'd. You included
+20 again Bozena Jarnot.
+21 You'll go down to the fourth paragraph and you
+22 state -- that's a question. "Have I been involved?"
+23 Then you state, “yes." You then state, "Has my direct
+24 action caused the incident?" And you state, "Yes." Is
+25 that correct?
+ZF ESQUIRE 800.211.DEPO (3376)
+DgPosiTION soLuTIONS EsquireSolutions.com

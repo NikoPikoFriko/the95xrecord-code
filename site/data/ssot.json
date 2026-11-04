@@ -1,0 +1,435 @@
+{
+  "schema": "site-ssot/index@1",
+  "site": "https://the95xrecord.vercel.app",
+  "generator": "gen_ssot_pages.py (T3 build+deploy, DSH) — version 1",
+  "build_timestamp": "2026-11-03T16:19:44-10:00",
+  "four_field_rule": {
+    "fields": [
+      "case",
+      "docket",
+      "evidence",
+      "grade"
+    ],
+    "note": "every published row carries all four; a row without one is not published as a fact",
+    "grades": {
+      "OBS": "stated in a clean text layer of the cited document",
+      "PARTIAL": "stated but the rendition is OCR, damaged or held outside the canonical library",
+      "GAP": "not established by the documents in the dataset"
+    }
+  },
+  "routes": {
+    "/": "entry point, both cases and live counts",
+    "/appeal": "CAAP-26-0000625 appeal surface",
+    "/register": "1RC191003776 trial docket register, 495 rows",
+    "/coverage": "coverage numbers, both the older and the 2026-11-03 build",
+    "/ssot.json": "this index (also mirrored at /data/ssot.json)"
+  },
+  "cases": [
+    {
+      "case": "1RC191003776",
+      "case_kind": "trial",
+      "court": "District Court of the First Circuit, Honolulu Division, State of Hawai`i",
+      "caption_source": "ICA Dkt 17 p.1 (clean text layer)",
+      "rows": 495,
+      "counts": {
+        "rows": 495,
+        "first_dkt": 1,
+        "last_dkt": 495,
+        "filing_span": [
+          "31-MAY-2019",
+          "23-OCT-2026"
+        ],
+        "with_pdf_rendition_of_own_document": 41,
+        "with_canonical_library_pdf": 8,
+        "with_pdf_only_outside_canonical_library": 33,
+        "with_text": 491,
+        "with_neither_pdf_nor_text": 0,
+        "grade_OBS": 8,
+        "grade_PARTIAL": 487,
+        "grade_GAP": 0,
+        "rows_with_sha256": 41,
+        "rows_with_text_sha256": 491
+      },
+      "grades": {
+        "OBS": 8,
+        "PARTIAL": 487,
+        "GAP": 0
+      },
+      "coverage": {
+        "docket_rows": 495,
+        "rows_with_material": 495,
+        "rows_with_text": 491,
+        "rows_with_pdf_of_own_document": 41,
+        "rows_with_pdf_in_canonical_library": 8,
+        "rows_with_pdf_only_outside_canonical_library": 33,
+        "rows_text_only_no_pdf": 454,
+        "rows_with_neither": 0,
+        "grade_OBS": 8,
+        "grade_PARTIAL": 487,
+        "grade_GAP": 0,
+        "register_pages_pdf": [
+          5,
+          195
+        ],
+        "register_record_total_stated": "495 record(s) total"
+      },
+      "register_source": {
+        "document": "ICA Dkt 15 — Record on Appeal",
+        "sha256": "efa1ddef4d93fae99c43fd324504cc7c433ff4cbc89d60d39ec687380f1114b1",
+        "pages": 197,
+        "printed_pages": [
+          5,
+          195
+        ],
+        "header": "CASE DETAIL DOCKET LIST | Generated: 27-OCT-2026 04:00 PM | User: J1CT_RMKANES | Search Criteria: Case 1RC191003776 - ASSOCIATION OF APARTMENT ETC VS NIKODEM PIKOR | 495 record(s) total"
+      },
+      "dataset": "trial_docket.json",
+      "dataset_sha256": "81906feda849f46ff8ea63da333c53e8647b2dc358d39c3eb68928504033b401",
+      "surface": "/register"
+    },
+    {
+      "case": "CAAP-26-0000625",
+      "case_kind": "appeal",
+      "court": "Intermediate Court of Appeals of the State of Hawai`i",
+      "caption_source": "ICA Dkt 17 p.1 (clean text layer); the JIMS case record uses the same wording",
+      "rows": 20,
+      "counts": {
+        "rows": 20,
+        "downloaded": 15,
+        "not_downloaded": 5,
+        "grade_OBS": 15,
+        "grade_PARTIAL": 0,
+        "grade_GAP": 5,
+        "rows_with_sha256": 15,
+        "unresolved_dkts": [
+          12,
+          14,
+          16,
+          18,
+          20
+        ]
+      },
+      "grades": {
+        "OBS": 15,
+        "PARTIAL": 0,
+        "GAP": 5
+      },
+      "coverage": {
+        "docket_rows": 20,
+        "rows_with_local_file": 15,
+        "rows_without_local_file": 5,
+        "grade_OBS": 15,
+        "grade_PARTIAL": 0,
+        "grade_GAP": 5
+      },
+      "status_capture": {
+        "status": "ACTIVE",
+        "as_of": "16-Sep-2026",
+        "balance": {
+          "amount": "0.00",
+          "currency": "USD",
+          "as_of": "2026-09-23 saved capture (Last Updated 16-Sep-2026)",
+          "note": "historical capture value; the current balance is not established by anything in this dataset"
+        },
+        "note": "historical capture value, not a live balance"
+      },
+      "dataset": "appeal.json",
+      "dataset_sha256": "25527c2c787a942dda003083f755a63dc951b014e5618164939b7a014320d4d4",
+      "surface": "/appeal"
+    }
+  ],
+  "deadlines": [
+    {
+      "id": "DL-JS-2026-11-09",
+      "what": "Jurisdictional statement due",
+      "date": "9-NOV-2026",
+      "date_iso": "2026-11-09",
+      "quote": "The JURISDICTIONAL STATEMENT is due on or before 9-NOV-2026",
+      "cite": "ICA Dkt 17 p.1",
+      "cite_pdf_sha256": "496bfdebc04a9e699d152ec7f7a46736e341a291d7734385dc829f7120b3659d",
+      "cite_page": 1,
+      "document": "NOTICE OF ENTERING CASE ON CALENDAR, filed 28-OCT-2026",
+      "grade": "OBS",
+      "for_counsel": true,
+      "for_counsel_reason": "whether the date binds, whether a statement is required, and what satisfies it are legal questions",
+      "satisfaction_evidence": "GAP - no document in the library shows a jurisdictional statement filed",
+      "superseded_prior_statement": {
+        "value": "16-NOV-2026",
+        "source": "JIMS 'Milestones for CAAP-26-0000625' panel in the 2026-10-03 capture (Statement of Jurisdiction, Current Filing Date 16-NOV-2026)",
+        "source_document": {
+          "file": "APPEALS/CAAP-26-0000625/Case Summary for CAAP-26-0000625 My Case View - Hawai'i Intermediate Court of Appeals.pdf",
+          "sha256": "bcdf5b3b1208520944b752c6a1bf307663b17534a6625ea398a0accf54bab50b",
+          "page": 2,
+          "note": "rendered read: this PDF has no usable text layer, so the value was transcribed from the rendered page; the panel carries the court's own advisory that HRAP dates prevail"
+        },
+        "note": "the JIMS panel carries its own advisory that HRAP dates prevail; the two sources disagree on the date",
+        "for_counsel": true
+      },
+      "computed": false
+    },
+    {
+      "id": "DL-OB-2026-12-07",
+      "what": "Opening brief due",
+      "date": "7-DEC-2026",
+      "date_iso": "2026-12-07",
+      "quote": "The OPENING BRIEF is due on or before 7-DEC-2026",
+      "cite": "ICA Dkt 17 p.1",
+      "cite_pdf_sha256": "496bfdebc04a9e699d152ec7f7a46736e341a291d7734385dc829f7120b3659d",
+      "cite_page": 1,
+      "document": "NOTICE OF ENTERING CASE ON CALENDAR, filed 28-OCT-2026",
+      "grade": "OBS",
+      "for_counsel": true,
+      "for_counsel_reason": "what a compliant opening brief must contain, and whether the date binds, are legal questions",
+      "satisfaction_evidence": "GAP - no draft or filed opening brief in the library",
+      "superseded_prior_statement": {
+        "value": "14-DEC-2026",
+        "source": "JIMS 'Milestones for CAAP-26-0000625' panel in the 2026-10-03 capture (Opening Brief, Current Filing Date 14-DEC-2026)",
+        "source_document": {
+          "file": "APPEALS/CAAP-26-0000625/Case Summary for CAAP-26-0000625 My Case View - Hawai'i Intermediate Court of Appeals.pdf",
+          "sha256": "bcdf5b3b1208520944b752c6a1bf307663b17534a6625ea398a0accf54bab50b",
+          "page": 2,
+          "note": "rendered read: this PDF has no usable text layer, so the value was transcribed from the rendered page; the panel carries the court's own advisory that HRAP dates prevail"
+        },
+        "note": "the JIMS panel carries its own advisory that HRAP dates prevail; the two sources disagree on the date",
+        "for_counsel": true
+      },
+      "computed": false
+    }
+  ],
+  "gaps": [
+    {
+      "id": "GAP-rule-citation",
+      "what": "The calendar notice cites no rule for either date",
+      "quote": "2. Cost & Fees. HRAP 39(d) requires that bills of costs and requests for attorneys fees be submitted no later than 14 days after the time for filing a motion for reconsideration has expired or the motion for reconsideration has been decided.",
+      "cite": "ICA Dkt 17 p.2",
+      "grade": "GAP",
+      "for_counsel": true
+    },
+    {
+      "id": "GAP-counsel-status",
+      "what": "Appellate counsel status is unresolved in the documents",
+      "quote": "REVERE & ASSOCIATES, LLLC'S MOTION FOR LEAVE TO WITHDRAW AS COUNSEL FOR APPELLANT NIKODEM PIKOR",
+      "cite": "ICA Dkt 13 p.2",
+      "grade": "GAP",
+      "for_counsel": true
+    },
+    {
+      "id": "GAP-no-filing-evidence",
+      "what": "Nothing in the library shows either date's filing being made",
+      "grade": "GAP"
+    },
+    {
+      "id": "RA-register-stops-at-495",
+      "what": "the trial register inside the Record on Appeal ends at Dkt 495 (23-OCT-2026) and contains no entry numbered 496 or higher, while the Notice of Appeal carries trial Dkt 496 with a 04-SEP-2026 filing stamp",
+      "evidence": [
+        "ICA Dkt 15: register pp.5-195, '495 record(s) total', last printed entries 494 and 495 (23-OCT-2026)",
+        "1RC Dkt 496 NA p.1: 'Electronically Filed FIRST CIRCUIT 1RC191003776 04-SEP-2026 04:22 PM Dkt. 496 NA'"
+      ],
+      "grade": "GAP",
+      "for_counsel": true,
+      "note": "an observed absence in a court-produced document; no inference about completeness or timeliness is drawn"
+    },
+    {
+      "id": "appeal-null-fields",
+      "what": "dockets 12,14,16,18 exist in the JIMS table (row indices 11,13,15,17) but their title, code and filing date were not captured; docket 20's code/title come from a browser observation and its filing date is unknown. None of these were guessed.",
+      "dkts": [
+        12,
+        14,
+        16,
+        18,
+        20
+      ],
+      "grade": "GAP",
+      "for_counsel": true
+    }
+  ],
+  "datasets": {
+    "appeal.json": {
+      "sha256": "25527c2c787a942dda003083f755a63dc951b014e5618164939b7a014320d4d4",
+      "bytes": 19987
+    },
+    "coverage.json": {
+      "sha256": "fc0258a8c3a2ac8fab7913d1dcadb222c505854f2683c9b299ea9d9d88be5e54",
+      "bytes": 19203
+    },
+    "deadlines.json": {
+      "sha256": "639411861ea230659bb77a97b976d7d2d8697f159c7195c295f95a5e04474b77",
+      "bytes": 23837
+    },
+    "trial_docket.json": {
+      "sha256": "81906feda849f46ff8ea63da333c53e8647b2dc358d39c3eb68928504033b401",
+      "bytes": 365711
+    }
+  },
+  "sources_index": "sources.json (provenance of every artefact and per-row hash)",
+  "non_claims": [
+    "no statement that the record is complete",
+    "no statement about timeliness, waiver or jurisdiction (all for_counsel)",
+    "no legal conclusion, recommendation or day count",
+    "no docket entry reconstructed from its title or code",
+    "no appeal row merged into a trial row",
+    "the $0.00 balance and ACTIVE status are 2026-09-23 capture values, not current"
+  ],
+  "access": {
+    "route": "/access",
+    "statement": "the site publishes no PDF bytes; /access is where the bytes live",
+    "stores": [
+      {
+        "id": "drive-slavgooru",
+        "store": "Google Drive",
+        "account": "slavgooru@gmail.com",
+        "label": "Drive folder 1 (account slavgooru@gmail.com)",
+        "url": "https://drive.google.com/open?id=15eBsSDbb08oIt9_63EmZjx_19yyukhFX"
+      },
+      {
+        "id": "drive-mojehawaje",
+        "store": "Google Drive",
+        "account": "niko@mojehawaje.pl",
+        "label": "Drive folder 2 (account niko@mojehawaje.pl)",
+        "url": "https://drive.google.com/open?id=195TqtUXvsIVfCNq33ACVoJ4fcYH4NXCV"
+      },
+      {
+        "id": "box-open",
+        "store": "Box",
+        "account": "open link, downloads allowed",
+        "label": "Box shared folder (open link, downloads allowed)",
+        "url": "https://app.box.com/s/7r8elrsfxf2vk27gx2yjj9q2z1iwynyn"
+      }
+    ],
+    "export": {
+      "documents": 37,
+      "bytes": 19147433,
+      "cases": {
+        "1RC191003776": 21,
+        "CAAP-26-0000625": 16
+      },
+      "grades": {
+        "TEXT": 2,
+        "SRC": 29,
+        "CERTIFIED": 3,
+        "PACK": 3
+      },
+      "certified_dockets": [
+        492,
+        493,
+        496
+      ],
+      "sample_verification": {
+        "document": "certified Dkt 496 NA (notice of appeal)",
+        "bytes": 149314,
+        "sha256": "8719ada165f96c1eff2040c0312bd6c7adf19871f3702fdf865b5ace5d04b94e",
+        "note": "a direct download from Drive reproduced this hash"
+      }
+    },
+    "manifests": [
+      {
+        "file": "MANIFEST.csv",
+        "bytes": 7079,
+        "sha256": "a0c7c8e9c1783e38af11d1a3ddcfef138ba88a979c2440e882a51be08464c27d",
+        "url": "https://the95xrecord.vercel.app/MANIFEST.csv"
+      },
+      {
+        "file": "MANIFEST.sha256",
+        "bytes": 6272,
+        "sha256": "caac18430cc45bad4fe5a22b003df7b6bd899ae158a2757b05151f9cc6e4e5b6",
+        "url": "https://the95xrecord.vercel.app/MANIFEST.sha256"
+      },
+      {
+        "file": "ACCESS_README.md",
+        "bytes": 3100,
+        "sha256": "8ddcc7f9e2f74fa56ffd7d134489e818eda4493dd25a62d01d8ed363145395f5",
+        "url": "https://the95xrecord.vercel.app/ACCESS_README.md"
+      }
+    ],
+    "not_included": [
+      "no PDF for 454 of the 495 trial dockets (491 of 495 have a text rendition)",
+      "no certified copy of Dkt 480, and no certified copies of the Dkt 486/487 minutes (courthouse only)",
+      "no appeal dockets 12, 14, 16, 18, 20 (never captured; published as GAP on /appeal)"
+    ],
+    "build_timestamp": "2026-11-03T17:17:53-10:00",
+    "generator": "gen_access.py (T16 build+deploy, DSH) — version 1"
+  },
+  "immutable_facts": [
+    "cases: trial 1RC191003776 (initiated 31-MAY-2019) · appeal CAAP-26-0000625 (notice of appeal filed 04-SEP-2026)",
+    "judgment appealed: trial Dkt 427, filed 23-JUN-2026",
+    "Record on Appeal: ICA Dkt 15, register pages 5–195, 495 entries (dockets 1–495)",
+    "Amended Record on Appeal: ICA Dkt 19, 5 pages",
+    "appeal docket: 20 entries as captured 2026-11-03 (ICA Dkts 1–20)",
+    "deadlines published on ICA Dkt 17 p.1: jurisdictional statement 9-NOV-2026 · opening brief 7-DEC-2026 (verbatim quotations on /appeal)",
+    "certified library copies: 3 (Dkt 492 DOC, Dkt 493 NEF, Dkt 496 NA), Clerk-certified 03-NOV-2026",
+    "evidence export: 37 documents / 19,147,433 bytes with a sha256 per file; three public stores (two Google Drive folders + one Box open link)",
+    "the site publishes no PDF bytes — this page is where they are"
+  ],
+  "texts": {
+    "route": "/texts",
+    "dataset": "texts.json",
+    "dataset_url": "https://the95xrecord.vercel.app/data/texts.json",
+    "dataset_sha256": "2f99a60637957704628fce44f2e25a78696b07009e80993a916255e7e1c02a91",
+    "count": 266,
+    "bytes_of_text": 5722148,
+    "methods": {
+      "ocr": 244,
+      "native": 22
+    },
+    "grades": {
+      "PARTIAL": 244,
+      "OBS": 22
+    },
+    "docket_range": [
+      12,
+      487
+    ],
+    "case": "1RC191003776",
+    "manifest": {
+      "file": "TEXTS_MANIFEST.sha256",
+      "url": "https://the95xrecord.vercel.app/TEXTS_MANIFEST.sha256",
+      "sha256": "ee19810aa57fc35b758cab68674bc81871944b181f2959cb62a5ff3401db94b4",
+      "total_bytes": 26353
+    },
+    "files_published_at": "https://the95xrecord.vercel.app/texts/<name>.txt",
+    "sitemap_policy": "the corpus is one dataset; the individual .txt files are not listed in the sitemap",
+    "provenance_fields": [
+      "case",
+      "docket",
+      "code",
+      "filed",
+      "ra_pdf_page",
+      "grade",
+      "method",
+      "source_file",
+      "source_sha256",
+      "text_file",
+      "text_sha256",
+      "bytes",
+      "lines"
+    ],
+    "note": "published files are byte copies of the held sources; text_sha256 is the sha256 of the published file and equals source_sha256 for every entry; nothing was retyped",
+    "build_timestamp": "2026-11-03T17:28:24-10:00",
+    "generator": "gen_texts.py (T17 build+deploy, DSH) — version 1"
+  },
+  "crossref": {
+    "dataset": "crossref.json",
+    "url": "https://the95xrecord.vercel.app/data/crossref.json",
+    "sha256": "009536b3a2a303ec13d0801e4ea43b66efbc878a90c8daee9c930b76b31706b3",
+    "bytes": 225667,
+    "count": 495,
+    "rows_with_text": 266,
+    "rows_with_pdf_filename_attributed": 57,
+    "rows_with_pdf_of_own_document": 41,
+    "same_number_file_other_document": 17,
+    "definition": "rows_with_pdf_filename_attributed counts every row whose recorded file name carries the docket number; rows_with_pdf_of_own_document excludes the 17 same-numbered files that belong to another document (appeal-series collisions), consistent with /register and coverage.json",
+    "row_shape": [
+      "case",
+      "docket",
+      "code",
+      "filed",
+      "ra_pdf_page",
+      "register_url",
+      "pdf",
+      "text"
+    ],
+    "register_url_pattern": "https://the95xrecord.vercel.app/register#dkt-N",
+    "build_timestamp": "2026-11-03T17:28:24-10:00",
+    "generator": "gen_texts.py (T17 build+deploy, DSH) — version 1"
+  }
+}

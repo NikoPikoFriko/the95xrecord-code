@@ -1,0 +1,447 @@
+===== PAGE 001 / 11 =====
+     CADES SCHUTTE
+     A Limited Liability Law Partnership
+                                                                                                                              Electronically Filed
+     CALVERT G. CHIPCHASE            7757-0                                                                                   FIRST CIRCUIT
+     JARRETT A. DEMPSEY             10774-0                                                                                   1RC191003776
+     Cades Schutte Building                                                                                                   15-JAN-2020
+     1000 Bishop Street, Suite 1200                                                                                           08:58 PM
+     Honolulu, HI 96813-4212
+     Telephone: (808) 521-9200
+
+     Attorneys for Third-Party Defendant
+     THYSSENKRUPP ELEVATOR
+     CORPORATION
+
+                               IN THE DISTRICT COURT OF THE FIRST CIRCUIT
+
+                                                          HONOLULU DIVISION
+
+                                                             STATE OF HAWAI‘I
+
+     ASSOCIATION OF APARTMENT                                                     CIVIL NO. 1RC19-1-003776
+     OWNERS OF MARINE SURF
+     WAIKIKI, INC., a Hawai’i nonprofit                                           THYSSENKRUPP ELEVATOR
+     corporation, by its Board of Directors,                                      CORPORATION’S REPLY
+                                                                                  MEMORANDUM IN SUPPORT OF
+                            Plaintiff,                                            MOTION FOR SUMMARY
+                                                                                  JUDGMENT ON THE THIRD-PARTY
+                v.                                                                COMPLAINT FILED JULY 8, 2019,
+                                                                                  FILED JANUARY 6, 2020
+     NIKODEM PIKOR,
+
+                            Defendant.                                            Hearing:
+
+                                                                                  Date:        January 21, 2020
+                                                                                               Time: 8:35 a.m.
+                                                                                  Judge:       Presiding Judge
+                                                                                  (No trial date set).
+
+
+     NIKODEM PIKOR,
+
+                            Third-Party Plaintiff,
+
+                v.                                                                (captioned continued on next page)
+
+
+
+I do hereby certify that the foregoing is a full, true and correct copy of the official court record of the Courts of the State of Hawai`i.
+Dated at: Honolulu, Hawai`i 02-SEP-2026, /s/ Lori Ann Okita, Clerk of the First Judicial Circuit, State of Hawai`i
+
+===== PAGE 002 / 11 =====
+THYSSENKRUPP ELEVATOR
+CORPORATION, Foreign Profit
+Corporation,
+
+             Third-Party Defendant.
+
+
+    THYSSENKRUPP ELEVATOR CORPORATION’S REPLY MEMORANDUM IN
+    SUPPORT OF MOTION FOR SUMMARY JUDGMENT ON THE THIRD-PARTY
+          COMPLAINT FILED JULY 8, 2019, FILED JANUARY 6, 2020
+
+      Third-Party   Defendant   THYSSENKRUPP         ELEVATOR       CORPORATION
+(“TKE”) replies in support of its Motion for Summary Judgment on the Third-Party
+Complaint filed July 8, 2019, filed January 6, 2020 (the “Motion”).1
+I.     INTRODUCTION
+
+      Pikor spends most of his pages trying to distinguishing cases while failing to
+do anything to identify a “virtual express declaration” that he was an intended
+third-party beneficiary of the Elevator Maintenance Agreement. Pikor does not
+identify a virtual express declaration because one does not exist. The rest of his
+pages are devoted to defending claims that have no basis in the law. Pikor’s claim
+under HRS section 481A-3 fails because he has not pled or demonstrated a need for
+injunctive relief. His claim under HRS section 480-2 fails because he is not
+“consumer” under section 480-1. All of remaining arguments made by Pikor are
+equally flawed.
+II.    ARGUMENT
+
+       A.    Pikor Is Not a Third-Party Beneficiary of the Elevator
+             Maintenance Agreement.
+
+      The crux of Pikor’s argument is that the cases cited by TKE are factually
+distinguishable. The effort is wasted. In Association of Apartment Owners of
+Newtown Meadows, ex rel. its Board of Directors v. Venture 15, Incorporated, a
+dispute arose from the construction of the Newtown Meadows Condominium Project
+in Waimalu. 115 Hawai`i 232, 238, 167 P.3d 225, 231 (2007). The Newtown
+
+
+1      TKE incorporates the defined terms utilized in the Motion.
+
+
+
+                                         2
+
+===== PAGE 003 / 11 =====
+Meadows AOAO sought to enforce, as third-party beneficiaries, several contracts
+pertaining to the construction of the condominium project between various
+contractors and subcontractors. Id. at 269, 167 P.3d at 263. The contractors and
+subcontractors knew that the Newtown Meadows AOAO would benefit from the
+construction of the of the condominium project. Nevertheless, court held that the
+AOAO was not a third-party beneficiary of the contract As the court explained,
+      The AOAO fails to identify any language in the relevant subcontracts
+      which constitutes a virtual express declaration to overcome the
+      presumption that the parties contracted only for themselves. In fact,
+      the AOAO does not point to any language in the relevant subcontracts
+      that makes any reference to the AOAO or its members. Although there
+      is no question that the parties were aware that Newtown Meadows
+      was being built for subsequent purchasers, it is not enough that the
+      parties know, expect, or even intend that such people may benefit or
+      that they are referred to in the contract. Consequently, the AOAO is
+      not an intended third-party beneficiary of the construction contracts.
+
+Id. at 272, 167 P.3d at 265 (internal citations, quotations, and modifications
+omitted). Pikor does not address does not contest these principles.
+     Like the AOAO in Newtown Meadows, Pikor fails to identify any language in
+the Elevator Maintenance Agreement (or any other material) that constitutes a
+virtual express declaration that the parties to the Elevator Maintenance Agreement
+intended to confer a direct benefit on Pikor. He does not point to any provision in
+the contract and does not introduce any documentary evidence indicating intent to
+confer a direct benefit on him. Instead, relies on agency principles, the managing
+agent’s signature and his purported marginal ownership interest in the common
+elements as substitutes for the virtual express declaration. Pikor’s arguments are
+as unpersuasive as the arguments were in Newtown Meadows.
+     First, Pikor’s contention that, under agency law, the Elevator Maintenance
+Agreement is actually between TKE and the AOAO, a non-profit corporation, rather
+than between W.E. Denison and TKE is a distinction without difference. Even if the
+Elevator Maintenance Agreement were construed as between TKE and the AOAO
+
+
+
+
+                                          3
+
+===== PAGE 004 / 11 =====
+corporate entity,2 he would still be without a “virtual express declaration” that the
+contracting parties (whether they are TKE and W.E. Denison or TKE and the
+AOAO corporate entity) intended to confer a direct benefit on him.3 Id. at 272, 167
+P.3d at 265.
+     Second, Pikor’s contention that W.E. Denison’s signature is prima facie
+evidence of the parties’ intent to benefit Pikor has things exactly backwards.
+Mr. Denison’s signature on behalf of W.E. Denison Corporation as the managing
+agent for AOAO Marine Surf Waikiki, Inc. does not amount to express that Pikor
+was an intended beneficiary. Neither Pikor’s name nor any virtual reference to him
+appears anywhere in the document.
+     Finally, Pikor’s purported ownership interest in the common elements does not
+give him third-party beneficiary status for every contract involving the common
+elements. To hold otherwise would make Pikor a third-party beneficiary of the
+contracts to clean the outside of the windows, take out the trash and repair the
+parking lot and would turn Hawaii law on its head. With all of those contracts and
+the Elevator Maintenance Agreement, there is a “presumption that the parties
+contracted only for themselves” and this presumption may only be overcome only by
+identifying a “virtual express declaration” evidencing the parties’ intent to confer a
+direct benefit on Pikor. Apartment owners are not automatically third-party
+beneficiaries of contracts entered into by owners’ associations or their agents. See,
+e.g., Peters v. Lexington Ins. Co., 836 F.Supp.2d 1117, 1123 (D. Haw. 2011) (holding
+that individual unit owners had no standing to enforce insurance agreement
+
+
+2     The AOAO is a nonprofit corporation and a separate legal entity. See
+Lawry v. Pecan Plantation Owners Ass'n, Inc., No. 02-15-00079-CV, 2016 WL
+4395777, at *5 (Tex. App. Aug. 18, 2016) (“a party's status as a member of a
+nonprofit corporation does not automatically confer standing on that party to
+enforce an agreement between the nonprofit corporation and a third party”).
+
+3     TKE notes that the Marine Surf Waikiki Declaration of Horizontal Property
+Regime attached as Exhibit 3 to the Opposition exclusively vests the responsibility
+for maintaining the common elements in the Association. Opp. Ex. 3 [Dkt. 38] at 9–
+10 ¶¶G–H.
+
+
+
+                                          4
+
+===== PAGE 005 / 11 =====
+between insurer and association pertaining to the condominium structure); Klenc v.
+John Beal, Inc., 484 S.W.3d 351, 355 (Mo. Ct. App. 2015) (holding that individual
+unit owners were not third-party beneficiaries to contract between association and
+mason for brickwork in common elements). Instead, a virtual express declaration of
+intent is required to confer third-party beneficiary rights. No such declaration exists
+here.
+        Having failed to identify a “virtual express declaration” indicating that the
+parties to the Elevator Maintenance Agreement intended to confer a direct benefit
+on Pikor, the parties to the contract intended only to contract for themselves.
+Summary judgment against Pikor is appropriate. Newtown Meadows, 115 Hawai’i
+at 272, 167 P.3d at 265.
+         B.    Pikor Cannot Maintain His Unfair and Deceptive Trade
+               Practices Claim.
+
+               1.     Pikor does not seek injunctive relief and, thus, cannot have a
+                      claim under HRS § 481A-3.
+
+        The exclusive remedy under section 481A-4 is injunctive relief. “[A] a party has
+standing to seek prospective injunctive relief only if it can show that it ‘is
+threatened with a concrete and particularized legal harm, coupled with a sufficient
+likelihood that [it] will again be wronged in a similar way.’” Bill Darrah Builders,
+Inc. v. Hall at Makena Place, LLC, No. CV 15-00518 JMS-KSC, 2018 WL 650195, at
+*6, n. 8 (D. Haw. Jan. 31, 2018) (citing Bates v. United Parcel Serv., Inc., 511 F.3d
+974, 985 (9th Cir. 2007). Pikor has not pled a claim for injunctive relief. Pikor has
+not pled or pointed to any threatened concrete and particularized legal harm and
+the actions that must be enjoined to prevent such harm. Pikor alleges that he
+sustained monetary damages. Because monetary damages are not available under
+HRS § 481A-3, Pikor’s claim should be disposed of on summary judgment.
+               2.     Pikor’s claim under HRS section 480-2 fails because he is not a
+                      “consumer” pursuant to HRS section 480-1.
+
+        In support of his claim brought under HRS section 480-2, Pikor argues, for the
+first time, that he rents a unit in the Marine Surf and, therefore, has made a
+
+
+
+
+                                            5
+
+===== PAGE 006 / 11 =====
+“personal investment” for purposes of HRS § 480-1. According to Pikor, “residences
+qualify as ‘personal investments’” and he “commits money every month to secure his
+residence.” Opp. at 16. The argument falls flat. “Monthly payments of rent pursuant
+to a lease do not constitute a personal investment for purposes of providing
+standing to bring a UDAP claim.” Fernandez v. Mark Dev., Inc., 125 Hawai`i
+381, 262 P.3d 670 (Ct. App. 2011); Barber v. Ohana Military Communities, LLC, No.
+CIV. 14-00217 HG-KSC, 2015 WL 2250041, at *9 (D. Haw. May 12, 2015). Since the
+only purported personal investment is the payment of rent, it is undisputed that
+Pikor is not a “consumer” under HRS § 480-1. Summer judgment is appropriate.
+     Furthermore, while Pikor alleges in other parts of his Opposition that he owns
+“several apartments and leases others with an aggregated share of 5% of the
+common elements” at the Marine Surf. See Opp. at 5, 9. There are two problems
+with these allegations. First, Pikor did not provide support by declaration or
+admissible evidence for the allegations. This is summary judgment. The failure to
+come forward with evidence is a failure to defend the motion.
+     Second, even if Pikor had evidence for allegations, the evidence would not show
+that Pikor has made a “personal investment.” Real estate investments constitute
+“personal investments” within the definition of a “consumer” under HRS section
+480-1 only where “real estate [is] purchased with an intent to reside on the
+parcel of property and concurrently with an intent to hold the property in
+anticipation of an appreciation in the parcel’s resale value.” Cieri v. Leticia Query
+Realty, Inc., 80 Hawai`i 54, 67, 905 P.2d 29, 42 (1995), as amended (Oct. 12, 1995)
+(emphasis added). Where a claimant purchases property in which he does not
+intend to reside, the purchase is not a “personal investment” within the meaning of
+HRS section 480-1. Demarco v. Maui Beach Resort Ltd. P'ship, 139 Hawai`i 264, 388
+P.3d 52 (Ct. App. 2016) (holding that the fact that the plaintiffs had purchased
+multiple properties, including three on Maui, was evidence weighing against the
+conclusion that the plaintiffs intended to reside in the properties). Thus, even if the
+allegation that Pikor has ownership of multiple units and leases in the
+condominium were presented properly before the Court, the fact that Pikor owns
+
+
+
+
+                                          6
+
+===== PAGE 007 / 11 =====
+multiple units in the same building demonstrates that Pikor utilizes the units for
+business purposes rather than as personal investments. Id.
+     The cases cited by Pikor are consistent with this result. Not only do those cases
+refer to situations involving ownership of residential property for personal use, they
+all involve an interaction or transaction between the plaintiff and the defendant
+related to the plaintiff’s personal investment of real property or purchase of
+consumer goods. For instance, in Hungate v. Law Office of David B. Rosen, 139
+Hawai`i 394, 412, 391 P.3d 1, 19 (2017), the plaintiff was found to be a consumer vis
+a vis a mortgagee’s lawyer because the lawyer conducted a foreclosure of the
+plaintiff’s property. Similarly, in Flores v. Rawlings Company, LLC, 117 Haw. 153,
+177 P.3d 341 (2008), the court found that the plaintiff was a consumer vis a vis a
+debt collection company because the debt collector attempted to collect a debt
+arising from goods and services purchased in a consumer context. Finally, in Cieri v.
+Leticia Query Realty, Inc., 80 Hawai`i 54, 67, 905 P.2d 29, 42 (1995), as amended
+(Oct. 12, 1995), the court found that the plaintiff was a consumer vis a vis a real
+estate company involved in the plaintiff’s purchase of real estate.
+     Here, it is undisputed that TKE transacted with the AOAO’s managing agent.
+TKE responded to a service call, returned the elevator to service and billed the
+AOAO for the repair work done. TKE did not bill Pikor or communicate with Pikor.
+Pikor does not cite a single case recognizing a section 480-2 claim where the
+defendant did not transact, bill or communicate with the plaintiff.
+     Finally, Pikor makes a half-hearted argument that Hunt and Hough are
+inapposite. The clear holding of both cases is that a party is not a consumer if that
+party did not purchase or attempt to purchase and was not solicited to purchase the
+goods or services that are the subject of a contract. Hough v. Pac. Ins. Co., Ltd., 83
+Hawai‘i 457, 470, 927 P.2d 858, 871 (1996), as amended (Dec. 4, 1996); Hunt v. First
+Ins. Co. of Hawaii, Ltd., 82 Hawai`i 363, 373, 922 P.2d 976, 986 (Ct. App. 1996).
+While Pikor is correct that Hawaii courts have not addressed whether a third-party
+beneficiary to a contract entered into by a consumer has a derivative claim arising
+out of the consumer’s contract, Pikor mistakenly conflates courts’ refusal to reach a
+
+
+
+
+                                          7
+
+===== PAGE 008 / 11 =====
+decision on that argument with the viability of that theory. No Hawaii court has
+held that a derivative claim under 480-2 exists for purported third-party
+beneficiaries of a contract entered into by a consumer and Pikor cites no support for
+such a claim. Moreover, insofar as Pikor is not a third-party beneficiary to the
+Elevator Maintenance Agreement, he cannot bring a derivative claim based on his
+purported third-party beneficiary status.
+      C.        Pikor’s Reliance On The Doctrine of Res Ipsa Loquitur Is
+                Improper.
+
+     Pikor makes a perplexing argument that TKE is liable under the doctrine of
+res ipsa loquitur. The doctrine of res ipsa loquitur is a tort doctrine applicable to
+negligence claims. See 57B Am. Jur. 2d Negligence § 1163. Pikor’s Third-Party
+Complaint does not contain a negligence claim nor does it plead res ipsa loquitur.
+Claims raised for the first time in an opposition to a motion for summary judgment
+should     be   disregarded.   Stucky   v.   Hawaii   Dept.   of   Educ.,   No.   CIV.06-
+00002JMS/LEK, 2007 WL 602105, at *6 n. 9 (D. Haw. Feb. 15, 2007). Finally, even
+if the claim were appropriately raised, the doctrine has no bearing on the threshold
+questions regarding whether Pikor lacks standing.
+      D.        There Are No Disputed Issues of Material Fact.
+
+     Pikor alleges that there are factual issues regarding whether Pikor discovered
+elevator defects and regarding the precise cause of the elevator malfunction. These
+issues are immaterial to the threshold questions raised in the Motion regarding
+whether Pikor has standing to enforce the Elevator Maintenance Agreement and
+whether he has appropriately raised unfair and deceptive practices claims.
+      E.        Pikor Has Improperly Subpoenaed W.E. Denison To Appear At
+                The Motion Hearing.
+
+     Finally, on January 10, 2020, Pikor served a subpoena on W.E. Denison
+purportedly requiring him to appear for the hearing on the Motion set on January
+21, 2020. HDCRCP Rule 45 authorizes parties to file subpoenas in three limited
+circumstances (1) to present as a witness to give testimony, (2) to produce
+documentary evidence, (3) or to present for deposition. Pikor has not received leave
+
+
+
+
+                                             8
+
+===== PAGE 009 / 11 =====
+of Court to depose Mr. Denison and the subpoena does not direct Mr. Denison to
+procure documentary evidence. Moreover, a motion for summary judgment is not an
+evidentiary hearing permitting witness testimony, see Andrassy v. Baker/Beechnut
+Corp., No. 39625, 1980 WL 354352, at *1 (Ohio Ct. App. Sept. 25, 1980), and Pikor
+was required to submit his Opposition and any supporting affidavits and
+documentary evidence 72 hours prior to the hearing. HDCRCP Rule 56(c). TKE
+objects to the presentation of any live witness testimony at hearing on the motion
+for summary judgment or further supplementation of the summary judgment
+record.
+III.    CONCLUSION
+
+       For the reasons discussed herein, TKE respectfully requests that summary
+judgment be entered on the Third-Party Complaint.
+   DATED: Honolulu, Hawai‘i, January 15, 2020.
+
+                                     CADES SCHUTTE
+                                     A Limited Liability Law Partnership
+
+
+
+                                     /s/ Jarrett A. Dempsey
+                                     CALVERT G. CHIPCHASE
+                                     JARRETT A. DEMPSEY
+                                     Attorneys for Third-Party Defendant
+                                     THYSSENKRUPP ELEVATOR
+                                     CORPORATION
+
+
+
+
+                                        9
+
+===== PAGE 010 / 11 =====
+               IN THE DISTRICT COURT OF THE FIRST CIRCUIT
+
+                              HONOLULU DIVISION
+
+                                STATE OF HAWAI‘I
+
+ASSOCIATION OF APARTMENT                   CIVIL NO. 1RC19-1-003776
+OWNERS OF MARINE SURF
+WAIKIKI, INC., a Hawai’i nonprofit         CERTIFICATE OF SERVICE
+corporation, by its Board of Directors,
+
+             Plaintiff,
+
+      v.
+
+NIKODEM PIKOR,
+
+             Defendant.
+
+
+NIKODEM PIKOR,
+
+             Third-Party Plaintiff,
+
+      v.
+
+THYSSENKRUPP ELEVATOR
+CORPORATION, Foreign Profit
+Corporation,,
+
+             Third-Party Defendant.
+
+
+                           CERTIFICATE OF SERVICE
+
+     The undersigned hereby certifies that a true and correct copy of the foregoing
+document was served on this date via JEFS, as indicated below:
+
+===== PAGE 011 / 11 =====
+PHILIP L. LAHNE, ESQ.                                       via JEFS
+GLENN S. HORIO, ESQ.
+Anderson & Fujisaki LLP
+733 Bishop Street, Suite 2301
+Honolulu, HI 96813
+      Attorneys for Plaintiff
+      ASSOCIATION OF APARTMENT OWNERS OF
+      MARINE SURF WAIKIKI, INC.
+
+JOSEPH RYAN, JR., ESQ.                                      via JEFS
+Joseph Ryan, Jr. AAL LLLC
+EM: jryan808@JosephRyanJrAALLLLC.onmicrosoft.com
+41-430 Waikupanaha Street
+P.O. Box 562
+Waimanalo, HI 96795
+      Attorneys for Defendant/Third-Party Plaintiff
+      NIKODEM PIKOR
+
+APRIL LURIA, ESQ.                                            via JEFs
+Roeca, Luria & Shinn LLP
+841 Bishop Street, Suite 900
+Honolulu, HI 96813
+      Attorneys for Counterclaim Defendant
+      ASSOCIATION OF APARTMENT OWNERS OF
+      MARINE SURF WAIKIKI, INC.
+
+
+
+DATED: Honolulu, Hawai‘i, January 15, 2020.
+
+                                CADES SCHUTTE
+                                A Limited Liability Law Partnership
+
+
+
+                                /s/ Jarrett A. Dempsey
+                                CALVERT G. CHIPCHASE
+                                JARRETT A. DEMPSEY
+                                Attorneys for Third-Party Defendant
+                                THYSSENKRUPP ELEVATOR
+                                CORPORATION
+
+
+
+
+                                   2

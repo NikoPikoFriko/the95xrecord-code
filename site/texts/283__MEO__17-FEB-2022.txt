@@ -1,0 +1,1368 @@
+===== PAGE 001 / 33 =====
+           REVERE & ASSOCIATES
+           A Limited Liability Law Company
+                                                                                                                              Electronically Filed
+           TERRANCE M. REVERE 5857                                                                                            FIRST CIRCUIT
+           AMANDA L. DUTCHER 9749                                                                                             1RC191003776
+           Pali Palms Plaza                                                                                                   17-FEB-2022
+           970 North Kalaheo Street, Suite A301                                                                               08:29 PM
+           Kailua, Hawaii 96734                                                                                               Dkt. 283 MEO
+           Telephone No: (808) 791-9550
+           Facsimile No: (808) 791-9551
+
+           Attorneys for Defendant/Third Party Plaintiff
+           NIKODEM PIKOR
+
+                                     IN THE CIRCUIT COURT OF THE FIRST CIRCUIT
+                                                HONOLULU DIVISION
+                                                 STATE OF HAWAII
+
+           ASSOCIATION OF APARTMENT                                                     Civil No. 1RC19-1-0003776
+           OWNERS OF MARINE SURF WAIKIKI,
+           INC., a Hawai’i nonprofit corporation, by its
+           Board of Directors                                                           DEFENDANT/ THIRD PARTY
+                                                                                        PLAINTIFF NIKODEM PIKOR,’S
+                                  Plaintiff,                                            MEMORANDUM IN OPPOSITION
+                                                                                        TO COUNTERCLAIM
+                      vs.                                                               DEFENDANT ASSOCIATION OF
+                                                                                        APARTMENT OWNERS OF
+           NIKODEM PIKOR,                                                               MARINE SURF WAIKIKI, INC. BY
+                                                                                        ITS BOARD OF DIRECTORS’
+                                  Defendant.                                            MOTION FOR SUMMARY
+                                                                                        JUDGMENT; DECLARATION OF
+                                                                                        NIKODEM PIKOR;
+                                                                                        DECLARATION OF COUNSEL;
+                                                                                        EXHIBIT 1-18; CERTIFICATE OF
+                                                                                        SERVICE
+           NIKODEM PIKOR,
+                                                                                        HEARING:
+                                  Third Party Plaintiff,                                Date: February 22, 2022
+                                                                                        Time: 8:30 am
+                      v.                                                                Judge: Presiding Judge
+
+           THYSSENKRUPP ELEVATOR
+           CORPORATION, Foreign Profit Corporation,
+
+                                  Third Party Defendant.
+
+
+
+I do hereby certify that the foregoing is a full, true and correct copy of the official court record of the Courts of the State of Hawai`i.
+Dated at: Honolulu, Hawai`i 02-SEP-2026, /s/ Lori Ann Okita, Clerk of the First Judicial Circuit, State of Hawai`i
+
+===== PAGE 002 / 33 =====
+TABLE OF CONTENTS
+I.      Introduction ................................................................................................................ 1
+II. Relevant Background ................................................................................................. 2
+III.        Argument................................................................................................................. 5
+     A. Hawaii State Law has acknowledged Association Governing Documents are
+     contracts ......................................................................................................................... 5
+     B. Hawaii State Law and case law confirm that a Condominium Association
+     owes a fiduciary duty to members................................................................................ 9
+     C. Hawaii’s Legislature has afforded individuals a private remedy for claims
+     against their Associations pursuant to Chapter 514B .............................................. 14
+     D. Questions of Fact remain regarding negligent and intentional
+     misrepresentations ....................................................................................................... 16
+     E. Mr. Pikor’s Chapter 480 claims and IIED and NIED are sustainable as a
+     matter of law ................................................................................................................ 17
+IV.         Conclusion ............................................................................................................ 20
+
+
+
+
+                                                                    1
+
+===== PAGE 003 / 33 =====
+                                             TABLE OF AUTHORITIES
+Cases
+AOAO Queen Emma Gardens v. Wai Hung Ma, No. 30694, 2013 Haw. App. LEXIS
+  192, at *12 (App. Apr. 5, 2013)....................................................................................... 6
+Augustin, citing Hungate v. Law Office of David B. Rosen, 139 Haw. 394, 411, 391 P.3d
+  1, 18 (2017).................................................................................................................... 20
+Baham v. Assn. of Apt. Owners of Opua Hale Patio Homes, Civ. No. 13-00669 HG-
+  BMK, 2014 U.S.Dist. LEXIS 82873, at *25, *28 (D. Haw. Jun. 18, 2014 ................... 11
+Bald v. Wells Fargo Bank, N.A., 688 Fed.Appx. 472, 475 (9th Cir. 2017) ...................... 19
+Han v. Yang, 84 Hawai‘i 162, 177, 931 P.2d 604, 619 (App. 1997) ( .............................. 19
+Harrison v. Casa De Emdeko, 142 Haw. 218, 226, 418 P.3d 559, 567 (2018) ................... 6
+Memminger v. Summit at Kaneohe Bay Ass'n, 129 Haw. 426, 2013 Haw. App. LEXIS
+  302, *3 (Ct. App. May 17, 2013)................................................................................. 8, 9
+Molokai Serv. v. Hodgins, 142 Haw. 150, 414 P.3d 202, 2018 WL 1083050 (Ct. App.
+  2018) .............................................................................................................................. 13
+Pinnacle Museum Tower Ass'n v. Pinnacle Mkt. Dev. (US), LLC, 55 Cal. 4th 223, Cal.
+  Rptr. 3d 514, 282 P.3d 1217 (2012), ....................................................................... 6, 7, 8
+Porter v. Hu, 116 Hawai'i, 42, 55, 169 P.3d 994,1007 (Ct. App. 2007) ............................ 18
+Ritter & Ritter, Inc. Pension & Profit Plan v. The Churchill Condo. Ass'n, 166 Cal. App.
+  4th 103, 123-24, 82 Cal. Rptr. 3d 389, 404 (2008) ....................................................... 12
+See Augustin v. PNC Fin. Servs. Grp., 2019 U.S. Dist. LEXIS 9474 (CIVIL NO. 17-
+  00525 SOM/RT (D. Haw. January 16, 2019) ................................................................ 20
+Taniguchi v. Ass’n of Apt. Owners of King Manor, Inc., 114 Haw. 37, 155 P.3d 1138
+  (2007),............................................................................................................................ 11
+Statutes
+HRS § 514B-10 ........................................................................................................... 14, 15
+HRS § 514B-112 ........................................................................................................... 8, 15
+HRS § 514B-9 ................................................................................................................... 14
+HRS 414D............................................................................................................................ 9
+HRS 414D-149 .................................................................................................................. 12
+HRS 414D-155 .................................................................................................................. 12
+HRS 514B-106(a) ................................................................................................................ 9
+HRS 514B-157……………………………………………………………………….8,15
+Other Authorities
+Restat 3d of Prop: Servitudes, § 6.13 (3rd 2000) .............................................................. 11
+
+
+
+
+                                                                   1
+
+===== PAGE 004 / 33 =====
+       DEFENDANT/ THIRD PARTY PLAINTIFF NIKODEM PIKOR’S
+         MEMORANDUM IN OPPOSITION TO COUNTERCLAIM
+        DEFENDANT ASSOCIATION OF APARTMENT OWNERS OF
+       MARINE SURF WAIKIKI, INC. BY ITS BOARD OF DIRECTORS’
+                MOTION FOR SUMMARY JUDGMENT
+
+
+  I.   Introduction
+
+       This case is the perfect example of what happens when a condominium board
+
+goes too far. If this case was really about a legitimate debt owed by Defendant Nikodem
+
+Pikor that Plaintiff ASSOCIATION OF APARTMENT OWNERS OF MARINE SURF
+
+WAIKIKI, INC (“AOAO”) was entitled to, the AOAO would have filed this case in
+
+small claims court and having prevailed, Mr. Pikor would be paying the AOAO
+
+$2,260.15 and the matter would be settled. Instead, the AOAO hired a collection firm to
+
+rack up fees of more than $16,000 and then filed a complaint in this court seeking alleged
+
+“damages” in a purported assumpsit action.
+
+       The AOAO now seeks to have Mr. Pikor’s counterclaims dismissed and asks the
+
+court to dismiss such claims as a matter of law.
+
+       The AOAO’s motion should be denied for the following reasons:
+
+
+           1. Hawaii case law has acknowledged that Condominium Association
+              Governing Documents establish contractual obligations as between
+              owners and the association;
+
+           2. Hawaii State Law and Hawaii case law confirm that an Association
+              owes a fiduciary duty to members;
+
+           3. Hawaii’s Legislature has afforded individuals a private remedy for
+              claims against their Condominium Associations pursuant to Chapter
+              514B;
+
+           4. Questions of Fact remain regarding Mr. Pikor’s negligent and
+              intentional misrepresentation claims;
+
+
+
+
+                                             1
+
+===== PAGE 005 / 33 =====
+            5. Mr. Pikor’s Chapter 480 claims and IIED and NIED are sustainable
+               as a matter of law.
+
+ II.   Relevant Background
+
+       On May 9, 2018, while moving containers out of the elevator on the basement
+level of the Marine Surf Condominium, the infrared detector that is designed to sense
+when a person and/or object is at the elevator doors failed to detect the container as Mr.
+Pikor was exiting the elevator and the hoistway door closed on the container (“Elevator
+Incident”). See Declaration of Nikodem Pikor. When the hoistway door closed on the
+container, the hoistway door disengaged from the car door clutch. Id.
+       On May 29, 2018, W.E. Denison Corporation, on behalf of the AOAO, sent a
+letter to Mr. Pikor demanding payment of $2,260.15 for “repairing the doors and
+restoring the elevator to service.” Id., Exhibit 1. In the letter, Mr. Denison says that in
+reviewing the surveillance camera video footage, it shows “that the damage was clearly
+caused by [Mr. Pikor]”. Id. Enclosed with the letter was also an invoice from
+THYSSENKRUPP ELEVATOR CORPORATION (“TKE”) addressed to the AOAO.
+Id. In the summary section of the invoice, it stated the “BILLING DUE TO MISUSE
+NOT COVERED BY CONTRACT.” Id.
+       The AOAO has a contract with TKE to perform maintenance of the two elevators
+at the Marine Surf Condominium (“Maintenance Agreement”). Id. According to
+Elevator Maintenance Agreement, TEK promised that it would perform the following
+services:
+               o      Examine your elevator equipment for optimum
+       operation. Our examination, lubrication and adjustment will cover
+       the following components of your elevator system:
+                   o Control and landing positions systems
+                   o Signal fixtures
+                   o Machines, drives, motors, governors, sheaves, and
+            wire ropes
+                   o Power units, pumps, valves, and jacks
+                   o Car and hoistway door operation devices and
+            door protection equipment
+                   o loadweighers, car frames and platforms, and
+            counterweights
+                   o Safety mechanism
+               o      Lubricate equipment for smooth and efficient
+       performance
+
+
+                                              2
+
+===== PAGE 006 / 33 =====
+             o       Adjust elevator parts and components to
+        maximize performance and safe operation (emphasis added).
+
+
+Exhibit 2.
+
+        On June 27, 2018, Mr. Pikor responded to the AOAO’s May 29, 2018 letter by
+writing to the Board of Directors for the AOAO. Id., Exhibit 3. In his letter, Mr. Pikor
+disputed the accusation that he “misused” the elevator and requested that the AOAO also
+challenge TKE’s characterization of the Elevator Incident and pursue TKE for the
+elevator malfunction. Id.
+        Instead of questioning TKE, the AOAO contacted its legal counsel and informed
+Mr. Pikor by letter, dated August 3, 2018, that it would use legal means to collect the
+$2,2260.15 unless Mr. Pikor paid $1,130.07 by August 31, 2018. Id., Exhibit 6.
+        On September 14, 2018, the AOAO’s counsel sent another letter to Mr. Pikor.
+Id., Exhibit 7. This time, the AOAO demanded that Mr. Pikor pay $4,195.60, allegedly
+comprised of the cost for the elevator repair plus legal fees and costs. Id. The AOAO’s
+counsel also stated that such payment must be made by October 20, 2018 (35 days within
+receipt of the letter). Id.
+        Mr. Pikor responded to the AOAO’s demand by letter, dated September 27, 2018,
+disputing that he owed the AOAO $4,195.60 and requesting for a series of documents in
+order to ascertain how the AOAO came to determine that he was legally responsible for
+the elevator repairs. Id., Exhibit 8.
+        On October 9, 2018, the AOAO responded with another letter from their lawyer.
+Id., Exhibit 9. According to the AOAO, the invoice from TKE was verification that Mr.
+Pikor owed a debt to the AOAO for work performed on the elevator after it closed on me
+while I was removing bins from the elevator. Id.
+        On October 13, 2018, Mr. Pikor responded again to the AOAO’s letter and asked
+further for some explanation as to the basis for the AOAO determining that he was
+legally responsible for the AOAO’s debt. Id., Exhibit 10.
+        On December 10, 2018, Mr. Pikor obtained a written opinion from Mr. John
+Whitmore, an elevator expert, that explained alternative reasons for the elevator
+malfunction. Id., Exhibit 16.
+
+
+
+                                             3
+
+===== PAGE 007 / 33 =====
+       On October 22, 2018, the AOAO’s attorneys sent Mr. Pikor another letter. Id.,
+Exhibit 11. In the letter, the AOAO stated that Mr. Pikor had to provide an affidavit
+before receiving any documents verifying the debt that the AOAO was demanding Mr.
+Pikor pay. Id. The AOAO also stated that Mr. Pikor would have to pay to review any
+documents. Id.
+       On November 2, 2018, the AOAO’s attorneys sent Mr. Pikor another letter. Id.,
+Exhibit 13. In this letter, the AOAO made a further demand that Mr. Pikor pay $2,260.15
+for the TKE invoice and $5,305.93 for the AOAO’s legal fees.
+       On November 7, 2018, Mr. Ryan Joseph, on behalf of Mr. Pikor, sent the AOAO
+a letter. Id., Exhibit 14. In his letter, Mr. Ryan disputed the AOAO’s assertion that I was
+at fault for the elevator repairs performed by TKE. Id.
+       The AOAO never responded with any report from an unbiased source
+substantiating that Mr. Pikor’s “misuse” of the elevator caused it to malfunction. Id.
+Other than comments made by TKE’s own technician, the AOAO never responded to Mr.
+Whitmore’s opinion letter or otherwise provided any information from an unbiased
+expert that Mr. Pikor was negligent in any way or at fault for the repairs to the elevator
+by TKE. Id.
+       On May 31, 2019, the AOAO filed a Complaint in the District Court of the First
+Circuit, Honolulu Division. In its Complaint, the AOAO alleges that Mr. Pikor owes a
+debt to the AOAO related to an “Elevator Incident” and claims that his failure to pay said
+debt is in violation of the Marine Surf Governing Documents. See AOAO’s Exhibit A,
+pages 3 and 4.
+       In describing the “Elevator Incident”, the AOAO states in its Complaint that:
+       on or about May 9,2018 at approximately 3:11 p.m., when [Mr. Pikor],
+       without advance notice to the managing agent or front office, used the
+       elevator to move large household goods, and during which time [Mr.
+       Pikor] placed a large container in a position between the doors of the
+       elevator so that when the elevator doors attempted to close, the doors
+       were not allowed to close and therefore suffered damage
+AOAO’s Exhibit A, page 4.
+       The AOAO further claims that the damage to the elevator constitutes a violation
+of the Marine Surf Governing Documents.
+       Notably absent from the Complaint is any allegation that Mr. Pikor acted
+
+
+                                             4
+
+===== PAGE 008 / 33 =====
+negligently or that the AOAO is making a claim in tort.
+       In response to the AOAO’s Complaint, Mr. Pikor filed an Answer and a
+Counterclaim. On July 9, 2020, Mr. Pikor amended his Answer and Counterclaim.
+       Now the AOAO has filed a Motion for Summary Judgment regarding Mr. Pikor’s
+Counterclaims.
+
+III.   Argument
+
+       A.   Hawaii State Law has acknowledged Association Governing
+       Documents are contracts
+
+       The AOAO’s present motion starts incredibly with the argument that the Marine
+Surf Governing Documents do not constitute a contract between the AOAO and its
+members and seeks dismissal of Mr. Pikor’s Count I – Breach of Governing Documents
+as untenable as a matter of law. Not only is the AOAO wrong about the law but its
+position is inconsistent with its own claims as stated in its Assumpsit Complaint.
+Notably, the AOAO’s assumpsit claim, which is the only affirmative claim presented by
+the AOAO, is premised on Mr. Pikor’s alleged contractual duty to comply strictly with
+the Marine Surf Governing Documents.
+       According to the AOAO, Mr. Pikor is liable for breaching the Marine Surf
+Governing Documents for the following reasons:
+       1. Mr. Pikor damaged the elevator;
+       2. Mr. Pikor failed to pay for repair costs to repair damage to the elevator;
+       3. Mr. Pikor questioned the AOAO’s interpretation of the AOAO’s Governing
+Documents.
+       Further, the AOAO alleges that it is entitled to certain damages as a result of the
+above breaches of the Governing Documents. The largest portion of such damages are
+the attorney fees incurred by the AOAO pursuing Mr. Pikor and obstructing his access to
+documents verifying the debt they asserted was owed by him.
+       Despite of the obvious inconsistency with the AOAO’s argument that Mr. Pikor
+has no contractual relationship with the AOAO and the AOAO’s own affirmative claims
+against Mr. Pikor, the AOAO is simply wrong about how our courts view the relationship
+between an association and its members.
+
+
+
+                                             5
+
+===== PAGE 009 / 33 =====
+       First, the Hawaii Supreme Court has specifically acknowledged that a
+condominium association’s governing documents are treated as contracts as between
+owners and the association.
+               [T]he declaration and bylaws of a condominium serve as a
+               contract between the condominium owners and the
+               association, establishing the rules governing the
+               condominium. See Association of Apartment Owners of
+               Maalaea Kai, Inc. v. Stillson, 108 Hawai'i 2, 9, 116 P.3d
+               644, 651 (2005)(citing Bradford Square Condo. Ass'n v.
+               Miller, 258 Ga. App. 240, 245, 573 S.E.2d 405, 409 (2002)
+               ("The condominium instruments, including the bylaws
+               and the sales agreement, are a contract that governs the
+               legal rights between the [a]ssociation and unit
+               owners.")).
+Harrison v. Casa De Emdeko, 142 Haw. 218, 226, 418 P.3d 559, 567 (2018); See also
+AOAO Queen Emma Gardens v. Wai Hung Ma, No. 30694, 2013 Haw. App. LEXIS 192,
+at *12 (App. Apr. 5, 2013).
+       Secondly, as pled by the AOAO itself, the AOAO was established and exists
+pursuant to Chapter 514A and/or Chapter 514B, HRS, and the Project Documents. See
+AOAO’s Exhibit A, page 3.
+       In Casa De Emdeko, a condominium unit owner filed suit against its association
+alleging improper assessments charged against its account by the association. Both at the
+trial level and appellant levels, the court held consistent with prior case law that the
+declaration and bylaws of a condominium association establish the legal rights as
+between an association and unit owners and that the declaration and bylaws (i.e. the
+Governing Documents) of a condominium serve as a contract. Casa De Emdeko, 142
+Haw. at 226, 418 P.3d at 567 (2018). This same principle has been upheld in courts in
+other jurisdictions as well.
+       For example, in Pinnacle Museum Tower Ass'n v. Pinnacle Mkt. Dev. (US), LLC,
+55 Cal. 4th 223, Cal. Rptr. 3d 514, 282 P.3d 1217 (2012), California’s Supreme Court
+addressed the question of whether an association was bound to an arbitration clause in the
+governing documents of a condominium such that an owner had the ability to seek to
+enforce the arbitration clause against the association. Specifically, the Pinnacle Court
+considered the enforceability of the arbitration provision that the condominium developer
+included in the recorded covenants, condition and restriction that required those who later
+
+
+                                              6
+
+===== PAGE 010 / 33 =====
+purchased condominiums to arbitrate any construction-related disputes. The Pinnacle
+court ultimately concluded that the arbitration did apply to the association pursuant to
+the statutory scheme that governed common interest developments, stating:
+               [E]quitable servitudes permit courts to enforce promises
+               restricting land use when there is no privity of contract
+               between the party seeking to enforce the contract and the
+               party resisting enforcement. Like any promise given in
+               exchange for consideration, an agreement to refrain from a
+               particular use of land is subject to contract principles, under
+               which courts try ‘to effectuate the legitimate desires of the
+               covenanting parties.’
+               …
+               Moreover, settled principles of condominium law establish
+               that an owners association, like its constituent members,
+               must act in conformity with the terms of a recorded
+               declaration. (See Civ. Code, § 1354, subd. (a); Lamden v.
+               La Jolla Shores Clubdominium Homeowners Assn. (1999)
+               21 Cal.4th 249, 268 [87 Cal. Rptr. 2d 237, 980 P.2d 940]
+               [homeowner can sue association to compel enforcement of
+               declaration's provisions]; Ritter & Ritter, Inc. Pension &
+               Profit Plan v. The Churchill Condominium Assn. (2008)
+               166 Cal.App.4th 103, 124 [82 Cal. Rptr. 3d 389].)
+               …
+               an association must exercise its property rights and its right
+               of management over the affairs of a development in a
+               manner consistent with the covenants, conditions, and
+               restrictions of the declaration (CC&R's). That a
+               declaration operates to bind an association is both
+               logical and sound, for the success of a development would
+               be gravely undermined if the association were allowed to
+               disregard the intent, expectations, and wishes of those
+               whose collective interests the association represents. (See
+               Citizens for Covenant Compliance, supra, 12 Cal.4th at p.
+               364; Nahrstedt, supra, 8 Cal.4th at pp. 382–384.)
+Pinnacle Museum Tower Ass'n v. Pinnacle Mkt. Dev. (US), LLC, 55 Cal. 4th 223, 239,
+145 Cal. Rptr. 3d 514, 525, 282 P.3d 1217, 1226 (2012) (emphasis added).
+       The Pinnacle court concluded that, under the statutory and case law pertaining to
+common interest developments, the covenants, conditions, and restrictions reflect written
+promises and agreements to which a developer and owners may bind the association.
+Pinnacle, 55 Cal.4th at pp. 232, 241. The court observed:
+
+
+                                             7
+
+===== PAGE 011 / 33 =====
+                 As discussed, the Legislature has crafted a statutory scheme
+                 providing for the capacity of a developer to create a
+                 condominium development subject to covenants and
+                 restrictions governing its operation and use. There appears
+                 no question that, under the Davis-Stirling Act, each owner
+                 of a condominium unit either has expressly consented or is
+                 deemed by law to have agreed to the terms in a recorded
+                 declaration. As the exclusive members of an owners
+                 association, the owners have every right to expect that
+                 the association, in representing their collective interests,
+                 will abide by the agreed-upon covenants in the
+                 declaration, including any covenant to invoke binding
+                 arbitration as an expeditious and judicially favored method
+                 to resolve a construction dispute, in the absence of
+                 unreasonableness.
+Id. at p. 241.
+        In this case, the mutual rights and responsibilities of the AOAO and Mr. Pikor are
+determined by the Marine Surf Governing Documents, subject to relevant statutory
+provisions. See Memminger v. Summit at Kaneohe Bay Ass'n, 129 Haw. 426, 2013 Haw.
+App. LEXIS 302, *3 (Ct. App. May 17, 2013).
+        The relevant statutory provisions are found in HRS, Chapter 514B, which
+specifically provide that owners can of course seek judicial relief for a violation of the
+governing documents or Chapter 514B and that such claims can be brought by owners
+against the association:
+                 (c) Each unit owner, tenants and employees of an owner,
+                 and other persons using the property shall comply strictly
+                 with the covenants, conditions, and restrictions set forth in
+                 the declaration, the bylaws, and the house rules adopted
+                 pursuant thereto. Failure to comply with any of the same
+                 shall be grounds for an action to recover sums due, for
+                 damages or injunctive relief, or both, maintainable by
+                 the managing agent, resident manager, or board on behalf
+                 of the association or, in a proper case, by an aggrieved
+                 unit owner.
+HRS § 514B-112.
+                 (b) If any claim by an owner is substantiated in any action
+                 against an association, any of its officers or directors, or
+                 its board to enforce any provision of the declaration,
+                 bylaws, house rules, or this chapter, then all reasonable and
+                 necessary expenses, costs, and attorneys' fees incurred by
+                 an owner shall be awarded to such owner
+
+
+                                               8
+
+===== PAGE 012 / 33 =====
+HRS § 514B-157.
+       As described above, both in terms of the plain language of Chapter 514B and the
+related case law interpreting the mutual obligations between an association and its
+members, Hawaii courts have continuously viewed the governing documents of an
+association as a contract between owners and the association. Accordingly, Mr. Pikor’s
+Count I is tenable as a matter of law and questions of fact remain as to whether the
+actions by the AOAO constitute a breach of the AOAO’s contractual duties pursuant to
+the Marine Surf Governing Document.
+
+       B.     Hawaii State Law and case law confirm that a Condominium
+       Association owes a fiduciary duty to members
+
+       Contrary to the AOAO’s contentions in its motion, HRS, Chapter 514B imposes
+fiduciary duties on the AOAO and its board members. Pursuant to HRS § 514B-
+106(a), board members are fiduciaries and therefore “in the performance of their duties,
+shall owe the association a fiduciary duty and exercise the degree of care and loyalty
+required of an officer or director of a corporation organized under HRS 414D.” HRS
+514B-106(a). The AOAO does not dispute that directors of an association owe a fiduciary
+duty to members. However, the AOAO seeks to dismiss Count II of Mr. Pikor’s
+Counterclaim by attempting to make a distinction between directors of an association and
+the association itself as a legal entity. According to the AOAO, there is no fiduciary duty
+owed by the association itself and only the directors, individually, can be held liable for
+such breaches.
+       However, that an association owes a fiduciary duty to the individual members was
+clearly recognized in Memminger v. The Summit at Kaneohe Bay, 129 Haw. 426, 310
+P.3d 1267, 2013 Haw, App. Lexis 302 (Ct. App. 2013): “The fiduciary nature of the
+relationship between an association and its members, see id. at 692, might, under
+some circumstances, provide a basis to impose an affirmative duty upon the association
+to safeguard its members.”
+       The Hawaii Supreme Court also recognized fiduciary duties being owed to
+members by an association in Lee v. Puamana Cmty. Ass'n, stating:
+                 Furthermore, other courts have stated that nonuniform
+                 amendments and amendments that breach
+
+
+                                              9
+
+===== PAGE 013 / 33 =====
+                any fiduciary duties owed by an association to its
+                members are invalid unless approved by every member
+                whose interest is adversely affected. See Brockway v.
+                Harkleroad, 273 Ga. App. 339, 341, 615 S.E.2d 182, 185
+                (2005)("With respect to nonuniform amendments to the
+                declaration and other amendments that violate the
+                community's duties to its members under § 6.13 of the
+                restatement, the restatement provides that those
+                amendments 'are not effective without the approval of
+                members whose interests would be adversely affected
+                unless the declaration fairly apprises purchasers that such
+                amendments may be made.'") (citing Restatement (Third)
+                of Property: Servitudes § 6.10); Licker v. Harkleroad, 252
+                Ga. App. 872, 558 S.E.2d 31, 34 (Ga. Ct. App.
+                2001) ("'Amendments that do not apply uniformly to
+                similar lots or units . . . are not effective without the
+                approval of members whose interests would be adversely
+                affected unless the declaration fairly apprises purchasers
+                that such amendments may be made.") (citing Restatement
+                (Third) of Property: Servitudes § 6.10 (2) (2000) (ellipses
+                in original) (emphasis in original); Montoya v. Barreras, 81
+                N.M. 749, 473 P.2d 363, 365 (N.M. 1970) ("The original
+                restrictions were clearly imposed on all of the described
+                property, and though the restrictions themselves may be
+                changed in whole or in part, the change or changes which
+                might be made must affect all of the described property.").
+Lee v. Puamana Cmty. Ass'n, 109 Hawai‘i 561, 571, 128 P.3d 874, 884 (2006) (bold
+added, italics in original).
+        Hawaii Supreme Court’s reliance on the Restatement (Third) of Property:
+Servitudes §§ 6.10 and 6.13 in Lee v. Puamana Cmty. Ass'n, cannot be understated. The
+Lee Court cited to the Restatement three separate times for the proposition that
+community association owe specific duties to its members.
+        Section 6.13, which the Lee Court cited to states:
+                § 6.13 Duties of a Common-Interest Community to Its
+                Members
+                (1) In addition to duties imposed by statute and the
+                governing documents, the association has the following
+                duties to the members of the common-interest community:
+                (a) to use ordinary care and prudence in managing the
+                property and financial affairs of the community that are
+                subject to its control;
+
+
+
+                                            10
+
+===== PAGE 014 / 33 =====
+               (b) to treat members fairly;
+               (c) to act reasonably in the exercise of its discretionary
+               powers including rulemaking, enforcement, and designcontrol powers;
+               (d) to provide members reasonable access to information
+               about the association, the common property, and the
+               financial affairs of the association.
+               (2) A member challenging an action of the association
+               under this section has the burden of proving a breach of
+               duty by the association. Except when the breach alleged is
+               ultra vires action by the association, the member has the
+               additional burden of proving that the breach has caused, or
+               threatens to cause, injury to the member individually or to
+               the interests of the common-interest community.
+Restat. 3d of Prop: Servitudes, § 6.13 (3rd 2000).
+       The commentary to this section notes that: “Under subsection (1), the association
+and the members, acting collectively, have duties to use ordinary care and prudence in
+managing the property and financial affairs of the community, to treat community
+members fairly, to act reasonably in the exercise of discretionary powers, and to provide
+members with reasonable access to information about association affairs. These are duties
+owed to individual members of the common-interest community.” (Bold added.).
+       The Hawaii Supreme Court, in Taniguchi v. Ass’n of Apt. Owners of King Manor,
+Inc., 114 Haw. 37, 155 P.3d 1138 (2007), also recognized that a fiduciary duty is owed
+by the association to its members when it upheld the lower court’s summary judgment
+finding that the Appellant did “not raise a genuine issue of material fact that the board
+breached a fiduciary duty of disclosure owed to members of the association …” Id. at 40,
+1141 (emphasis added).
+       Even the federal case – Baham v. Assn. of Apt. Owners of Opua Hale Patio
+Homes, Civ. No. 13-00669 HG-BMK, 2014 U.S.Dist. LEXIS 82873, at *25, *28 (D.
+Haw. Jun. 18, 2014. (“Baham”) relied on by Defendant - acknowledged that a fiduciary
+duty could be found against associations when they act in a “quasi-governmental
+fashion.”
+       In Ritter & Ritter, Inc. Pension & Profit Plan v. The Churchill Condo. Ass'n, one
+of the cases cited by Judge Gillmor in the Baham decision for the principle that special
+circumstances can give rise to a fiduciary duty, the California Court of Appeals covered
+
+
+                                              11
+
+===== PAGE 015 / 33 =====
+the basic principles governing homeowner’s associations and specifically addressed the
+nature of liability owed by an association to its members. Specifically noting that
+associations are responsible for the maintenance of a development's common elements,
+the Ritter Court delved into the duty of care imposed on associations as well as to
+question of liability of individual directors as distinct from the liability of the association
+itself:
+                 The liability of The Churchill is separate and distinct from
+                 the personal liability of the directors. It is legally possible
+                 to have one without the other. First, the association as an
+                 entity can be separately liable for its actions. As a
+                 separate entity, an unincorporated association owes a duty
+                 of care to its members as long as the membership itself is
+                 not responsible for the existence of
+                 the dangerous condition. Therefore, a member of the
+                 association can recover damages from the association
+                 which result from a dangerous condition negligently
+                 maintained by the association in the common area. The
+                 fact that the actual management decisions are made and
+                 carried out by the board of directors does not alter this fact.
+                 In the same manner, the association may also be liable for
+                 property damages caused by its negligent maintenance of
+                 the common area. Further, under well-accepted
+                 principles of condominium law, a homeowner can sue
+                 the association for damages and for an injunction to
+                 compel the association to enforce the provisions of the
+                 declaration and can sue directly to enforce the
+                 declaration.
+Ritter & Ritter, Inc. Pension & Profit Plan v. The Churchill Condo. Ass'n, 166 Cal. App.
+4th 103, 123-24, 82 Cal. Rptr. 3d 389, 404 (2008) (bold added).
+          Based on Act 87 (2017), condominium directors (see HRS 414D-149) and
+officers (see HRS 414D-155) must discharge their respective duties: 1) in good faith; 2)
+consistent with the duty of loyalty; 3) with ordinary care; and 4) in the best interests of
+the condominium association. These requirements apply as a matter of condominium
+law, regardless of whether the condominium association is incorporated and are
+consistent with common law requirements.
+          “The relation of directors to corporation is a fiduciary one and the wellestablished rule in both Hawaii and in a majority of the States is that when fiduciaries
+deal with themselves relative to their trust property the burden is upon such fiduciaries
+
+
+                                               12
+
+===== PAGE 016 / 33 =====
+to establish the fairness of the transaction.” Molokai Serv. v. Hodgins, 142 Haw. 150,
+414 P.3d 202, 2018 WL 1083050 (Ct. App. 2018) (citing Lum v. Kwong, 39 Haw. 532,
+538 (1952) (emphasis added).
+        In this case, the AOAO has never met it burden of showing a legitimate reason for
+pursuing Mr. Pikor for a repair covered by insurance held by the AOAO as trustee for its
+members. Here, the AOAO decided to proceed with a suit against one of its members
+with zero due care and good faith. In fact, the Board in this case voted to pursue Mr.
+Pikor before even viewing the video. But worse than that, the AOAO chose the most
+costly and punitive path as possible and one that would have the most punishing impact
+on one of its own members in order to recover the cost of a repair that could be covered
+by its own insurance.
+        In this case, the AOAO’s fiduciary duty is to its members is highlighted in the
+AOAO’s contractual obligation to maintain insurance for the property “in the name of
+the Owners” and as the “trustee” for the disposition of proceeds, such that the coverage
+is for “all apartment owners.” The relevant section from the AOAO Declaration states in
+part.
+               O. INSURANCE. The Board on behalf of the Association
+               at its common expense shall at all times keep all buildings
+               of the project insured against loss or damage by fire with
+               extended coverage in an insurance company authorized to
+               do business in Hawaii in an amount as near as practicable
+               to the full replacement cost thereof without deduction for
+               depreciation in the names of the Owners and any lessees
+               of apartments and any mortgagee of any interest in any
+               apartment payable in case of loss to such trust company
+               qualified under the laws of the State of Hawaii as shall be
+               designated by the Board as trustee for the custody and
+               disposition as herein provided of all proceeds of such
+               insurance.
+               …
+               The Board on behalf of the Association at its common
+               expense shall also effect and maintain all times
+               comprehensive general liability insurance covering all
+               apartment owners with respect to the project in a
+               responsible insurance company with miniumu limits of not
+               less than $300,000 for injury to one person and $500,000
+               for injury to more than one person in any one accident or
+               occurrence and $50,000 for property damage.
+
+
+                                            13
+
+===== PAGE 017 / 33 =====
+See Exhibit 18.
+         Since the Marine Surf condominium, as an entity owns nothing, and the unit
+owners, as tenants in common, own everything with an undivided fractional interest,
+there is no question that as a unit owner, Mr. Pikor, who pays for his part of the insurance
+premium, is one of the intended beneficiaries of the policy held by the association to
+cover incidents such as the one he was involved in. As stated above, the Board is named
+as Trustee, for the owners’ benefit, on the relevant insurance policies. Accordingly,
+holding insurance on behalf of the owners is just one of the many examples of how the
+AOAO acts in a fiduciary capacity in relation to Mr. Pikor.
+         Lastly, it is a simple principle of agency law that the association, as the principle,
+can be liable for the actions of its agents – the directors.
+         Accordingly, and consistent with the relevant authorities cited above, Mr. Pikor’s
+Count II as against the AOAO is tenable as a matter of law and questions of fact remain
+as to whether the actions by the AOAO constitute a breach of its fiduciary duty to Mr.
+Pikor.
+
+         C.     Hawaii’s Legislature has afforded individuals a private remedy for
+         claims against their Associations pursuant to Chapter 514B
+
+         The AOAO makes short shrift of Mr. Pikor’s Count III and erroneously states that
+HRS, Chapter 514B does not provide an individual private cause of action. However,
+HRS, Chapter 514B specifically and explicitly provides that owners can of course seek
+judicial relief for a violation of the governing documents or Chapter 514B and that such
+claims can be brought by owners against the association:
+                § 514B-9 Obligation of good faith. Every contract or duty
+                governed by this chapter imposes an obligation of good
+                faith in its performance or enforcement.
+                §514B-10 Remedies to be liberally administered. (a) The
+                remedies provided by this chapter shall be liberally
+                administered to the end that the aggrieved party is put in as
+                good a position as if the other party had fully performed.
+                Punitive damages may not be awarded, however, except as
+                specifically provided in this chapter or by other rule of law.
+                (b) Any deed, declaration, bylaw, or condominium map
+                shall be liberally construed to facilitate the operation of the
+                condominium property regime.
+
+
+                                               14
+
+===== PAGE 018 / 33 =====
+               (c) Any right or obligation declared by this chapter is
+               enforceable by judicial proceeding. . . . .
+               §514B-157 Attorneys' fees, delinquent assessments, and
+               expenses of enforcement. . . . .
+               (b) If any claim by an owner is substantiated in any action
+               against an association, any of its officers or directors, or its
+               board to enforce any provision of the declaration, bylaws,
+               house rules, or this chapter, then all reasonable and
+               necessary expenses, costs, and attorneys' fees incurred by
+               an owner shall be awarded to such owner
+       Additionally, Chapter 514B by its plain language refers to an individual’s right to
+bring an action against an association, stating:
+               (c) Each unit owner, tenants and employees of an owner,
+               and other persons using the property shall comply strictly
+               with the covenants, conditions, and restrictions set forth in
+               the declaration, the bylaws, and the house rules adopted
+               pursuant thereto. Failure to comply with any of the same
+               shall be grounds for an action to recover sums due, for
+               damages or injunctive relief, or both, maintainable by
+               the managing agent, resident manager, or board on behalf
+               of the association or, in a proper case, by an aggrieved
+               unit owner.
+HRS § 514B-112.
+       Chapter 514B is also clear that:
+       (a) The remedies provided by this chapter shall be liberally administered
+       to the end that the aggrieved party is put in as good a position as if the
+       other party had fully performed. Punitive damages may not be awarded,
+       however, except as specifically provided in this chapter or by other rule of
+       law.
+        (b) Any deed, declaration, bylaw, or condominium map shall be liberally
+       construed to facilitate the operation of the condominium property regime.
+        (c) Any right or obligation declared by this chapter is enforceable by
+       judicial proceedings.
+HRS § 514B-10 (emphasis added).
+       Moreover, the AOAO’s own Declaration, Paragraph L is nearly identical to HRS
+§ 514B-112, and requires strict compliance with HRS Chapter 514B, the declaration, and
+the bylaws by all persons using the property and provides a right of action to enforce such
+compliance by an aggrieved owner seeking damages and/or injunctive relief. See Exhibit
+18, page 12.
+
+
+                                              15
+
+===== PAGE 019 / 33 =====
+       These provisions demonstrate that HRS §514B and the AOAO’s own Governing
+Documents provide a cause of action by an individual apartment owner against an
+association and/or directors to enforce compliance with the declaration, bylaws, house
+rules, and/or HRS §514B. The Legislature would not have enacted these sections of HRS
+514B if it intended that an owner should not have a right to compel compliance by the
+AOAO or its individual directors for actions or omissions related to their obligations
+under the governing documents as well as a right to damages resulting from such
+breaches.
+       Accordingly, Mr. Pikor’s Count III is tenable as a matter of law and questions
+remain as to whether the actions by the AOAO violated its obligations pursuant to HRS,
+Chapter 514B.
+
+       D.    Questions of Fact remain regarding negligent and intentional
+       misrepresentations
+
+       The AOAO argues that Mr. Pikor’s Count IV should be dismissed because he
+failed to assert that the AOAO made false representations. However, the AOAO
+misconstrues Mr. Pikor’s counterclaim and his testimony. Moreover, the AOAO simply
+misses the crux of the dispute here.
+       At the core of Mr. Pikor’s counterclaim is that the AOAO improperly claimed a
+debt owed without first establishing the requisite “fault” mandated by the AOAO own
+Governing Documents and in doing so made misrepresentations that were both negligent
+and intentional.
+       The material elements of the tort of negligent misrepresentation, which have been
+derived from the Restatement (Second) of Torts are as follows:
+                § 552. Information Negligently Supplied for the Guidance of
+                Others
+
+                (1) One who, in the course of his business, profession or
+                employment, or in any other transaction in which he has a
+                pecuniary interest, supplies false information for the guidance of
+                others in their business transactions, is subject to liability for
+                pecuniary loss caused to them by their justifiable reliance upon
+                the information, if he fails to exercise reasonable care or
+                competence in obtaining or communicating the information.
+
+
+
+                                             16
+
+===== PAGE 020 / 33 =====
+                (2) Except as stated in Subsection (3), the liability stated in
+                Subsection (1) is limited to loss suffered
+
+                    (a) by the person or one of a limited group of persons for
+                    whose benefit and guidance he intends to supply the
+                    information or knows that the recipient intends to supply it;
+                    and
+
+                    (b) through reliance upon it in a transaction that he intends
+                    the information to influence or knows that the recipient so
+                    intends or in a substantially similar transaction.
+
+                (3) The liability of one who is under a public duty to give
+                the information extends to loss suffered by any of the class of
+                persons for whose benefit the duty is created, in any of the
+                transactions in which it is intended to protect them.
+
+Shaffer v. Earl Thacker Co., 6 Haw. App. 188, 192, 716 P.2d 163, 166 (1986) (quoting
+Restatement (Second) Torts § 552; Chun v. Park, 51 Haw. 462, 462 P.2d 905 (1969).
+        In this case, Mr. Pikor’s allegations related to misrepresentations by the AOAO
+relate to the potential culpability of TKE related to the malfunction by the elevator that led to
+the AOAO’s alleged “damage.” As alleged in the complaint, after suing Mr. Pikor, the
+AOAO sided with its vendor – an entity which it has no fiduciary duty to- and submitted
+affidavits in support of defenses asserted by TKE. Indeed, the evidence revealed in discovery
+show that the AOAO knew that the elevators at the project were experiencing mechanical
+difficulties in the years before the incident. In fact, based on the records produced, there
+remains questions as to whether the AOAO properly held a permit allowing the elevator
+involved in the incident to be operating. See Declaration of counsel.
+        Accordingly, Mr. Pikor’s Negligent and Intentional Misrepresentation claims should
+not be dismiss as questions remains about the AOAO’s motivations for pursing Mr. Pikor
+instead of investigating or pursuing TKE as the entity responsible for the maintenance of the
+elevators.
+
+        E.     Mr. Pikor’s Chapter 480 claims and IIED and NIED are sustainable
+        as a matter of law
+
+        On page 9 of its motion the AOAO argues that both Counts VI and VII are
+untenable as a matter of law. However, other than citing to Beerman v. Toro, and arguing
+that the Supreme Court has held that a party may recover damages under Chapter 480 or
+
+
+                                               17
+
+===== PAGE 021 / 33 =====
+tort law, but not both, the AOAO makes no further substantive argument to support
+dismissal of Count VI- Violation of Chapter 480.
+       To the extent that the AOAO is arguing that Mr. Pikor is foreclosed from
+including tort as well as contract claims based on similar facts, the AOAO is wrong. In
+Porter v. Hu, 116 Hawai'i, 42, 55, 169 P.3d 994,1007 (Ct. App. 2007), the ICA court
+confirmed that a plaintiff may proceed to trial on contract, tort, and UDAP claims in
+addition to unjust enrichment. Moreover, Porter allows litigants to elect their remedies
+at the conclusion of a case following trial, not at the beginning of the case. See id. at 56,
+169 P.3d at 1008.
+       Firts, as far as the AOAO’s argument that Mr. Pikor’s NIED claim should be
+dismissed because physical injury is required if the distress is the result of damage to
+property, the AOAO has misconstrued Mr. Pikor’s claims. Mr. Pikor is not making a
+claim for distress caused by the destruction of property. Rather it is the actions by the
+AOAO in pursing a campaign to financially bully Mr. Pikor into paying a bill addressed
+to the AOAO.
+       A party may assert an IIED claim by establishing "(1) that the conduct allegedly
+causing the harm was intentional or reckless; (2) that the conduct was outrageous; and (3)
+that the conduct caused (4) extreme emotional distress to another." Brooks v. Dana Nance
+& Co., 113 Hawai'i 406, 415, 153 P.3d 1091, 1100 (2007). The tort of IIED is wellaccepted. See id.; Restatement § 46; Prosser and Keeton on Torts, § 12, at 54-66. Still,
+this tort "provides no clear definition of the prohibited [outrageous] conduct." Daniel
+Givelber, The Right To Minimum Social Decency And the Limits of Evenhandedness:
+Intentional Infliction of Emotional Distress by Outrageous Conduct, 82 Colum. L. Rev.
+42, 51 (1982). The Restatement simply informs us that a defendant's conduct satisfies the
+element where "the recitation of the facts to an average member of the community would
+arouse his resentment against the actor, and lead him to exclaim, 'Outrageous!'"
+Restatement § 46 comment d. Young v. Allstate Ins. Co., 119 Haw. 403, 425 (2008).
+       Relevant to the analysis is the nature of the relationship with the defendant. Id.
+(citation omitted). The extreme and outrageous character of the conduct may arise from
+an abuse by the actor of a position, or a relation with the other, which gives him actual or
+apparent authority over the other, or power to affect his interests. Id. (citation omitted).
+
+
+
+                                             18
+
+===== PAGE 022 / 33 =====
+       As noted in the Restatement, the stakes are very high in residential communities.
+The term "outrageous" has been construed to mean without just cause or excuse and
+beyond all bounds of decency. Young, 119 Haw. at 429 (citation omitted). The question
+whether the actions of the alleged tortfeasor are unreasonable or outrageous is for the trier
+of fact in the first instance, although where reasonable people may differ on that question
+it should be left to the trier of fact. Id. Also, extreme emotional distress constitutes,
+among other things, mental suffering, mental anguish, nervous shock, and other highly
+unpleasant mental reactions. Id. Mental distress may be found where a reasonable
+person, normally constituted, would be unable to adequately cope with the mental stress
+engendered by the circumstances of the case. Id. In this case, we are talking about an
+owner being charged over two thousand dollars and then sued for the simple act of
+having an elevator close on him as he was moving a container out of the elevator.
+       Whether the AOAO’s reaction to this benign event were outrageous clearly
+presents a question of material fact that must be left up to the trier of fact to decide and
+questions remain as to whether the actions by the AOAO in this case would cause a
+reasonable person distress. Surely, being charged over $16,000 and then sued by your
+own association for a mechanical malfunction of the elevator when you were doing
+something as mundane as exiting an elevator and a pulling bin across the threshold of the
+elevator could lead to a person to experience emotion distress.
+       As far as dismissing Mr. Pikor’s UDAP claim for substantive reasons, the AOAO
+presents no arguments. However, it is clear that Hawaii’s UDAP statute “outlaws unfair
+methods of competition and unfair or deceptive trade practices in sweeping terms.” Han
+v. Yang, 84 Hawai‘i 162, 177, 931 P.2d 604, 619 (App. 1997) (Emphasis added). The
+statute “was constructed in broad language in order to constitute a flexible tool to stop
+fraudulent, unfair or deceptive practices for the protection of both consumers and honest
+businessmen [and businesswomen].” Id.
+       To state a claim under UDAP, Mr. Pikor need only prove that the AOAO engaged
+in “[u]nfair or deceptive acts or practices in the conduct of any trade or commerce.” HRS
+§ 480-2(a). “To violate HRS § 480-2, a practice need only be unfair or deceptive, not
+both.” Bald v. Wells Fargo Bank, N.A., 688 Fed.Appx. 472, 475 (9th Cir. 2017).
+       The test to determine deceptiveness is objective and turns on "whether the act or
+
+
+
+                                              19
+
+===== PAGE 023 / 33 =====
+omission is likely to mislead consumers, as to information important to consumers in
+making a decision regarding the product or service." Augustin, citing Hungate v. Law
+Office of David B. Rosen, 139 Haw. 394, 411, 391 P.3d 1, 18 (2017) (alterations,
+quotation marks, and citation omitted). Proof of actual deception is not required. Id.
+Whether an act is "deceptive" usually involves questions of fact for the factfinder to
+decide. Id. at 410, 391 P.3d at 17.
+       In this case, the AOAO demanded from Mr. Pikor money for the repairs to the
+elevator and insisted that Mr. Pikor was legally liable for such charges. However, as
+discussed above, the AOAO never obtained an unbiased opinion from an expert about
+what caused the malfunction and thus inaccurately demanded payment from Mr. Pikor
+despite knowing that it had not established causation between Mr. Pikor’s actions and the
+malfunction. Further, it was clear from the video that Mr. Pikor’s actions were not such
+that they were unreasonable or that the elevator malfunction was reasonably foreseeable
+warranting a finding of legal fault. See Augustin v. PNC Fin. Servs. Grp., 2019 U.S. Dist.
+LEXIS 9474 (CIVIL NO. 17-00525 SOM/RT (D. Haw. January 16, 2019) (“For years,
+PNC Bank demanded payments of additional charges such as late fees and insurance,
+each time inaccurately demanding payment of money that PNC Bank knew Agustin did
+not owe. As a matter of law, this is "oppressive" conduct, and oppressive conduct is
+unfair for purpose of Hawaii's UDAP statute.”).
+       For the reasons above, Mr. Pikor’s UDAP is sustainable as a matter of law and
+questions of fact remains as to whether the AOAO’s actions were deceptive and
+misleading in violation of HRS, Chapter 480. Similarly, questions remain as to whether
+the AOAO’s actions against Mr. Pikor were unreasonable and outrageous such that Mr.
+Pikor is entitled to recover from the AOAO for their wrongful acts.
+
+IV.    Conclusion
+
+       Accordingly, and for the reasons stated above, Mr. Pikor asks that the AOAO’s
+
+Motion be denied in its entirety.
+
+       DATED: Honolulu, Hawaii, February 17, 2022.
+
+                                              /s/ Amanda L. Dutcher
+                                              TERRANCE M. REVERE
+
+
+                                            20
+
+===== PAGE 024 / 33 =====
+ AMANDA L. DUTCHER
+ Attorneys for Defendant/Third Party
+ Plaintiff NIKODEM PIKOR
+
+
+
+
+21
+
+===== PAGE 025 / 33 =====
+                     IN THE CIRCUIT COURT OF THE FIRST CIRCUIT
+                                HONOLULU DIVISION
+                                 STATE OF HAWAII
+
+ASSOCIATION OF APARTMENT                           Civil No. 1RC19-1-0003776
+OWNERS OF MARINE SURF WAIKIKI,
+INC., a Hawai’i nonprofit corporation, by its
+Board of Directors                                 DECLARATION OF NIKODEM
+                                                   PIKOR
+               Plaintiff,
+
+       vs.
+
+NIKODEM PIKOR,
+
+               Defendant.
+NIKODEM PIKOR,
+
+               Third Party Plaintiff,
+
+       v.
+
+THYSSENKRUPP ELEVATOR
+CORPORATION, Foreign Profit Corporation,
+
+               Third Party Defendant.
+
+
+                            DECLARATION OF NIKODEM PIKOR
+
+
+       I, NIKODEM PIKOR, do hereby declare under penalty of law that the following is true
+
+and correct to the best of my knowledge and belief:
+
+       1.      I have personal knowledge of the statements made in this Declaration, and I am
+
+competent to testify regarding these statements.
+
+       2.      On May 9, 2018, while I was moving containers out of the elevator on the basement
+
+level of the Marine Surf Condominium, the infrared detector that is designed to sense when a
+
+person and/or object is at the elevator doors failed to detect the container as I was exiting the
+
+elevator and the hoistway door closed on the container (“Elevator Incident”).
+
+===== PAGE 026 / 33 =====
+       3.     Apparently, when the hoistway door failed to reopen and closed on the container,
+
+the hoistway door disengaged from the car door clutch.
+
+       4.     On May 29, 2018, W.E. Denison Corporation, on behalf of the AOAO, sent me
+
+letter demanding payment of $2,260.15 for “repairing the doors and restoring the elevator to
+
+service.”
+
+       5.     Attached as Exhibit 1 is a true and correct copy of the May 29, 2018 letter.
+
+       6.     In the letter, Mr. Denison says that in reviewing the surveillance camera video
+
+footage, it shows “that the damage was clearly caused by [me]”. Enclosed with the letter was also
+
+an invoice from THYSSENKRUPP ELEVATOR CORPORATION (“TKE”) addressed to the
+
+AOAO. In the summary section of the invoice, it stated the “BILLING DUE TO MISUSE NOT
+
+COVERED BY CONTRACT.”
+
+       7.     The AOAO has a contract with TKE to perform maintenance of the two elevators
+
+at the Marine Surf Condominium (“Elevator Maintenance Agreement”).
+
+       8.     Attached as Exhibit 2 is the TKE maintenance contract.
+
+       9.     According to Elevator Maintenance Agreement, TEK promised that it would
+
+perform the following services:
+
+
+
+
+       10.    On June 27, 2018, I responded to the AOAO’s May 29, 2018 letter by writing to
+
+
+
+
+                                               2
+
+===== PAGE 027 / 33 =====
+the Board of Directors for the AOAO. In my letter, I disputed the accusation that I “misused” the
+
+elevator and requested that the AOAO also challenge TKE’s characterization of the Elevator
+
+Incident and pursue TKE for the elevator malfunction.
+
+       11.    Attached as Exhibit 3 is a true and correct of my June 27, 2018 letter.
+
+       12.    On July 24, 2018, I attend the AOAO Regular Board meeting. During the meeting,
+
+Mr. William Denison, the managing agent for the AOAO, provided a summary of the Elevator
+
+Incident. I also addressed the Board and explained that I should not be held responsible for the
+
+TKE invoice
+
+       I have reviewed the meeting minutes from the July 24, 2018 meeting, attached hereto as
+
+Exhibit 5, and they do not accurately reflect what happened during the meeting:
+
+       1. CCTV footage was not reviewed during the meeting.
+
+       When straightforwardly asked by me , none of the present acknowledged having ever
+       seen it.
+
+       I strongly requested that it be immediately taken a look at, before any further
+       discussions about settlements even continues.
+
+       I had it easily & immediately available - downloaded on my iphone.
+
+       My request to review the CCTV was not granted or even properly considered.
+
+       Instead, Ms Shaver rapidly called for the executive session.
+
+       I have every reason to believe that members of the Board of Directors during
+       the executive session have not reviewed the CCTV footage - the sole evidence that I still
+       believe to be completely exculpatory!
+       Members instead voted to send the matter to their "legal counsel" which in this case
+       basically acted as a Debt Collector without any typical financial restrictions.
+
+       Why have they done that is a painfully mystery to me until this day.
+
+       I never threatened AOAO in any manner with taking a legal action against them,
+       I only stated that they would have to sue me and that I will defend myself legally if they
+       do.
+
+
+
+
+                                                3
+
+===== PAGE 028 / 33 =====
+              Why Ms Shafer believed this is a reason to call for an executive session ?
+       Why have they not reviewed the CCTV footage before voting about involving their legal
+       counsel ?
+
+       Up until that day I had great relationships with all members of the board of
+       directors, managing agent ( Mr Dennison) and building manager ( Mr Harold
+       Hitchcock )
+
+
+
+       2. No statement from the TKE service manager was read by the board.
+
+       The only thing read was the shockingly unprofessional email letter from Chuck DeCoito
+       to Mr Dennison.
+
+       I happened to be given copy of this letter by Mr Dennison during or after our private
+       meeting at his office during which we discussed the issue ( June 2018 )
+
+       I made sure to make it known that I feel that this highly unprofessional letter is far from
+       satisfying my request to challenge the "MISUSE" classification of the service
+       call used by TKE.
+
+       3. No opinion of the Assoc's Legal Counsel was read at the meeting.
+
+       I believe that Assoc legal counsel was not involved until after the vote that took place.
+
+       First communication I received from Lahne LLP was settlement offer Aug 8th 2021
+
+       I am not aware of any prior communication or consultation AOAO or managing agent
+       had with LAHNE LLP.
+
+
+       SUMMARY:
+
+       Minutes of the meeting appear to be substantially inaccurate on the relevant topics.
+
+       It raises the question why is that so....
+
+
+
+
+       13.     Instead of questioning TKE, the AOAO contacted its legal counsel and informed
+
+me by letter, dated August 3, 2018, that it would use legal means to collect the $2,2260.15 unless
+
+
+                                                   4
+
+===== PAGE 029 / 33 =====
+I paid $1,130.07 by August 31, 2018.
+
+          14.   Attached as Exhibit 6 is a true and correct copy of the AOAO’s August 3, 2018
+
+letter.
+
+          15.   On September 14, 2018, the AOAO’s counsel sent another letter to me. This time,
+
+the AOAO demanded that I pay $4,195.60, allegedly comprised of the cost for the elevator repair
+
+plus legal fees and costs. The AOAO’s counsel also stated that such payment must be made by
+
+October 20, 2018 (35 days within receipt of the letter).
+
+          16.   Attached as Exhibit 7 is a true and correct copy of the AOAO’s September 14, 2018
+
+letter.
+
+          17.   I responded to the AOAO’s demand by letter, dated September 27, 2018, disputing
+
+that I owed the AOAO $4,195.60 and requesting for a series of documents in order to ascertain
+
+how the AOAO came to determine that I was legally responsible for the elevator repairs.
+
+          18.   Attached as Exhibit 8 is a true and correct copy of my September 27, 2018 letter.
+
+          19.   On October 9, 2018, the AOAO responded with another letter from their lawyer.
+
+According to the AOAO, the invoice from TKE was verification that I owed a debt to the AOAO
+
+for work performed on the elevator after it closed on me while I was removing bins from the
+
+elevator.
+
+          20.   Attached as Exhibit 9 is a true and correct copy of the AOAO’s October 9, 2018
+
+letter.
+
+          21.   On October 13, 2018, I responded again to the AOAO’s letter and asked further for
+
+some explanation as to the basis for the AOAO determining that I was legally responsible for the
+
+AOAO’s debt.
+
+          22.   Attached as Exhibit 10 is a true and correct copy of my October 13, 2018 letter.
+
+
+
+
+                                                 5
+
+===== PAGE 030 / 33 =====
+          23.   On October 21, 2018, I obtained a written opinion from Mr. John Whitmore, an
+
+elevator expert, that explained actual, mechanical reasons for the elevator malfunction.
+
+
+
+          24.   On October 22, 2018, the AOAO’s attorneys sent me another letter. In the letter,
+
+the AOAO stated that I had to provide an affidavit before receiving any documents verifying the
+
+debt that the AOAO was demanding I pay. The AOAO also stated that I would have to pay to
+
+review any documents.
+
+          25.   Attached as Exhibit 11 is a true and correct copy of the AOAO’s October 22, 2018
+
+letter.
+
+          26.   On November 2, 2018, the AOAO’s attorneys sent me another letter. In this letter,
+
+the AOAO made a further demand that I pay $2,260.15 for the TKE invoice and $5,305.93 for the
+
+AOAO’s legal fees.
+
+          27.   Attached as Exhibit 13 is a true and correct copy of the AOAO’s November 2, 2018
+
+letter.
+
+          28.   On November 7, 2018, my attorney, Mr. Joseph sent the AOAO a letter. In his
+
+letter, Mr. Ryan disputed the AOAO’s assertion that I was at fault for the elevator repairs
+
+performed by TKE.
+
+          29.   Attached as Exhibit 14 is a true and correct copy of Mr. Ryans’ November 7, 2018
+
+letter.
+
+          30.   The AOAO never responded with any report from an unbiased source
+
+substantiating that my “misuse” of the elevator caused it to malfunction. Other than comments
+
+made by TKE’s own technician, the AOAO as never responded to Mr. Whitmore’s opinion letter
+
+or otherwise provided me with any information from an unbiased expert that I was negligent in
+
+
+
+
+                                                6
+
+===== PAGE 031 / 33 =====
+any way or at fault for the repairs to the elevator by TKE.
+
+          31.   It is my understanding that the AOAO had insurance to cover damage to the
+
+common elements and that I, as an owner, pay for such coverage.
+
+          32.   On May 31, 2019, the AOAO filed suit against me in District Court. In its
+
+complaint, the AOAO sought $16,860.73 from me for the $2,260.15 for Elevator incident and
+
+$14,600.58 in attorneys’ fees incurred by the AOAO.
+
+          33.   On June 17, 2019, the AOAO sent Mr. Ryan a letter providing various AOAO
+
+document, which the AOAO subsequent charged me $61.00 for.
+
+          34.   Attached as Exhibit 15 is a true and correct copy of the AOAO’s June 17, 2019
+
+letter.
+
+          I DECLARE UNDER PENALTY OF LAW THAT THE FOREGOING IS TRUE AND
+
+CORRECT TO THE BEST OF MY KNOWLEDGE.
+
+          DATED: Honolulu, Hawaii, February 15, 2022.
+
+
+
+
+                                              NIKODEM PIKOR
+
+
+
+
+                                                 7
+
+===== PAGE 032 / 33 =====
+                     IN THE CIRCUIT COURT OF THE FIRST CIRCUIT
+                                HONOLULU DIVISION
+                                 STATE OF HAWAII
+
+ASSOCIATION OF APARTMENT                            Civil No. 1RC19-1-0003776
+OWNERS OF MARINE SURF WAIKIKI,
+INC., a Hawai’i nonprofit corporation, by its
+Board of Directors                                  DECLARATION OF COUNSEL
+
+               Plaintiff,
+
+       vs.
+
+NIKODEM PIKOR,
+
+               Defendant.
+NIKODEM PIKOR,
+
+               Third Party Plaintiff,
+
+       v.
+
+THYSSENKRUPP ELEVATOR
+CORPORATION, Foreign Profit Corporation,
+
+               Third Party Defendant.
+
+
+                                DECLARATION OF COUNSEL
+
+
+       I, AMANDA L. DUTCHER, do hereby declare under penalty of law that the following
+
+is true and correct to the best of my knowledge and belief:
+
+       1.      I have personal knowledge of the statements made in this Declaration, and I am
+
+competent to testify regarding these statements.
+
+       2.      Attached as Exhibit 17 is a true and correct copy of a series of documents produced
+
+by the AOAO that indicate that elevator 1, which was the elevator involved with the incident at
+
+issue in this case had a safety test on June 28, 2019 and received a permit to operate, which expired
+
+on October 31, 2017. The records produced by the AOAO do not include any evidence that at the
+
+===== PAGE 033 / 33 =====
+time of the incident, the AOAO held a valid permit to operate elevator 1. The next inspection of
+
+elevator 1 doesn’t happen until January 1, 2019 and its permit to operate is issued on March 14,
+
+2019.
+
+        3.       I have subpoenaed for the deposition of a TKE representative to clarify the status
+
+of elevator 1 at the time of the incident but TKE has raised objections that I am addressing with
+
+their counsel.
+
+        4.       Accordingly, on behalf on Mr. Pikor, I request a Rule 56(f) continuance in order to
+
+complete the deposition of TKE’s representative in order to clarify the status of elevator 1 at the
+
+time of incident.
+
+        I DECLARE UNDER PENALTY OF LAW THAT THE FOREGOING IS TRUE AND
+
+CORRECT TO THE BEST OF MY KNOWLEDGE.
+
+        DATED: Honolulu, Hawaii, February 17, 2022.
+
+                                               /s/ Amanda L. Dutcher
+                                               AMANDA L. DUTCHER

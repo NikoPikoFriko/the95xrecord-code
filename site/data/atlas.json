@@ -1,0 +1,239 @@
+{
+ "items": [
+  {
+   "id": "G009",
+   "type": "gap",
+   "docket": "Dkt 435, Dkt 437",
+   "claim": "The clerk strike sheets on Dkt 435 and Dkt 437 carry no recoverable ground: at the check-box line the text layer reads “E DENIED E STNTCXNN”, so which ground was checked cannot be read from the text.",
+   "status": "VERIFIED",
+   "cite": "Dkt 435 p.1; Dkt 437 p.1",
+   "falsifier": "A legible copy of either strike sheet, or a docket entry or minutes entry that states the ground for the strike."
+  },
+  {
+   "id": "G010",
+   "type": "gap",
+   "docket": "Dkt 423",
+   "claim": "Dkt 423 recites a judgment on the directed-verdict motion filed on 07-AUG-2024. No entry dated 07-AUG-2024 exists in this record.",
+   "status": "VERIFIED",
+   "cite": "Dkt 423 p.2",
+   "falsifier": "A copy of the 07-AUG-2024 judgment, or any docket entry dated 07-AUG-2024 that identifies it."
+  },
+  {
+   "id": "G012",
+   "type": "gap",
+   "docket": "Dkt 208",
+   "claim": "No filing by Pikor answering interrogatories or responding to the Association production requests appears in this record. The file holds the Association requests and certificates of service for them.",
+   "status": "VERIFIED",
+   "cite": "Dkt 208 p.1",
+   "falsifier": "Pikor answers, responses or production, or a certificate of service for any of them."
+  },
+  {
+   "id": "G014",
+   "type": "gap",
+   "docket": "Dkt 307",
+   "claim": "Dkt 307 states that the parties were updated but names no added party. The text is the notice plus an eight-name service list of attorneys.",
+   "status": "VERIFIED",
+   "cite": "Dkt 307 pp.1-2",
+   "falsifier": "A copy of Dkt 307 naming the added parties, or a later filing or JEFS entry that identifies them."
+  },
+  {
+   "id": "G015",
+   "type": "gap",
+   "docket": "Dkt 405",
+   "claim": "Dkt 405 section J asks that Association counsel be referred to the ODC. No later filing in this record evidences that a referral was made or acted upon.",
+   "status": "VERIFIED",
+   "cite": "Dkt 405 p.24",
+   "falsifier": "An ODC complaint, a referral, an order, or any filing that records a referral."
+  },
+  {
+   "id": "G-ID-02",
+   "type": "gap",
+   "docket": "Dkt 242",
+   "claim": "The resident manager appears in this record only as “Jim”. Asked for his full name, the witness answered “I do not remember”. No surname for the resident manager appears.",
+   "status": "VERIFIED",
+   "cite": "Dkt 242 p.49",
+   "falsifier": "Any document giving the resident manager surname or full name."
+  },
+  {
+   "id": "C01",
+   "type": "contradiction",
+   "docket": "Dkt 423 p.12; Dkt 427 p.1; Dkt 453 p.18",
+   "claim": "Attorneys fees and costs: fee order versus judgment form",
+   "status": "VERIFIED",
+   "cite": "Dkt 423 p.12; Dkt 427 p.1; Dkt 453 p.18",
+   "falsifier": "A certified copy showing a different fee or cost figure, or components that do not reconcile."
+  },
+  {
+   "id": "C02",
+   "type": "contradiction",
+   "docket": "Dkt 428 p.1; Dkt 427 p.1; Dkt 423 p.12",
+   "claim": "Judge who signed the 23-JUN-2026 judgment",
+   "status": "VERIFIED",
+   "cite": "Dkt 428 p.1; Dkt 427 p.1; Dkt 423 p.12",
+   "falsifier": "A copy of Dkt 427 signed by a different judge, or a docket entry naming one."
+  },
+  {
+   "id": "C03",
+   "type": "contradiction",
+   "docket": "Dkt 423 p.1, p.12; Dkt 428 p.1",
+   "claim": "Date in the fee order signature block",
+   "status": "VERIFIED",
+   "cite": "Dkt 423 p.1, p.12; Dkt 428 p.1",
+   "falsifier": "A certified copy dated 15-JUN-2020, or a 2020 docket entry for the order."
+  },
+  {
+   "id": "C04",
+   "type": "contradiction",
+   "docket": "Dkt 448 p.1; Dkt 449 p.1; Dkt 472 p.3",
+   "claim": "Calendar on which the 24-SEP-2026 hearing was noticed",
+   "status": "VERIFIED",
+   "cite": "Dkt 448 p.1; Dkt 449 p.1; Dkt 472 p.3",
+   "falsifier": "A corrected notice, or minutes of the 24-SEP-2026 hearing identifying the calendar."
+  },
+  {
+   "id": "C05",
+   "type": "contradiction",
+   "docket": "Dkt 472 p.2, p.3; Dkt 451 p.1; Dkt 453 p.1",
+   "claim": "Docket number of the 31-AUG-2026 opposition",
+   "status": "VERIFIED",
+   "cite": "Dkt 472 p.2, p.3; Dkt 451 p.1; Dkt 453 p.1",
+   "falsifier": "A copy of Dkt 472 reading Dkt 453 at both places, or a docket entry renumbering the 31-AUG-2026 opposition."
+  },
+  {
+   "id": "C06",
+   "type": "contradiction",
+   "docket": "Dkt 472 p.3, p.4, p.25",
+   "claim": "The appeal number",
+   "status": "VERIFIED",
+   "cite": "Dkt 472 p.3, p.4, p.25",
+   "falsifier": "A copy of Dkt 472 p.4 in which 0000625 is part of the typed appeal number, or an appellate entry under CAAP-26-00006252."
+  },
+  {
+   "id": "C07",
+   "type": "contradiction",
+   "docket": "Dkt 423 pp.4-5; Dkt 3; Dkt 5; Dkt 97 p.10; Dkt 148 p.2",
+   "claim": "Number of counterclaims and their docket provenance",
+   "status": "VERIFIED",
+   "cite": "Dkt 423 pp.4-5; Dkt 3; Dkt 5; Dkt 97 p.10; Dkt 148 p.2",
+   "falsifier": "The 2019 filings contradicting the register dates, or an order correcting the recital."
+  },
+  {
+   "id": "C08",
+   "type": "contradiction",
+   "docket": "Dkt 423 p.4",
+   "claim": "Ferguson firm period of representation",
+   "status": "VERIFIED",
+   "cite": "Dkt 423 p.4",
+   "falsifier": "Billing entries dated before 31-JUL-2019, or a corrected order."
+  },
+  {
+   "id": "C09",
+   "type": "contradiction",
+   "docket": "Dkt 405 p.7; Dkt 407 p.3; Dkt 423 p.3",
+   "claim": "Characterisation of the complaint",
+   "status": "VERIFIED",
+   "cite": "Dkt 405 p.7; Dkt 407 p.3; Dkt 423 p.3",
+   "falsifier": "An order vacating or superseding Dkt 423, or an appellate ruling on it."
+  },
+  {
+   "id": "C10",
+   "type": "contradiction",
+   "docket": "Dkt 396 p.19",
+   "claim": "Whether the Association changed its theory of liability",
+   "status": "VERIFIED",
+   "cite": "Dkt 396 p.19",
+   "falsifier": "A document showing the theory was raised only after filing, or an order setting COL 29 aside."
+  },
+  {
+   "id": "C11",
+   "type": "contradiction",
+   "docket": "Dkt 396 p.11, p.12; Dkt 97 p.5, p.10",
+   "claim": "Whether an independent investigation was required or performed",
+   "status": "VERIFIED",
+   "cite": "Dkt 396 p.11, p.12; Dkt 97 p.5, p.10",
+   "falsifier": "A document showing the Association commissioned or received the assessment before its own determination, or an order setting FOF 45 or 50 aside."
+  },
+  {
+   "id": "T-20180529-Dkt284",
+   "type": "timeline",
+   "docket": "Dkt 284",
+   "claim": "W.E. Denison Corporation demands $2,260.15 from Pikor, asserting the surveillance video shows the damage was caused by him.",
+   "status": "VERIFIED",
+   "cite": "Dkt 284 p.1",
+   "falsifier": "n/a - timeline beat"
+  },
+  {
+   "id": "T-20180914-Dkt97",
+   "type": "timeline",
+   "docket": "Dkt 97",
+   "claim": "AOAO counsel demands $4,195.60, described as repair cost plus legal fees and costs, payable by 20-OCT-2018.",
+   "status": "VERIFIED",
+   "cite": "Dkt 97 p.5",
+   "falsifier": "n/a - timeline beat"
+  },
+  {
+   "id": "T-20200602-Dkt79",
+   "type": "timeline",
+   "docket": "Dkt 79",
+   "claim": "Pikor files a motion for leave to amend the answer and add counterclaims.",
+   "status": "VERIFIED",
+   "cite": "Dkt 79 p.35",
+   "falsifier": "n/a - timeline beat"
+  },
+  {
+   "id": "T-20200925-Dkt114",
+   "type": "timeline",
+   "docket": "Dkt 114",
+   "claim": "The court denies Pikor jury demand for lack of timeliness, lack of demonstrated excusable neglect, and because the counterclaim does not state $5,000.00 or more; leave to amend stands.",
+   "status": "VERIFIED",
+   "cite": "Dkt 114 p.2",
+   "falsifier": "n/a - timeline beat"
+  },
+  {
+   "id": "T-20201118-Dkt134",
+   "type": "timeline",
+   "docket": "Dkt 134",
+   "claim": "Final judgment for ThyssenKrupp against Pikor: $9,140.14 in fees and $57.27 in costs, total $9,197.41.",
+   "status": "VERIFIED",
+   "cite": "Dkt 134 p.2",
+   "falsifier": "n/a - timeline beat"
+  },
+  {
+   "id": "T-20210108-Dkt148",
+   "type": "timeline",
+   "docket": "Dkt 148",
+   "claim": "Stipulated partial dismissal with prejudice of Count VIII (declaratory relief); the other counterclaims remain.",
+   "status": "VERIFIED",
+   "cite": "Dkt 148 p.2",
+   "falsifier": "n/a - timeline beat"
+  },
+  {
+   "id": "T-20240731-Dkt405",
+   "type": "timeline",
+   "docket": "Dkt 405",
+   "claim": "Pikor fee opposition argues that HRS 514B-157 does not apply to a pure assumpsit money claim.",
+   "status": "VERIFIED",
+   "cite": "Dkt 405 p.7",
+   "falsifier": "n/a - timeline beat"
+  },
+  {
+   "id": "T-20260819-Dkt431",
+   "type": "timeline",
+   "docket": "Dkt 431",
+   "claim": "Pikor moves under DCRCP Rule 60(b)(4) to vacate the fee order as void.",
+   "status": "VERIFIED",
+   "cite": "Dkt 431 p.6",
+   "falsifier": "n/a - timeline beat"
+  },
+  {
+   "id": "T-20260820-Dkt435",
+   "type": "timeline",
+   "docket": "Dkt 435",
+   "claim": "The notice of electronic filing records the stay motion as “Stricken by Judge S. Park-Hoapili”; the extend-time motion carries the same striker (Dkt 437).",
+   "status": "VERIFIED",
+   "cite": "Dkt 435 p.12",
+   "falsifier": "n/a - timeline beat"
+  }
+ ],
+ "generatedAt": "2026-11-01T06:05:52Z"
+}
